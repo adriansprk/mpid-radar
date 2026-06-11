@@ -1,0 +1,44 @@
+{
+  "name": "mpid-radar-mcp",
+  "version": "0.1.0",
+  "description": "Local MCP server for deriving German energy market partner IDs from the MPID Radar dataset.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Adrian Krüger",
+  "homepage": "https://mpid.adriancares.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriansprk/mpid-radar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adriansprk/mpid-radar/issues"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "bdew",
+    "mpid",
+    "energy",
+    "german-energy-market"
+  ],
+  "bin": {
+    "mpid-radar-mcp": "src/mcp-server.js"
+  },
+  "scripts": {
+    "mcp": "node src/mcp-server.js",
+    "test": "node --test",
+    "prepublishOnly": "npm test"
+  },
+  "files": [
+    "src",
+    "data/latest.json",
+    "README.md"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}
