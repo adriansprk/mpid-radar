@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-13",
-      "published_at": "2026-06-13T19:29:33+00:00",
-      "content_hash": "9e6bbc99d847491474da883b53ddb7de11991789b6ab49245e5cafd2b2010c94"
+      "version": "2026-06-16",
+      "published_at": "2026-06-16T06:51:08+00:00",
+      "content_hash": "600e19c17f8e81fddd0f10b04149c001ac3ae6e2c4db6b8784fc5c1208789a3c"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-13T19:22:40.530380+00:00",
+      "observed_at": "2026-06-16T06:43:11.661289+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4370,
-      "market_partners": 9109,
+      "companies": 4371,
+      "market_partners": 9111,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-06-13T19:22:40.530380+00:00",
+      "cleaned_at": "2026-06-16T06:43:11.661289+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -11390,6 +11390,11 @@
       "company_id": 58070,
       "company_uid": 666298,
       "company_name": "NFI GmbH"
+    },
+    {
+      "company_id": 64041,
+      "company_uid": 670248,
+      "company_name": "NGEN Germany GmbH"
     },
     {
       "company_id": 61288,
@@ -103843,6 +103848,15 @@
       "company_name": "Lynus Deutschland GmbH"
     },
     {
+      "bdew_code": "9985762000004",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68382,
+      "company_id": 64041,
+      "company_uid": 670248,
+      "company_name": "NGEN Germany GmbH"
+    },
+    {
       "bdew_code": "9985764000002",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -103850,6 +103864,15 @@
       "company_id": 61576,
       "company_uid": 669778,
       "company_name": "Platinum 24 Vertrieb GmbH"
+    },
+    {
+      "bdew_code": "9985765000001",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68385,
+      "company_id": 57455,
+      "company_uid": 665683,
+      "company_name": "NaCon GmbH"
     },
     {
       "bdew_code": "9987098000005",
