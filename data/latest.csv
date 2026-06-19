@@ -161,6 +161,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 5790002823169,Bilanzkreisverantwortlicher,BKV,669176,Aro.inc ApS,60957,66543
 5790002829789,Bilanzkreisverantwortlicher,BKV,669891,ENZOL Energy Trading ApS,61689,67115
 5790002837845,Bilanzkreisverantwortlicher,BKV,669874,DV Trading (Europe) P/S,61672,67096
+5790002841316,Bilanzkreisverantwortlicher,BKV,670254,Joulx ApS,64047,68389
 5790002861703,Bilanzkreisverantwortlicher,BKV,670134,X Commodities ApS,63927,68302
 5909000829800,Bilanzkreisverantwortlicher,BKV,664301,ENEA Trading Sp. z o.o.,23331,29335
 5909000893252,Bilanzkreisverantwortlicher,BKV,668646,XOOG OPERATOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,60427,66025
@@ -9108,5 +9109,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985762000004,Bilanzkreisverantwortlicher,BKV,670248,NGEN Germany GmbH,64041,68382
 9985764000002,Bilanzkreisverantwortlicher,BKV,669778,Platinum 24 Vertrieb GmbH,61576,68384
 9985765000001,Energieserviceanbieter des Anschlussnutzers,ESA,665683,NaCon GmbH,57455,68385
+9985769000007,Bilanzkreisverantwortlicher,BKV,662014,Stadtwerke Emden GmbH,2124,68390
+9985770000004,Messstellenbetreiber,MSB,670256,SISTEMS GmbH,64049,68391
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

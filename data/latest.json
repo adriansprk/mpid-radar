@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-16",
-      "published_at": "2026-06-16T06:51:08+00:00",
-      "content_hash": "600e19c17f8e81fddd0f10b04149c001ac3ae6e2c4db6b8784fc5c1208789a3c"
+      "version": "2026-06-19",
+      "published_at": "2026-06-19T06:39:27+00:00",
+      "content_hash": "2a2d8dc78afbeb0f8d19cdfa055462094a16c0a70c65c68f964ff891002d0aa2"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-16T06:43:11.661289+00:00",
+      "observed_at": "2026-06-19T06:30:08.982502+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4371,
-      "market_partners": 9111,
+      "companies": 4373,
+      "market_partners": 9114,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-06-16T06:43:11.661289+00:00",
+      "cleaned_at": "2026-06-19T06:30:08.982502+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -9147,6 +9147,11 @@
       "company_name": "Josera Erbacher Service GmbH & Co. KG"
     },
     {
+      "company_id": 64047,
+      "company_uid": 670254,
+      "company_name": "Joulx ApS"
+    },
+    {
       "company_id": 59385,
       "company_uid": 667613,
       "company_name": "Juergen Guldner"
@@ -13980,6 +13985,11 @@
       "company_id": 61027,
       "company_uid": 669246,
       "company_name": "SIRIUS SUN 1 GmbH"
+    },
+    {
+      "company_id": 64049,
+      "company_uid": 670256,
+      "company_name": "SISTEMS GmbH"
     },
     {
       "company_id": 57449,
@@ -23350,6 +23360,15 @@
       "company_id": 61672,
       "company_uid": 669874,
       "company_name": "DV Trading (Europe) P/S"
+    },
+    {
+      "bdew_code": "5790002841316",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68389,
+      "company_id": 64047,
+      "company_uid": 670254,
+      "company_name": "Joulx ApS"
     },
     {
       "bdew_code": "5790002861703",
@@ -103873,6 +103892,24 @@
       "company_id": 57455,
       "company_uid": 665683,
       "company_name": "NaCon GmbH"
+    },
+    {
+      "bdew_code": "9985769000007",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68390,
+      "company_id": 2124,
+      "company_uid": 662014,
+      "company_name": "Stadtwerke Emden GmbH"
+    },
+    {
+      "bdew_code": "9985770000004",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68391,
+      "company_id": 64049,
+      "company_uid": 670256,
+      "company_name": "SISTEMS GmbH"
     },
     {
       "bdew_code": "9987098000005",

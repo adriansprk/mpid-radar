@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-13",
-      "published_at": "2026-06-13T19:29:33+00:00",
-      "content_hash": "9e6bbc99d847491474da883b53ddb7de11991789b6ab49245e5cafd2b2010c94"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-13T19:22:40.530380+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4370,
-      "market_partners": 9109,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-06-13T19:22:40.530380+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 115
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-06-16",
-      "published_at": "2026-06-16T06:43:11.661289+00:00",
+      "published_at": "2026-06-16T06:51:08+00:00",
       "content_hash": "600e19c17f8e81fddd0f10b04149c001ac3ae6e2c4db6b8784fc5c1208789a3c"
     },
     "source": {
@@ -71,39 +35,85 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-06-19",
+      "published_at": "2026-06-19T06:30:08.982502+00:00",
+      "content_hash": "2a2d8dc78afbeb0f8d19cdfa055462094a16c0a70c65c68f964ff891002d0aa2"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-06-19T06:30:08.982502+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4373,
+      "market_partners": 9114,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-06-19T06:30:08.982502+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 115
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985762000004",
+      "bdew_code": "5790002841316",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
-      "code_row_id": 68382,
-      "company_id": 64041,
-      "company_uid": 670248,
-      "company_name": "NGEN Germany GmbH"
+      "code_row_id": 68389,
+      "company_id": 64047,
+      "company_uid": 670254,
+      "company_name": "Joulx ApS"
     },
     {
-      "bdew_code": "9985765000001",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68385,
-      "company_id": 57455,
-      "company_uid": 665683,
-      "company_name": "NaCon GmbH"
+      "bdew_code": "9985769000007",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68390,
+      "company_id": 2124,
+      "company_uid": 662014,
+      "company_name": "Stadtwerke Emden GmbH"
+    },
+    {
+      "bdew_code": "9985770000004",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68391,
+      "company_id": 64049,
+      "company_uid": 670256,
+      "company_name": "SISTEMS GmbH"
     }
   ],
   "codes_removed": [],
   "codes_changed": [],
   "companies_added_ids": [
-    64041
+    64047,
+    64049
   ],
   "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 2,
+    "codes_added": 3,
     "codes_removed": 0,
     "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 1,
+    "companies_added": 2,
     "companies_removed": 0,
     "companies_changed": 0
   },
