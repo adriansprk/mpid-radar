@@ -2,14 +2,14 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-19",
-      "published_at": "2026-06-19T06:39:27+00:00",
-      "content_hash": "2a2d8dc78afbeb0f8d19cdfa055462094a16c0a70c65c68f964ff891002d0aa2"
+      "version": "2026-06-20",
+      "published_at": "2026-06-20T05:52:28+00:00",
+      "content_hash": "722b618e2d152a2729fd7b166e8a472dcdef5720745630a564f0aca83b383daf"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-19T06:30:08.982502+00:00",
+      "observed_at": "2026-06-20T05:43:24.097212+00:00",
       "filter": ""
     },
     "records": {
@@ -18,7 +18,7 @@
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-06-19T06:30:08.982502+00:00",
+      "cleaned_at": "2026-06-20T05:43:24.097212+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -23695,15 +23695,6 @@
       "company_name": "Enel Global Trading S.P.A."
     },
     {
-      "bdew_code": "8099999000575",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 25217,
-      "company_id": 20199,
-      "company_uid": 664150,
-      "company_name": "A2A S.p.A."
-    },
-    {
       "bdew_code": "8099999131484",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -23711,6 +23702,15 @@
       "company_id": 60560,
       "company_uid": 668779,
       "company_name": "Poligrand Energy S.p.A."
+    },
+    {
+      "bdew_code": "8099999318830",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 25217,
+      "company_id": 20199,
+      "company_uid": 664150,
+      "company_name": "A2A S.p.A."
     },
     {
       "bdew_code": "8099999409996",
