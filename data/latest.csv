@@ -7157,6 +7157,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9982901000001,Betreiber einer technischen Ressource,BTR,662333,Stadtwerke Wachenheim,2445,64352
 9982903000009,Betreiber einer technischen Ressource,BTR,667127,BaER Energie GmbH,58899,64354
 9982904000008,Einsatzverantwortlicher,EIV,665889,Friederichs GmbH & Co. KG,57661,64355
+9982905000007,Betreiber einer technischen Ressource,BTR,667228,Perigus Energy Service GmbH,59000,64356
 9982907000005,Betreiber einer technischen Ressource,BTR,666504,Fernwärme Ulm GmbH,58276,64358
 9982910000000,Einsatzverantwortlicher,EIV,667231,Kirchner Bauhof GmbH & Co. KG,59003,64361
 9982911000009,Betreiber einer technischen Ressource,BTR,667233,Solarpark Weitin GbR,59005,64362
@@ -9111,5 +9112,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985765000001,Energieserviceanbieter des Anschlussnutzers,ESA,665683,NaCon GmbH,57455,68385
 9985769000007,Bilanzkreisverantwortlicher,BKV,662014,Stadtwerke Emden GmbH,2124,68390
 9985770000004,Messstellenbetreiber,MSB,670256,SISTEMS GmbH,64049,68391
+9985772000002,Betreiber einer technischen Ressource,BTR,670258,Vogt & Wüstholz GbR,64051,68393
+9985773000001,Einsatzverantwortlicher,EIV,670258,Vogt & Wüstholz GbR,64051,68394
+9985774000000,Messstellenbetreiber,MSB,669588,metergrid GmbH,61369,68395
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

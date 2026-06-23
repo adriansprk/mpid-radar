@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-20",
-      "published_at": "2026-06-20T05:52:28+00:00",
-      "content_hash": "722b618e2d152a2729fd7b166e8a472dcdef5720745630a564f0aca83b383daf"
+      "version": "2026-06-23",
+      "published_at": "2026-06-23T05:23:10+00:00",
+      "content_hash": "c60231ae6b6cec73066a0eb22f68bbe45a3193669a8491726723579c0ebf4631"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-20T05:43:24.097212+00:00",
+      "observed_at": "2026-06-23T05:13:55.760669+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4373,
-      "market_partners": 9114,
+      "companies": 4375,
+      "market_partners": 9118,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-06-20T05:43:24.097212+00:00",
+      "cleaned_at": "2026-06-23T05:13:55.760669+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -12537,6 +12537,11 @@
       "company_name": "Paul Maschinenfabrik GmbH & Co.KG"
     },
     {
+      "company_id": 59000,
+      "company_uid": 667228,
+      "company_name": "Perigus Energy Service GmbH"
+    },
+    {
       "company_id": 58616,
       "company_uid": 666844,
       "company_name": "Perpetuum-Ebner GmbH & Co. KG"
@@ -19745,6 +19750,11 @@
       "company_id": 64012,
       "company_uid": 670219,
       "company_name": "Vogl Günther"
+    },
+    {
+      "company_id": 64051,
+      "company_uid": 670258,
+      "company_name": "Vogt & Wüstholz GbR"
     },
     {
       "company_id": 60625,
@@ -86326,6 +86336,15 @@
       "company_name": "Friederichs GmbH & Co. KG"
     },
     {
+      "bdew_code": "9982905000007",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 64356,
+      "company_id": 59000,
+      "company_uid": 667228,
+      "company_name": "Perigus Energy Service GmbH"
+    },
+    {
       "bdew_code": "9982907000005",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -103910,6 +103929,33 @@
       "company_id": 64049,
       "company_uid": 670256,
       "company_name": "SISTEMS GmbH"
+    },
+    {
+      "bdew_code": "9985772000002",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68393,
+      "company_id": 64051,
+      "company_uid": 670258,
+      "company_name": "Vogt & Wüstholz GbR"
+    },
+    {
+      "bdew_code": "9985773000001",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68394,
+      "company_id": 64051,
+      "company_uid": 670258,
+      "company_name": "Vogt & Wüstholz GbR"
+    },
+    {
+      "bdew_code": "9985774000000",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68395,
+      "company_id": 61369,
+      "company_uid": 669588,
+      "company_name": "metergrid GmbH"
     },
     {
       "bdew_code": "9987098000005",
