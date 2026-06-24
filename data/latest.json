@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-23",
-      "published_at": "2026-06-23T05:23:10+00:00",
-      "content_hash": "c60231ae6b6cec73066a0eb22f68bbe45a3193669a8491726723579c0ebf4631"
+      "version": "2026-06-24",
+      "published_at": "2026-06-24T05:20:02+00:00",
+      "content_hash": "9d86f542b74803cdb1de16dd17d35347c71130d6bb4670810597d8b80840fcaa"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-23T05:13:55.760669+00:00",
+      "observed_at": "2026-06-24T05:11:07.706257+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4375,
-      "market_partners": 9118,
+      "companies": 4376,
+      "market_partners": 9119,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-06-23T05:13:55.760669+00:00",
+      "cleaned_at": "2026-06-24T05:11:07.706257+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -4920,6 +4920,11 @@
       "company_id": 60960,
       "company_uid": 669179,
       "company_name": "Energie Marburg-Biedenkopf GmbH & Co. KG"
+    },
+    {
+      "company_id": 64050,
+      "company_uid": 670257,
+      "company_name": "Energie Miesbacher Land GmbH"
     },
     {
       "company_id": 943,
@@ -103929,6 +103934,15 @@
       "company_id": 64049,
       "company_uid": 670256,
       "company_name": "SISTEMS GmbH"
+    },
+    {
+      "bdew_code": "9985771000003",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68392,
+      "company_id": 64050,
+      "company_uid": 670257,
+      "company_name": "Energie Miesbacher Land GmbH"
     },
     {
       "bdew_code": "9985772000002",

@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-20",
-      "published_at": "2026-06-20T05:52:28+00:00",
-      "content_hash": "722b618e2d152a2729fd7b166e8a472dcdef5720745630a564f0aca83b383daf"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-20T05:43:24.097212+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4373,
-      "market_partners": 9114,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-06-20T05:43:24.097212+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 115
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-06-23",
-      "published_at": "2026-06-23T05:13:55.760669+00:00",
+      "published_at": "2026-06-23T05:23:10+00:00",
       "content_hash": "c60231ae6b6cec73066a0eb22f68bbe45a3193669a8491726723579c0ebf4631"
     },
     "source": {
@@ -71,58 +35,66 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-06-24",
+      "published_at": "2026-06-24T05:11:07.706257+00:00",
+      "content_hash": "9d86f542b74803cdb1de16dd17d35347c71130d6bb4670810597d8b80840fcaa"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-06-24T05:11:07.706257+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4376,
+      "market_partners": 9119,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-06-24T05:11:07.706257+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 115
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9982905000007",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 64356,
-      "company_id": 59000,
-      "company_uid": 667228,
-      "company_name": "Perigus Energy Service GmbH"
-    },
-    {
-      "bdew_code": "9985772000002",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68393,
-      "company_id": 64051,
-      "company_uid": 670258,
-      "company_name": "Vogt & Wüstholz GbR"
-    },
-    {
-      "bdew_code": "9985773000001",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 68394,
-      "company_id": 64051,
-      "company_uid": 670258,
-      "company_name": "Vogt & Wüstholz GbR"
-    },
-    {
-      "bdew_code": "9985774000000",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 68395,
-      "company_id": 61369,
-      "company_uid": 669588,
-      "company_name": "metergrid GmbH"
+      "bdew_code": "9985771000003",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68392,
+      "company_id": 64050,
+      "company_uid": 670257,
+      "company_name": "Energie Miesbacher Land GmbH"
     }
   ],
   "codes_removed": [],
   "codes_changed": [],
   "companies_added_ids": [
-    59000,
-    64051
+    64050
   ],
   "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 4,
+    "codes_added": 1,
     "codes_removed": 0,
     "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 2,
+    "companies_added": 1,
     "companies_removed": 0,
     "companies_changed": 0
   },

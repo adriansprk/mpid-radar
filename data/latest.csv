@@ -9112,6 +9112,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985765000001,Energieserviceanbieter des Anschlussnutzers,ESA,665683,NaCon GmbH,57455,68385
 9985769000007,Bilanzkreisverantwortlicher,BKV,662014,Stadtwerke Emden GmbH,2124,68390
 9985770000004,Messstellenbetreiber,MSB,670256,SISTEMS GmbH,64049,68391
+9985771000003,Lieferant,LF,670257,Energie Miesbacher Land GmbH,64050,68392
 9985772000002,Betreiber einer technischen Ressource,BTR,670258,Vogt & Wüstholz GbR,64051,68393
 9985773000001,Einsatzverantwortlicher,EIV,670258,Vogt & Wüstholz GbR,64051,68394
 9985774000000,Messstellenbetreiber,MSB,669588,metergrid GmbH,61369,68395
