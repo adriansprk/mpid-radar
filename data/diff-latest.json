@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-23",
-      "published_at": "2026-06-23T05:23:10+00:00",
-      "content_hash": "c60231ae6b6cec73066a0eb22f68bbe45a3193669a8491726723579c0ebf4631"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-23T05:13:55.760669+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4375,
-      "market_partners": 9118,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-06-23T05:13:55.760669+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 115
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-06-24",
-      "published_at": "2026-06-24T05:11:07.706257+00:00",
+      "published_at": "2026-06-24T05:20:02+00:00",
       "content_hash": "9d86f542b74803cdb1de16dd17d35347c71130d6bb4670810597d8b80840fcaa"
     },
     "source": {
@@ -71,31 +35,67 @@
       }
     }
   },
-  "codes_added": [
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-06-25",
+      "published_at": "2026-06-25T05:14:53.435861+00:00",
+      "content_hash": "4bafadf32a809a7e575dbe06818dcb829b490235ddce29f826ddff9a96a5b32d"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-06-25T05:14:53.435861+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4375,
+      "market_partners": 9118,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-06-25T05:14:53.435861+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 115
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
+  "codes_added": [],
+  "codes_removed": [
     {
-      "bdew_code": "9985771000003",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 68392,
-      "company_id": 64050,
-      "company_uid": 670257,
-      "company_name": "Energie Miesbacher Land GmbH"
+      "bdew_code": "9980240000005",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 61662,
+      "company_id": 57463,
+      "company_uid": 665691,
+      "company_name": "Wüstholz Sonnenstrom GmbH"
     }
   ],
-  "codes_removed": [],
   "codes_changed": [],
-  "companies_added_ids": [
-    64050
+  "companies_added_ids": [],
+  "companies_removed_ids": [
+    57463
   ],
-  "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 1,
-    "codes_removed": 0,
+    "codes_added": 0,
+    "codes_removed": 1,
     "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 1,
-    "companies_removed": 0,
+    "companies_added": 0,
+    "companies_removed": 1,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",

@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-24",
-      "published_at": "2026-06-24T05:20:02+00:00",
-      "content_hash": "9d86f542b74803cdb1de16dd17d35347c71130d6bb4670810597d8b80840fcaa"
+      "version": "2026-06-25",
+      "published_at": "2026-06-25T05:21:41+00:00",
+      "content_hash": "4bafadf32a809a7e575dbe06818dcb829b490235ddce29f826ddff9a96a5b32d"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-24T05:11:07.706257+00:00",
+      "observed_at": "2026-06-25T05:14:53.435861+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4376,
-      "market_partners": 9119,
+      "companies": 4375,
+      "market_partners": 9118,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-06-24T05:11:07.706257+00:00",
+      "cleaned_at": "2026-06-25T05:14:53.435861+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -20530,11 +20530,6 @@
       "company_id": 58662,
       "company_uid": 666890,
       "company_name": "Würz Fertigungstechnik GmbH"
-    },
-    {
-      "company_id": 57463,
-      "company_uid": 665691,
-      "company_name": "Wüstholz Sonnenstrom GmbH"
     },
     {
       "company_id": 63927,
@@ -72038,15 +72033,6 @@
       "company_id": 57458,
       "company_uid": 665686,
       "company_name": "Hans Jürgen Brocker"
-    },
-    {
-      "bdew_code": "9980240000005",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 61662,
-      "company_id": 57463,
-      "company_uid": 665691,
-      "company_name": "Wüstholz Sonnenstrom GmbH"
     },
     {
       "bdew_code": "9980241000004",
