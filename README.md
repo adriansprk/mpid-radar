@@ -1,6 +1,6 @@
 # MPID Radar
 
-[![dataset](https://img.shields.io/badge/dataset-2026--06--25%2005%3A21%20UTC-blue)](https://mpid.adriancares.com) [![market partners](https://img.shields.io/badge/market%20partners-9118-green)](data/latest.csv) [![MCP server](https://img.shields.io/badge/MCP-server-orange)](#mcp-server)
+[![dataset](https://img.shields.io/badge/dataset-2026--06--26%2005%3A27%20UTC-blue)](https://mpid.adriancares.com) [![market partners](https://img.shields.io/badge/market%20partners-9118-green)](data/latest.csv) [![MCP server](https://img.shields.io/badge/MCP-server-orange)](#mcp-server)
 
 A daily snapshot of the public BDEW code directory (German energy market partner IDs).
 

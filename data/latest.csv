@@ -5786,7 +5786,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9980593000009,Einsatzverantwortlicher,EIV,662093,Stadtwerke Herne AG,2205,62017
 9980594000008,Betreiber einer technischen Ressource,BTR,662093,Stadtwerke Herne AG,2205,62018
 9980598000004,Einsatzverantwortlicher,EIV,665901,Liebig & Stork GbR,57673,62022
-9980599000003,Einsatzverantwortlicher,EIV,665902,Martin Grunder,57674,62023
+9980599000003,Einsatzverantwortlicher,EIV,670262,Grunder Betriebsverpachtung GmbH & Co KG,64055,62023
 9980601000008,Einsatzverantwortlicher,EIV,662443,Südwestdeutsche Stromhandels GmbH,2555,62025
 9980602000007,Einsatzverantwortlicher,EIV,665904,Hoos Philipp Schützner GbR,57676,62026
 9980607000002,Betreiber einer technischen Ressource,BTR,665910,Biogas Lamspringe GmbH & Co. KG,57682,62031
@@ -7416,7 +7416,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9983344000004,Einsatzverantwortlicher,EIV,667552,LOGISTRIBUTION Solar GmbH,59324,64807
 9983345000003,Betreiber einer technischen Ressource,BTR,667552,LOGISTRIBUTION Solar GmbH,59324,64808
 9983346000002,Einsatzverantwortlicher,EIV,667553,Andreas Roidl Biogasanlage GbR,59325,64809
-9983347000001,Betreiber einer technischen Ressource,BTR,665902,Martin Grunder,57674,64810
+9983347000001,Betreiber einer technischen Ressource,BTR,670262,Grunder Betriebsverpachtung GmbH & Co KG,64055,64810
 9983350000006,Einsatzverantwortlicher,EIV,667556,IMS erneuerbare Energien GmbH,59328,64813
 9983354000002,Betreiber einer technischen Ressource,BTR,667559,Augusta-Kranken-Anstalt gemeinnützige GmbH,59331,64817
 9983355000001,Betreiber einer technischen Ressource,BTR,667560,Alexander Bürkle GmbH & Co. KG,59332,64818

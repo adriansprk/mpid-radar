@@ -2,14 +2,14 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-25",
-      "published_at": "2026-06-25T05:21:41+00:00",
-      "content_hash": "4bafadf32a809a7e575dbe06818dcb829b490235ddce29f826ddff9a96a5b32d"
+      "version": "2026-06-26",
+      "published_at": "2026-06-26T05:27:42+00:00",
+      "content_hash": "24f02625e204b9417b12297aecc135ecf77b4583d98768dda45b4c0594043c13"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-25T05:14:53.435861+00:00",
+      "observed_at": "2026-06-26T05:21:17.001170+00:00",
       "filter": ""
     },
     "records": {
@@ -18,7 +18,7 @@
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-06-25T05:14:53.435861+00:00",
+      "cleaned_at": "2026-06-26T05:21:17.001170+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -7672,6 +7672,11 @@
       "company_name": "Groz-Beckert Kommanditgesellschaft"
     },
     {
+      "company_id": 64055,
+      "company_uid": 670262,
+      "company_name": "Grunder Betriebsverpachtung GmbH & Co KG"
+    },
+    {
       "company_id": 57994,
       "company_uid": 666222,
       "company_name": "Grundstücks- Entwicklungs GmbH Weitramsdorf"
@@ -10805,11 +10810,6 @@
       "company_id": 58551,
       "company_uid": 666779,
       "company_name": "Martin Eisenmann"
-    },
-    {
-      "company_id": 57674,
-      "company_uid": 665902,
-      "company_name": "Martin Grunder"
     },
     {
       "company_id": 57320,
@@ -74001,9 +74001,9 @@
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
       "code_row_id": 62023,
-      "company_id": 57674,
-      "company_uid": 665902,
-      "company_name": "Martin Grunder"
+      "company_id": 64055,
+      "company_uid": 670262,
+      "company_name": "Grunder Betriebsverpachtung GmbH & Co KG"
     },
     {
       "bdew_code": "9980601000008",
@@ -88671,9 +88671,9 @@
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
       "code_row_id": 64810,
-      "company_id": 57674,
-      "company_uid": 665902,
-      "company_name": "Martin Grunder"
+      "company_id": 64055,
+      "company_uid": 670262,
+      "company_name": "Grunder Betriebsverpachtung GmbH & Co KG"
     },
     {
       "bdew_code": "9983350000006",
