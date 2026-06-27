@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-25",
-      "published_at": "2026-06-25T05:21:41+00:00",
-      "content_hash": "4bafadf32a809a7e575dbe06818dcb829b490235ddce29f826ddff9a96a5b32d"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-25T05:14:53.435861+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4375,
-      "market_partners": 9118,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-06-25T05:14:53.435861+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 115
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-06-26",
-      "published_at": "2026-06-26T05:21:17.001170+00:00",
+      "published_at": "2026-06-26T05:27:42+00:00",
       "content_hash": "24f02625e204b9417b12297aecc135ecf77b4583d98768dda45b4c0594043c13"
     },
     "source": {
@@ -71,52 +35,65 @@
       }
     }
   },
-  "codes_added": [],
-  "codes_removed": [],
-  "codes_changed": [
-    {
-      "code_row_id": 62023,
-      "bdew_code": "9980599000003",
-      "changes": {
-        "company_uid": {
-          "old": 665902,
-          "new": 670262
-        },
-        "company_name": {
-          "old": "Martin Grunder",
-          "new": "Grunder Betriebsverpachtung GmbH & Co KG"
-        }
-      }
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-06-27",
+      "published_at": "2026-06-27T05:03:11.477527+00:00",
+      "content_hash": "b903844f1f6576a99afb450366353f5dfc55d96c6a84945a86943e4d7b1a6708"
     },
-    {
-      "code_row_id": 64810,
-      "bdew_code": "9983347000001",
-      "changes": {
-        "company_uid": {
-          "old": 665902,
-          "new": 670262
-        },
-        "company_name": {
-          "old": "Martin Grunder",
-          "new": "Grunder Betriebsverpachtung GmbH & Co KG"
-        }
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-06-27T05:03:11.477527+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4375,
+      "market_partners": 9119,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-06-27T05:03:11.477527+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 115
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
       }
     }
+  },
+  "codes_added": [
+    {
+      "bdew_code": "9985761000005",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68381,
+      "company_id": 62873,
+      "company_uid": 670076,
+      "company_name": "VAVA24 GmbH"
+    }
   ],
-  "companies_added_ids": [
-    64055
-  ],
-  "companies_removed_ids": [
-    57674
-  ],
+  "codes_removed": [],
+  "codes_changed": [],
+  "companies_added_ids": [],
+  "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 0,
+    "codes_added": 1,
     "codes_removed": 0,
-    "codes_changed": 2,
+    "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 1,
-    "companies_removed": 1,
+    "companies_added": 0,
+    "companies_removed": 0,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",

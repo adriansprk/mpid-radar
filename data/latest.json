@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-26",
-      "published_at": "2026-06-26T05:27:42+00:00",
-      "content_hash": "24f02625e204b9417b12297aecc135ecf77b4583d98768dda45b4c0594043c13"
+      "version": "2026-06-27",
+      "published_at": "2026-06-27T05:12:14+00:00",
+      "content_hash": "b903844f1f6576a99afb450366353f5dfc55d96c6a84945a86943e4d7b1a6708"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-26T05:21:17.001170+00:00",
+      "observed_at": "2026-06-27T05:03:11.477527+00:00",
       "filter": ""
     },
     "records": {
       "companies": 4375,
-      "market_partners": 9118,
+      "market_partners": 9119,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-06-26T05:21:17.001170+00:00",
+      "cleaned_at": "2026-06-27T05:03:11.477527+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -103875,6 +103875,15 @@
       "company_id": 61187,
       "company_uid": 669406,
       "company_name": "Lynus Deutschland GmbH"
+    },
+    {
+      "bdew_code": "9985761000005",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68381,
+      "company_id": 62873,
+      "company_uid": 670076,
+      "company_name": "VAVA24 GmbH"
     },
     {
       "bdew_code": "9985762000004",
