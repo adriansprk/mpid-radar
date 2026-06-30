@@ -8767,6 +8767,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985380000006,Einsatzverantwortlicher,EIV,662523,Thüga Energie GmbH,2637,66970
 9985381000005,Energieserviceanbieter des Anschlussnutzers,ESA,663650,BayWa r.e. Operation Services GmbH,8731,66971
 9985382000004,Bilanzkreisverantwortlicher,BKV,664824,energicos GmbH,51629,66972
+9985383000003,Lieferant,LF,664824,energicos GmbH,51629,66973
 9985384000002,Bilanzkreisverantwortlicher,BKV,669716,"ČEZ Trade, a.s.",61507,66974
 9985385000001,Energieserviceanbieter des Anschlussnutzers,ESA,669608,Up2You Energy GmbH,61389,66975
 9985386000000,Energieserviceanbieter des Anschlussnutzers,ESA,666317,SGB Energie GmbH,58089,66976
@@ -9110,11 +9111,14 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985762000004,Bilanzkreisverantwortlicher,BKV,670248,NGEN Germany GmbH,64041,68382
 9985764000002,Bilanzkreisverantwortlicher,BKV,669778,Platinum 24 Vertrieb GmbH,61576,68384
 9985765000001,Energieserviceanbieter des Anschlussnutzers,ESA,665683,NaCon GmbH,57455,68385
+9985767000009,Einsatzverantwortlicher,EIV,670251,Return DE Assets GmbH,64044,68387
+9985768000008,Bilanzkreisverantwortlicher,BKV,670251,Return DE Assets GmbH,64044,68388
 9985769000007,Bilanzkreisverantwortlicher,BKV,662014,Stadtwerke Emden GmbH,2124,68390
 9985770000004,Messstellenbetreiber,MSB,670256,SISTEMS GmbH,64049,68391
 9985771000003,Lieferant,LF,670257,Energie Miesbacher Land GmbH,64050,68392
 9985772000002,Betreiber einer technischen Ressource,BTR,670258,Vogt & Wüstholz GbR,64051,68393
 9985773000001,Einsatzverantwortlicher,EIV,670258,Vogt & Wüstholz GbR,64051,68394
 9985774000000,Messstellenbetreiber,MSB,669588,metergrid GmbH,61369,68395
+9985775000009,Bilanzkreisverantwortlicher,BKV,670263,Return DE München GmbH,64056,68396
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-27",
-      "published_at": "2026-06-27T05:12:14+00:00",
-      "content_hash": "b903844f1f6576a99afb450366353f5dfc55d96c6a84945a86943e4d7b1a6708"
+      "version": "2026-06-30",
+      "published_at": "2026-06-30T05:26:25+00:00",
+      "content_hash": "f932a0f4825c1b43e7840124b7211ba4c930ab3201929850dc3ae73cf8457668"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-27T05:03:11.477527+00:00",
+      "observed_at": "2026-06-30T05:16:58.434604+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4375,
-      "market_partners": 9119,
+      "companies": 4377,
+      "market_partners": 9123,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-06-27T05:03:11.477527+00:00",
+      "cleaned_at": "2026-06-30T05:16:58.434604+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -13485,6 +13485,16 @@
       "company_id": 4582,
       "company_uid": 663460,
       "company_name": "Rettenmeier Holzindustrie Wilburgstetten GmbH"
+    },
+    {
+      "company_id": 64044,
+      "company_uid": 670251,
+      "company_name": "Return DE Assets GmbH"
+    },
+    {
+      "company_id": 64056,
+      "company_uid": 670263,
+      "company_name": "Return DE München GmbH"
     },
     {
       "company_id": 57792,
@@ -100826,6 +100836,15 @@
       "company_name": "energicos GmbH"
     },
     {
+      "bdew_code": "9985383000003",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 66973,
+      "company_id": 51629,
+      "company_uid": 664824,
+      "company_name": "energicos GmbH"
+    },
+    {
       "bdew_code": "9985384000002",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -103913,6 +103932,24 @@
       "company_name": "NaCon GmbH"
     },
     {
+      "bdew_code": "9985767000009",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68387,
+      "company_id": 64044,
+      "company_uid": 670251,
+      "company_name": "Return DE Assets GmbH"
+    },
+    {
+      "bdew_code": "9985768000008",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68388,
+      "company_id": 64044,
+      "company_uid": 670251,
+      "company_name": "Return DE Assets GmbH"
+    },
+    {
       "bdew_code": "9985769000007",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -103965,6 +104002,15 @@
       "company_id": 61369,
       "company_uid": 669588,
       "company_name": "metergrid GmbH"
+    },
+    {
+      "bdew_code": "9985775000009",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68396,
+      "company_id": 64056,
+      "company_uid": 670263,
+      "company_name": "Return DE München GmbH"
     },
     {
       "bdew_code": "9987098000005",
