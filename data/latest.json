@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-30",
-      "published_at": "2026-06-30T05:26:25+00:00",
-      "content_hash": "f932a0f4825c1b43e7840124b7211ba4c930ab3201929850dc3ae73cf8457668"
+      "version": "2026-07-01",
+      "published_at": "2026-07-01T06:02:56+00:00",
+      "content_hash": "8585fd0ab9c75b7f5b0772d80f59c68d146bc560eb5265c5afbfd218f4784681"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-30T05:16:58.434604+00:00",
+      "observed_at": "2026-07-01T05:53:41.271739+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4377,
-      "market_partners": 9123,
+      "companies": 4378,
+      "market_partners": 9124,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-06-30T05:16:58.434604+00:00",
+      "cleaned_at": "2026-07-01T05:53:41.271739+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -1459,7 +1459,7 @@
     {
       "company_id": 382,
       "company_uid": 660283,
-      "company_name": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin"
+      "company_name": "BTB Energie GmbH"
     },
     {
       "company_id": 61638,
@@ -8595,6 +8595,11 @@
       "company_id": 57808,
       "company_uid": 666036,
       "company_name": "Häberle PV GbR"
+    },
+    {
+      "company_id": 64057,
+      "company_uid": 670264,
+      "company_name": "Höhne Breitbandtechnik Consulting"
     },
     {
       "company_id": 60870,
@@ -33090,7 +33095,7 @@
       "code_row_id": 314,
       "company_id": 382,
       "company_uid": 660283,
-      "company_name": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin"
+      "company_name": "BTB Energie GmbH"
     },
     {
       "bdew_code": "9903696000007",
@@ -43341,7 +43346,7 @@
       "code_row_id": 315,
       "company_id": 382,
       "company_uid": 660283,
-      "company_name": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin"
+      "company_name": "BTB Energie GmbH"
     },
     {
       "bdew_code": "9905931000007",
@@ -67830,7 +67835,7 @@
       "code_row_id": 60826,
       "company_id": 382,
       "company_uid": 660283,
-      "company_name": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin"
+      "company_name": "BTB Energie GmbH"
     },
     {
       "bdew_code": "9979436000002",
@@ -68811,7 +68816,7 @@
       "code_row_id": 61081,
       "company_id": 382,
       "company_uid": 660283,
-      "company_name": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin"
+      "company_name": "BTB Energie GmbH"
     },
     {
       "bdew_code": "9979671000007",
@@ -104011,6 +104016,15 @@
       "company_id": 64056,
       "company_uid": 670263,
       "company_name": "Return DE München GmbH"
+    },
+    {
+      "bdew_code": "9985776000008",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68397,
+      "company_id": 64057,
+      "company_uid": 670264,
+      "company_name": "Höhne Breitbandtechnik Consulting"
     },
     {
       "bdew_code": "9987098000005",

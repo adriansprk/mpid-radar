@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-27",
-      "published_at": "2026-06-27T05:12:14+00:00",
-      "content_hash": "b903844f1f6576a99afb450366353f5dfc55d96c6a84945a86943e4d7b1a6708"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-27T05:03:11.477527+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4375,
-      "market_partners": 9119,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-06-27T05:03:11.477527+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 115
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-06-30",
-      "published_at": "2026-06-30T05:16:58.434604+00:00",
+      "published_at": "2026-06-30T05:26:25+00:00",
       "content_hash": "f932a0f4825c1b43e7840124b7211ba4c930ab3201929850dc3ae73cf8457668"
     },
     "source": {
@@ -71,60 +35,119 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-07-01",
+      "published_at": "2026-07-01T05:53:41.271739+00:00",
+      "content_hash": "8585fd0ab9c75b7f5b0772d80f59c68d146bc560eb5265c5afbfd218f4784681"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-07-01T05:53:41.271739+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4378,
+      "market_partners": 9124,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-07-01T05:53:41.271739+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 115
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985383000003",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 66973,
-      "company_id": 51629,
-      "company_uid": 664824,
-      "company_name": "energicos GmbH"
-    },
-    {
-      "bdew_code": "9985767000009",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 68387,
-      "company_id": 64044,
-      "company_uid": 670251,
-      "company_name": "Return DE Assets GmbH"
-    },
-    {
-      "bdew_code": "9985768000008",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68388,
-      "company_id": 64044,
-      "company_uid": 670251,
-      "company_name": "Return DE Assets GmbH"
-    },
-    {
-      "bdew_code": "9985775000009",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68396,
-      "company_id": 64056,
-      "company_uid": 670263,
-      "company_name": "Return DE München GmbH"
+      "bdew_code": "9985776000008",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68397,
+      "company_id": 64057,
+      "company_uid": 670264,
+      "company_name": "Höhne Breitbandtechnik Consulting"
     }
   ],
   "codes_removed": [],
-  "codes_changed": [],
+  "codes_changed": [
+    {
+      "code_row_id": 314,
+      "bdew_code": "9903694000009",
+      "changes": {
+        "company_name": {
+          "old": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin",
+          "new": "BTB Energie GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 315,
+      "bdew_code": "9905930000008",
+      "changes": {
+        "company_name": {
+          "old": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin",
+          "new": "BTB Energie GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 60826,
+      "bdew_code": "9979435000003",
+      "changes": {
+        "company_name": {
+          "old": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin",
+          "new": "BTB Energie GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 61081,
+      "bdew_code": "9979669000001",
+      "changes": {
+        "company_name": {
+          "old": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin",
+          "new": "BTB Energie GmbH"
+        }
+      }
+    }
+  ],
   "companies_added_ids": [
-    64044,
-    64056
+    64057
   ],
   "companies_removed_ids": [],
-  "companies_changed": [],
+  "companies_changed": [
+    {
+      "company_id": 382,
+      "changes": {
+        "company_name": {
+          "old": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin",
+          "new": "BTB Energie GmbH"
+        }
+      }
+    }
+  ],
   "summary": {
-    "codes_added": 4,
+    "codes_added": 1,
     "codes_removed": 0,
-    "codes_changed": 0,
+    "codes_changed": 4,
     "codes_recoded": 0,
-    "companies_added": 2,
+    "companies_added": 1,
     "companies_removed": 0,
-    "companies_changed": 0
+    "companies_changed": 1
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

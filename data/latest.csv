@@ -1239,7 +1239,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9903690000003,Lieferant,LF,664093,Stadtwerke Greifswald Gesellschaft mit beschränkter Haftung,19143,5742
 9903692000001,Lieferant,LF,662063,"""Stadtwerke Gronau GmbH""",2175,4405
 9903693000000,Lieferant,LF,660608,EMB Energieversorgung Miltenberg-Bürgstadt GmbH & Co. KG,708,991
-9903694000009,Lieferant,LF,660283,BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin,382,314
+9903694000009,Lieferant,LF,660283,BTB Energie GmbH,382,314
 9903696000007,Lieferant,LF,662016,Stadtwerke Emmerich GmbH,2126,4226
 9903697000006,Lieferant,LF,662149,Stadtwerke Lippstadt Gesellschaft mit beschränkter Haftung,2261,4702
 9903699000004,Lieferant,LF,660758,Energieversorgung Rupert Heider GmbH & Co. KG,860,1341
@@ -2378,7 +2378,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9905927000003,Bilanzkreisverantwortlicher,BKV,660773,energis-Netzgesellschaft mbH,875,1395
 9905928000002,Bilanzkreisverantwortlicher,BKV,660412,SachsenNetze GmbH,511,527
 9905929000001,Bilanzkreisverantwortlicher,BKV,660812,ENRO Ludwigsfelde Netz GmbH,914,1464
-9905930000008,Bilanzkreisverantwortlicher,BKV,660283,BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin,382,315
+9905930000008,Bilanzkreisverantwortlicher,BKV,660283,BTB Energie GmbH,382,315
 9905931000007,Bilanzkreisverantwortlicher,BKV,662270,Stadtwerke Schönebeck GmbH - SWS -,2382,5169
 9905933000005,Bilanzkreisverantwortlicher,BKV,661883,Stadtwerke Stendal GmbH,1993,3744
 9905936000002,Bilanzkreisverantwortlicher,BKV,662166,Stadtwerke Meerane GmbH,2278,4768
@@ -5099,7 +5099,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9979429000001,Messstellenbetreiber,MSB,669688,Skando Service GmbH,61469,60820
 9979431000007,Bilanzkreisverantwortlicher,BKV,665131,pure.energy GmbH,56903,60822
 9979433000005,Einsatzverantwortlicher,EIV,660785,Energy2market GmbH,887,60824
-9979435000003,Einsatzverantwortlicher,EIV,660283,BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin,382,60826
+9979435000003,Einsatzverantwortlicher,EIV,660283,BTB Energie GmbH,382,60826
 9979436000002,Messstellenbetreiber,MSB,661631,NWG Power GmbH,1738,60827
 9979437000001,Bilanzkreisverantwortlicher,BKV,664992,RABOT Energy GmbH,56764,60828
 9979438000000,Messstellenbetreiber,MSB,665144,Brouwer Estate GmbH,56916,60829
@@ -5208,7 +5208,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9979666000004,Betreiber einer technischen Ressource,BTR,662161,Stadtwerke Lutherstadt Eisleben GmbH,2273,61078
 9979667000003,Betreiber einer technischen Ressource,BTR,661616,Nordgröön Energie GmbH,1723,61079
 9979668000002,Betreiber einer technischen Ressource,BTR,660785,Energy2market GmbH,887,61080
-9979669000001,Betreiber einer technischen Ressource,BTR,660283,BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin,382,61081
+9979669000001,Betreiber einer technischen Ressource,BTR,660283,BTB Energie GmbH,382,61081
 9979671000007,Betreiber einer technischen Ressource,BTR,660366,Danske Commodities A/S,465,61083
 9979672000006,Einsatzverantwortlicher,EIV,662063,"""Stadtwerke Gronau GmbH""",2175,61084
 9979673000005,Betreiber einer technischen Ressource,BTR,662063,"""Stadtwerke Gronau GmbH""",2175,61085
@@ -9120,5 +9120,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985773000001,Einsatzverantwortlicher,EIV,670258,Vogt & Wüstholz GbR,64051,68394
 9985774000000,Messstellenbetreiber,MSB,669588,metergrid GmbH,61369,68395
 9985775000009,Bilanzkreisverantwortlicher,BKV,670263,Return DE München GmbH,64056,68396
+9985776000008,Messstellenbetreiber,MSB,670264,Höhne Breitbandtechnik Consulting,64057,68397
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
