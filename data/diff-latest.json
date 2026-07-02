@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-06-30",
-      "published_at": "2026-06-30T05:26:25+00:00",
-      "content_hash": "f932a0f4825c1b43e7840124b7211ba4c930ab3201929850dc3ae73cf8457668"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-06-30T05:16:58.434604+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4377,
-      "market_partners": 9123,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-06-30T05:16:58.434604+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 115
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-07-01",
-      "published_at": "2026-07-01T05:53:41.271739+00:00",
+      "published_at": "2026-07-01T06:02:56+00:00",
       "content_hash": "8585fd0ab9c75b7f5b0772d80f59c68d146bc560eb5265c5afbfd218f4784681"
     },
     "source": {
@@ -71,82 +35,136 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-07-02",
+      "published_at": "2026-07-02T05:09:01.505957+00:00",
+      "content_hash": "bf394f1530998f14e05b26f4c3c8baac1e93a19abae027544bc11b37df03b9cd"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-07-02T05:09:01.505957+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4378,
+      "market_partners": 9122,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-07-02T05:09:01.505957+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 115
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985776000008",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 68397,
-      "company_id": 64057,
-      "company_uid": 670264,
-      "company_name": "Höhne Breitbandtechnik Consulting"
+      "bdew_code": "9985778000006",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68399,
+      "company_id": 64056,
+      "company_uid": 670263,
+      "company_name": "Return DE München GmbH"
+    },
+    {
+      "bdew_code": "9985779000005",
+      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
+      "role_code": "NN",
+      "code_row_id": 68400,
+      "company_id": 2764,
+      "company_uid": 662650,
+      "company_name": "Westlake Vinnolit GmbH & Co. KG"
     }
   ],
-  "codes_removed": [],
+  "codes_removed": [
+    {
+      "bdew_code": "9904687000006",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 523,
+      "company_id": 510,
+      "company_uid": 660411,
+      "company_name": "DREWAG - Stadtwerke Dresden GmbH"
+    },
+    {
+      "bdew_code": "9911854000008",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 524,
+      "company_id": 510,
+      "company_uid": 660411,
+      "company_name": "DREWAG - Stadtwerke Dresden GmbH"
+    },
+    {
+      "bdew_code": "9903143000005",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 529,
+      "company_id": 510,
+      "company_uid": 660411,
+      "company_name": "DREWAG - Stadtwerke Dresden GmbH"
+    },
+    {
+      "bdew_code": "9979614000006",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 61024,
+      "company_id": 510,
+      "company_uid": 660411,
+      "company_name": "DREWAG - Stadtwerke Dresden GmbH"
+    }
+  ],
   "codes_changed": [
     {
-      "code_row_id": 314,
-      "bdew_code": "9903694000009",
+      "code_row_id": 68272,
+      "bdew_code": "9985659000000",
       "changes": {
         "company_name": {
-          "old": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin",
-          "new": "BTB Energie GmbH"
-        }
-      }
-    },
-    {
-      "code_row_id": 315,
-      "bdew_code": "9905930000008",
-      "changes": {
-        "company_name": {
-          "old": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin",
-          "new": "BTB Energie GmbH"
-        }
-      }
-    },
-    {
-      "code_row_id": 60826,
-      "bdew_code": "9979435000003",
-      "changes": {
-        "company_name": {
-          "old": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin",
-          "new": "BTB Energie GmbH"
-        }
-      }
-    },
-    {
-      "code_row_id": 61081,
-      "bdew_code": "9979669000001",
-      "changes": {
-        "company_name": {
-          "old": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin",
-          "new": "BTB Energie GmbH"
+          "old": "flexa GmbH",
+          "new": "Flexa GmbH"
         }
       }
     }
   ],
   "companies_added_ids": [
-    64057
+    2764
   ],
-  "companies_removed_ids": [],
+  "companies_removed_ids": [
+    510
+  ],
   "companies_changed": [
     {
-      "company_id": 382,
+      "company_id": 62880,
       "changes": {
         "company_name": {
-          "old": "BTB Blockheizkraftwerks- Träger- und Betreibergesellschaft mbH Berlin",
-          "new": "BTB Energie GmbH"
+          "old": "flexa GmbH",
+          "new": "Flexa GmbH"
         }
       }
     }
   ],
   "summary": {
-    "codes_added": 1,
-    "codes_removed": 0,
-    "codes_changed": 4,
+    "codes_added": 2,
+    "codes_removed": 4,
+    "codes_changed": 1,
     "codes_recoded": 0,
     "companies_added": 1,
-    "companies_removed": 0,
+    "companies_removed": 1,
     "companies_changed": 1
   },
   "old": "../public/data/latest.json",

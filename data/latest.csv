@@ -855,7 +855,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9903138000002,Lieferant,LF,662335,Stadtwerke Waiblingen GmbH,2447,5436
 9903141000007,Lieferant,LF,662285,Stadtwerke Solingen GmbH,2397,5242
 9903142000006,Lieferant,LF,662213,Stadtwerke Oelsnitz/V. GmbH,2325,4951
-9903143000005,Lieferant,LF,660411,DREWAG - Stadtwerke Dresden GmbH,510,529
 9903144000004,Lieferant,LF,660822,ENTEGA Plus GmbH,924,1493
 9903145000003,Lieferant,LF,661451,Mark-E Aktiengesellschaft,1557,2910
 9903147000001,Lieferant,LF,662159,Stadtwerke Lüdenscheid GmbH,2271,4737
@@ -1803,7 +1802,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9904679000006,Messstellenbetreiber,MSB,661270,infra fürth gmbh,1374,2563
 9904685000008,Messstellenbetreiber,MSB,660647,Energie- und Wasserwerke Bautzen GmbH,748,1087
 9904686000007,Messstellenbetreiber,MSB,662485,SWS Netze Solingen GmbH,2597,5914
-9904687000006,Bilanzkreisverantwortlicher,BKV,660411,DREWAG - Stadtwerke Dresden GmbH,510,523
 9904688000005,Bilanzkreisverantwortlicher,BKV,661719,Quantum GmbH,1827,3422
 9904689000004,Lieferant,LF,660293,Burgenland Energie GmbH,392,331
 9904692000009,Messstellenbetreiber,MSB,660087,Elektrizitätswerk Mittelbaden AG & Co. KG,173,873
@@ -3970,7 +3968,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9911851000001,Lieferant,LF,661209,SistigEnergie GmbH,1312,2454
 9911852000000,Lieferant,LF,660718,Energieversorgung Bad Bentheim GmbH & Co.KG,819,1219
 9911853000009,Einsatzverantwortlicher,EIV,661167,Grosskraftwerk Mannheim Aktiengesellschaft,1270,2363
-9911854000008,Einsatzverantwortlicher,EIV,660411,DREWAG - Stadtwerke Dresden GmbH,510,524
 9911855000007,Einsatzverantwortlicher,EIV,660750,Energieversorgung Offenbach AG,852,1318
 9911857000005,Einsatzverantwortlicher,EIV,660094,VOLKSWAGEN AKTIENGESELLSCHAFT,180,6277
 9911858000004,Einsatzverantwortlicher,EIV,661492,Mineraloelraffinerie Oberrhein GmbH & Co. KG,1598,2984
@@ -5161,7 +5158,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9979609000003,Betreiber einer technischen Ressource,BTR,662064,Stadtwerke Groß-Gerau Versorgungs GmbH,2176,61017
 9979611000009,Betreiber einer technischen Ressource,BTR,662544,Trianel GmbH,2658,61019
 9979612000008,Bilanzkreisverantwortlicher,BKV,665299,Future Energy Trading GmbH,57071,61022
-9979614000006,Betreiber einer technischen Ressource,BTR,660411,DREWAG - Stadtwerke Dresden GmbH,510,61024
 9979615000005,Betreiber einer technischen Ressource,BTR,660816,SachsenEnergie AG,918,61025
 9979616000004,Betreiber einer technischen Ressource,BTR,665178,Adwind Renewables GmbH,56950,61026
 9979617000003,Einsatzverantwortlicher,EIV,665178,Adwind Renewables GmbH,56950,61027
@@ -9019,7 +9015,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985656000003,Lieferant,LF,670079,Lippeverband,62876,68268
 9985657000002,Betreiber einer technischen Ressource,BTR,670081,RWE Neuland Erneuerbare Energien GmbH & Co. KG,62878,68269
 9985658000001,Betreiber einer technischen Ressource,BTR,670082,RWE Windpark Papenhagen GmbH & Co. KG,62879,68270
-9985659000000,Bilanzkreisverantwortlicher,BKV,670083,flexa GmbH,62880,68272
+9985659000000,Bilanzkreisverantwortlicher,BKV,670083,Flexa GmbH,62880,68272
 9985660000007,Lieferant,LF,664926,E.ON Energy Markets GmbH,55710,68274
 9985661000006,Data Provider,DP,670089,AVAT Automation GmbH,62886,68275
 9985662000005,Bilanzkreisverantwortlicher,BKV,670092,E HOLDING COMPANY s.r.o.,62889,68276
@@ -9121,5 +9117,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985774000000,Messstellenbetreiber,MSB,669588,metergrid GmbH,61369,68395
 9985775000009,Bilanzkreisverantwortlicher,BKV,670263,Return DE München GmbH,64056,68396
 9985776000008,Messstellenbetreiber,MSB,670264,Höhne Breitbandtechnik Consulting,64057,68397
+9985778000006,Einsatzverantwortlicher,EIV,670263,Return DE München GmbH,64056,68399
+9985779000005,Netznutzer ohne All-Inklusiv-Vertrag,NN,662650,Westlake Vinnolit GmbH & Co. KG,2764,68400
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

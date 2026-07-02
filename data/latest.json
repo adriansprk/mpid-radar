@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-01",
-      "published_at": "2026-07-01T06:02:56+00:00",
-      "content_hash": "8585fd0ab9c75b7f5b0772d80f59c68d146bc560eb5265c5afbfd218f4784681"
+      "version": "2026-07-02",
+      "published_at": "2026-07-02T05:16:07+00:00",
+      "content_hash": "bf394f1530998f14e05b26f4c3c8baac1e93a19abae027544bc11b37df03b9cd"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-01T05:53:41.271739+00:00",
+      "observed_at": "2026-07-02T05:09:01.505957+00:00",
       "filter": ""
     },
     "records": {
       "companies": 4378,
-      "market_partners": 9124,
+      "market_partners": 9122,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-01T05:53:41.271739+00:00",
+      "cleaned_at": "2026-07-02T05:09:01.505957+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -2935,11 +2935,6 @@
       "company_id": 57737,
       "company_uid": 665965,
       "company_name": "DREWA SOL GmbH"
-    },
-    {
-      "company_id": 510,
-      "company_uid": 660411,
-      "company_name": "DREWAG - Stadtwerke Dresden GmbH"
     },
     {
       "company_id": 56802,
@@ -6165,6 +6160,11 @@
       "company_id": 61164,
       "company_uid": 669383,
       "company_name": "Fleischverarbeitungsbetrieb Zitzmann GmbH"
+    },
+    {
+      "company_id": 62880,
+      "company_uid": 670083,
+      "company_name": "Flexa GmbH"
     },
     {
       "company_id": 60508,
@@ -20337,6 +20337,11 @@
       "company_name": "Westhof Energie GmbH & Co. KG"
     },
     {
+      "company_id": 2764,
+      "company_uid": 662650,
+      "company_name": "Westlake Vinnolit GmbH & Co. KG"
+    },
+    {
       "company_id": 48578,
       "company_uid": 664751,
       "company_name": "Westnetz GmbH"
@@ -21260,11 +21265,6 @@
       "company_id": 60421,
       "company_uid": 668640,
       "company_name": "first energy GmbH"
-    },
-    {
-      "company_id": 62880,
-      "company_uid": 670083,
-      "company_name": "flexa GmbH"
     },
     {
       "company_id": 1084,
@@ -29631,15 +29631,6 @@
       "company_id": 2325,
       "company_uid": 662213,
       "company_name": "Stadtwerke Oelsnitz/V. GmbH"
-    },
-    {
-      "bdew_code": "9903143000005",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 529,
-      "company_id": 510,
-      "company_uid": 660411,
-      "company_name": "DREWAG - Stadtwerke Dresden GmbH"
     },
     {
       "bdew_code": "9903144000004",
@@ -38163,15 +38154,6 @@
       "company_id": 2597,
       "company_uid": 662485,
       "company_name": "SWS Netze Solingen GmbH"
-    },
-    {
-      "bdew_code": "9904687000006",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 523,
-      "company_id": 510,
-      "company_uid": 660411,
-      "company_name": "DREWAG - Stadtwerke Dresden GmbH"
     },
     {
       "bdew_code": "9904688000005",
@@ -57668,15 +57650,6 @@
       "company_name": "Grosskraftwerk Mannheim Aktiengesellschaft"
     },
     {
-      "bdew_code": "9911854000008",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 524,
-      "company_id": 510,
-      "company_uid": 660411,
-      "company_name": "DREWAG - Stadtwerke Dresden GmbH"
-    },
-    {
       "bdew_code": "9911855000007",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -68385,15 +68358,6 @@
       "company_id": 57071,
       "company_uid": 665299,
       "company_name": "Future Energy Trading GmbH"
-    },
-    {
-      "bdew_code": "9979614000006",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 61024,
-      "company_id": 510,
-      "company_uid": 660411,
-      "company_name": "DREWAG - Stadtwerke Dresden GmbH"
     },
     {
       "bdew_code": "9979615000005",
@@ -103115,7 +103079,7 @@
       "code_row_id": 68272,
       "company_id": 62880,
       "company_uid": 670083,
-      "company_name": "flexa GmbH"
+      "company_name": "Flexa GmbH"
     },
     {
       "bdew_code": "9985660000007",
@@ -104025,6 +103989,24 @@
       "company_id": 64057,
       "company_uid": 670264,
       "company_name": "Höhne Breitbandtechnik Consulting"
+    },
+    {
+      "bdew_code": "9985778000006",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68399,
+      "company_id": 64056,
+      "company_uid": 670263,
+      "company_name": "Return DE München GmbH"
+    },
+    {
+      "bdew_code": "9985779000005",
+      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
+      "role_code": "NN",
+      "code_row_id": 68400,
+      "company_id": 2764,
+      "company_uid": 662650,
+      "company_name": "Westlake Vinnolit GmbH & Co. KG"
     },
     {
       "bdew_code": "9987098000005",
