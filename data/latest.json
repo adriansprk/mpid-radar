@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-02",
-      "published_at": "2026-07-02T05:16:07+00:00",
-      "content_hash": "bf394f1530998f14e05b26f4c3c8baac1e93a19abae027544bc11b37df03b9cd"
+      "version": "2026-07-03",
+      "published_at": "2026-07-03T05:01:53+00:00",
+      "content_hash": "4955a0ed8a668778a09cf7848c60a166bd24d23cb28b619b6586ac68c51159de"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-02T05:09:01.505957+00:00",
+      "observed_at": "2026-07-03T04:55:32.008229+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4378,
-      "market_partners": 9122,
+      "companies": 4379,
+      "market_partners": 9125,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-02T05:09:01.505957+00:00",
+      "cleaned_at": "2026-07-03T04:55:32.008229+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -13614,7 +13614,7 @@
     {
       "company_id": 57423,
       "company_uid": 665651,
-      "company_name": "Richard Gramling GmbH & Co KG"
+      "company_name": "Richard Gramling SE & Co. KG"
     },
     {
       "company_id": 59964,
@@ -20295,6 +20295,11 @@
       "company_id": 995,
       "company_uid": 660892,
       "company_name": "Westenthanner Energieversorgung GmbH"
+    },
+    {
+      "company_id": 64061,
+      "company_uid": 670268,
+      "company_name": "Westfalen Weser Energieerzeugung GmbH & Co KG"
     },
     {
       "company_id": 2813,
@@ -71534,7 +71539,7 @@
       "code_row_id": 61574,
       "company_id": 57423,
       "company_uid": 665651,
-      "company_name": "Richard Gramling GmbH & Co KG"
+      "company_name": "Richard Gramling SE & Co. KG"
     },
     {
       "bdew_code": "9980153000001",
@@ -71543,7 +71548,7 @@
       "code_row_id": 61575,
       "company_id": 57423,
       "company_uid": 665651,
-      "company_name": "Richard Gramling GmbH & Co KG"
+      "company_name": "Richard Gramling SE & Co. KG"
     },
     {
       "bdew_code": "9980155000009",
@@ -103901,6 +103906,15 @@
       "company_name": "NaCon GmbH"
     },
     {
+      "bdew_code": "9985766000000",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68386,
+      "company_id": 64044,
+      "company_uid": 670251,
+      "company_name": "Return DE Assets GmbH"
+    },
+    {
       "bdew_code": "9985767000009",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -103991,6 +104005,15 @@
       "company_name": "Höhne Breitbandtechnik Consulting"
     },
     {
+      "bdew_code": "9985777000007",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68398,
+      "company_id": 64056,
+      "company_uid": 670263,
+      "company_name": "Return DE München GmbH"
+    },
+    {
       "bdew_code": "9985778000006",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -104007,6 +104030,15 @@
       "company_id": 2764,
       "company_uid": 662650,
       "company_name": "Westlake Vinnolit GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9985780000002",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68401,
+      "company_id": 64061,
+      "company_uid": 670268,
+      "company_name": "Westfalen Weser Energieerzeugung GmbH & Co KG"
     },
     {
       "bdew_code": "9987098000005",

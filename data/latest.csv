@@ -5510,8 +5510,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9980149000007,Einsatzverantwortlicher,EIV,665648,Wenkheimer Energietechnik GbR,57420,61571
 9980150000004,Einsatzverantwortlicher,EIV,665649,Stadtwerke Melsungen,57421,61572
 9980151000003,Einsatzverantwortlicher,EIV,665650,DATEV eG,57422,61573
-9980152000002,Einsatzverantwortlicher,EIV,665651,Richard Gramling GmbH & Co KG,57423,61574
-9980153000001,Betreiber einer technischen Ressource,BTR,665651,Richard Gramling GmbH & Co KG,57423,61575
+9980152000002,Einsatzverantwortlicher,EIV,665651,Richard Gramling SE & Co. KG,57423,61574
+9980153000001,Betreiber einer technischen Ressource,BTR,665651,Richard Gramling SE & Co. KG,57423,61575
 9980155000009,Einsatzverantwortlicher,EIV,665593,geobra Brandstätter Stiftung & Co. KG,57365,61577
 9980156000008,Einsatzverantwortlicher,EIV,661376,KOS Energie GmbH,1481,61578
 9980160000002,Betreiber einer technischen Ressource,BTR,665405,CK Solarstromgemeinschaft Zschorlau UG (haftungsbeschränkt),57177,61582
@@ -9107,6 +9107,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985762000004,Bilanzkreisverantwortlicher,BKV,670248,NGEN Germany GmbH,64041,68382
 9985764000002,Bilanzkreisverantwortlicher,BKV,669778,Platinum 24 Vertrieb GmbH,61576,68384
 9985765000001,Energieserviceanbieter des Anschlussnutzers,ESA,665683,NaCon GmbH,57455,68385
+9985766000000,Lieferant,LF,670251,Return DE Assets GmbH,64044,68386
 9985767000009,Einsatzverantwortlicher,EIV,670251,Return DE Assets GmbH,64044,68387
 9985768000008,Bilanzkreisverantwortlicher,BKV,670251,Return DE Assets GmbH,64044,68388
 9985769000007,Bilanzkreisverantwortlicher,BKV,662014,Stadtwerke Emden GmbH,2124,68390
@@ -9117,7 +9118,9 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985774000000,Messstellenbetreiber,MSB,669588,metergrid GmbH,61369,68395
 9985775000009,Bilanzkreisverantwortlicher,BKV,670263,Return DE München GmbH,64056,68396
 9985776000008,Messstellenbetreiber,MSB,670264,Höhne Breitbandtechnik Consulting,64057,68397
+9985777000007,Lieferant,LF,670263,Return DE München GmbH,64056,68398
 9985778000006,Einsatzverantwortlicher,EIV,670263,Return DE München GmbH,64056,68399
 9985779000005,Netznutzer ohne All-Inklusiv-Vertrag,NN,662650,Westlake Vinnolit GmbH & Co. KG,2764,68400
+9985780000002,Einsatzverantwortlicher,EIV,670268,Westfalen Weser Energieerzeugung GmbH & Co KG,64061,68401
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
