@@ -5721,8 +5721,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9980505000005,Betreiber einer technischen Ressource,BTR,665849,SUNfarming Service und Management GmbH,57621,61929
 9980508000002,Einsatzverantwortlicher,EIV,665851,Reiner Geurden,57623,61932
 9980510000008,Betreiber einer technischen Ressource,BTR,665852,Solarius Gesellschaft mit beschränkter Haftung,57624,61934
-9980512000006,Einsatzverantwortlicher,EIV,665854,Günther Graf von Hardenberg GmbH & Co. KG,57626,61936
-9980513000005,Betreiber einer technischen Ressource,BTR,665854,Günther Graf von Hardenberg GmbH & Co. KG,57626,61937
+9980512000006,Einsatzverantwortlicher,EIV,665854,Günther Graf von Hardenberg SE & Co. KG,57626,61936
+9980513000005,Betreiber einer technischen Ressource,BTR,665854,Günther Graf von Hardenberg SE & Co. KG,57626,61937
 9980516000002,Betreiber einer technischen Ressource,BTR,665856,Thomas Margenfeld,57628,61940
 9980518000000,Betreiber einer technischen Ressource,BTR,660829,envia THERM GmbH,931,61942
 9980519000009,Betreiber einer technischen Ressource,BTR,665858,Petra Theilinger,57630,61943
@@ -9047,7 +9047,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985690000001,Bilanzkreisverantwortlicher,BKV,670139,data cybernetics ssc GmbH,63932,68307
 9985691000000,Energieserviceanbieter des Anschlussnutzers,ESA,669347,Umwelt Management Aktiengesellschaft UMaAG,61128,68308
 9985692000009,Energieserviceanbieter des Anschlussnutzers,ESA,667370,WindBauer GmbH,59142,68309
-9985693000008,Lieferant,LF,670140,Encavis Green Energy Supply GmbH,63933,68310
+9985693000008,Lieferant,LF,670140,Encavis Energy Solutions GmbH,63933,68310
 9985695000006,Bilanzkreisverantwortlicher,BKV,670141,Energy Streaming GmbH,63934,68312
 9985697000004,Messstellenbetreiber,MSB,669981,Buderus Edelstahl GmbH,62778,68314
 9985698000003,Energieserviceanbieter des Anschlussnutzers,ESA,670152,meteoviva GmbH,63945,68315
@@ -9122,5 +9122,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985778000006,Einsatzverantwortlicher,EIV,670263,Return DE München GmbH,64056,68399
 9985779000005,Netznutzer ohne All-Inklusiv-Vertrag,NN,662650,Westlake Vinnolit GmbH & Co. KG,2764,68400
 9985780000002,Einsatzverantwortlicher,EIV,670268,Westfalen Weser Energieerzeugung GmbH & Co KG,64061,68401
+9985781000001,Betreiber einer technischen Ressource,BTR,670090,Nordseecluster A GmbH & Co. KG,62887,68402
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

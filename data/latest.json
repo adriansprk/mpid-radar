@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-03",
-      "published_at": "2026-07-03T05:01:53+00:00",
-      "content_hash": "4955a0ed8a668778a09cf7848c60a166bd24d23cb28b619b6586ac68c51159de"
+      "version": "2026-07-04",
+      "published_at": "2026-07-04T04:58:37+00:00",
+      "content_hash": "8f9d03adb1ce62a86ada8bca012055a10946b3d72aed7e45db001247015a8edc"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-03T04:55:32.008229+00:00",
+      "observed_at": "2026-07-04T04:49:18.013318+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4379,
-      "market_partners": 9125,
+      "companies": 4380,
+      "market_partners": 9126,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-03T04:55:32.008229+00:00",
+      "cleaned_at": "2026-07-04T04:49:18.013318+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -4794,7 +4794,7 @@
     {
       "company_id": 63933,
       "company_uid": 670140,
-      "company_name": "Encavis Green Energy Supply GmbH"
+      "company_name": "Encavis Energy Solutions GmbH"
     },
     {
       "company_id": 721,
@@ -7809,7 +7809,7 @@
     {
       "company_id": 57626,
       "company_uid": 665854,
-      "company_name": "Günther Graf von Hardenberg GmbH & Co. KG"
+      "company_name": "Günther Graf von Hardenberg SE & Co. KG"
     },
     {
       "company_id": 57917,
@@ -11850,6 +11850,11 @@
       "company_id": 15026,
       "company_uid": 663964,
       "company_name": "Nordsee One GmbH"
+    },
+    {
+      "company_id": 62887,
+      "company_uid": 670090,
+      "company_name": "Nordseecluster A GmbH & Co. KG"
     },
     {
       "company_id": 2843,
@@ -73438,7 +73443,7 @@
       "code_row_id": 61936,
       "company_id": 57626,
       "company_uid": 665854,
-      "company_name": "Günther Graf von Hardenberg GmbH & Co. KG"
+      "company_name": "Günther Graf von Hardenberg SE & Co. KG"
     },
     {
       "bdew_code": "9980513000005",
@@ -73447,7 +73452,7 @@
       "code_row_id": 61937,
       "company_id": 57626,
       "company_uid": 665854,
-      "company_name": "Günther Graf von Hardenberg GmbH & Co. KG"
+      "company_name": "Günther Graf von Hardenberg SE & Co. KG"
     },
     {
       "bdew_code": "9980516000002",
@@ -103372,7 +103377,7 @@
       "code_row_id": 68310,
       "company_id": 63933,
       "company_uid": 670140,
-      "company_name": "Encavis Green Energy Supply GmbH"
+      "company_name": "Encavis Energy Solutions GmbH"
     },
     {
       "bdew_code": "9985695000006",
@@ -104039,6 +104044,15 @@
       "company_id": 64061,
       "company_uid": 670268,
       "company_name": "Westfalen Weser Energieerzeugung GmbH & Co KG"
+    },
+    {
+      "bdew_code": "9985781000001",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68402,
+      "company_id": 62887,
+      "company_uid": 670090,
+      "company_name": "Nordseecluster A GmbH & Co. KG"
     },
     {
       "bdew_code": "9987098000005",
