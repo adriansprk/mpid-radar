@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-04",
-      "published_at": "2026-07-04T04:58:37+00:00",
-      "content_hash": "8f9d03adb1ce62a86ada8bca012055a10946b3d72aed7e45db001247015a8edc"
+      "version": "2026-07-07",
+      "published_at": "2026-07-07T05:11:54+00:00",
+      "content_hash": "d68dfb89f3a8b96fe9de7842a785f93755125e090ddd0199cca33283a0cb8f32"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-04T04:49:18.013318+00:00",
+      "observed_at": "2026-07-07T05:05:28.509804+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4380,
-      "market_partners": 9126,
+      "companies": 4381,
+      "market_partners": 9130,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-04T04:49:18.013318+00:00",
+      "cleaned_at": "2026-07-07T05:05:28.509804+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -2940,6 +2940,11 @@
       "company_id": 56802,
       "company_uid": 665030,
       "company_name": "DS Smith Paper Deutschland GmbH"
+    },
+    {
+      "company_id": 63999,
+      "company_uid": 670206,
+      "company_name": "DSG Deutsche Stromhandelsgesellschaft mbH"
     },
     {
       "company_id": 516,
@@ -12887,6 +12892,11 @@
       "company_name": "Pyraser Landbrauerei GmbH & Co. KG"
     },
     {
+      "company_id": 64021,
+      "company_uid": 670228,
+      "company_name": "Pyrpose Energy GmbH"
+    },
+    {
       "company_id": 63996,
       "company_uid": 670203,
       "company_name": "Pöppelmann GmbH & Co. KG Kunststoffwerk-Werkzeugbau"
@@ -19855,11 +19865,6 @@
       "company_id": 58988,
       "company_uid": 667216,
       "company_name": "W. Ruhsi GmbH Gaststätteneinrichtungen und Innenausbau"
-    },
-    {
-      "company_id": 2790,
-      "company_uid": 662676,
-      "company_name": "WALTER INGENIEURE GMBH"
     },
     {
       "company_id": 59844,
@@ -36724,15 +36729,6 @@
       "company_id": 2674,
       "company_uid": 662560,
       "company_name": "Überlandwerk Leinetal G m b H"
-    },
-    {
-      "bdew_code": "9904307000005",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 6309,
-      "company_id": 2790,
-      "company_uid": 662676,
-      "company_name": "WALTER INGENIEURE GMBH"
     },
     {
       "bdew_code": "9904308000004",
@@ -103668,6 +103664,15 @@
       "company_name": "Pöppelmann GmbH & Co. KG Kunststoffwerk-Werkzeugbau"
     },
     {
+      "bdew_code": "9985731000001",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68350,
+      "company_id": 63999,
+      "company_uid": 670206,
+      "company_name": "DSG Deutsche Stromhandelsgesellschaft mbH"
+    },
+    {
       "bdew_code": "9985732000000",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -103747,6 +103752,15 @@
       "company_id": 61097,
       "company_uid": 669316,
       "company_name": "ReDirect GmbH"
+    },
+    {
+      "bdew_code": "9985744000006",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68363,
+      "company_id": 64021,
+      "company_uid": 670228,
+      "company_name": "Pyrpose Energy GmbH"
     },
     {
       "bdew_code": "9985745000005",
@@ -104053,6 +104067,33 @@
       "company_id": 62887,
       "company_uid": 670090,
       "company_name": "Nordseecluster A GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9985782000000",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68403,
+      "company_id": 2046,
+      "company_uid": 661936,
+      "company_name": "Stadtwerke Balingen"
+    },
+    {
+      "bdew_code": "9985783000009",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68404,
+      "company_id": 63999,
+      "company_uid": 670206,
+      "company_name": "DSG Deutsche Stromhandelsgesellschaft mbH"
+    },
+    {
+      "bdew_code": "9985784000008",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68405,
+      "company_id": 61634,
+      "company_uid": 669836,
+      "company_name": "Grüne Energie Osterby GmbH"
     },
     {
       "bdew_code": "9987098000005",

@@ -1642,7 +1642,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9904302000000,Messstellenbetreiber,MSB,661893,Stadtwerke Amberg Versorgungs GmbH,2003,3777
 9904303000009,Messstellenbetreiber,MSB,662228,Stadtwerke Plattling,2340,5013
 9904304000008,Lieferant,LF,662560,Überlandwerk Leinetal G m b H,2674,6091
-9904307000005,Lieferant,LF,662676,WALTER INGENIEURE GMBH,2790,6309
 9904308000004,Lieferant,LF,662187,Stadtwerke Neuffen AG,2299,4854
 9904310000000,Lieferant,LF,660473,EGF EnergieGesellschaft Frankenberg mbH,572,653
 9904311000009,Lieferant,LF,662206,Stadtwerke Norderney GmbH,2318,4918
@@ -9080,6 +9079,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985727000007,Bilanzkreisverantwortlicher,BKV,670200,dflow GmbH,63993,68346
 9985729000005,Energieserviceanbieter des Anschlussnutzers,ESA,670201,LandBeratung Mitte GmbH,63994,68348
 9985730000002,Lieferant,LF,670203,Pöppelmann GmbH & Co. KG Kunststoffwerk-Werkzeugbau,63996,68349
+9985731000001,Lieferant,LF,670206,DSG Deutsche Stromhandelsgesellschaft mbH,63999,68350
 9985732000000,Einsatzverantwortlicher,EIV,670035,Second Foundation Trading AG,62832,68351
 9985733000009,Bilanzkreisverantwortlicher,BKV,670208,Nurex ApS,64001,68352
 9985734000008,Betreiber einer technischen Ressource,BTR,670211,Max Lohse GmbH,64004,68353
@@ -9089,6 +9089,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985740000000,Lieferant,LF,670219,Vogl Günther,64012,68359
 9985741000009,Energieserviceanbieter des Anschlussnutzers,ESA,664874,amperio GmbH,54660,68360
 9985742000008,Energieserviceanbieter des Anschlussnutzers,ESA,669316,ReDirect GmbH,61097,68361
+9985744000006,Lieferant,LF,670228,Pyrpose Energy GmbH,64021,68363
 9985745000005,Energieserviceanbieter des Anschlussnutzers,ESA,666812,easyEIV GmbH,58584,68364
 9985746000004,Energieserviceanbieter des Anschlussnutzers,ESA,670229,Fischer Stromwerk GmbH,64022,68365
 9985747000003,Lieferant,LF,670038,Greenflash Energy GmbH,62835,68366
@@ -9123,5 +9124,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985779000005,Netznutzer ohne All-Inklusiv-Vertrag,NN,662650,Westlake Vinnolit GmbH & Co. KG,2764,68400
 9985780000002,Einsatzverantwortlicher,EIV,670268,Westfalen Weser Energieerzeugung GmbH & Co KG,64061,68401
 9985781000001,Betreiber einer technischen Ressource,BTR,670090,Nordseecluster A GmbH & Co. KG,62887,68402
+9985782000000,Energieserviceanbieter des Anschlussnutzers,ESA,661936,Stadtwerke Balingen,2046,68403
+9985783000009,Bilanzkreisverantwortlicher,BKV,670206,DSG Deutsche Stromhandelsgesellschaft mbH,63999,68404
+9985784000008,Bilanzkreisverantwortlicher,BKV,669836,Grüne Energie Osterby GmbH,61634,68405
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

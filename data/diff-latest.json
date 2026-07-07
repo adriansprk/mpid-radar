@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-03",
-      "published_at": "2026-07-03T05:01:53+00:00",
-      "content_hash": "4955a0ed8a668778a09cf7848c60a166bd24d23cb28b619b6586ac68c51159de"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-03T04:55:32.008229+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4379,
-      "market_partners": 9125,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-07-03T04:55:32.008229+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 115
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-07-04",
-      "published_at": "2026-07-04T04:49:18.013318+00:00",
+      "published_at": "2026-07-04T04:58:37+00:00",
       "content_hash": "8f9d03adb1ce62a86ada8bca012055a10946b3d72aed7e45db001247015a8edc"
     },
     "source": {
@@ -71,82 +35,117 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-07-07",
+      "published_at": "2026-07-07T05:05:28.509804+00:00",
+      "content_hash": "d68dfb89f3a8b96fe9de7842a785f93755125e090ddd0199cca33283a0cb8f32"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-07-07T05:05:28.509804+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4381,
+      "market_partners": 9130,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-07-07T05:05:28.509804+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 115
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985781000001",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68402,
-      "company_id": 62887,
-      "company_uid": 670090,
-      "company_name": "Nordseecluster A GmbH & Co. KG"
-    }
-  ],
-  "codes_removed": [],
-  "codes_changed": [
-    {
-      "code_row_id": 61936,
-      "bdew_code": "9980512000006",
-      "changes": {
-        "company_name": {
-          "old": "Günther Graf von Hardenberg GmbH & Co. KG",
-          "new": "Günther Graf von Hardenberg SE & Co. KG"
-        }
-      }
+      "bdew_code": "9985731000001",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68350,
+      "company_id": 63999,
+      "company_uid": 670206,
+      "company_name": "DSG Deutsche Stromhandelsgesellschaft mbH"
     },
     {
-      "code_row_id": 61937,
-      "bdew_code": "9980513000005",
-      "changes": {
-        "company_name": {
-          "old": "Günther Graf von Hardenberg GmbH & Co. KG",
-          "new": "Günther Graf von Hardenberg SE & Co. KG"
-        }
-      }
+      "bdew_code": "9985744000006",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68363,
+      "company_id": 64021,
+      "company_uid": 670228,
+      "company_name": "Pyrpose Energy GmbH"
     },
     {
-      "code_row_id": 68310,
-      "bdew_code": "9985693000008",
-      "changes": {
-        "company_name": {
-          "old": "Encavis Green Energy Supply GmbH",
-          "new": "Encavis Energy Solutions GmbH"
-        }
-      }
+      "bdew_code": "9985782000000",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68403,
+      "company_id": 2046,
+      "company_uid": 661936,
+      "company_name": "Stadtwerke Balingen"
+    },
+    {
+      "bdew_code": "9985783000009",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68404,
+      "company_id": 63999,
+      "company_uid": 670206,
+      "company_name": "DSG Deutsche Stromhandelsgesellschaft mbH"
+    },
+    {
+      "bdew_code": "9985784000008",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68405,
+      "company_id": 61634,
+      "company_uid": 669836,
+      "company_name": "Grüne Energie Osterby GmbH"
     }
   ],
+  "codes_removed": [
+    {
+      "bdew_code": "9904307000005",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 6309,
+      "company_id": 2790,
+      "company_uid": 662676,
+      "company_name": "WALTER INGENIEURE GMBH"
+    }
+  ],
+  "codes_changed": [],
   "companies_added_ids": [
-    62887
+    63999,
+    64021
   ],
-  "companies_removed_ids": [],
-  "companies_changed": [
-    {
-      "company_id": 57626,
-      "changes": {
-        "company_name": {
-          "old": "Günther Graf von Hardenberg GmbH & Co. KG",
-          "new": "Günther Graf von Hardenberg SE & Co. KG"
-        }
-      }
-    },
-    {
-      "company_id": 63933,
-      "changes": {
-        "company_name": {
-          "old": "Encavis Green Energy Supply GmbH",
-          "new": "Encavis Energy Solutions GmbH"
-        }
-      }
-    }
+  "companies_removed_ids": [
+    2790
   ],
+  "companies_changed": [],
   "summary": {
-    "codes_added": 1,
-    "codes_removed": 0,
-    "codes_changed": 3,
+    "codes_added": 5,
+    "codes_removed": 1,
+    "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 1,
-    "companies_removed": 0,
-    "companies_changed": 2
+    "companies_added": 2,
+    "companies_removed": 1,
+    "companies_changed": 0
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"
