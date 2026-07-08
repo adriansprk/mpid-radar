@@ -5506,7 +5506,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9980144000002,Einsatzverantwortlicher,EIV,665645,Stadtwerke Marienberg GmbH,57417,61566
 9980145000001,Einsatzverantwortlicher,EIV,665646,Landkreis Göttingen,57418,61567
 9980146000000,Einsatzverantwortlicher,EIV,665647,Gerhard Kreiselmeier,57419,61568
-9980149000007,Einsatzverantwortlicher,EIV,665648,Wenkheimer Energietechnik GbR,57420,61571
 9980150000004,Einsatzverantwortlicher,EIV,665649,Stadtwerke Melsungen,57421,61572
 9980151000003,Einsatzverantwortlicher,EIV,665650,DATEV eG,57422,61573
 9980152000002,Einsatzverantwortlicher,EIV,665651,Richard Gramling SE & Co. KG,57423,61574
@@ -9127,5 +9126,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985782000000,Energieserviceanbieter des Anschlussnutzers,ESA,661936,Stadtwerke Balingen,2046,68403
 9985783000009,Bilanzkreisverantwortlicher,BKV,670206,DSG Deutsche Stromhandelsgesellschaft mbH,63999,68404
 9985784000008,Bilanzkreisverantwortlicher,BKV,669836,Grüne Energie Osterby GmbH,61634,68405
+9985785000007,Energieserviceanbieter des Anschlussnutzers,ESA,670272,PEHA GmbH,64065,68406
+9985786000006,Betreiber einer technischen Ressource,BTR,670263,Return DE München GmbH,64056,68407
+9985787000005,Betreiber einer technischen Ressource,BTR,670251,Return DE Assets GmbH,64044,68408
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-04",
-      "published_at": "2026-07-04T04:58:37+00:00",
-      "content_hash": "8f9d03adb1ce62a86ada8bca012055a10946b3d72aed7e45db001247015a8edc"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-04T04:49:18.013318+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4380,
-      "market_partners": 9126,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-07-04T04:49:18.013318+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 115
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-07-07",
-      "published_at": "2026-07-07T05:05:28.509804+00:00",
+      "published_at": "2026-07-07T05:11:54+00:00",
       "content_hash": "d68dfb89f3a8b96fe9de7842a785f93755125e090ddd0199cca33283a0cb8f32"
     },
     "source": {
@@ -71,79 +35,96 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-07-08",
+      "published_at": "2026-07-08T04:30:16.835436+00:00",
+      "content_hash": "bc05276d55c5362da20c62bb990ea50f21e986b97da174c40e713d54a467a1c1"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-07-08T04:30:16.835436+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4381,
+      "market_partners": 9132,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-07-08T04:30:16.835436+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 76,
+        "codes_normalized": 114
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985731000001",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 68350,
-      "company_id": 63999,
-      "company_uid": 670206,
-      "company_name": "DSG Deutsche Stromhandelsgesellschaft mbH"
-    },
-    {
-      "bdew_code": "9985744000006",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 68363,
-      "company_id": 64021,
-      "company_uid": 670228,
-      "company_name": "Pyrpose Energy GmbH"
-    },
-    {
-      "bdew_code": "9985782000000",
+      "bdew_code": "9985785000007",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
-      "code_row_id": 68403,
-      "company_id": 2046,
-      "company_uid": 661936,
-      "company_name": "Stadtwerke Balingen"
+      "code_row_id": 68406,
+      "company_id": 64065,
+      "company_uid": 670272,
+      "company_name": "PEHA GmbH"
     },
     {
-      "bdew_code": "9985783000009",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68404,
-      "company_id": 63999,
-      "company_uid": 670206,
-      "company_name": "DSG Deutsche Stromhandelsgesellschaft mbH"
+      "bdew_code": "9985786000006",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68407,
+      "company_id": 64056,
+      "company_uid": 670263,
+      "company_name": "Return DE München GmbH"
     },
     {
-      "bdew_code": "9985784000008",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68405,
-      "company_id": 61634,
-      "company_uid": 669836,
-      "company_name": "Grüne Energie Osterby GmbH"
+      "bdew_code": "9985787000005",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68408,
+      "company_id": 64044,
+      "company_uid": 670251,
+      "company_name": "Return DE Assets GmbH"
     }
   ],
   "codes_removed": [
     {
-      "bdew_code": "9904307000005",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 6309,
-      "company_id": 2790,
-      "company_uid": 662676,
-      "company_name": "WALTER INGENIEURE GMBH"
+      "bdew_code": "9980149000007",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 61571,
+      "company_id": 57420,
+      "company_uid": 665648,
+      "company_name": "Wenkheimer Energietechnik GbR"
     }
   ],
   "codes_changed": [],
   "companies_added_ids": [
-    63999,
-    64021
+    64065
   ],
   "companies_removed_ids": [
-    2790
+    57420
   ],
   "companies_changed": [],
   "summary": {
-    "codes_added": 5,
+    "codes_added": 3,
     "codes_removed": 1,
     "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 2,
+    "companies_added": 1,
     "companies_removed": 1,
     "companies_changed": 0
   },

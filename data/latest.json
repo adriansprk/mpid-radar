@@ -2,29 +2,29 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-07",
-      "published_at": "2026-07-07T05:11:54+00:00",
-      "content_hash": "d68dfb89f3a8b96fe9de7842a785f93755125e090ddd0199cca33283a0cb8f32"
+      "version": "2026-07-08",
+      "published_at": "2026-07-08T04:39:36+00:00",
+      "content_hash": "bc05276d55c5362da20c62bb990ea50f21e986b97da174c40e713d54a467a1c1"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-07T05:05:28.509804+00:00",
+      "observed_at": "2026-07-08T04:30:16.835436+00:00",
       "filter": ""
     },
     "records": {
       "companies": 4381,
-      "market_partners": 9130,
+      "market_partners": 9132,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-07T05:05:28.509804+00:00",
+      "cleaned_at": "2026-07-08T04:30:16.835436+00:00",
       "dropped_fields": [
         "contact_name"
       ],
       "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 115
+        "companies_normalized": 76,
+        "codes_normalized": 114
       },
       "unknown_roles": [],
       "duplicate_company_names": {
@@ -12347,6 +12347,11 @@
       "company_name": "PEAK.Energy GmbH"
     },
     {
+      "company_id": 64065,
+      "company_uid": 670272,
+      "company_name": "PEHA GmbH"
+    },
+    {
       "company_id": 58732,
       "company_uid": 666960,
       "company_name": "PERI Werk Weißenhorn GmbH & Co. KG"
@@ -20220,11 +20225,6 @@
       "company_id": 57412,
       "company_uid": 665640,
       "company_name": "Wening Manfred u. Klenk Hans GbR"
-    },
-    {
-      "company_id": 57420,
-      "company_uid": 665648,
-      "company_name": "Wenkheimer Energietechnik GbR"
     },
     {
       "company_id": 58885,
@@ -71507,15 +71507,6 @@
       "company_name": "Gerhard Kreiselmeier"
     },
     {
-      "bdew_code": "9980149000007",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 61571,
-      "company_id": 57420,
-      "company_uid": 665648,
-      "company_name": "Wenkheimer Energietechnik GbR"
-    },
-    {
       "bdew_code": "9980150000004",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -104094,6 +104085,33 @@
       "company_id": 61634,
       "company_uid": 669836,
       "company_name": "Grüne Energie Osterby GmbH"
+    },
+    {
+      "bdew_code": "9985785000007",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68406,
+      "company_id": 64065,
+      "company_uid": 670272,
+      "company_name": "PEHA GmbH"
+    },
+    {
+      "bdew_code": "9985786000006",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68407,
+      "company_id": 64056,
+      "company_uid": 670263,
+      "company_name": "Return DE München GmbH"
+    },
+    {
+      "bdew_code": "9985787000005",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68408,
+      "company_id": 64044,
+      "company_uid": 670251,
+      "company_name": "Return DE Assets GmbH"
     },
     {
       "bdew_code": "9987098000005",
