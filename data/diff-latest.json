@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-07",
-      "published_at": "2026-07-07T05:11:54+00:00",
-      "content_hash": "d68dfb89f3a8b96fe9de7842a785f93755125e090ddd0199cca33283a0cb8f32"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-07T05:05:28.509804+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4381,
-      "market_partners": 9130,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-07-07T05:05:28.509804+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 115
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-07-08",
-      "published_at": "2026-07-08T04:30:16.835436+00:00",
+      "published_at": "2026-07-08T04:39:36+00:00",
       "content_hash": "bc05276d55c5362da20c62bb990ea50f21e986b97da174c40e713d54a467a1c1"
     },
     "source": {
@@ -71,61 +35,67 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-07-10",
+      "published_at": "2026-07-10T05:06:12.651340+00:00",
+      "content_hash": "b84f60648abf20deefc158617c6c8cdf0d97e91d204cb86fb5f9a0ccd9ae600f"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-07-10T05:06:12.651340+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4382,
+      "market_partners": 9133,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-07-10T05:06:12.651340+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 76,
+        "codes_normalized": 114
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985785000007",
+      "bdew_code": "9985788000004",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
-      "code_row_id": 68406,
-      "company_id": 64065,
-      "company_uid": 670272,
-      "company_name": "PEHA GmbH"
-    },
-    {
-      "bdew_code": "9985786000006",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68407,
-      "company_id": 64056,
-      "company_uid": 670263,
-      "company_name": "Return DE München GmbH"
-    },
-    {
-      "bdew_code": "9985787000005",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68408,
-      "company_id": 64044,
-      "company_uid": 670251,
-      "company_name": "Return DE Assets GmbH"
+      "code_row_id": 68409,
+      "company_id": 64067,
+      "company_uid": 670274,
+      "company_name": "white energy GmbH"
     }
   ],
-  "codes_removed": [
-    {
-      "bdew_code": "9980149000007",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 61571,
-      "company_id": 57420,
-      "company_uid": 665648,
-      "company_name": "Wenkheimer Energietechnik GbR"
-    }
-  ],
+  "codes_removed": [],
   "codes_changed": [],
   "companies_added_ids": [
-    64065
+    64067
   ],
-  "companies_removed_ids": [
-    57420
-  ],
+  "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 3,
-    "codes_removed": 1,
+    "codes_added": 1,
+    "codes_removed": 0,
     "codes_changed": 0,
     "codes_recoded": 0,
     "companies_added": 1,
-    "companies_removed": 1,
+    "companies_removed": 0,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",
