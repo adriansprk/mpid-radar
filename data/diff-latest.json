@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-08",
-      "published_at": "2026-07-08T04:39:36+00:00",
-      "content_hash": "bc05276d55c5362da20c62bb990ea50f21e986b97da174c40e713d54a467a1c1"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-08T04:30:16.835436+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4381,
-      "market_partners": 9132,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-07-08T04:30:16.835436+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 76,
-        "codes_normalized": 114
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-07-10",
-      "published_at": "2026-07-10T05:06:12.651340+00:00",
+      "published_at": "2026-07-10T05:15:29+00:00",
       "content_hash": "b84f60648abf20deefc158617c6c8cdf0d97e91d204cb86fb5f9a0ccd9ae600f"
     },
     "source": {
@@ -71,30 +35,85 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-07-11",
+      "published_at": "2026-07-11T04:25:55.985142+00:00",
+      "content_hash": "4342c57603a18675fd7ce0937edb4cd62e2874c0a671988c8b9fc17da76cd3ff"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-07-11T04:25:55.985142+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4384,
+      "market_partners": 9136,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-07-11T04:25:55.985142+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 76,
+        "codes_normalized": 115
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985788000004",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68409,
-      "company_id": 64067,
-      "company_uid": 670274,
-      "company_name": "white energy GmbH"
+      "bdew_code": "9985758000000",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68377,
+      "company_id": 64037,
+      "company_uid": 670244,
+      "company_name": "GGEW Digital GmbH"
+    },
+    {
+      "bdew_code": "9985789000003",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68410,
+      "company_id": 57802,
+      "company_uid": 666030,
+      "company_name": "Glencore Energy UK Ltd"
+    },
+    {
+      "bdew_code": "9985791000009",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68412,
+      "company_id": 64071,
+      "company_uid": 670278,
+      "company_name": "Altenberger Elektroservice GmbH"
     }
   ],
   "codes_removed": [],
   "codes_changed": [],
   "companies_added_ids": [
-    64067
+    64037,
+    64071
   ],
   "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 1,
+    "codes_added": 3,
     "codes_removed": 0,
     "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 1,
+    "companies_added": 2,
     "companies_removed": 0,
     "companies_changed": 0
   },

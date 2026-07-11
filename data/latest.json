@@ -2,29 +2,29 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-10",
-      "published_at": "2026-07-10T05:15:29+00:00",
-      "content_hash": "b84f60648abf20deefc158617c6c8cdf0d97e91d204cb86fb5f9a0ccd9ae600f"
+      "version": "2026-07-11",
+      "published_at": "2026-07-11T04:35:19+00:00",
+      "content_hash": "4342c57603a18675fd7ce0937edb4cd62e2874c0a671988c8b9fc17da76cd3ff"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-10T05:06:12.651340+00:00",
+      "observed_at": "2026-07-11T04:25:55.985142+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4382,
-      "market_partners": 9133,
+      "companies": 4384,
+      "market_partners": 9136,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-10T05:06:12.651340+00:00",
+      "cleaned_at": "2026-07-11T04:25:55.985142+00:00",
       "dropped_fields": [
         "contact_name"
       ],
       "normalization": {
         "companies_normalized": 76,
-        "codes_normalized": 114
+        "codes_normalized": 115
       },
       "unknown_roles": [],
       "duplicate_company_names": {
@@ -785,6 +785,11 @@
       "company_id": 57227,
       "company_uid": 665455,
       "company_name": "Alten- und Pflegeheim \"Blumenhain\" Jasmin Freidhof-Debes e. K."
+    },
+    {
+      "company_id": 64071,
+      "company_uid": 670278,
+      "company_name": "Altenberger Elektroservice GmbH"
     },
     {
       "company_id": 44576,
@@ -6710,6 +6715,11 @@
       "company_id": 1244,
       "company_uid": 661141,
       "company_name": "GEYER Nederland B.V."
+    },
+    {
+      "company_id": 64037,
+      "company_uid": 670244,
+      "company_name": "GGEW Digital GmbH"
     },
     {
       "company_id": 1246,
@@ -103867,6 +103877,15 @@
       "company_name": "Solar-Fachplanen GmbH"
     },
     {
+      "bdew_code": "9985758000000",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68377,
+      "company_id": 64037,
+      "company_uid": 670244,
+      "company_name": "GGEW Digital GmbH"
+    },
+    {
       "bdew_code": "9985759000009",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -104126,6 +104145,24 @@
       "company_id": 64067,
       "company_uid": 670274,
       "company_name": "white energy GmbH"
+    },
+    {
+      "bdew_code": "9985789000003",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68410,
+      "company_id": 57802,
+      "company_uid": 666030,
+      "company_name": "Glencore Energy UK Ltd"
+    },
+    {
+      "bdew_code": "9985791000009",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68412,
+      "company_id": 64071,
+      "company_uid": 670278,
+      "company_name": "Altenberger Elektroservice GmbH"
     },
     {
       "bdew_code": "9987098000005",
