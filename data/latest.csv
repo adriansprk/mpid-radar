@@ -5111,7 +5111,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9979450000004,Messstellenbetreiber,MSB,665156,BlueMetering GmbH,56928,60841
 9979451000003,Messstellenbetreiber,MSB,665157,BRUNATA Wärmemesser Hagen GmbH & Co. KG,56929,60842
 9979452000002,Messstellenbetreiber,MSB,665158,BRUNATA-METRONA GmbH,56930,60843
-9979453000001,Messstellenbetreiber,MSB,660565,Elektrizitätswerke Schönau Vertriebs GmbH,665,60844
 9979454000000,Energieserviceanbieter des Anschlussnutzers,ESA,662821,Enportal GmbH,2936,60845
 9979455000009,Betreiber einer technischen Ressource,BTR,660300,BYTE MEE Softwareentwicklung GmbH,399,60846
 9979456000008,Energieserviceanbieter des Anschlussnutzers,ESA,665161,VORN Bioenergy GmbH,56933,60848
@@ -9133,5 +9132,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985788000004,Energieserviceanbieter des Anschlussnutzers,ESA,670274,white energy GmbH,64067,68409
 9985789000003,Lieferant,LF,666030,Glencore Energy UK Ltd,57802,68410
 9985791000009,Messstellenbetreiber,MSB,670278,Altenberger Elektroservice GmbH,64071,68412
+9985793000007,Einsatzverantwortlicher,EIV,670204,Windanker GmbH,63997,68414
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
