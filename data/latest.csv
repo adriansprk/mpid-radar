@@ -9133,5 +9133,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985789000003,Lieferant,LF,666030,Glencore Energy UK Ltd,57802,68410
 9985791000009,Messstellenbetreiber,MSB,670278,Altenberger Elektroservice GmbH,64071,68412
 9985793000007,Einsatzverantwortlicher,EIV,670204,Windanker GmbH,63997,68414
+9985794000006,Data Provider,DP,670279,EnergieDock GmbH,64072,68415
+9985795000005,Einsatzverantwortlicher,EIV,666030,Glencore Energy UK Ltd,57802,68416
+9985796000004,Betreiber einer technischen Ressource,BTR,666030,Glencore Energy UK Ltd,57802,68417
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

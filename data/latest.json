@@ -2,29 +2,29 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-14",
-      "published_at": "2026-07-14T04:23:34+00:00",
-      "content_hash": "a8f3f1f527a6cc81d1d72415bf67772d8603d9ad850e1aa365ec218769cdb65c"
+      "version": "2026-07-15",
+      "published_at": "2026-07-15T04:23:09+00:00",
+      "content_hash": "d45924c1eaa40776c5cc70c7df770dda09ed7d7104fd95b2383a188e7b4b2164"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-14T04:16:00.122186+00:00",
+      "observed_at": "2026-07-15T04:15:43.838623+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4385,
-      "market_partners": 9136,
+      "companies": 4386,
+      "market_partners": 9139,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-14T04:16:00.122186+00:00",
+      "cleaned_at": "2026-07-15T04:15:43.838623+00:00",
       "dropped_fields": [
         "contact_name"
       ],
       "normalization": {
         "companies_normalized": 77,
-        "codes_normalized": 116
+        "codes_normalized": 118
       },
       "unknown_roles": [],
       "duplicate_company_names": {
@@ -5105,6 +5105,11 @@
       "company_id": 779,
       "company_uid": 660678,
       "company_name": "Energie2, a.s."
+    },
+    {
+      "company_id": 64072,
+      "company_uid": 670279,
+      "company_name": "EnergieDock GmbH"
     },
     {
       "company_id": 23383,
@@ -104168,6 +104173,33 @@
       "company_id": 63997,
       "company_uid": 670204,
       "company_name": "Windanker GmbH"
+    },
+    {
+      "bdew_code": "9985794000006",
+      "market_function": "Data Provider",
+      "role_code": "DP",
+      "code_row_id": 68415,
+      "company_id": 64072,
+      "company_uid": 670279,
+      "company_name": "EnergieDock GmbH"
+    },
+    {
+      "bdew_code": "9985795000005",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68416,
+      "company_id": 57802,
+      "company_uid": 666030,
+      "company_name": "Glencore Energy UK Ltd"
+    },
+    {
+      "bdew_code": "9985796000004",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68417,
+      "company_id": 57802,
+      "company_uid": 666030,
+      "company_name": "Glencore Energy UK Ltd"
     },
     {
       "bdew_code": "9987098000005",
