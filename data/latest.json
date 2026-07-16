@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-15",
-      "published_at": "2026-07-15T04:23:09+00:00",
-      "content_hash": "d45924c1eaa40776c5cc70c7df770dda09ed7d7104fd95b2383a188e7b4b2164"
+      "version": "2026-07-16",
+      "published_at": "2026-07-16T04:32:48+00:00",
+      "content_hash": "b9e275ab548fc36eeffead9ea064284ad441ee6d22f437c997abe99919ba07a6"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-15T04:15:43.838623+00:00",
+      "observed_at": "2026-07-16T04:23:52.008394+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4386,
-      "market_partners": 9139,
+      "companies": 4385,
+      "market_partners": 9137,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-15T04:15:43.838623+00:00",
+      "cleaned_at": "2026-07-16T04:23:52.008394+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -7597,11 +7597,6 @@
       "company_name": "Green Planet Energy eG"
     },
     {
-      "company_id": 1796,
-      "company_uid": 661688,
-      "company_name": "Green Planet Projects GmbH"
-    },
-    {
       "company_id": 60442,
       "company_uid": 668661,
       "company_name": "Green Planet Solutions GmbH & Co. KG"
@@ -10475,6 +10470,11 @@
       "company_id": 1617,
       "company_uid": 661511,
       "company_name": "MEGA Monheimer Elektrizitäts- und Gasversorgung GmbH"
+    },
+    {
+      "company_id": 64076,
+      "company_uid": 670283,
+      "company_name": "MEGGLE Bakery GmbH"
     },
     {
       "company_id": 59904,
@@ -19855,11 +19855,6 @@
       "company_id": 61586,
       "company_uid": 669788,
       "company_name": "Vonovia Energie GmbH"
-    },
-    {
-      "company_id": 17085,
-      "company_uid": 664032,
-      "company_name": "Vonovia Energie Service GmbH"
     },
     {
       "company_id": 2776,
@@ -54171,15 +54166,6 @@
       "company_name": "Elektrizitätsgenossenschaft Oesterweg eG"
     },
     {
-      "bdew_code": "9910817000005",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 3374,
-      "company_id": 1796,
-      "company_uid": 661688,
-      "company_name": "Green Planet Projects GmbH"
-    },
-    {
       "bdew_code": "9910818000004",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -59472,15 +59458,6 @@
       "company_name": "Stadtwerke Metzingen - Eigenbetrieb der Stadt Metzingen"
     },
     {
-      "bdew_code": "9977901000002",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 7716,
-      "company_id": 1796,
-      "company_uid": 661688,
-      "company_name": "Green Planet Projects GmbH"
-    },
-    {
       "bdew_code": "9977905000008",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -61407,15 +61384,6 @@
       "company_name": "Gasversorgung Pforzheim Land GmbH"
     },
     {
-      "bdew_code": "9978373000000",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 23123,
-      "company_id": 17085,
-      "company_uid": 664032,
-      "company_name": "Vonovia Energie Service GmbH"
-    },
-    {
       "bdew_code": "9978374000009",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -61627,9 +61595,9 @@
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
       "code_row_id": 24157,
-      "company_id": 17085,
-      "company_uid": 664032,
-      "company_name": "Vonovia Energie Service GmbH"
+      "company_id": 61586,
+      "company_uid": 669788,
+      "company_name": "Vonovia Energie GmbH"
     },
     {
       "bdew_code": "9978415000009",
@@ -104200,6 +104168,15 @@
       "company_id": 57802,
       "company_uid": 666030,
       "company_name": "Glencore Energy UK Ltd"
+    },
+    {
+      "bdew_code": "9985799000001",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68420,
+      "company_id": 64076,
+      "company_uid": 670283,
+      "company_name": "MEGGLE Bakery GmbH"
     },
     {
       "bdew_code": "9987098000005",

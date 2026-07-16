@@ -3577,7 +3577,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9910810000002,Bilanzkreisverantwortlicher,BKV,662111,Stadtwerke Itzehoe GmbH,2223,4574
 9910812000000,Messstellenbetreiber,MSB,662117,Stadtwerke Karlsruhe Netzservice GmbH,2229,4594
 9910814000008,Messstellenbetreiber,MSB,660517,Elektrizitätsgenossenschaft Oesterweg eG,617,776
-9910817000005,Lieferant,LF,661688,Green Planet Projects GmbH,1796,3374
 9910818000004,Bilanzkreisverantwortlicher,BKV,661992,Stadtwerke Dillingen/Saar Netzgesellschaft mbH,2102,4127
 9910820000000,Messstellenbetreiber,MSB,661733,Regensburg Netz GmbH,1841,3444
 9910824000006,Messstellenbetreiber,MSB,661072,Gemeindewerke Nümbrecht GmbH,1175,2115
@@ -4166,7 +4165,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9977897000009,Netznutzer ohne All-Inklusiv-Vertrag,NN,663423,BITBURGER BRAUGRUPPE GmbH,3556,7712
 9977898000008,Lieferant,LF,663424,Energiehof Schmalfeld UG (haftungsbeschränkt) & Co.KG,3557,7713
 9977899000007,Bilanzkreisverantwortlicher,BKV,660082,Stadtwerke Metzingen - Eigenbetrieb der Stadt Metzingen,167,7714
-9977901000002,Bilanzkreisverantwortlicher,BKV,661688,Green Planet Projects GmbH,1796,7716
 9977905000008,Bilanzkreisverantwortlicher,BKV,662020,Stadtwerke Eppingen GmbH & Co. KG,2130,7720
 9977907000006,Einsatzverantwortlicher,EIV,663433,Aperam Stainless Services & Solutions Germany GmbH,3566,7722
 9977910000001,Netznutzer ohne All-Inklusiv-Vertrag,NN,662412,Model Sachsen Papier GmbH,2524,7725
@@ -4381,7 +4379,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9978370000003,Bilanzkreisverantwortlicher,BKV,664030,Sorgenia Trading S.p.A.,17083,23120
 9978371000002,Lieferant,LF,663384,ESB Wärme GmbH,3517,23121
 9978372000001,Lieferant,LF,664027,Gasversorgung Pforzheim Land GmbH,17080,23122
-9978373000000,Lieferant,LF,664032,Vonovia Energie Service GmbH,17085,23123
 9978374000009,Bilanzkreisverantwortlicher,BKV,663969,Meteo Logic Ltd.,15031,24116
 9978375000008,Einsatzverantwortlicher,EIV,661394,K+S Minerals and Agriculture GmbH,1500,24117
 9978377000006,Lieferant,LF,664041,HKG Energiedienstleistungen GmbH,19091,24119
@@ -4405,7 +4402,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9978409000007,Bilanzkreisverantwortlicher,BKV,660674,Energie und Wasserversorgung Bonn/Rhein-Sieg GmbH (EnW Bonn/Rhein-Sieg),775,24153
 9978411000003,Lieferant,LF,664075,Octopus Energy Germany GmbH,19125,24155
 9978412000002,Bilanzkreisverantwortlicher,BKV,661656,Osterholzer Stadtwerke GmbH & Co. KG,1764,24156
-9978413000001,Bilanzkreisverantwortlicher,BKV,664032,Vonovia Energie Service GmbH,17085,24157
+9978413000001,Bilanzkreisverantwortlicher,BKV,669788,Vonovia Energie GmbH,61586,24157
 9978415000009,Bilanzkreisverantwortlicher,BKV,664087,DIG Deutsche Industriegas GmbH,19137,24159
 9978416000008,Lieferant,LF,664087,DIG Deutsche Industriegas GmbH,19137,24160
 9978417000007,Netznutzer ohne All-Inklusiv-Vertrag,NN,664089,Stahl Windkraft und Immobilien Verwaltungs GmbH,19139,24161
@@ -9136,5 +9133,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985794000006,Data Provider,DP,670279,EnergieDock GmbH,64072,68415
 9985795000005,Einsatzverantwortlicher,EIV,666030,Glencore Energy UK Ltd,57802,68416
 9985796000004,Betreiber einer technischen Ressource,BTR,666030,Glencore Energy UK Ltd,57802,68417
+9985799000001,Betreiber einer technischen Ressource,BTR,670283,MEGGLE Bakery GmbH,64076,68420
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

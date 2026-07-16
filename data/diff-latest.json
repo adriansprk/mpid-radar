@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-14",
-      "published_at": "2026-07-14T04:23:34+00:00",
-      "content_hash": "a8f3f1f527a6cc81d1d72415bf67772d8603d9ad850e1aa365ec218769cdb65c"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-14T04:16:00.122186+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4385,
-      "market_partners": 9136,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-07-14T04:16:00.122186+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 116
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-07-15",
-      "published_at": "2026-07-15T04:15:43.838623+00:00",
+      "published_at": "2026-07-15T04:23:09+00:00",
       "content_hash": "d45924c1eaa40776c5cc70c7df770dda09ed7d7104fd95b2383a188e7b4b2164"
     },
     "source": {
@@ -71,49 +35,113 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-07-16",
+      "published_at": "2026-07-16T04:23:52.008394+00:00",
+      "content_hash": "b9e275ab548fc36eeffead9ea064284ad441ee6d22f437c997abe99919ba07a6"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-07-16T04:23:52.008394+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4385,
+      "market_partners": 9137,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-07-16T04:23:52.008394+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985794000006",
-      "market_function": "Data Provider",
-      "role_code": "DP",
-      "code_row_id": 68415,
-      "company_id": 64072,
-      "company_uid": 670279,
-      "company_name": "EnergieDock GmbH"
-    },
-    {
-      "bdew_code": "9985795000005",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 68416,
-      "company_id": 57802,
-      "company_uid": 666030,
-      "company_name": "Glencore Energy UK Ltd"
-    },
-    {
-      "bdew_code": "9985796000004",
+      "bdew_code": "9985799000001",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
-      "code_row_id": 68417,
-      "company_id": 57802,
-      "company_uid": 666030,
-      "company_name": "Glencore Energy UK Ltd"
+      "code_row_id": 68420,
+      "company_id": 64076,
+      "company_uid": 670283,
+      "company_name": "MEGGLE Bakery GmbH"
     }
   ],
-  "codes_removed": [],
-  "codes_changed": [],
-  "companies_added_ids": [
-    64072
+  "codes_removed": [
+    {
+      "bdew_code": "9978373000000",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 23123,
+      "company_id": 17085,
+      "company_uid": 664032,
+      "company_name": "Vonovia Energie Service GmbH"
+    },
+    {
+      "bdew_code": "9910817000005",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 3374,
+      "company_id": 1796,
+      "company_uid": 661688,
+      "company_name": "Green Planet Projects GmbH"
+    },
+    {
+      "bdew_code": "9977901000002",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 7716,
+      "company_id": 1796,
+      "company_uid": 661688,
+      "company_name": "Green Planet Projects GmbH"
+    }
   ],
-  "companies_removed_ids": [],
+  "codes_changed": [
+    {
+      "code_row_id": 24157,
+      "bdew_code": "9978413000001",
+      "changes": {
+        "company_uid": {
+          "old": 664032,
+          "new": 669788
+        },
+        "company_name": {
+          "old": "Vonovia Energie Service GmbH",
+          "new": "Vonovia Energie GmbH"
+        }
+      }
+    }
+  ],
+  "companies_added_ids": [
+    64076
+  ],
+  "companies_removed_ids": [
+    1796,
+    17085
+  ],
   "companies_changed": [],
   "summary": {
-    "codes_added": 3,
-    "codes_removed": 0,
-    "codes_changed": 0,
+    "codes_added": 1,
+    "codes_removed": 3,
+    "codes_changed": 1,
     "codes_recoded": 0,
     "companies_added": 1,
-    "companies_removed": 0,
+    "companies_removed": 2,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",
