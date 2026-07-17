@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-15",
-      "published_at": "2026-07-15T04:23:09+00:00",
-      "content_hash": "d45924c1eaa40776c5cc70c7df770dda09ed7d7104fd95b2383a188e7b4b2164"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-15T04:15:43.838623+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4386,
-      "market_partners": 9139,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-07-15T04:15:43.838623+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-07-16",
-      "published_at": "2026-07-16T04:23:52.008394+00:00",
+      "published_at": "2026-07-16T04:32:48+00:00",
       "content_hash": "b9e275ab548fc36eeffead9ea064284ad441ee6d22f437c997abe99919ba07a6"
     },
     "source": {
@@ -71,77 +35,67 @@
       }
     }
   },
-  "codes_added": [
-    {
-      "bdew_code": "9985799000001",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68420,
-      "company_id": 64076,
-      "company_uid": 670283,
-      "company_name": "MEGGLE Bakery GmbH"
-    }
-  ],
-  "codes_removed": [
-    {
-      "bdew_code": "9978373000000",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 23123,
-      "company_id": 17085,
-      "company_uid": 664032,
-      "company_name": "Vonovia Energie Service GmbH"
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-07-17",
+      "published_at": "2026-07-17T04:22:42.859306+00:00",
+      "content_hash": "58654c2baf1dd947119804c91a24fe8be038292fac1f4d9d93c12bff6a9fd63d"
     },
-    {
-      "bdew_code": "9910817000005",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 3374,
-      "company_id": 1796,
-      "company_uid": 661688,
-      "company_name": "Green Planet Projects GmbH"
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-07-17T04:22:42.859306+00:00",
+      "filter": ""
     },
-    {
-      "bdew_code": "9977901000002",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 7716,
-      "company_id": 1796,
-      "company_uid": 661688,
-      "company_name": "Green Planet Projects GmbH"
-    }
-  ],
-  "codes_changed": [
-    {
-      "code_row_id": 24157,
-      "bdew_code": "9978413000001",
-      "changes": {
-        "company_uid": {
-          "old": 664032,
-          "new": 669788
-        },
-        "company_name": {
-          "old": "Vonovia Energie Service GmbH",
-          "new": "Vonovia Energie GmbH"
-        }
+    "records": {
+      "companies": 4386,
+      "market_partners": 9138,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-07-17T04:22:42.859306+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
       }
     }
+  },
+  "codes_added": [
+    {
+      "bdew_code": "9985800000007",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68421,
+      "company_id": 64077,
+      "company_uid": 670284,
+      "company_name": "Stadt Quickborn"
+    }
   ],
+  "codes_removed": [],
+  "codes_changed": [],
   "companies_added_ids": [
-    64076
+    64077
   ],
-  "companies_removed_ids": [
-    1796,
-    17085
-  ],
+  "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
     "codes_added": 1,
-    "codes_removed": 3,
-    "codes_changed": 1,
+    "codes_removed": 0,
+    "codes_changed": 0,
     "codes_recoded": 0,
     "companies_added": 1,
-    "companies_removed": 2,
+    "companies_removed": 0,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",

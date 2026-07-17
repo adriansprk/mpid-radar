@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-16",
-      "published_at": "2026-07-16T04:32:48+00:00",
-      "content_hash": "b9e275ab548fc36eeffead9ea064284ad441ee6d22f437c997abe99919ba07a6"
+      "version": "2026-07-17",
+      "published_at": "2026-07-17T04:30:02+00:00",
+      "content_hash": "58654c2baf1dd947119804c91a24fe8be038292fac1f4d9d93c12bff6a9fd63d"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-16T04:23:52.008394+00:00",
+      "observed_at": "2026-07-17T04:22:42.859306+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4385,
-      "market_partners": 9137,
+      "companies": 4386,
+      "market_partners": 9138,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-16T04:23:52.008394+00:00",
+      "cleaned_at": "2026-07-17T04:22:42.859306+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -15310,6 +15310,11 @@
       "company_id": 59925,
       "company_uid": 668144,
       "company_name": "Stadt Parsberg"
+    },
+    {
+      "company_id": 64077,
+      "company_uid": 670284,
+      "company_name": "Stadt Quickborn"
     },
     {
       "company_id": 58238,
@@ -104177,6 +104182,15 @@
       "company_id": 64076,
       "company_uid": 670283,
       "company_name": "MEGGLE Bakery GmbH"
+    },
+    {
+      "bdew_code": "9985800000007",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68421,
+      "company_id": 64077,
+      "company_uid": 670284,
+      "company_name": "Stadt Quickborn"
     },
     {
       "bdew_code": "9987098000005",
