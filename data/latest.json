@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-18",
-      "published_at": "2026-07-18T04:21:17+00:00",
-      "content_hash": "832fdd4f8a74fe3df89080e8a288553d703ddc30715651b576ee3364b7495c47"
+      "version": "2026-07-21",
+      "published_at": "2026-07-21T04:36:53+00:00",
+      "content_hash": "e692421b31d98f9685b763e577e625ac6b760ada9ac8e0a0112f048e0282f267"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-18T04:12:18.172830+00:00",
+      "observed_at": "2026-07-21T04:29:19.187051+00:00",
       "filter": ""
     },
     "records": {
       "companies": 4387,
-      "market_partners": 9140,
+      "market_partners": 9141,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-18T04:12:18.172830+00:00",
+      "cleaned_at": "2026-07-21T04:29:19.187051+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -104214,6 +104214,15 @@
       "company_id": 64069,
       "company_uid": 670276,
       "company_name": "Cloover Energy GmbH"
+    },
+    {
+      "bdew_code": "9985804000003",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68425,
+      "company_id": 1901,
+      "company_uid": 661792,
+      "company_name": "RWE Supply & Trading GmbH"
     },
     {
       "bdew_code": "9987098000005",

@@ -9137,5 +9137,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985800000007,Betreiber einer technischen Ressource,BTR,670284,Stadt Quickborn,64077,68421
 9985801000006,Lieferant,LF,664712,Unigy GmbH,45575,68422
 9985803000004,Bilanzkreisverantwortlicher,BKV,670276,Cloover Energy GmbH,64069,68424
+9985804000003,Energieserviceanbieter des Anschlussnutzers,ESA,661792,RWE Supply & Trading GmbH,1901,68425
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
