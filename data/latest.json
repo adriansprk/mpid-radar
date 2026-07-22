@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-21",
-      "published_at": "2026-07-21T04:36:53+00:00",
-      "content_hash": "e692421b31d98f9685b763e577e625ac6b760ada9ac8e0a0112f048e0282f267"
+      "version": "2026-07-22",
+      "published_at": "2026-07-22T04:41:14+00:00",
+      "content_hash": "69271771ec23d1113ffcff3e09d0daabf65f055291df3d12de650dfaddbdec7d"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-21T04:29:19.187051+00:00",
+      "observed_at": "2026-07-22T04:32:09.547948+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4387,
-      "market_partners": 9141,
+      "companies": 4386,
+      "market_partners": 9139,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-21T04:29:19.187051+00:00",
+      "cleaned_at": "2026-07-22T04:32:09.547948+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -2830,11 +2830,6 @@
       "company_id": 57211,
       "company_uid": 665439,
       "company_name": "D&K Solutions Solar GbR"
-    },
-    {
-      "company_id": 59442,
-      "company_uid": 667670,
-      "company_name": "D. Bruns Service GmbH"
     },
     {
       "company_id": 58256,
@@ -7735,6 +7730,11 @@
       "company_id": 1275,
       "company_uid": 661172,
       "company_name": "Grünstrom Energie Allgäu GmbH & Co. KG"
+    },
+    {
+      "company_id": 2532,
+      "company_uid": 662420,
+      "company_name": "Grünwelt Energie Stromversorgungsgesellschaft mbH"
     },
     {
       "company_id": 3460,
@@ -18290,11 +18290,6 @@
       "company_id": 61464,
       "company_uid": 669683,
       "company_name": "Stromify GmbH"
-    },
-    {
-      "company_id": 2532,
-      "company_uid": 662420,
-      "company_name": "Stromio GmbH"
     },
     {
       "company_id": 41546,
@@ -38837,7 +38832,7 @@
       "code_row_id": 5712,
       "company_id": 2532,
       "company_uid": 662420,
-      "company_name": "Stromio GmbH"
+      "company_name": "Grünwelt Energie Stromversorgungsgesellschaft mbH"
     },
     {
       "bdew_code": "9904858000009",
@@ -56027,7 +56022,7 @@
       "code_row_id": 5711,
       "company_id": 2532,
       "company_uid": 662420,
-      "company_name": "Stromio GmbH"
+      "company_name": "Grünwelt Energie Stromversorgungsgesellschaft mbH"
     },
     {
       "bdew_code": "9911358000009",
@@ -89636,15 +89631,6 @@
       "company_name": "PV-Energie Eichenseer GbR"
     },
     {
-      "bdew_code": "9983612000009",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 65083,
-      "company_id": 59442,
-      "company_uid": 667670,
-      "company_name": "D. Bruns Service GmbH"
-    },
-    {
       "bdew_code": "9983614000007",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -89931,15 +89917,6 @@
       "company_id": 56875,
       "company_uid": 665103,
       "company_name": "MET GERMANY GmbH"
-    },
-    {
-      "bdew_code": "9983694000001",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 65166,
-      "company_id": 59442,
-      "company_uid": 667670,
-      "company_name": "D. Bruns Service GmbH"
     },
     {
       "bdew_code": "9983695000000",

@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-18",
-      "published_at": "2026-07-18T04:21:17+00:00",
-      "content_hash": "832fdd4f8a74fe3df89080e8a288553d703ddc30715651b576ee3364b7495c47"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-18T04:12:18.172830+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4387,
-      "market_partners": 9140,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-07-18T04:12:18.172830+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-07-21",
-      "published_at": "2026-07-21T04:29:19.187051+00:00",
+      "published_at": "2026-07-21T04:36:53+00:00",
       "content_hash": "e692421b31d98f9685b763e577e625ac6b760ada9ac8e0a0112f048e0282f267"
     },
     "source": {
@@ -71,30 +35,108 @@
       }
     }
   },
-  "codes_added": [
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-07-22",
+      "published_at": "2026-07-22T04:32:09.547948+00:00",
+      "content_hash": "69271771ec23d1113ffcff3e09d0daabf65f055291df3d12de650dfaddbdec7d"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-07-22T04:32:09.547948+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4386,
+      "market_partners": 9139,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-07-22T04:32:09.547948+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
+  "codes_added": [],
+  "codes_removed": [
     {
-      "bdew_code": "9985804000003",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68425,
-      "company_id": 1901,
-      "company_uid": 661792,
-      "company_name": "RWE Supply & Trading GmbH"
+      "bdew_code": "9983612000009",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 65083,
+      "company_id": 59442,
+      "company_uid": 667670,
+      "company_name": "D. Bruns Service GmbH"
+    },
+    {
+      "bdew_code": "9983694000001",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 65166,
+      "company_id": 59442,
+      "company_uid": 667670,
+      "company_name": "D. Bruns Service GmbH"
     }
   ],
-  "codes_removed": [],
-  "codes_changed": [],
+  "codes_changed": [
+    {
+      "code_row_id": 5711,
+      "bdew_code": "9911354000003",
+      "changes": {
+        "company_name": {
+          "old": "Stromio GmbH",
+          "new": "Grünwelt Energie Stromversorgungsgesellschaft mbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 5712,
+      "bdew_code": "9904857000000",
+      "changes": {
+        "company_name": {
+          "old": "Stromio GmbH",
+          "new": "Grünwelt Energie Stromversorgungsgesellschaft mbH"
+        }
+      }
+    }
+  ],
   "companies_added_ids": [],
-  "companies_removed_ids": [],
-  "companies_changed": [],
+  "companies_removed_ids": [
+    59442
+  ],
+  "companies_changed": [
+    {
+      "company_id": 2532,
+      "changes": {
+        "company_name": {
+          "old": "Stromio GmbH",
+          "new": "Grünwelt Energie Stromversorgungsgesellschaft mbH"
+        }
+      }
+    }
+  ],
   "summary": {
-    "codes_added": 1,
-    "codes_removed": 0,
-    "codes_changed": 0,
+    "codes_added": 0,
+    "codes_removed": 2,
+    "codes_changed": 2,
     "codes_recoded": 0,
     "companies_added": 0,
-    "companies_removed": 0,
-    "companies_changed": 0
+    "companies_removed": 1,
+    "companies_changed": 1
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

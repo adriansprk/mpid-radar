@@ -1872,7 +1872,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9904849000000,Messstellenbetreiber,MSB,664477,Stadtwerke Rastatt GmbH,30444,5657
 9904854000003,Messstellenbetreiber,MSB,661117,GeraNetz GmbH,1220,2244
 9904856000001,Messstellenbetreiber,MSB,661763,Rheinhessische Energie- und Wasserversorgungs-Gesellschaft mit beschränkter Haftung,1871,3500
-9904857000000,Lieferant,LF,662420,Stromio GmbH,2532,5712
+9904857000000,Lieferant,LF,662420,Grünwelt Energie Stromversorgungsgesellschaft mbH,2532,5712
 9904858000009,Messstellenbetreiber,MSB,662678,EnBW Energy Factory GmbH,2792,6312
 9904859000008,Lieferant,LF,660696,energiehoch3 GmbH,797,1174
 9904863000002,Lieferant,LF,661778,RSE Rheinisch-Schwäbische Energie GmbH,1887,3534
@@ -3782,7 +3782,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9911347000002,Bilanzkreisverantwortlicher,BKV,662710,Wind Line,2825,6381
 9911350000007,Lieferant,LF,660620,endanet GmbH,720,1028
 9911353000004,Lieferant,LF,660221,Behrenswerth Energieservice GmbH,318,199
-9911354000003,Bilanzkreisverantwortlicher,BKV,662420,Stromio GmbH,2532,5711
+9911354000003,Bilanzkreisverantwortlicher,BKV,662420,Grünwelt Energie Stromversorgungsgesellschaft mbH,2532,5711
 9911358000009,Lieferant,LF,661261,ImmoTherm GmbH,1365,2544
 9911360000005,Lieferant,LF,660265,BOREAS Strom GmbH,364,277
 9911363000002,Messstellenbetreiber,MSB,660273,Braunschweiger Netz GmbH,372,288
@@ -7517,7 +7517,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9983600000003,Betreiber einer technischen Ressource,BTR,667772,enercity Erneuerbare GmbH,59544,65071
 9983604000009,Einsatzverantwortlicher,EIV,667776,Cetto Kunststoffverarbeitung GmbH,59548,65075
 9983608000005,Einsatzverantwortlicher,EIV,667779,PV-Energie Eichenseer GbR,59551,65079
-9983612000009,Betreiber einer technischen Ressource,BTR,667670,D. Bruns Service GmbH,59442,65083
 9983614000007,Einsatzverantwortlicher,EIV,661657,OsthessenNetz GmbH,1765,65085
 9983615000006,Betreiber einer technischen Ressource,BTR,661657,OsthessenNetz GmbH,1765,65086
 9983619000002,Einsatzverantwortlicher,EIV,665467,Rosemarie Schneller-Müller,57239,65090
@@ -7550,7 +7549,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9983689000008,Einsatzverantwortlicher,EIV,667843,bioFrische GmbH,59615,65161
 9983690000005,Einsatzverantwortlicher,EIV,667816,Müller Elmau Gesellschaft mit beschränkter Haftung,59588,65162
 9983692000003,Bilanzkreisverantwortlicher,BKV,665103,MET GERMANY GmbH,56875,65164
-9983694000001,Einsatzverantwortlicher,EIV,667670,D. Bruns Service GmbH,59442,65166
 9983695000000,Einsatzverantwortlicher,EIV,667845,"Agrargenossenschaft ""MAVEK"" eG",59617,65167
 9983698000007,Einsatzverantwortlicher,EIV,667848,Airbus Defence and Space GmbH,59620,65170
 9983699000006,Betreiber einer technischen Ressource,BTR,667539,TennisSport Westerbeck GmbH,59311,65171
