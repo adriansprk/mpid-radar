@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-22",
-      "published_at": "2026-07-22T04:41:14+00:00",
-      "content_hash": "69271771ec23d1113ffcff3e09d0daabf65f055291df3d12de650dfaddbdec7d"
+      "version": "2026-07-24",
+      "published_at": "2026-07-24T04:36:16+00:00",
+      "content_hash": "488642c0a92741d3c210e0c9f8bb0a55796093daf8b15893e33d322d124be644"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-22T04:32:09.547948+00:00",
+      "observed_at": "2026-07-24T04:29:53.116317+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4386,
-      "market_partners": 9139,
+      "companies": 4387,
+      "market_partners": 9135,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-22T04:32:09.547948+00:00",
+      "cleaned_at": "2026-07-24T04:29:53.116317+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -7877,11 +7877,6 @@
       "company_name": "HEB Hydraulik - Elementebau Gesellschaft mit beschränkter Haftung"
     },
     {
-      "company_id": 60894,
-      "company_uid": 669113,
-      "company_name": "HEG Energie GmbH & Co. KG"
-    },
-    {
       "company_id": 59747,
       "company_uid": 667966,
       "company_name": "HEGE Verwaltungs GmbH"
@@ -11607,6 +11602,11 @@
       "company_name": "Nedschroef Altena GmbH"
     },
     {
+      "company_id": 64084,
+      "company_uid": 670291,
+      "company_name": "Neoen Speicher 6 GmbH & Co. KG"
+    },
+    {
       "company_id": 57311,
       "company_uid": 665539,
       "company_name": "Neppel Photovoltaik"
@@ -12190,6 +12190,11 @@
       "company_id": 60498,
       "company_uid": 668717,
       "company_name": "Online Logistic Solution GmbH"
+    },
+    {
+      "company_id": 50623,
+      "company_uid": 664815,
+      "company_name": "Onyx Germany GmbH"
     },
     {
       "company_id": 1103,
@@ -48645,15 +48650,6 @@
       "company_name": "Kommunalunternehmen Leutershausen"
     },
     {
-      "bdew_code": "9907093000008",
-      "market_function": "Netzbetreiber",
-      "role_code": "NB",
-      "code_row_id": 2087,
-      "company_id": 3344,
-      "company_uid": 663214,
-      "company_name": "Gemeindewerke Markt Lichtenau"
-    },
-    {
       "bdew_code": "9907096000005",
       "market_function": "Netzbetreiber",
       "role_code": "NB",
@@ -51964,15 +51960,6 @@
       "company_id": 820,
       "company_uid": 660719,
       "company_name": "Energieversorgung Bad Boll GmbH"
-    },
-    {
-      "bdew_code": "9910259000001",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 2090,
-      "company_id": 3344,
-      "company_uid": 663214,
-      "company_name": "Gemeindewerke Markt Lichtenau"
     },
     {
       "bdew_code": "9910262000006",
@@ -100431,15 +100418,6 @@
       "company_name": "neugemacht GmbH"
     },
     {
-      "bdew_code": "9985333000003",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 66915,
-      "company_id": 60894,
-      "company_uid": 669113,
-      "company_name": "HEG Energie GmbH & Co. KG"
-    },
-    {
       "bdew_code": "9985334000002",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -100537,15 +100515,6 @@
       "company_id": 61394,
       "company_uid": 669613,
       "company_name": "GASCADE Gastransport GmbH"
-    },
-    {
-      "bdew_code": "9985350000002",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 66933,
-      "company_id": 60894,
-      "company_uid": 669113,
-      "company_name": "HEG Energie GmbH & Co. KG"
     },
     {
       "bdew_code": "9985351000001",
@@ -101275,15 +101244,6 @@
       "company_id": 61593,
       "company_uid": 669795,
       "company_name": "Lehala Stromproduktions KG"
-    },
-    {
-      "bdew_code": "9985445000008",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 67041,
-      "company_id": 58841,
-      "company_uid": 667069,
-      "company_name": "Das Grüne Emissionshaus GmbH"
     },
     {
       "bdew_code": "9985446000007",
@@ -102870,15 +102830,6 @@
       "company_name": "Oel-Heimburger GmbH"
     },
     {
-      "bdew_code": "9985638000005",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 68249,
-      "company_id": 62857,
-      "company_uid": 670060,
-      "company_name": "Solarpark Lübesse GmbH & Co. KG"
-    },
-    {
       "bdew_code": "9985640000001",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -104200,6 +104151,24 @@
       "company_id": 1901,
       "company_uid": 661792,
       "company_name": "RWE Supply & Trading GmbH"
+    },
+    {
+      "bdew_code": "9985805000002",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68426,
+      "company_id": 64084,
+      "company_uid": 670291,
+      "company_name": "Neoen Speicher 6 GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9985806000001",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68427,
+      "company_id": 50623,
+      "company_uid": 664815,
+      "company_name": "Onyx Germany GmbH"
     },
     {
       "bdew_code": "9987098000005",

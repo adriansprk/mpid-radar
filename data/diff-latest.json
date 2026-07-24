@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-21",
-      "published_at": "2026-07-21T04:36:53+00:00",
-      "content_hash": "e692421b31d98f9685b763e577e625ac6b760ada9ac8e0a0112f048e0282f267"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-21T04:29:19.187051+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4387,
-      "market_partners": 9141,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-07-21T04:29:19.187051+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-07-22",
-      "published_at": "2026-07-22T04:32:09.547948+00:00",
+      "published_at": "2026-07-22T04:41:14+00:00",
       "content_hash": "69271771ec23d1113ffcff3e09d0daabf65f055291df3d12de650dfaddbdec7d"
     },
     "source": {
@@ -71,72 +35,135 @@
       }
     }
   },
-  "codes_added": [],
-  "codes_removed": [
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-07-24",
+      "published_at": "2026-07-24T04:29:53.116317+00:00",
+      "content_hash": "488642c0a92741d3c210e0c9f8bb0a55796093daf8b15893e33d322d124be644"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-07-24T04:29:53.116317+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4387,
+      "market_partners": 9135,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-07-24T04:29:53.116317+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
+  "codes_added": [
     {
-      "bdew_code": "9983612000009",
+      "bdew_code": "9985805000002",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
-      "code_row_id": 65083,
-      "company_id": 59442,
-      "company_uid": 667670,
-      "company_name": "D. Bruns Service GmbH"
+      "code_row_id": 68426,
+      "company_id": 64084,
+      "company_uid": 670291,
+      "company_name": "Neoen Speicher 6 GmbH & Co. KG"
     },
     {
-      "bdew_code": "9983694000001",
+      "bdew_code": "9985806000001",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68427,
+      "company_id": 50623,
+      "company_uid": 664815,
+      "company_name": "Onyx Germany GmbH"
+    }
+  ],
+  "codes_removed": [
+    {
+      "bdew_code": "9907093000008",
+      "market_function": "Netzbetreiber",
+      "role_code": "NB",
+      "code_row_id": 2087,
+      "company_id": 3344,
+      "company_uid": 663214,
+      "company_name": "Gemeindewerke Markt Lichtenau"
+    },
+    {
+      "bdew_code": "9910259000001",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 2090,
+      "company_id": 3344,
+      "company_uid": 663214,
+      "company_name": "Gemeindewerke Markt Lichtenau"
+    },
+    {
+      "bdew_code": "9985333000003",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 66915,
+      "company_id": 60894,
+      "company_uid": 669113,
+      "company_name": "HEG Energie GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9985350000002",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
-      "code_row_id": 65166,
-      "company_id": 59442,
-      "company_uid": 667670,
-      "company_name": "D. Bruns Service GmbH"
-    }
-  ],
-  "codes_changed": [
-    {
-      "code_row_id": 5711,
-      "bdew_code": "9911354000003",
-      "changes": {
-        "company_name": {
-          "old": "Stromio GmbH",
-          "new": "Grünwelt Energie Stromversorgungsgesellschaft mbH"
-        }
-      }
+      "code_row_id": 66933,
+      "company_id": 60894,
+      "company_uid": 669113,
+      "company_name": "HEG Energie GmbH & Co. KG"
     },
     {
-      "code_row_id": 5712,
-      "bdew_code": "9904857000000",
-      "changes": {
-        "company_name": {
-          "old": "Stromio GmbH",
-          "new": "Grünwelt Energie Stromversorgungsgesellschaft mbH"
-        }
-      }
-    }
-  ],
-  "companies_added_ids": [],
-  "companies_removed_ids": [
-    59442
-  ],
-  "companies_changed": [
+      "bdew_code": "9985445000008",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 67041,
+      "company_id": 58841,
+      "company_uid": 667069,
+      "company_name": "Das Grüne Emissionshaus GmbH"
+    },
     {
-      "company_id": 2532,
-      "changes": {
-        "company_name": {
-          "old": "Stromio GmbH",
-          "new": "Grünwelt Energie Stromversorgungsgesellschaft mbH"
-        }
-      }
+      "bdew_code": "9985638000005",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68249,
+      "company_id": 62857,
+      "company_uid": 670060,
+      "company_name": "Solarpark Lübesse GmbH & Co. KG"
     }
   ],
+  "codes_changed": [],
+  "companies_added_ids": [
+    50623,
+    64084
+  ],
+  "companies_removed_ids": [
+    60894
+  ],
+  "companies_changed": [],
   "summary": {
-    "codes_added": 0,
-    "codes_removed": 2,
-    "codes_changed": 2,
+    "codes_added": 2,
+    "codes_removed": 6,
+    "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 0,
+    "companies_added": 2,
     "companies_removed": 1,
-    "companies_changed": 1
+    "companies_changed": 0
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

@@ -2963,7 +2963,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9907088000005,Netzbetreiber,NB,661873,Stadt Burgbernheim,1983,3702
 9907089000004,Netzbetreiber,NB,661989,Stadtwerke Dettelbach,2099,4118
 9907092000009,Netzbetreiber,NB,662145,Kommunalunternehmen Leutershausen,2257,4683
-9907093000008,Netzbetreiber,NB,663214,Gemeindewerke Markt Lichtenau,3344,2087
 9907096000005,Netzbetreiber,NB,661897,Stadtwerke Annweiler am Trifels,2007,3793
 9907100000008,Netzbetreiber,NB,661032,Gemeindewerke Gangkofen,1135,1983
 9907102000006,Netzbetreiber,NB,660529,Elektrizitätsversorgungsunternehmen (EVU) der Gemeinde Gochsheim,629,810
@@ -3332,7 +3331,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9910249000003,Messstellenbetreiber,MSB,662490,SWV Regional GmbH,2602,5931
 9910252000008,Messstellenbetreiber,MSB,660559,Elektrizitätswerk Wennenmühle Schörger GmbH & Co. KG,659,918
 9910255000005,Lieferant,LF,660719,Energieversorgung Bad Boll GmbH,820,1221
-9910259000001,Messstellenbetreiber,MSB,663214,Gemeindewerke Markt Lichtenau,3344,2090
 9910262000006,Messstellenbetreiber,MSB,661330,KBG Kraftstrom-Bezugsgenossenschaft Homberg e.G.,1435,2671
 9910263000005,Messstellenbetreiber,MSB,661335,VALENDA Metering GmbH,1440,2681
 9910264000004,Messstellenbetreiber,MSB,661385,Kreiswerke Main-Kinzig GmbH,1491,2784
@@ -8717,7 +8715,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985330000006,Lieferant,LF,669282,SEFE Energy GmbH,61063,66912
 9985331000005,Betreiber einer technischen Ressource,BTR,669071,neugemacht GmbH,60852,66913
 9985332000004,Energieserviceanbieter des Anschlussnutzers,ESA,669071,neugemacht GmbH,60852,66914
-9985333000003,Energieserviceanbieter des Anschlussnutzers,ESA,669113,HEG Energie GmbH & Co. KG,60894,66915
 9985334000002,Betreiber einer technischen Ressource,BTR,669651,Softenergy GmbH,61432,66916
 9985335000001,Netznutzer ohne All-Inklusiv-Vertrag,NN,669653,Porsche Leipzig GmbH,61434,66917
 9985337000009,Messstellenbetreiber,MSB,669623,netzplus GmbH & Co. KG,61404,66919
@@ -8729,7 +8726,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985343000001,Energieserviceanbieter des Anschlussnutzers,ESA,669660,GSRE Solarproject 1 GmbH & Co. KG,61441,66925
 9985344000000,Messstellenbetreiber,MSB,669222,Rossmann EcoPower GmbH,61003,66927
 9985348000006,Energieserviceanbieter des Anschlussnutzers,ESA,669613,GASCADE Gastransport GmbH,61394,66931
-9985350000002,Einsatzverantwortlicher,EIV,669113,HEG Energie GmbH & Co. KG,60894,66933
 9985351000001,Betreiber einer technischen Ressource,BTR,669670,Donautal Geflügelspezialitäten Zweigniederlassung der LOHMANN & Co. AKTIENGESELLSCHAFT,61451,66934
 9985352000000,Lieferant,LF,669672,Medizinische Hochschule Hannover (MHH),61453,66935
 9985353000009,Netznutzer ohne All-Inklusiv-Vertrag,NN,669673,GRILLO Chemicals GmbH,61454,66936
@@ -8811,7 +8807,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985442000001,Lieferant,LF,669792,SAMAWATT SA,61590,67038
 9985443000000,Lieferant,LF,669793,moverloop GmbH,61591,67039
 9985444000009,Betreiber einer technischen Ressource,BTR,669795,Lehala Stromproduktions KG,61593,67040
-9985445000008,Energieserviceanbieter des Anschlussnutzers,ESA,667069,Das Grüne Emissionshaus GmbH,58841,67041
 9985446000007,Energieserviceanbieter des Anschlussnutzers,ESA,665446,Wes Ibs Betriebsführungs- und Verwaltungs GmbH,57218,67042
 9985447000006,Energieserviceanbieter des Anschlussnutzers,ESA,666963,DrehPunkt GmbH,58735,67043
 9985448000005,Betreiber einer technischen Ressource,BTR,669803,Darguner Brauerei GmbH,61601,67044
@@ -8988,7 +8983,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985634000009,Bilanzkreisverantwortlicher,BKV,670056,Dark Matter Trading OOD,62853,68245
 9985636000007,Einsatzverantwortlicher,EIV,662012,Stadtwerke Elmshorn,2122,68247
 9985637000006,Lieferant,LF,670058,Oel-Heimburger GmbH,62855,68248
-9985638000005,Einsatzverantwortlicher,EIV,670060,Solarpark Lübesse GmbH & Co. KG,62857,68249
 9985640000001,Einsatzverantwortlicher,EIV,660792,Energysolution GmbH,894,68251
 9985641000000,Data Provider,DP,660792,Energysolution GmbH,894,68252
 9985642000009,Betreiber einer technischen Ressource,BTR,670060,Solarpark Lübesse GmbH & Co. KG,62857,68253
@@ -9136,5 +9130,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985801000006,Lieferant,LF,664712,Unigy GmbH,45575,68422
 9985803000004,Bilanzkreisverantwortlicher,BKV,670276,Cloover Energy GmbH,64069,68424
 9985804000003,Energieserviceanbieter des Anschlussnutzers,ESA,661792,RWE Supply & Trading GmbH,1901,68425
+9985805000002,Betreiber einer technischen Ressource,BTR,670291,Neoen Speicher 6 GmbH & Co. KG,64084,68426
+9985806000001,Bilanzkreisverantwortlicher,BKV,664815,Onyx Germany GmbH,50623,68427
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
