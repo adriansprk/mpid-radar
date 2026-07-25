@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-24",
-      "published_at": "2026-07-24T04:36:16+00:00",
-      "content_hash": "488642c0a92741d3c210e0c9f8bb0a55796093daf8b15893e33d322d124be644"
+      "version": "2026-07-25",
+      "published_at": "2026-07-25T04:33:56+00:00",
+      "content_hash": "3215861780fe2ba674ea28930f73e057d7a08c36c64545dc5655eed865c293d5"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-24T04:29:53.116317+00:00",
+      "observed_at": "2026-07-25T04:26:18.377979+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4387,
-      "market_partners": 9135,
+      "companies": 4386,
+      "market_partners": 9134,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-24T04:29:53.116317+00:00",
+      "cleaned_at": "2026-07-25T04:26:18.377979+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -300,11 +300,6 @@
       "company_id": 13983,
       "company_uid": 663919,
       "company_name": "ATW Kapital GmbH"
-    },
-    {
-      "company_id": 91,
-      "company_uid": 660034,
-      "company_name": "AUDI Aktiengesellschaft"
     },
     {
       "company_id": 62886,
@@ -86853,15 +86848,6 @@
       "company_id": 1174,
       "company_uid": 661071,
       "company_name": "Gemeindewerke Nüdlingen"
-    },
-    {
-      "bdew_code": "9983005000004",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 64457,
-      "company_id": 91,
-      "company_uid": 660034,
-      "company_name": "AUDI Aktiengesellschaft"
     },
     {
       "bdew_code": "9983006000003",
