@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-25",
-      "published_at": "2026-07-25T04:33:56+00:00",
-      "content_hash": "3215861780fe2ba674ea28930f73e057d7a08c36c64545dc5655eed865c293d5"
+      "version": "2026-07-28",
+      "published_at": "2026-07-28T04:35:57+00:00",
+      "content_hash": "1d590ec054789e8272fb21ea16c06a8a444d41a3866e713d003d6059e53332c3"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-25T04:26:18.377979+00:00",
+      "observed_at": "2026-07-28T04:25:46.334328+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4386,
-      "market_partners": 9134,
+      "companies": 4387,
+      "market_partners": 9135,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-25T04:26:18.377979+00:00",
+      "cleaned_at": "2026-07-28T04:25:46.334328+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -20575,6 +20575,11 @@
       "company_id": 62848,
       "company_uid": 670051,
       "company_name": "Wäscherei Kellner GmbH"
+    },
+    {
+      "company_id": 64086,
+      "company_uid": 670293,
+      "company_name": "WätaS SAF GmbH"
     },
     {
       "company_id": 58473,
@@ -104155,6 +104160,15 @@
       "company_id": 50623,
       "company_uid": 664815,
       "company_name": "Onyx Germany GmbH"
+    },
+    {
+      "bdew_code": "9985808000009",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68429,
+      "company_id": 64086,
+      "company_uid": 670293,
+      "company_name": "WätaS SAF GmbH"
     },
     {
       "bdew_code": "9987098000005",
