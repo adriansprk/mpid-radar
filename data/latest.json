@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-28",
-      "published_at": "2026-07-28T04:35:57+00:00",
-      "content_hash": "1d590ec054789e8272fb21ea16c06a8a444d41a3866e713d003d6059e53332c3"
+      "version": "2026-07-29",
+      "published_at": "2026-07-29T04:38:38+00:00",
+      "content_hash": "1b4ce0536c70778ef83b4fc8fd0790d6f98c785dfca7848923d6d804c7b2319f"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-28T04:25:46.334328+00:00",
+      "observed_at": "2026-07-29T04:28:59.973341+00:00",
       "filter": ""
     },
     "records": {
       "companies": 4387,
-      "market_partners": 9135,
+      "market_partners": 9134,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-07-28T04:25:46.334328+00:00",
+      "cleaned_at": "2026-07-29T04:28:59.973341+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -50358,15 +50358,6 @@
       "company_id": 2252,
       "company_uid": 662140,
       "company_name": "Stadtwerke Leine-Solling GmbH"
-    },
-    {
-      "bdew_code": "9907743000001",
-      "market_function": "Netzbetreiber",
-      "role_code": "NB",
-      "code_row_id": 7461,
-      "company_id": 2190,
-      "company_uid": 662078,
-      "company_name": "Stadtwerke Harsewinkel GmbH"
     },
     {
       "bdew_code": "9907744000000",

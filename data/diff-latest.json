@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-07-25",
-      "published_at": "2026-07-25T04:33:56+00:00",
-      "content_hash": "3215861780fe2ba674ea28930f73e057d7a08c36c64545dc5655eed865c293d5"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-07-25T04:26:18.377979+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4386,
-      "market_partners": 9134,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-07-25T04:26:18.377979+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-07-28",
-      "published_at": "2026-07-28T04:25:46.334328+00:00",
+      "published_at": "2026-07-28T04:35:57+00:00",
       "content_hash": "1d590ec054789e8272fb21ea16c06a8a444d41a3866e713d003d6059e53332c3"
     },
     "source": {
@@ -71,30 +35,64 @@
       }
     }
   },
-  "codes_added": [
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-07-29",
+      "published_at": "2026-07-29T04:28:59.973341+00:00",
+      "content_hash": "1b4ce0536c70778ef83b4fc8fd0790d6f98c785dfca7848923d6d804c7b2319f"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-07-29T04:28:59.973341+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4387,
+      "market_partners": 9134,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-07-29T04:28:59.973341+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
+  "codes_added": [],
+  "codes_removed": [
     {
-      "bdew_code": "9985808000009",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68429,
-      "company_id": 64086,
-      "company_uid": 670293,
-      "company_name": "WätaS SAF GmbH"
+      "bdew_code": "9907743000001",
+      "market_function": "Netzbetreiber",
+      "role_code": "NB",
+      "code_row_id": 7461,
+      "company_id": 2190,
+      "company_uid": 662078,
+      "company_name": "Stadtwerke Harsewinkel GmbH"
     }
   ],
-  "codes_removed": [],
   "codes_changed": [],
-  "companies_added_ids": [
-    64086
-  ],
+  "companies_added_ids": [],
   "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 1,
-    "codes_removed": 0,
+    "codes_added": 0,
+    "codes_removed": 1,
     "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 1,
+    "companies_added": 0,
     "companies_removed": 0,
     "companies_changed": 0
   },
