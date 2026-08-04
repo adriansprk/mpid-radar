@@ -3200,7 +3200,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9907800000001,Netzbetreiber,NB,665457,Netzgesellschaft Panketal GmbH,57229,61261
 9907801000000,Netzbetreiber,NB,666530,GETEC Quartier GmbH,58302,63129
 9907805000006,Netzbetreiber,NB,666717,Hafenbetriebs- und Entwicklungsgesellschaft mbH Sassnitz,58489,63447
-9907806000005,Netzbetreiber,NB,666919,Outokumpu Stainless Holding GmbH,58691,63797
+9907806000005,Netzbetreiber,NB,666919,Outokumpu Stainless Nirosta GmbH,58691,63797
 9907807000004,Netzbetreiber,NB,667315,Power Supply Systems GmbH,59087,64515
 9907809000002,Netzbetreiber,NB,667404,Stadtwerke Witten Mittelspannungsnetz GmbH,59176,64621
 9907810000009,Netzbetreiber,NB,667451,QuartiersNetz Bayern GmbH,59223,64678
@@ -9033,6 +9033,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985691000000,Energieserviceanbieter des Anschlussnutzers,ESA,669347,Umwelt Management Aktiengesellschaft UMaAG,61128,68308
 9985692000009,Energieserviceanbieter des Anschlussnutzers,ESA,667370,WindBauer GmbH,59142,68309
 9985693000008,Lieferant,LF,670140,Encavis Energy Solutions GmbH,63933,68310
+9985694000007,Lieferant,LF,670141,Energy Streaming GmbH,63934,68311
 9985695000006,Bilanzkreisverantwortlicher,BKV,670141,Energy Streaming GmbH,63934,68312
 9985697000004,Messstellenbetreiber,MSB,669981,Buderus Edelstahl GmbH,62778,68314
 9985698000003,Energieserviceanbieter des Anschlussnutzers,ESA,670152,meteoviva GmbH,63945,68315
