@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-04",
-      "published_at": "2026-08-04T04:37:46+00:00",
-      "content_hash": "ee4ee2f969d0c11885f3ad8c3ea26243e79aee1b51b6e3023a246ff514280586"
+      "version": "2026-08-07",
+      "published_at": "2026-08-07T04:10:31+00:00",
+      "content_hash": "7fc06b0ec3cf53faadaa9557f0fc3a56c10f81a3daeba6dff71b6e375c42955d"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-04T04:28:45.197885+00:00",
+      "observed_at": "2026-08-07T04:02:59.746001+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4388,
-      "market_partners": 9136,
+      "companies": 4389,
+      "market_partners": 9138,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-08-04T04:28:45.197885+00:00",
+      "cleaned_at": "2026-08-07T04:02:59.746001+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -8967,9 +8967,9 @@
       "company_name": "Iqony GmbH"
     },
     {
-      "company_id": 6594,
-      "company_uid": 663501,
-      "company_name": "Iqony Technischer Service GmbH"
+      "company_id": 64092,
+      "company_uid": 670299,
+      "company_name": "Iqony Solutions GmbH"
     },
     {
       "company_id": 61693,
@@ -20690,6 +20690,11 @@
       "company_id": 58102,
       "company_uid": 666330,
       "company_name": "ZenBA GmbH"
+    },
+    {
+      "company_id": 64025,
+      "company_uid": 670232,
+      "company_name": "Zentrale Abfallwirtschaft Kaiserslautern - gemeinsame kommunale Anstalt der Stadt Kaiserslautern und der Landkreise Kaiserslautern und Donnersbergkreis (ZAK)"
     },
     {
       "company_id": 60871,
@@ -59801,9 +59806,9 @@
       "market_function": "Messstellenbetreiber",
       "role_code": "MSB",
       "code_row_id": 10769,
-      "company_id": 6594,
-      "company_uid": 663501,
-      "company_name": "Iqony Technischer Service GmbH"
+      "company_id": 64092,
+      "company_uid": 670299,
+      "company_name": "Iqony Solutions GmbH"
     },
     {
       "bdew_code": "9977981000006",
@@ -97844,9 +97849,9 @@
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
       "code_row_id": 66558,
-      "company_id": 6594,
-      "company_uid": 663501,
-      "company_name": "Iqony Technischer Service GmbH"
+      "company_id": 64092,
+      "company_uid": 670299,
+      "company_name": "Iqony Solutions GmbH"
     },
     {
       "bdew_code": "9985006000009",
@@ -104183,6 +104188,24 @@
       "company_id": 64086,
       "company_uid": 670293,
       "company_name": "WätaS SAF GmbH"
+    },
+    {
+      "bdew_code": "9985811000004",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68435,
+      "company_id": 64025,
+      "company_uid": 670232,
+      "company_name": "Zentrale Abfallwirtschaft Kaiserslautern - gemeinsame kommunale Anstalt der Stadt Kaiserslautern und der Landkreise Kaiserslautern und Donnersbergkreis (ZAK)"
+    },
+    {
+      "bdew_code": "9985812000003",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68436,
+      "company_id": 2502,
+      "company_uid": 662390,
+      "company_name": "Städtische Werke Magdeburg GmbH & Co. KG"
     },
     {
       "bdew_code": "9987098000005",

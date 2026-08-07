@@ -4201,7 +4201,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9977973000006,Netznutzer ohne All-Inklusiv-Vertrag,NN,663496,Vattenfall Wasserkraft GmbH,5615,9778
 9977974000005,Netznutzer ohne All-Inklusiv-Vertrag,NN,663497,Weig Packaging GmbH & Co. KG,5616,9779
 9977977000002,Netznutzer ohne All-Inklusiv-Vertrag,NN,663500,Eisenwerk Arnstadt GmbH,6593,10767
-9977979000000,Messstellenbetreiber,MSB,663501,Iqony Technischer Service GmbH,6594,10769
+9977979000000,Messstellenbetreiber,MSB,670299,Iqony Solutions GmbH,64092,10769
 9977981000006,Lieferant,LF,663502,BarMalGas GmbH,6595,10771
 9977986000001,Lieferant,LF,663506,Paul Fischer GmbH,6599,10777
 9977988000009,Messstellenbetreiber,MSB,663509,Activis Energy GmbH & Co. KG,6602,10780
@@ -8428,7 +8428,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985002000003,Messstellenbetreiber,MSB,669169,CCF Cassella Chemiepark Frankfurt GmbH,60950,66555
 9985003000002,Energieserviceanbieter des Anschlussnutzers,ESA,669187,Encadi GmbH,60968,66556
 9985004000001,Energieserviceanbieter des Anschlussnutzers,ESA,663566,VSB Service GmbH,8647,66557
-9985005000000,Energieserviceanbieter des Anschlussnutzers,ESA,663501,Iqony Technischer Service GmbH,6594,66558
+9985005000000,Energieserviceanbieter des Anschlussnutzers,ESA,670299,Iqony Solutions GmbH,64092,66558
 9985006000009,Betreiber einer technischen Ressource,BTR,669191,BEKW Bioenergiekraftwerk Emsland GmbH & Co. KG,60972,66559
 9985007000008,Lieferant,LF,669193,Mangfalltal Energie GmbH,60974,66560
 9985010000003,Energieserviceanbieter des Anschlussnutzers,ESA,667317,ENERTRAG SE,59089,66563
@@ -9133,5 +9133,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985805000002,Betreiber einer technischen Ressource,BTR,670291,Neoen Speicher 6 GmbH & Co. KG,64084,68426
 9985806000001,Bilanzkreisverantwortlicher,BKV,664815,Onyx Germany GmbH,50623,68427
 9985808000009,Betreiber einer technischen Ressource,BTR,670293,WätaS SAF GmbH,64086,68429
+9985811000004,Energieserviceanbieter des Anschlussnutzers,ESA,670232,Zentrale Abfallwirtschaft Kaiserslautern - gemeinsame kommunale Anstalt der Stadt Kaiserslautern und der Landkreise Kaiserslautern und Donnersbergkreis (ZAK),64025,68435
+9985812000003,Energieserviceanbieter des Anschlussnutzers,ESA,662390,Städtische Werke Magdeburg GmbH & Co. KG,2502,68436
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
