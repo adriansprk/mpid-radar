@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-07",
-      "published_at": "2026-08-07T04:10:31+00:00",
-      "content_hash": "7fc06b0ec3cf53faadaa9557f0fc3a56c10f81a3daeba6dff71b6e375c42955d"
+      "version": "2026-08-08",
+      "published_at": "2026-08-08T03:06:29+00:00",
+      "content_hash": "5b9dae6426e952d8c65cedc0386974bb6cee955d31d58646c6a22886f783539e"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-07T04:02:59.746001+00:00",
+      "observed_at": "2026-08-08T02:59:35.091411+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4389,
-      "market_partners": 9138,
+      "companies": 4390,
+      "market_partners": 9139,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-08-07T04:02:59.746001+00:00",
+      "cleaned_at": "2026-08-08T02:59:35.091411+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -11060,6 +11060,11 @@
       "company_id": 58095,
       "company_uid": 666323,
       "company_name": "Michael Glossner"
+    },
+    {
+      "company_id": 64094,
+      "company_uid": 670301,
+      "company_name": "Michael Helmut Willsch"
     },
     {
       "company_id": 59077,
@@ -104206,6 +104211,15 @@
       "company_id": 2502,
       "company_uid": 662390,
       "company_name": "Städtische Werke Magdeburg GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9985813000002",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68437,
+      "company_id": 64094,
+      "company_uid": 670301,
+      "company_name": "Michael Helmut Willsch"
     },
     {
       "bdew_code": "9987098000005",
