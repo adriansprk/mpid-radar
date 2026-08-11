@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-08",
-      "published_at": "2026-08-08T03:06:29+00:00",
-      "content_hash": "5b9dae6426e952d8c65cedc0386974bb6cee955d31d58646c6a22886f783539e"
+      "version": "2026-08-11",
+      "published_at": "2026-08-11T03:19:22+00:00",
+      "content_hash": "01f0e7c10cbe0ba54c51f7d711e6b1bfa7590b5f3415026a97941cc7ef201c7b"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-08T02:59:35.091411+00:00",
+      "observed_at": "2026-08-11T03:10:16.058027+00:00",
       "filter": ""
     },
     "records": {
       "companies": 4390,
-      "market_partners": 9139,
+      "market_partners": 9138,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-08-08T02:59:35.091411+00:00",
+      "cleaned_at": "2026-08-11T03:10:16.058027+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -98055,15 +98055,6 @@
       "company_id": 61015,
       "company_uid": 669234,
       "company_name": "QuartierKraft GmbH"
-    },
-    {
-      "bdew_code": "9985033000006",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 66587,
-      "company_id": 298,
-      "company_uid": 660201,
-      "company_name": "Basell Polyolefine GmbH"
     },
     {
       "bdew_code": "9985034000005",

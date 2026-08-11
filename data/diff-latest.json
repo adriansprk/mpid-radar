@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-07",
-      "published_at": "2026-08-07T04:10:31+00:00",
-      "content_hash": "7fc06b0ec3cf53faadaa9557f0fc3a56c10f81a3daeba6dff71b6e375c42955d"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-07T04:02:59.746001+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4389,
-      "market_partners": 9138,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-08-07T04:02:59.746001+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-08-08",
-      "published_at": "2026-08-08T02:59:35.091411+00:00",
+      "published_at": "2026-08-08T03:06:29+00:00",
       "content_hash": "5b9dae6426e952d8c65cedc0386974bb6cee955d31d58646c6a22886f783539e"
     },
     "source": {
@@ -71,30 +35,64 @@
       }
     }
   },
-  "codes_added": [
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-08-11",
+      "published_at": "2026-08-11T03:10:16.058027+00:00",
+      "content_hash": "01f0e7c10cbe0ba54c51f7d711e6b1bfa7590b5f3415026a97941cc7ef201c7b"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-08-11T03:10:16.058027+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4390,
+      "market_partners": 9138,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-08-11T03:10:16.058027+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
+  "codes_added": [],
+  "codes_removed": [
     {
-      "bdew_code": "9985813000002",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 68437,
-      "company_id": 64094,
-      "company_uid": 670301,
-      "company_name": "Michael Helmut Willsch"
+      "bdew_code": "9985033000006",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 66587,
+      "company_id": 298,
+      "company_uid": 660201,
+      "company_name": "Basell Polyolefine GmbH"
     }
   ],
-  "codes_removed": [],
   "codes_changed": [],
-  "companies_added_ids": [
-    64094
-  ],
+  "companies_added_ids": [],
   "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 1,
-    "codes_removed": 0,
+    "codes_added": 0,
+    "codes_removed": 1,
     "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 1,
+    "companies_added": 0,
     "companies_removed": 0,
     "companies_changed": 0
   },
