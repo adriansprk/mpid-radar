@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-08",
-      "published_at": "2026-08-08T03:06:29+00:00",
-      "content_hash": "5b9dae6426e952d8c65cedc0386974bb6cee955d31d58646c6a22886f783539e"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-08T02:59:35.091411+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4390,
-      "market_partners": 9139,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-08-08T02:59:35.091411+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-08-11",
-      "published_at": "2026-08-11T03:10:16.058027+00:00",
+      "published_at": "2026-08-11T03:19:22+00:00",
       "content_hash": "01f0e7c10cbe0ba54c51f7d711e6b1bfa7590b5f3415026a97941cc7ef201c7b"
     },
     "source": {
@@ -71,30 +35,187 @@
       }
     }
   },
-  "codes_added": [],
-  "codes_removed": [
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-08-12",
+      "published_at": "2026-08-12T03:28:34.415469+00:00",
+      "content_hash": "9b44e2f81e1c20442a93c8781ad6620d4f4192786a573b19f0f7b6a22fef64b8"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-08-12T03:28:34.415469+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4391,
+      "market_partners": 9140,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-08-12T03:28:34.415469+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
+  "codes_added": [
     {
-      "bdew_code": "9985033000006",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 66587,
-      "company_id": 298,
-      "company_uid": 660201,
-      "company_name": "Basell Polyolefine GmbH"
+      "bdew_code": "5790002870811",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68439,
+      "company_id": 64100,
+      "company_uid": 670307,
+      "company_name": "Quant Partners ApS"
+    },
+    {
+      "bdew_code": "9985815000000",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68440,
+      "company_id": 41532,
+      "company_uid": 664655,
+      "company_name": "Engelhart CTP Renewables GmbH"
     }
   ],
-  "codes_changed": [],
-  "companies_added_ids": [],
-  "companies_removed_ids": [],
-  "companies_changed": [],
+  "codes_removed": [],
+  "codes_changed": [
+    {
+      "code_row_id": 11828,
+      "bdew_code": "9907759000003",
+      "changes": {
+        "company_name": {
+          "old": "WEV Warendorfer Energieversorgung GmbH",
+          "new": "Stadtwerke Warendorf GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 12861,
+      "bdew_code": "9978080000004",
+      "changes": {
+        "company_name": {
+          "old": "WEV Warendorfer Energieversorgung GmbH",
+          "new": "Stadtwerke Warendorf GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 6372,
+      "bdew_code": "9911988000007",
+      "changes": {
+        "company_name": {
+          "old": "WEV Warendorfer Energieversorgung GmbH",
+          "new": "Stadtwerke Warendorf GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 6373,
+      "bdew_code": "9910999000006",
+      "changes": {
+        "company_name": {
+          "old": "WEV Warendorfer Energieversorgung GmbH",
+          "new": "Stadtwerke Warendorf GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 648,
+      "bdew_code": "9906382000000",
+      "changes": {
+        "company_uid": {
+          "old": 660472,
+          "new": 670306
+        },
+        "company_name": {
+          "old": "EGC Energie- und Gebäudetechnik Control GmbH & Co. KG",
+          "new": "FASTR GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 649,
+      "bdew_code": "9907410000003",
+      "changes": {
+        "company_uid": {
+          "old": 660472,
+          "new": 670306
+        },
+        "company_name": {
+          "old": "EGC Energie- und Gebäudetechnik Control GmbH & Co. KG",
+          "new": "FASTR GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 650,
+      "bdew_code": "9904874000009",
+      "changes": {
+        "company_uid": {
+          "old": 660472,
+          "new": 670306
+        },
+        "company_name": {
+          "old": "EGC Energie- und Gebäudetechnik Control GmbH & Co. KG",
+          "new": "FASTR GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 651,
+      "bdew_code": "9910745000002",
+      "changes": {
+        "company_uid": {
+          "old": 660472,
+          "new": 670306
+        },
+        "company_name": {
+          "old": "EGC Energie- und Gebäudetechnik Control GmbH & Co. KG",
+          "new": "FASTR GmbH"
+        }
+      }
+    }
+  ],
+  "companies_added_ids": [
+    64099,
+    64100
+  ],
+  "companies_removed_ids": [
+    571
+  ],
+  "companies_changed": [
+    {
+      "company_id": 2818,
+      "changes": {
+        "company_name": {
+          "old": "WEV Warendorfer Energieversorgung GmbH",
+          "new": "Stadtwerke Warendorf GmbH"
+        }
+      }
+    }
+  ],
   "summary": {
-    "codes_added": 0,
-    "codes_removed": 1,
-    "codes_changed": 0,
+    "codes_added": 2,
+    "codes_removed": 0,
+    "codes_changed": 8,
     "codes_recoded": 0,
-    "companies_added": 0,
-    "companies_removed": 0,
-    "companies_changed": 0
+    "companies_added": 2,
+    "companies_removed": 1,
+    "companies_changed": 1
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

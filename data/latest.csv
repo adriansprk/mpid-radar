@@ -163,6 +163,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 5790002837845,Bilanzkreisverantwortlicher,BKV,669874,DV Trading (Europe) P/S,61672,67096
 5790002841316,Bilanzkreisverantwortlicher,BKV,670254,Joulx ApS,64047,68389
 5790002861703,Bilanzkreisverantwortlicher,BKV,670134,X Commodities ApS,63927,68302
+5790002870811,Bilanzkreisverantwortlicher,BKV,670307,Quant Partners ApS,64100,68439
 5909000829800,Bilanzkreisverantwortlicher,BKV,664301,ENEA Trading Sp. z o.o.,23331,29335
 5909000893252,Bilanzkreisverantwortlicher,BKV,668646,XOOG OPERATOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,60427,66025
 5909000893757,Bilanzkreisverantwortlicher,BKV,668683,Sky Quant sp. z o.o.,60464,66055
@@ -1880,7 +1881,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9904869000006,Messstellenbetreiber,MSB,662024,Stadtwerke Ostmünsterland GmbH & Co. KG,2135,4256
 9904871000002,Messstellenbetreiber,MSB,661626,NRM Netzdienste Rhein-Main GmbH,1733,3259
 9904872000001,Messstellenbetreiber,MSB,662016,Stadtwerke Emmerich GmbH,2126,4225
-9904874000009,Lieferant,LF,660472,EGC Energie- und Gebäudetechnik Control GmbH & Co. KG,571,650
+9904874000009,Lieferant,LF,670306,FASTR GmbH,64099,650
 9904876000007,Messstellenbetreiber,MSB,668659,providata GmbH,60440,619
 9904880000001,Lieferant,LF,662627,VERBUND Innkraftwerke GmbH,2741,6202
 9904883000008,Lieferant,LF,662178,Stadtwerke MüllheimStaufen GmbH,2290,4820
@@ -2632,7 +2633,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9906377000007,Bilanzkreisverantwortlicher,BKV,662556,T.W.O. Technische Werke Osning GmbH,2670,6074
 9906378000006,Lieferant,LF,660963,Flughafen München Gesellschaft mit beschränkter Haftung,1066,1819
 9906379000005,Bilanzkreisverantwortlicher,BKV,661123,GETEC net GmbH,1226,2256
-9906382000000,Bilanzkreisverantwortlicher,BKV,660472,EGC Energie- und Gebäudetechnik Control GmbH & Co. KG,571,648
+9906382000000,Bilanzkreisverantwortlicher,BKV,670306,FASTR GmbH,64099,648
 9906388000004,Lieferant,LF,661911,Stadtwerke Bad Friedrichshall,2021,3839
 9906389000003,Messstellenbetreiber,MSB,662203,Stadtwerke Nordfriesland - Netz GmbH,2315,4909
 9906393000007,Messstellenbetreiber,MSB,660274,Braunschweiger Versorgungs-Aktiengesellschaft & Co. KG,373,292
@@ -3064,7 +3065,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9907399000009,Netzbetreiber,NB,661764,RheinNetz GmbH,1872,3505
 9907404000001,Netzbetreiber,NB,660501,Elektra-Genossenschaft Pinzberg eG,600,718
 9907409000006,Netzbetreiber,NB,660798,ENERVIE Vernetzt GmbH,900,1434
-9907410000003,Netzbetreiber,NB,660472,EGC Energie- und Gebäudetechnik Control GmbH & Co. KG,571,649
+9907410000003,Netzbetreiber,NB,670306,FASTR GmbH,64099,649
 9907421000000,Netzbetreiber,NB,661084,Gemeindewerke Schwarzenbruck GmbH (GWS),1187,2156
 9907452000003,Netzbetreiber,NB,660285,BTT Bauteam Tretzel GmbH,384,318
 9907463000000,Netzbetreiber,NB,660157,AlzChem Netz GmbH,251,82
@@ -3165,7 +3166,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9907755000007,Netzbetreiber,NB,663401,Mainnetz GmbH,3534,7679
 9907757000005,Netzbetreiber,NB,663469,Energienetze Offenbach GmbH,4591,8765
 9907758000004,Netzbetreiber,NB,663507,Remstalwerk Netzgesellschaft GmbH,6600,10778
-9907759000003,Netzbetreiber,NB,662703,WEV Warendorfer Energieversorgung GmbH,2818,11828
+9907759000003,Netzbetreiber,NB,662703,Stadtwerke Warendorf GmbH,2818,11828
 9907761000009,Netzbetreiber,NB,663588,INNEXIS Marburg GmbH,8669,12876
 9907762000008,Netzbetreiber,NB,669929,BASF InfraService & Solutions Lausitz GmbH,61727,12891
 9907763000007,Netzbetreiber,NB,663667,Mainsite GmbH & Co. KG,10737,15996
@@ -3527,7 +3528,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9910740000007,Bilanzkreisverantwortlicher,BKV,660858,European Commodity Clearing AG,960,1564
 9910741000006,Bilanzkreisverantwortlicher,BKV,661023,Gemeindewerke Bovenden GmbH & Co. KG,1126,1953
 9910742000005,Bilanzkreisverantwortlicher,BKV,662479,SWN Stadtwerke Northeim GmbH,2591,5892
-9910745000002,Messstellenbetreiber,MSB,660472,EGC Energie- und Gebäudetechnik Control GmbH & Co. KG,571,651
+9910745000002,Messstellenbetreiber,MSB,670306,FASTR GmbH,64099,651
 9910749000008,Bilanzkreisverantwortlicher,BKV,662273,Stadtwerke Schüttorf-Emsbüren GmbH,2385,5183
 9910750000005,Messstellenbetreiber,MSB,660951,Fischereihafen-Betriebsgesellschaft mit beschränkter Haftung,1054,1794
 9910753000002,Bilanzkreisverantwortlicher,BKV,662280,Stadtwerke Schwerte GmbH,2392,5223
@@ -3649,7 +3650,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9910993000002,Lieferant,LF,660782,Energy & More Energiebroker GmbH und Co. KG,884,1407
 9910995000000,Messstellenbetreiber,MSB,661091,Gemeindewerke Stockstadt,1194,2185
 9910997000008,Messstellenbetreiber,MSB,662095,Stadtwerke Hettstedt GmbH,2207,4520
-9910999000006,Lieferant,LF,662703,WEV Warendorfer Energieversorgung GmbH,2818,6373
+9910999000006,Lieferant,LF,662703,Stadtwerke Warendorf GmbH,2818,6373
 9911000000000,Lieferant,LF,661738,Regionalwerk Würmtal GmbH & Co. KG,1846,3458
 9911001000009,Lieferant,LF,660819,EnStroGa AG,921,1486
 9911003000007,Bilanzkreisverantwortlicher,BKV,660819,EnStroGa AG,921,1485
@@ -4026,7 +4027,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9911971000006,Lieferant,LF,660240,BHM Beyer Energiehandel GmbH,339,232
 9911974000003,Einsatzverantwortlicher,EIV,662528,ThyssenKrupp Steel Europe AG,2642,6027
 9911987000008,Messstellenbetreiber,MSB,660525,Elektrizitätsnetze Allgäu GmbH,625,803
-9911988000007,Bilanzkreisverantwortlicher,BKV,662703,WEV Warendorfer Energieversorgung GmbH,2818,6372
+9911988000007,Bilanzkreisverantwortlicher,BKV,662703,Stadtwerke Warendorf GmbH,2818,6372
 9911990000003,Lieferant,LF,661633,N.E. Nimbus Energie GmbH,1740,3277
 9911991000002,Bilanzkreisverantwortlicher,BKV,661633,N.E. Nimbus Energie GmbH,1740,3278
 9911994000009,Bilanzkreisverantwortlicher,BKV,660041,Energieversorgung Sehnde GmbH,99,1347
@@ -4235,7 +4236,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9978071000005,Einsatzverantwortlicher,EIV,663496,Vattenfall Wasserkraft GmbH,5615,12852
 9978075000001,Einsatzverantwortlicher,EIV,663577,HEnW Energie Hub Moorburg GmbH,8658,12856
 9978077000009,Messstellenbetreiber,MSB,663507,Remstalwerk Netzgesellschaft GmbH,6600,12858
-9978080000004,Messstellenbetreiber,MSB,662703,WEV Warendorfer Energieversorgung GmbH,2818,12861
+9978080000004,Messstellenbetreiber,MSB,662703,Stadtwerke Warendorf GmbH,2818,12861
 9978081000003,Netznutzer ohne All-Inklusiv-Vertrag,NN,663578,Ruhrverband,8659,12862
 9978082000002,Lieferant,LF,660958,Flughafen Düsseldorf GmbH,1061,12863
 9978085000009,Messstellenbetreiber,MSB,662668,VW KRAFTWERK Gesellschaft mit beschränkter Haftung,2782,12867
@@ -9135,5 +9136,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985811000004,Energieserviceanbieter des Anschlussnutzers,ESA,670232,Zentrale Abfallwirtschaft Kaiserslautern - gemeinsame kommunale Anstalt der Stadt Kaiserslautern und der Landkreise Kaiserslautern und Donnersbergkreis (ZAK),64025,68435
 9985812000003,Energieserviceanbieter des Anschlussnutzers,ESA,662390,Städtische Werke Magdeburg GmbH & Co. KG,2502,68436
 9985813000002,Messstellenbetreiber,MSB,670301,Michael Helmut Willsch,64094,68437
+9985815000000,Betreiber einer technischen Ressource,BTR,664655,Engelhart CTP Renewables GmbH,41532,68440
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

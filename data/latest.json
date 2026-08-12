@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-11",
-      "published_at": "2026-08-11T03:19:22+00:00",
-      "content_hash": "01f0e7c10cbe0ba54c51f7d711e6b1bfa7590b5f3415026a97941cc7ef201c7b"
+      "version": "2026-08-12",
+      "published_at": "2026-08-12T03:37:32+00:00",
+      "content_hash": "9b44e2f81e1c20442a93c8781ad6620d4f4192786a573b19f0f7b6a22fef64b8"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-11T03:10:16.058027+00:00",
+      "observed_at": "2026-08-12T03:28:34.415469+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4390,
-      "market_partners": 9138,
+      "companies": 4391,
+      "market_partners": 9140,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-08-11T03:10:16.058027+00:00",
+      "cleaned_at": "2026-08-12T03:28:34.415469+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -3602,11 +3602,6 @@
       "company_name": "EGB Bauenergie GmbH"
     },
     {
-      "company_id": 571,
-      "company_uid": 660472,
-      "company_name": "EGC Energie- und Gebäudetechnik Control GmbH & Co. KG"
-    },
-    {
       "company_id": 21299,
       "company_uid": 664252,
       "company_name": "EGC Infrastruktur und Netz GmbH"
@@ -5915,6 +5910,11 @@
       "company_id": 59919,
       "company_uid": 668138,
       "company_name": "FAMIS GmbH"
+    },
+    {
+      "company_id": 64099,
+      "company_uid": 670306,
+      "company_name": "FASTR GmbH"
     },
     {
       "company_id": 33475,
@@ -12972,6 +12972,11 @@
       "company_name": "QuaeroSys UG (haftungsbeschränkt)"
     },
     {
+      "company_id": 64100,
+      "company_uid": 670307,
+      "company_name": "Quant Partners ApS"
+    },
+    {
       "company_id": 62863,
       "company_uid": 670066,
       "company_name": "Quantator ApS"
@@ -17902,6 +17907,11 @@
       "company_name": "Stadtwerke Waren GmbH"
     },
     {
+      "company_id": 2818,
+      "company_uid": 662703,
+      "company_name": "Stadtwerke Warendorf GmbH"
+    },
+    {
       "company_id": 2455,
       "company_uid": 662343,
       "company_name": "Stadtwerke Wasserburg a. Inn"
@@ -19950,11 +19960,6 @@
       "company_id": 58801,
       "company_uid": 667029,
       "company_name": "WEPA Kraftwerk GmbH"
-    },
-    {
-      "company_id": 2818,
-      "company_uid": 662703,
-      "company_name": "WEV Warendorfer Energieversorgung GmbH"
     },
     {
       "company_id": 2819,
@@ -23463,6 +23468,15 @@
       "company_id": 63927,
       "company_uid": 670134,
       "company_name": "X Commodities ApS"
+    },
+    {
+      "bdew_code": "5790002870811",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68439,
+      "company_id": 64100,
+      "company_uid": 670307,
+      "company_name": "Quant Partners ApS"
     },
     {
       "bdew_code": "5909000829800",
@@ -38922,9 +38936,9 @@
       "market_function": "Lieferant",
       "role_code": "LF",
       "code_row_id": 650,
-      "company_id": 571,
-      "company_uid": 660472,
-      "company_name": "EGC Energie- und Gebäudetechnik Control GmbH & Co. KG"
+      "company_id": 64099,
+      "company_uid": 670306,
+      "company_name": "FASTR GmbH"
     },
     {
       "bdew_code": "9904876000007",
@@ -45690,9 +45704,9 @@
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
       "code_row_id": 648,
-      "company_id": 571,
-      "company_uid": 660472,
-      "company_name": "EGC Energie- und Gebäudetechnik Control GmbH & Co. KG"
+      "company_id": 64099,
+      "company_uid": 670306,
+      "company_name": "FASTR GmbH"
     },
     {
       "bdew_code": "9906388000004",
@@ -49578,9 +49592,9 @@
       "market_function": "Netzbetreiber",
       "role_code": "NB",
       "code_row_id": 649,
-      "company_id": 571,
-      "company_uid": 660472,
-      "company_name": "EGC Energie- und Gebäudetechnik Control GmbH & Co. KG"
+      "company_id": 64099,
+      "company_uid": 670306,
+      "company_name": "FASTR GmbH"
     },
     {
       "bdew_code": "9907421000000",
@@ -50489,7 +50503,7 @@
       "code_row_id": 11828,
       "company_id": 2818,
       "company_uid": 662703,
-      "company_name": "WEV Warendorfer Energieversorgung GmbH"
+      "company_name": "Stadtwerke Warendorf GmbH"
     },
     {
       "bdew_code": "9907761000009",
@@ -53745,9 +53759,9 @@
       "market_function": "Messstellenbetreiber",
       "role_code": "MSB",
       "code_row_id": 651,
-      "company_id": 571,
-      "company_uid": 660472,
-      "company_name": "EGC Energie- und Gebäudetechnik Control GmbH & Co. KG"
+      "company_id": 64099,
+      "company_uid": 670306,
+      "company_name": "FASTR GmbH"
     },
     {
       "bdew_code": "9910749000008",
@@ -54845,7 +54859,7 @@
       "code_row_id": 6373,
       "company_id": 2818,
       "company_uid": 662703,
-      "company_name": "WEV Warendorfer Energieversorgung GmbH"
+      "company_name": "Stadtwerke Warendorf GmbH"
     },
     {
       "bdew_code": "9911000000000",
@@ -58238,7 +58252,7 @@
       "code_row_id": 6372,
       "company_id": 2818,
       "company_uid": 662703,
-      "company_name": "WEV Warendorfer Energieversorgung GmbH"
+      "company_name": "Stadtwerke Warendorf GmbH"
     },
     {
       "bdew_code": "9911990000003",
@@ -60119,7 +60133,7 @@
       "code_row_id": 12861,
       "company_id": 2818,
       "company_uid": 662703,
-      "company_name": "WEV Warendorfer Energieversorgung GmbH"
+      "company_name": "Stadtwerke Warendorf GmbH"
     },
     {
       "bdew_code": "9978081000003",
@@ -104211,6 +104225,15 @@
       "company_id": 64094,
       "company_uid": 670301,
       "company_name": "Michael Helmut Willsch"
+    },
+    {
+      "bdew_code": "9985815000000",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68440,
+      "company_id": 41532,
+      "company_uid": 664655,
+      "company_name": "Engelhart CTP Renewables GmbH"
     },
     {
       "bdew_code": "9987098000005",
