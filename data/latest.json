@@ -2,14 +2,14 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-13",
-      "published_at": "2026-08-13T03:39:13+00:00",
-      "content_hash": "5b884d20510717fe8982e5ebea28c62ed6e52312ea9f3bfa435e598079f8ffee"
+      "version": "2026-08-14",
+      "published_at": "2026-08-14T03:36:41+00:00",
+      "content_hash": "fbaa6b638690c39cb3a01b12685a0bc8d537881bc4bfa0ac4b7d3a076b8683c0"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-13T03:32:21.531338+00:00",
+      "observed_at": "2026-08-14T03:29:03.037125+00:00",
       "filter": ""
     },
     "records": {
@@ -18,7 +18,7 @@
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-08-13T03:32:21.531338+00:00",
+      "cleaned_at": "2026-08-14T03:29:03.037125+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -6177,6 +6177,11 @@
       "company_name": "Flexa GmbH"
     },
     {
+      "company_id": 64085,
+      "company_uid": 670292,
+      "company_name": "Flexbid GmbH"
+    },
+    {
       "company_id": 60508,
       "company_uid": 668727,
       "company_name": "Flexcess GmbH"
@@ -11184,12 +11189,7 @@
     {
       "company_id": 56901,
       "company_uid": 665129,
-      "company_name": "Mobilität & Energie Mitte-West GmbH & Co. KG"
-    },
-    {
-      "company_id": 1924,
-      "company_uid": 661815,
-      "company_name": "Mobilität & Energie me-Süd GmbH"
+      "company_name": "Mobene Energie Handelsgesellschaft mbH & Co. KG"
     },
     {
       "company_id": 2524,
@@ -55507,7 +55507,7 @@
       "code_row_id": 234,
       "company_id": 56901,
       "company_uid": 665129,
-      "company_name": "Mobilität & Energie Mitte-West GmbH & Co. KG"
+      "company_name": "Mobene Energie Handelsgesellschaft mbH & Co. KG"
     },
     {
       "bdew_code": "9911185000008",
@@ -55544,15 +55544,6 @@
       "company_id": 1547,
       "company_uid": 661441,
       "company_name": "Maier & Korduletsch Energie GmbH"
-    },
-    {
-      "bdew_code": "9911190000001",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 3597,
-      "company_id": 1924,
-      "company_uid": 661815,
-      "company_name": "Mobilität & Energie me-Süd GmbH"
     },
     {
       "bdew_code": "9911192000009",
@@ -104252,6 +104243,15 @@
       "company_id": 63933,
       "company_uid": 670140,
       "company_name": "Encavis Energy Solutions GmbH"
+    },
+    {
+      "bdew_code": "9985820000003",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68445,
+      "company_id": 64085,
+      "company_uid": 670292,
+      "company_name": "Flexbid GmbH"
     },
     {
       "bdew_code": "9987098000005",

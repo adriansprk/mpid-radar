@@ -3722,12 +3722,11 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9911175000000,Bilanzkreisverantwortlicher,BKV,661741,Leuendorff Strom und Erdgas GmbH,1849,3466
 9911177000008,Bilanzkreisverantwortlicher,BKV,662760,ZVO Energie GmbH,2875,6457
 9911179000006,Lieferant,LF,662760,ZVO Energie GmbH,2875,6456
-9911182000001,Lieferant,LF,665129,Mobilität & Energie Mitte-West GmbH & Co. KG,56901,234
+9911182000001,Lieferant,LF,665129,Mobene Energie Handelsgesellschaft mbH & Co. KG,56901,234
 9911185000008,Lieferant,LF,660692,Energiehandel Süd GmbH & Co. KG,793,1169
 9911186000007,Lieferant,LF,661006,Geiger GmbH,1109,1905
 9911187000006,Lieferant,LF,661314,Josef Pauli Gesellschaft mit beschränkter Haftung,1418,2639
 9911189000004,Lieferant,LF,661441,Maier & Korduletsch Energie GmbH,1547,2886
-9911190000001,Lieferant,LF,661815,Mobilität & Energie me-Süd GmbH,1924,3597
 9911192000009,Lieferant,LF,660667,Energie Steiermark Business GmbH,768,1121
 9911194000007,Lieferant,LF,662364,Stadtwerke Winnenden GmbH,2476,5552
 9911196000005,Lieferant,LF,660407,Dow Deutschland Anlagengesellschaft mbH,506,515
@@ -9139,5 +9138,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985815000000,Betreiber einer technischen Ressource,BTR,664655,Engelhart CTP Renewables GmbH,41532,68440
 9985817000008,Energieserviceanbieter des Anschlussnutzers,ESA,669860,Otark Energy Services GmbH,61658,68442
 9985818000007,Bilanzkreisverantwortlicher,BKV,670140,Encavis Energy Solutions GmbH,63933,68443
+9985820000003,Bilanzkreisverantwortlicher,BKV,670292,Flexbid GmbH,64085,68445
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
