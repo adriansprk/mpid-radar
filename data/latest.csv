@@ -7208,7 +7208,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9983000000009,Energieserviceanbieter des Anschlussnutzers,ESA,666924,DEM GmbH,58696,64452
 9983002000007,Einsatzverantwortlicher,EIV,661071,Gemeindewerke Nüdlingen,1174,64454
 9983003000006,Betreiber einer technischen Ressource,BTR,661071,Gemeindewerke Nüdlingen,1174,64455
-9983006000003,Bilanzkreisverantwortlicher,BKV,667282,EP Commodities B.V.,59054,64458
+9983006000003,Bilanzkreisverantwortlicher,BKV,667282,TTEP Energie B.V.,59054,64458
 9983007000002,Betreiber einer technischen Ressource,BTR,667198,Karl Ehrhard,58970,64459
 9983008000001,Einsatzverantwortlicher,EIV,667283,Rolf Sperling,59055,64460
 9983009000000,Einsatzverantwortlicher,EIV,668734,Uhl Kies- und Baustoff GmbH,60515,64461
@@ -9119,6 +9119,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985787000005,Betreiber einer technischen Ressource,BTR,670251,Return DE Assets GmbH,64044,68408
 9985788000004,Energieserviceanbieter des Anschlussnutzers,ESA,670274,white energy GmbH,64067,68409
 9985789000003,Lieferant,LF,666030,Glencore Energy UK Ltd,57802,68410
+9985790000000,Lieferant,LF,670276,Cloover Energy GmbH,64069,68411
 9985791000009,Messstellenbetreiber,MSB,670278,Altenberger Elektroservice GmbH,64071,68412
 9985793000007,Einsatzverantwortlicher,EIV,670204,Windanker GmbH,63997,68414
 9985794000006,Data Provider,DP,670279,EnergieDock GmbH,64072,68415
@@ -9138,6 +9139,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985815000000,Betreiber einer technischen Ressource,BTR,664655,Engelhart CTP Renewables GmbH,41532,68440
 9985817000008,Energieserviceanbieter des Anschlussnutzers,ESA,669860,Otark Energy Services GmbH,61658,68442
 9985818000007,Bilanzkreisverantwortlicher,BKV,670140,Encavis Energy Solutions GmbH,63933,68443
+9985819000006,Messstellenbetreiber,MSB,670311,Zeppelin Rental GmbH,64104,68444
 9985820000003,Bilanzkreisverantwortlicher,BKV,670292,Flexbid GmbH,64085,68445
+9985821000002,Bilanzkreisverantwortlicher,BKV,670313,"HAVEL Trading S.A., Leudelange, succursale de Genève",64106,68446
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

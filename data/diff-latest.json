@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-13",
-      "published_at": "2026-08-13T03:39:13+00:00",
-      "content_hash": "5b884d20510717fe8982e5ebea28c62ed6e52312ea9f3bfa435e598079f8ffee"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-13T03:32:21.531338+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4391,
-      "market_partners": 9142,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-08-13T03:32:21.531338+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-08-14",
-      "published_at": "2026-08-14T03:29:03.037125+00:00",
+      "published_at": "2026-08-14T03:36:41+00:00",
       "content_hash": "fbaa6b638690c39cb3a01b12685a0bc8d537881bc4bfa0ac4b7d3a076b8683c0"
     },
     "source": {
@@ -71,64 +35,107 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-08-15",
+      "published_at": "2026-08-15T02:18:15.818894+00:00",
+      "content_hash": "807183837b76fbf812c8dbc5062ce927c33e10c3f793b660d314171fdce051fe"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-08-15T02:18:15.818894+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4393,
+      "market_partners": 9145,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-08-15T02:18:15.818894+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985820000003",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68445,
-      "company_id": 64085,
-      "company_uid": 670292,
-      "company_name": "Flexbid GmbH"
-    }
-  ],
-  "codes_removed": [
-    {
-      "bdew_code": "9911190000001",
+      "bdew_code": "9985790000000",
       "market_function": "Lieferant",
       "role_code": "LF",
-      "code_row_id": 3597,
-      "company_id": 1924,
-      "company_uid": 661815,
-      "company_name": "Mobilität & Energie me-Süd GmbH"
+      "code_row_id": 68411,
+      "company_id": 64069,
+      "company_uid": 670276,
+      "company_name": "Cloover Energy GmbH"
+    },
+    {
+      "bdew_code": "9985819000006",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68444,
+      "company_id": 64104,
+      "company_uid": 670311,
+      "company_name": "Zeppelin Rental GmbH"
+    },
+    {
+      "bdew_code": "9985821000002",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68446,
+      "company_id": 64106,
+      "company_uid": 670313,
+      "company_name": "HAVEL Trading S.A., Leudelange, succursale de Genève"
     }
   ],
+  "codes_removed": [],
   "codes_changed": [
     {
-      "code_row_id": 234,
-      "bdew_code": "9911182000001",
+      "code_row_id": 64458,
+      "bdew_code": "9983006000003",
       "changes": {
         "company_name": {
-          "old": "Mobilität & Energie Mitte-West GmbH & Co. KG",
-          "new": "Mobene Energie Handelsgesellschaft mbH & Co. KG"
+          "old": "EP Commodities B.V.",
+          "new": "TTEP Energie B.V."
         }
       }
     }
   ],
   "companies_added_ids": [
-    64085
+    64104,
+    64106
   ],
-  "companies_removed_ids": [
-    1924
-  ],
+  "companies_removed_ids": [],
   "companies_changed": [
     {
-      "company_id": 56901,
+      "company_id": 59054,
       "changes": {
         "company_name": {
-          "old": "Mobilität & Energie Mitte-West GmbH & Co. KG",
-          "new": "Mobene Energie Handelsgesellschaft mbH & Co. KG"
+          "old": "EP Commodities B.V.",
+          "new": "TTEP Energie B.V."
         }
       }
     }
   ],
   "summary": {
-    "codes_added": 1,
-    "codes_removed": 1,
+    "codes_added": 3,
+    "codes_removed": 0,
     "codes_changed": 1,
     "codes_recoded": 0,
-    "companies_added": 1,
-    "companies_removed": 1,
+    "companies_added": 2,
+    "companies_removed": 0,
     "companies_changed": 1
   },
   "old": "../public/data/latest.json",
