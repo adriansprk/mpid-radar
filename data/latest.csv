@@ -8549,7 +8549,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985144000002,Energieserviceanbieter des Anschlussnutzers,ESA,669345,aedifion GmbH,61126,66709
 9985146000000,Betreiber einer technischen Ressource,BTR,667972,coneva GmbH,59753,66711
 9985147000009,Einsatzverantwortlicher,EIV,667972,coneva GmbH,59753,66712
-9985148000008,Energieserviceanbieter des Anschlussnutzers,ESA,669381,Otark GmbH,61162,66713
 9985149000007,Betreiber einer technischen Ressource,BTR,669383,Fleischverarbeitungsbetrieb Zitzmann GmbH,61164,66714
 9985150000004,Bilanzkreisverantwortlicher,BKV,669375,KOLEKTOR sETup d.o.o.,61156,66715
 9985151000003,Energieserviceanbieter des Anschlussnutzers,ESA,662762,Zweckverband Müllverwertung Schwandorf,2877,66716
@@ -9142,5 +9141,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985819000006,Messstellenbetreiber,MSB,670311,Zeppelin Rental GmbH,64104,68444
 9985820000003,Bilanzkreisverantwortlicher,BKV,670292,Flexbid GmbH,64085,68445
 9985821000002,Bilanzkreisverantwortlicher,BKV,670313,"HAVEL Trading S.A., Leudelange, succursale de Genève",64106,68446
+9985822000001,Lieferant,LF,670314,BürgerEnergie Nord eG,64107,68447
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
