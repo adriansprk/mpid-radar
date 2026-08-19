@@ -1,5 +1,6 @@
 bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row_id
 3701216100016,Bilanzkreisverantwortlicher,BKV,664324,BCM Energy,23354,29351
+3770043962012,Bilanzkreisverantwortlicher,BKV,670319,BOHR ENERGIE,64112,68448
 3808002002575,Bilanzkreisverantwortlicher,BKV,668963,SolarPeak Ltd.,60744,66343
 4007633000007,Einsatzverantwortlicher,EIV,665966,Heibi-Metall Birmann GmbH,57738,62140
 4008452000001,Netznutzer ohne All-Inklusiv-Vertrag,NN,663451,Molkerei Weihenstephan GmbH & Co. KG,4573,8735
@@ -164,6 +165,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 5790002841316,Bilanzkreisverantwortlicher,BKV,670254,Joulx ApS,64047,68389
 5790002861703,Bilanzkreisverantwortlicher,BKV,670134,X Commodities ApS,63927,68302
 5790002870811,Bilanzkreisverantwortlicher,BKV,670307,Quant Partners ApS,64100,68439
+5790002871795,Bilanzkreisverantwortlicher,BKV,670320,In Commodities Stack A/S,64113,68449
 5909000829800,Bilanzkreisverantwortlicher,BKV,664301,ENEA Trading Sp. z o.o.,23331,29335
 5909000893252,Bilanzkreisverantwortlicher,BKV,668646,XOOG OPERATOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,60427,66025
 5909000893757,Bilanzkreisverantwortlicher,BKV,668683,Sky Quant sp. z o.o.,60464,66055

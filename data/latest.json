@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-18",
-      "published_at": "2026-08-18T02:30:38+00:00",
-      "content_hash": "2682de97324b9753bcfa7d5eabfafd45d5a76c3e6d8734fba093b20456a87513"
+      "version": "2026-08-19",
+      "published_at": "2026-08-19T02:38:46+00:00",
+      "content_hash": "0220f1c099d8818fb57ad0b7c755aefa797061c85ac36f9ce581897ff285298e"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-18T02:20:07.864147+00:00",
+      "observed_at": "2026-08-19T02:30:46.782214+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4393,
-      "market_partners": 9145,
+      "companies": 4395,
+      "market_partners": 9147,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-08-18T02:20:07.864147+00:00",
+      "cleaned_at": "2026-08-19T02:30:46.782214+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -1385,6 +1385,11 @@
       "company_id": 4588,
       "company_uid": 663466,
       "company_name": "BNP Paribas"
+    },
+    {
+      "company_id": 64112,
+      "company_uid": 670319,
+      "company_name": "BOHR ENERGIE"
     },
     {
       "company_id": 364,
@@ -8820,6 +8825,11 @@
       "company_id": 61267,
       "company_uid": 669486,
       "company_name": "In Commodities Asset Management A/S"
+    },
+    {
+      "company_id": 64113,
+      "company_uid": 670320,
+      "company_name": "In Commodities Stack A/S"
     },
     {
       "company_id": 1393,
@@ -22013,6 +22023,15 @@
       "company_name": "BCM Energy"
     },
     {
+      "bdew_code": "3770043962012",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68448,
+      "company_id": 64112,
+      "company_uid": 670319,
+      "company_name": "BOHR ENERGIE"
+    },
+    {
       "bdew_code": "3808002002575",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -23487,6 +23506,15 @@
       "company_id": 64100,
       "company_uid": 670307,
       "company_name": "Quant Partners ApS"
+    },
+    {
+      "bdew_code": "5790002871795",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68449,
+      "company_id": 64113,
+      "company_uid": 670320,
+      "company_name": "In Commodities Stack A/S"
     },
     {
       "bdew_code": "5909000829800",
