@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-18",
-      "published_at": "2026-08-18T02:30:38+00:00",
-      "content_hash": "2682de97324b9753bcfa7d5eabfafd45d5a76c3e6d8734fba093b20456a87513"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-18T02:20:07.864147+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4393,
-      "market_partners": 9145,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-08-18T02:20:07.864147+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-08-19",
-      "published_at": "2026-08-19T02:30:46.782214+00:00",
+      "published_at": "2026-08-19T02:38:46+00:00",
       "content_hash": "0220f1c099d8818fb57ad0b7c755aefa797061c85ac36f9ce581897ff285298e"
     },
     "source": {
@@ -71,42 +35,116 @@
       }
     }
   },
-  "codes_added": [
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-08-20",
+      "published_at": "2026-08-20T02:21:57.317186+00:00",
+      "content_hash": "67e44a0845545158a8bab61b3ce5e74ac46117371751f40c384df48de937af7a"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-08-20T02:21:57.317186+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4395,
+      "market_partners": 9147,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-08-20T02:21:57.317186+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
+  "codes_added": [],
+  "codes_removed": [],
+  "codes_changed": [
     {
-      "bdew_code": "3770043962012",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68448,
-      "company_id": 64112,
-      "company_uid": 670319,
-      "company_name": "BOHR ENERGIE"
+      "code_row_id": 3333,
+      "bdew_code": "9907648000007",
+      "changes": {
+        "company_name": {
+          "old": "OQ Services GmbH",
+          "new": "OXEA Services GmbH"
+        }
+      }
     },
     {
-      "bdew_code": "5790002871795",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68449,
-      "company_id": 64113,
-      "company_uid": 670320,
-      "company_name": "In Commodities Stack A/S"
+      "code_row_id": 49637,
+      "bdew_code": "9979012000004",
+      "changes": {
+        "company_name": {
+          "old": "OQ Services GmbH",
+          "new": "OXEA Services GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 64285,
+      "bdew_code": "9982838000009",
+      "changes": {
+        "company_name": {
+          "old": "OQ Services GmbH",
+          "new": "OXEA Services GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 66658,
+      "bdew_code": "9985097000000",
+      "changes": {
+        "company_name": {
+          "old": "Obton Germany GmbH",
+          "new": "engira group Germany GmbH"
+        }
+      }
     }
   ],
-  "codes_removed": [],
-  "codes_changed": [],
-  "companies_added_ids": [
-    64112,
-    64113
-  ],
+  "companies_added_ids": [],
   "companies_removed_ids": [],
-  "companies_changed": [],
+  "companies_changed": [
+    {
+      "company_id": 13775,
+      "changes": {
+        "company_name": {
+          "old": "OQ Services GmbH",
+          "new": "OXEA Services GmbH"
+        }
+      }
+    },
+    {
+      "company_id": 61104,
+      "changes": {
+        "company_name": {
+          "old": "Obton Germany GmbH",
+          "new": "engira group Germany GmbH"
+        }
+      }
+    }
+  ],
   "summary": {
-    "codes_added": 2,
+    "codes_added": 0,
     "codes_removed": 0,
-    "codes_changed": 0,
+    "codes_changed": 4,
     "codes_recoded": 0,
-    "companies_added": 2,
+    "companies_added": 0,
     "companies_removed": 0,
-    "companies_changed": 0
+    "companies_changed": 2
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

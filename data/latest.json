@@ -2,14 +2,14 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-19",
-      "published_at": "2026-08-19T02:38:46+00:00",
-      "content_hash": "0220f1c099d8818fb57ad0b7c755aefa797061c85ac36f9ce581897ff285298e"
+      "version": "2026-08-20",
+      "published_at": "2026-08-20T02:30:38+00:00",
+      "content_hash": "67e44a0845545158a8bab61b3ce5e74ac46117371751f40c384df48de937af7a"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-19T02:30:46.782214+00:00",
+      "observed_at": "2026-08-20T02:21:57.317186+00:00",
       "filter": ""
     },
     "records": {
@@ -18,7 +18,7 @@
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-08-19T02:30:46.782214+00:00",
+      "cleaned_at": "2026-08-20T02:21:57.317186+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -12022,11 +12022,6 @@
       "company_name": "OQ Chemicals Produktion GmbH & Co. KG"
     },
     {
-      "company_id": 13775,
-      "company_uid": 663711,
-      "company_name": "OQ Services GmbH"
-    },
-    {
       "company_id": 60891,
       "company_uid": 669110,
       "company_name": "ORLEN Energia Sp. z o.o."
@@ -12082,6 +12077,11 @@
       "company_name": "OWP Nordergründe GmbH & Co. KG"
     },
     {
+      "company_id": 13775,
+      "company_uid": 663711,
+      "company_name": "OXEA Services GmbH"
+    },
+    {
       "company_id": 58217,
       "company_uid": 666445,
       "company_name": "Oberbillig Energie GmbH"
@@ -12130,11 +12130,6 @@
       "company_id": 57256,
       "company_uid": 665484,
       "company_name": "Oberschwabenklinik gGmbH"
-    },
-    {
-      "company_id": 61104,
-      "company_uid": 669323,
-      "company_name": "Obton Germany GmbH"
     },
     {
       "company_id": 13987,
@@ -21230,6 +21225,11 @@
       "company_id": 182,
       "company_uid": 660096,
       "company_name": "enewa GmbH"
+    },
+    {
+      "company_id": 61104,
+      "company_uid": 669323,
+      "company_name": "engira group Germany GmbH"
     },
     {
       "company_id": 60446,
@@ -50172,7 +50172,7 @@
       "code_row_id": 3333,
       "company_id": 13775,
       "company_uid": 663711,
-      "company_name": "OQ Services GmbH"
+      "company_name": "OXEA Services GmbH"
     },
     {
       "bdew_code": "9907650000003",
@@ -64896,7 +64896,7 @@
       "code_row_id": 49637,
       "company_id": 13775,
       "company_uid": 663711,
-      "company_name": "OQ Services GmbH"
+      "company_name": "OXEA Services GmbH"
     },
     {
       "bdew_code": "9979013000003",
@@ -86019,7 +86019,7 @@
       "code_row_id": 64285,
       "company_id": 13775,
       "company_uid": 663711,
-      "company_name": "OQ Services GmbH"
+      "company_name": "OXEA Services GmbH"
     },
     {
       "bdew_code": "9982848000007",
@@ -98592,7 +98592,7 @@
       "code_row_id": 66658,
       "company_id": 61104,
       "company_uid": 669323,
-      "company_name": "Obton Germany GmbH"
+      "company_name": "engira group Germany GmbH"
     },
     {
       "bdew_code": "9985098000009",

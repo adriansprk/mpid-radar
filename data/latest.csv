@@ -3127,7 +3127,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9907643000002,Netzbetreiber,NB,661735,Regionalnetze Linzgau GmbH,1843,3449
 9907645000000,Netzbetreiber,NB,660099,Energieversorgung Filstal GmbH & Co. KG,185,1242
 9907647000008,Netzbetreiber,NB,662644,VersorgungsWerke Heddesheim GmbH & Co. KG,2758,6250
-9907648000007,Netzbetreiber,NB,663711,OQ Services GmbH,13775,3333
+9907648000007,Netzbetreiber,NB,663711,OXEA Services GmbH,13775,3333
 9907650000003,Netzbetreiber,NB,660965,Flughafen Stuttgart Energie GmbH,1068,1822
 9907651000002,Netzbetreiber,NB,661327,Karlsruher Institut für Technologie,1431,2664
 9907653000000,Netzbetreiber,NB,661009,GELSENWASSER Energienetze GmbH,1112,1910
@@ -4763,7 +4763,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9979009000009,Lieferant,LF,662008,Netzgesellschaft Eisenberg mbH,2118,49634
 9979010000006,Lieferant,LF,661715,PVU Energienetze GmbH,1823,49635
 9979011000005,Lieferant,LF,664536,CPM Netz GmbH,33466,49636
-9979012000004,Lieferant,LF,663711,OQ Services GmbH,13775,49637
+9979012000004,Lieferant,LF,663711,OXEA Services GmbH,13775,49637
 9979013000003,Lieferant,LF,660147,AllgäuNetz GmbH & Co. KG,241,49638
 9979014000002,Lieferant,LF,660148,Alliander Netz Heinsberg GmbH,242,49639
 9979015000001,Lieferant,LF,662117,Stadtwerke Karlsruhe Netzservice GmbH,2229,49640
@@ -7110,7 +7110,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9982829000000,Einsatzverantwortlicher,EIV,662217,Stadtwerke Oranienburg GmbH,2329,64276
 9982830000007,Betreiber einer technischen Ressource,BTR,662217,Stadtwerke Oranienburg GmbH,2329,64277
 9982831000006,Einsatzverantwortlicher,EIV,667174,Brinck GmbH & Co. KG,58946,64278
-9982838000009,Einsatzverantwortlicher,EIV,663711,OQ Services GmbH,13775,64285
+9982838000009,Einsatzverantwortlicher,EIV,663711,OXEA Services GmbH,13775,64285
 9982848000007,Einsatzverantwortlicher,EIV,667182,Westfalenland Fleischwaren GmbH,58954,64295
 9982851000002,Betreiber einer technischen Ressource,BTR,667194,Carl Fr. Scheer GmbH & Co. KG,58966,64298
 9982852000001,Einsatzverantwortlicher,EIV,667194,Carl Fr. Scheer GmbH & Co. KG,58966,64299
@@ -8507,7 +8507,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985094000003,Bilanzkreisverantwortlicher,BKV,669315,Solarpark Boldekow GmbH & Co. KG,61096,66655
 9985095000002,Lieferant,LF,669316,ReDirect GmbH,61097,66656
 9985096000001,Bilanzkreisverantwortlicher,BKV,669316,ReDirect GmbH,61097,66657
-9985097000000,Energieserviceanbieter des Anschlussnutzers,ESA,669323,Obton Germany GmbH,61104,66658
+9985097000000,Energieserviceanbieter des Anschlussnutzers,ESA,669323,engira group Germany GmbH,61104,66658
 9985098000009,Einsatzverantwortlicher,EIV,669000,fairster. Energie gGmbH,60781,66659
 9985099000008,Energieserviceanbieter des Anschlussnutzers,ESA,664784,Amtswerke Eggebek GmbH & Co. KG,50592,66660
 9985100000004,Betreiber einer technischen Ressource,BTR,669000,fairster. Energie gGmbH,60781,66661
