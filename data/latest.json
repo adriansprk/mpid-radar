@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-20",
-      "published_at": "2026-08-20T02:30:38+00:00",
-      "content_hash": "67e44a0845545158a8bab61b3ce5e74ac46117371751f40c384df48de937af7a"
+      "version": "2026-08-22",
+      "published_at": "2026-08-22T02:26:55+00:00",
+      "content_hash": "cdc5209610fc47ec41e11d99fe08154d1ae32881335c70cbd36ad829e9fc9628"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-20T02:21:57.317186+00:00",
+      "observed_at": "2026-08-22T02:20:11.699983+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4395,
-      "market_partners": 9147,
+      "companies": 4393,
+      "market_partners": 9146,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-08-20T02:21:57.317186+00:00",
+      "cleaned_at": "2026-08-22T02:20:11.699983+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -2770,11 +2770,6 @@
       "company_id": 307,
       "company_uid": 660210,
       "company_name": "Covestro Brunsbüttel Energie GmbH"
-    },
-    {
-      "company_id": 61159,
-      "company_uid": 669378,
-      "company_name": "Covolt B.V."
     },
     {
       "company_id": 451,
@@ -12310,11 +12305,6 @@
       "company_id": 60830,
       "company_uid": 669049,
       "company_name": "Outlook Energy Ltd"
-    },
-    {
-      "company_id": 1768,
-      "company_uid": 661660,
-      "company_name": "Outokumpu Nirosta GmbH"
     },
     {
       "company_id": 58691,
@@ -93271,9 +93261,9 @@
       "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
       "role_code": "NN",
       "code_row_id": 65854,
-      "company_id": 1768,
-      "company_uid": 661660,
-      "company_name": "Outokumpu Nirosta GmbH"
+      "company_id": 58691,
+      "company_uid": 666919,
+      "company_name": "Outokumpu Stainless Nirosta GmbH"
     },
     {
       "bdew_code": "9984356000008",
@@ -98944,15 +98934,6 @@
       "company_id": 23386,
       "company_uid": 664356,
       "company_name": "Stadtwerke Sankt Augustin GmbH"
-    },
-    {
-      "bdew_code": "9985143000003",
-      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
-      "role_code": "NN",
-      "code_row_id": 66708,
-      "company_id": 61159,
-      "company_uid": 669378,
-      "company_name": "Covolt B.V."
     },
     {
       "bdew_code": "9985144000002",

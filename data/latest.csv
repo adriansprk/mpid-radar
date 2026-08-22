@@ -7916,7 +7916,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9984351000003,Einsatzverantwortlicher,EIV,668451,Kronospan GmbH,60232,65850
 9984352000002,Lieferant,LF,660417,DSM Nutritional Products GmbH,516,65851
 9984353000001,Einsatzverantwortlicher,EIV,668453,Bernecker MediaWare Aktiengesellschaft,60234,65852
-9984354000000,Netznutzer ohne All-Inklusiv-Vertrag,NN,661660,Outokumpu Nirosta GmbH,1768,65854
+9984354000000,Netznutzer ohne All-Inklusiv-Vertrag,NN,666919,Outokumpu Stainless Nirosta GmbH,58691,65854
 9984356000008,Bilanzkreisverantwortlicher,BKV,662069,"""Stadtwerke Haan GmbH""",2181,65856
 9984357000007,Betreiber einer technischen Ressource,BTR,666510,Martina Fuhrmann,58282,65857
 9984358000006,Einsatzverantwortlicher,EIV,670150,Franz und Kessler Grundstücks GmbH & Co.KG,63943,65858
@@ -8547,7 +8547,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985137000001,Lieferant,LF,669373,HOCHTIEF Solarpartner GmbH,61154,66702
 9985140000006,Messstellenbetreiber,MSB,669376,Jochen Lenz,61157,66705
 9985141000005,Bilanzkreisverantwortlicher,BKV,664356,Stadtwerke Sankt Augustin GmbH,23386,66706
-9985143000003,Netznutzer ohne All-Inklusiv-Vertrag,NN,669378,Covolt B.V.,61159,66708
 9985144000002,Energieserviceanbieter des Anschlussnutzers,ESA,669345,aedifion GmbH,61126,66709
 9985146000000,Betreiber einer technischen Ressource,BTR,667972,coneva GmbH,59753,66711
 9985147000009,Einsatzverantwortlicher,EIV,667972,coneva GmbH,59753,66712
