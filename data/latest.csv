@@ -4517,8 +4517,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9978632000006,Lieferant,LF,660108,Mer Germany GmbH,200,29372
 9978634000004,Messstellenbetreiber,MSB,664349,Energie- und Wirtschaftsberatung Herbert Oepen,23379,29376
 9978637000001,Messstellenbetreiber,MSB,664243,Infraserv Netze GmbH,21290,29379
-9978640000006,Lieferant,LF,664353,EnergieRevolte GmbH,23383,29382
-9978641000005,Messstellenbetreiber,MSB,664353,EnergieRevolte GmbH,23383,29383
 9978642000004,Lieferant,LF,664354,Stadtwerke Voerde Gesellschaft mit beschränkter Haftung,23384,29384
 9978648000008,Messstellenbetreiber,MSB,664362,EM Energiemanagement Steffen Kühner,24389,30388
 9978651000003,Messstellenbetreiber,MSB,662662,Vorarlberger Energienetze GmbH,2776,30392
@@ -5408,7 +5406,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9979974000001,Betreiber einer technischen Ressource,BTR,662030,Stadtwerke Finsterwalde GmbH,2142,61393
 9979978000007,Einsatzverantwortlicher,EIV,662349,STADTWERKE WEISSENBURG GmbH,2461,61397
 9979979000006,Betreiber einer technischen Ressource,BTR,661121,GETEC ENERGIE GmbH,1224,61398
-9979980000003,Einsatzverantwortlicher,EIV,665532,Garz Energietechnik GmbH,57304,61399
 9979981000002,Einsatzverantwortlicher,EIV,665533,Tobias Niklas,57305,61400
 9979982000001,Betreiber einer technischen Ressource,BTR,665527,Ansgar Hartmann,57299,61401
 9979983000000,Betreiber einer technischen Ressource,BTR,660671,Energie und Wasser Potsdam GmbH,772,61402
@@ -6118,8 +6115,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9981135000001,Betreiber einer technischen Ressource,BTR,666201,Siegfried Meier,57973,62566
 9981137000009,Einsatzverantwortlicher,EIV,661273,InfraServ GmbH & Co. Gendorf KG,1377,62568
 9981140000004,Einsatzverantwortlicher,EIV,666206,Forster Solarstrom GbR,57978,62571
-9981142000002,Einsatzverantwortlicher,EIV,666208,SolCom 2 UG (haftungsbeschränkt),57980,62573
-9981143000001,Betreiber einer technischen Ressource,BTR,666208,SolCom 2 UG (haftungsbeschränkt),57980,62574
 9981150000002,Betreiber einer technischen Ressource,BTR,662443,Südwestdeutsche Stromhandels GmbH,2555,62581
 9981151000001,Betreiber einer technischen Ressource,BTR,660435,Elektrizitätswerk S c h w e i g e r o.H.G.,534,62582
 9981152000000,Einsatzverantwortlicher,EIV,660435,Elektrizitätswerk S c h w e i g e r o.H.G.,534,62583
@@ -6241,7 +6236,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9981353000007,Einsatzverantwortlicher,EIV,666335,Grundstücks- und Anlagengesellschaft Bruns OHG,58107,62784
 9981354000006,Betreiber einer technischen Ressource,BTR,666335,Grundstücks- und Anlagengesellschaft Bruns OHG,58107,62785
 9981355000005,Einsatzverantwortlicher,EIV,666336,Thiedmann Green Energy GbR,58108,62786
-9981358000002,Einsatzverantwortlicher,EIV,666338,Stefan Rapp,58110,62789
 9981361000007,Einsatzverantwortlicher,EIV,662561,"Überlandwerk Rhön, Gesellschaft mit beschränkter Haftung",2675,62792
 9981362000006,Betreiber einer technischen Ressource,BTR,662353,Stadtwerke Werdau GmbH,2465,62793
 9981363000005,Betreiber einer technischen Ressource,BTR,665783,SETEX-Textilveredlung-GmbH,57555,62794
@@ -6751,7 +6745,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9982221000004,Betreiber einer technischen Ressource,BTR,661768,Rieger GmbH & Co. KG,1876,63664
 9982222000003,Betreiber einer technischen Ressource,BTR,666820,DEUSA International GmbH,58592,63665
 9982223000002,Einsatzverantwortlicher,EIV,666844,Perpetuum-Ebner GmbH & Co. KG,58616,63666
-9982225000000,Betreiber einer technischen Ressource,BTR,666846,Sparkasse Freiburg - Nördlicher Breisgau,58618,63668
 9982226000009,Einsatzverantwortlicher,EIV,666782,Messe Berlin GmbH,58554,63669
 9982227000008,Einsatzverantwortlicher,EIV,666847,Groz-Beckert Kommanditgesellschaft,58619,63670
 9982228000007,Betreiber einer technischen Ressource,BTR,666847,Groz-Beckert Kommanditgesellschaft,58619,63671
@@ -6945,7 +6938,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9982548000000,Einsatzverantwortlicher,EIV,667020,St. Nikolaus-Stiftshospital GmbH,58792,63994
 9982550000006,Betreiber einer technischen Ressource,BTR,661910,Stadtwerke Bad Dürkheim GmbH,2020,63996
 9982551000005,Einsatzverantwortlicher,EIV,661910,Stadtwerke Bad Dürkheim GmbH,2020,63997
-9982552000004,Energieserviceanbieter des Anschlussnutzers,ESA,667034,Correct Power Institute GmbH,58806,63998
 9982557000009,Betreiber einer technischen Ressource,BTR,667037,Deutsche WindGuard GmbH,58809,64003
 9982558000008,Betreiber einer technischen Ressource,BTR,665807,PUR System Brokamp & Enneking GbR,57579,64004
 9982561000003,Einsatzverantwortlicher,EIV,667041,Ökumenisches Hainich Klinikum gemeinnützige GmbH,58813,64007
@@ -8283,7 +8275,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9984824000001,Energieserviceanbieter des Anschlussnutzers,ESA,661143,"GGEW, Gruppen-Gas- und Elektrizitätswerk Bergstraße Aktiengesellschaft",1246,66354
 9984825000000,Einsatzverantwortlicher,EIV,664296,Palm Power GmbH & Co. KG,23326,66355
 9984826000009,Bilanzkreisverantwortlicher,BKV,668968,Zweckverband zur Gasversorgung des Brenztals,60749,66356
-9984827000008,Energieserviceanbieter des Anschlussnutzers,ESA,668974,GT Emission Solutions GmbH,60755,66357
 9984830000003,Data Provider,DP,661496,Mitteldeutsche Netzgesellschaft Strom mbH,1602,66360
 9984831000002,Bilanzkreisverantwortlicher,BKV,661283,Innostrom GmbH,1387,66361
 9984832000001,Bilanzkreisverantwortlicher,BKV,667457,Heartbeat AI GmbH,59229,66362
@@ -9034,6 +9025,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985693000008,Lieferant,LF,670140,Encavis Energy Solutions GmbH,63933,68310
 9985694000007,Lieferant,LF,670141,Energy Streaming GmbH,63934,68311
 9985695000006,Bilanzkreisverantwortlicher,BKV,670141,Energy Streaming GmbH,63934,68312
+9985696000005,Lieferant,LF,670148,WEV Westdeutsche Energieversorgung GmbH,63941,68313
 9985697000004,Messstellenbetreiber,MSB,669981,Buderus Edelstahl GmbH,62778,68314
 9985698000003,Energieserviceanbieter des Anschlussnutzers,ESA,670152,meteoviva GmbH,63945,68315
 9985699000002,Einsatzverantwortlicher,EIV,670071,HandelGrün GmbH & Co. KG,62868,68316
@@ -9143,5 +9135,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985820000003,Bilanzkreisverantwortlicher,BKV,670292,Flexbid GmbH,64085,68445
 9985821000002,Bilanzkreisverantwortlicher,BKV,670313,"HAVEL Trading S.A., Leudelange, succursale de Genève",64106,68446
 9985822000001,Lieferant,LF,670314,BürgerEnergie Nord eG,64107,68447
+9985824000009,Messstellenbetreiber,MSB,670297,Netze Chemie- und Pharmapark Bergkamen GmbH,64090,68451
+9985826000007,Einsatzverantwortlicher,EIV,669397,terralayr flexibility services GmbH,61178,68453
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-20",
-      "published_at": "2026-08-20T02:30:38+00:00",
-      "content_hash": "67e44a0845545158a8bab61b3ce5e74ac46117371751f40c384df48de937af7a"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-20T02:21:57.317186+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4395,
-      "market_partners": 9147,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-08-20T02:21:57.317186+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-08-22",
-      "published_at": "2026-08-22T02:20:11.699983+00:00",
+      "published_at": "2026-08-22T02:26:55+00:00",
       "content_hash": "cdc5209610fc47ec41e11d99fe08154d1ae32881335c70cbd36ad829e9fc9628"
     },
     "source": {
@@ -71,47 +35,175 @@
       }
     }
   },
-  "codes_added": [],
-  "codes_removed": [
-    {
-      "bdew_code": "9985143000003",
-      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
-      "role_code": "NN",
-      "code_row_id": 66708,
-      "company_id": 61159,
-      "company_uid": 669378,
-      "company_name": "Covolt B.V."
-    }
-  ],
-  "codes_changed": [
-    {
-      "code_row_id": 65854,
-      "bdew_code": "9984354000000",
-      "changes": {
-        "company_uid": {
-          "old": 661660,
-          "new": 666919
-        },
-        "company_name": {
-          "old": "Outokumpu Nirosta GmbH",
-          "new": "Outokumpu Stainless Nirosta GmbH"
-        }
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-08-25",
+      "published_at": "2026-08-25T02:30:28.960679+00:00",
+      "content_hash": "7e249a18a665f5480ebf318599990e9c4b6c3f552c44d498d22588b9ab56dc62"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-08-25T02:30:28.960679+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4387,
+      "market_partners": 9140,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-08-25T02:30:28.960679+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
       }
     }
+  },
+  "codes_added": [
+    {
+      "bdew_code": "9985696000005",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68313,
+      "company_id": 63941,
+      "company_uid": 670148,
+      "company_name": "WEV Westdeutsche Energieversorgung GmbH"
+    },
+    {
+      "bdew_code": "9985824000009",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68451,
+      "company_id": 64090,
+      "company_uid": 670297,
+      "company_name": "Netze Chemie- und Pharmapark Bergkamen GmbH"
+    },
+    {
+      "bdew_code": "9985826000007",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68453,
+      "company_id": 61178,
+      "company_uid": 669397,
+      "company_name": "terralayr flexibility services GmbH"
+    }
   ],
-  "companies_added_ids": [],
+  "codes_removed": [
+    {
+      "bdew_code": "9978640000006",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 29382,
+      "company_id": 23383,
+      "company_uid": 664353,
+      "company_name": "EnergieRevolte GmbH"
+    },
+    {
+      "bdew_code": "9978641000005",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 29383,
+      "company_id": 23383,
+      "company_uid": 664353,
+      "company_name": "EnergieRevolte GmbH"
+    },
+    {
+      "bdew_code": "9979980000003",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 61399,
+      "company_id": 57304,
+      "company_uid": 665532,
+      "company_name": "Garz Energietechnik GmbH"
+    },
+    {
+      "bdew_code": "9981142000002",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 62573,
+      "company_id": 57980,
+      "company_uid": 666208,
+      "company_name": "SolCom 2 UG (haftungsbeschränkt)"
+    },
+    {
+      "bdew_code": "9981143000001",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 62574,
+      "company_id": 57980,
+      "company_uid": 666208,
+      "company_name": "SolCom 2 UG (haftungsbeschränkt)"
+    },
+    {
+      "bdew_code": "9981358000002",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 62789,
+      "company_id": 58110,
+      "company_uid": 666338,
+      "company_name": "Stefan Rapp"
+    },
+    {
+      "bdew_code": "9982225000000",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 63668,
+      "company_id": 58618,
+      "company_uid": 666846,
+      "company_name": "Sparkasse Freiburg - Nördlicher Breisgau"
+    },
+    {
+      "bdew_code": "9982552000004",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 63998,
+      "company_id": 58806,
+      "company_uid": 667034,
+      "company_name": "Correct Power Institute GmbH"
+    },
+    {
+      "bdew_code": "9984827000008",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 66357,
+      "company_id": 60755,
+      "company_uid": 668974,
+      "company_name": "GT Emission Solutions GmbH"
+    }
+  ],
+  "codes_changed": [],
+  "companies_added_ids": [
+    63941
+  ],
   "companies_removed_ids": [
-    1768,
-    61159
+    23383,
+    57304,
+    57980,
+    58110,
+    58618,
+    58806,
+    60755
   ],
   "companies_changed": [],
   "summary": {
-    "codes_added": 0,
-    "codes_removed": 1,
-    "codes_changed": 1,
+    "codes_added": 3,
+    "codes_removed": 9,
+    "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 0,
-    "companies_removed": 2,
+    "companies_added": 1,
+    "companies_removed": 7,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",
