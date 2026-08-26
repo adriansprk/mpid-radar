@@ -8096,7 +8096,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9984601000000,Bilanzkreisverantwortlicher,BKV,661563,Netz & Energie Betriebsgesellschaft mbh,1669,66114
 9984602000009,Einsatzverantwortlicher,EIV,668752,korero GmbH,60533,66115
 9984604000007,Bilanzkreisverantwortlicher,BKV,668754,Fondium Group GmbH,60535,66117
-9984606000005,Lieferant,LF,668755,OQ Chemicals Produktion GmbH & Co. KG,60536,66119
+9984606000005,Lieferant,LF,668755,OXEA Produktion GmbH & Co. KG,60536,66119
 9984607000004,Betreiber einer technischen Ressource,BTR,668757,Sustainable Energy Aschaffenburg GmbH,60538,66120
 9984608000003,Einsatzverantwortlicher,EIV,668757,Sustainable Energy Aschaffenburg GmbH,60538,66121
 9984609000002,Lieferant,LF,668757,Sustainable Energy Aschaffenburg GmbH,60538,66122
@@ -9135,7 +9135,9 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985820000003,Bilanzkreisverantwortlicher,BKV,670292,Flexbid GmbH,64085,68445
 9985821000002,Bilanzkreisverantwortlicher,BKV,670313,"HAVEL Trading S.A., Leudelange, succursale de Genève",64106,68446
 9985822000001,Lieferant,LF,670314,BürgerEnergie Nord eG,64107,68447
+9985823000000,Messstellenbetreiber,MSB,670328,Herberts Industrieglas GmbH & Co. KG,64121,68450
 9985824000009,Messstellenbetreiber,MSB,670297,Netze Chemie- und Pharmapark Bergkamen GmbH,64090,68451
 9985826000007,Einsatzverantwortlicher,EIV,669397,terralayr flexibility services GmbH,61178,68453
+9985830000001,Bilanzkreisverantwortlicher,BKV,670327,Manta Energy GmbH,64120,68457
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
