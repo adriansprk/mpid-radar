@@ -156,6 +156,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 5790002654459,Bilanzkreisverantwortlicher,BKV,668332,BD Energy A/S,60113,65737
 5790002711633,Bilanzkreisverantwortlicher,BKV,668513,Trafigura Denmark ApS,60294,65911
 5790002725296,Bilanzkreisverantwortlicher,BKV,668637,green.ai ApS,60418,66017
+5790002727757,Bilanzkreisverantwortlicher,BKV,670341,Current Commodities A/S,64134,68462
 5790002743351,Bilanzkreisverantwortlicher,BKV,668775,ABN Energy ApS,60556,66150
 5790002745157,Bilanzkreisverantwortlicher,BKV,669609,ENZEE Commodities A/S,61390,66880
 5790002751516,Bilanzkreisverantwortlicher,BKV,669229,Eio Energi ApS,61010,66582
@@ -2954,7 +2955,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9907076000009,Netzbetreiber,NB,662313,Stadtwerke Troisdorf GmbH,2425,5345
 9907077000008,Netzbetreiber,NB,662319,Stadtwerke Uffenheim,2431,5373
 9907078000007,Netzbetreiber,NB,662324,Stadtwerke Velten GmbH,2436,5393
-9907079000006,Netzbetreiber,NB,662416,Stadtwerke Versmold GmbH,2528,5703
 9907080000003,Netzbetreiber,NB,662336,Stadtwerke Waldkirchen,2448,5445
 9907081000002,Netzbetreiber,NB,662337,Stadtwerke Waldkraiburg GmbH,2449,5448
 9907082000001,Netzbetreiber,NB,663127,Stadtwerke Warburg GmbH,3248,7182
@@ -3112,7 +3112,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9907606000007,Netzbetreiber,NB,665155,Industrienetzgesellschaft Schkopau mbH,56927,516
 9907607000006,Netzbetreiber,NB,661967,Stadtwerke Brunsbüttel GmbH,2077,4045
 9907615000006,Netzbetreiber,NB,662424,Netze Hechingen GmbH & Co. KG,2536,5732
-9907617000004,Netzbetreiber,NB,662490,SWV Regional GmbH,2602,5929
 9907618000003,Netzbetreiber,NB,660424,e-shelter power grid GmbH,523,548
 9907619000002,Netzbetreiber,NB,664537,NETCUR GmbH,33467,425
 9907622000007,Netzbetreiber,NB,661805,Salzgitter Flachstahl GmbH,1914,3586
@@ -5002,7 +5001,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9979307000008,Einsatzverantwortlicher,EIV,662483,SWS Energie GmbH,2595,60690
 9979308000007,Lieferant,LF,664944,Brillant Energie GmbH,56716,60691
 9979310000003,Messstellenbetreiber,MSB,664950,BUD Bau- und Dienstleistung GmbH,56722,60693
-9979312000001,Bilanzkreisverantwortlicher,BKV,664951,OCTAEDER GMBH,56723,60695
 9979313000000,Bilanzkreisverantwortlicher,BKV,662132,Stadtwerke Landshut,2244,60696
 9979314000009,Bilanzkreisverantwortlicher,BKV,664124,Stadtwerke Neumarkt i.d.Opf. Energie GmbH,19174,60697
 9979315000008,Einsatzverantwortlicher,EIV,664870,Müllheizkraftwerk Rothensee GmbH,53664,60698
@@ -7246,7 +7244,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9983061000006,Einsatzverantwortlicher,EIV,660285,BTT Bauteam Tretzel GmbH,384,64514
 9983063000004,Netznutzer ohne All-Inklusiv-Vertrag,NN,667317,ENERTRAG SE,59089,64517
 9983068000009,Betreiber einer technischen Ressource,BTR,667324,montanWIND Windpark Gohlocher Wald GmbH & Co. KG,59096,64522
-9983070000005,Betreiber einer technischen Ressource,BTR,667328,Greenfield Kraftwerk 1 GmbH & Co. KG,59100,64524
 9983071000004,Einsatzverantwortlicher,EIV,661055,Gemeindewerke Kiefersfelden,1158,64525
 9983072000003,Einsatzverantwortlicher,EIV,667292,"Laguna Aßlar, die Mittelhessentherme",59064,64526
 9983073000002,Einsatzverantwortlicher,EIV,667329,"Bauunternehmung Wilhelm Schomaker, Gesellschaft mit beschränkter Haftung",59101,64527
@@ -7258,7 +7255,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9983083000000,Lieferant,LF,663983,"EP Commodities, a.s.",15045,64537
 9983084000009,Betreiber einer technischen Ressource,BTR,662479,SWN Stadtwerke Northeim GmbH,2591,64538
 9983085000008,Lieferant,LF,665126,BEG-Energietechnik GmbH,56898,64539
-9983086000007,Betreiber einer technischen Ressource,BTR,667343,FK Invest GmbH,59115,64540
+9983086000007,Betreiber einer technischen Ressource,BTR,670343,International Power Invest GmbH,64136,64540
 9983087000006,Einsatzverantwortlicher,EIV,667344,Simmerather Recycling GmbH Stephan Braun,59116,64541
 9983089000004,Einsatzverantwortlicher,EIV,667346,Universität Hohenheim,59118,64543
 9983090000001,Betreiber einer technischen Ressource,BTR,667346,Universität Hohenheim,59118,64544
@@ -7267,7 +7264,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9983097000004,Lieferant,LF,667351,Trinseo Deutschland Anlagengesellschaft mbH,59123,64551
 9983099000002,Betreiber einer technischen Ressource,BTR,667354,Wilmsberger Windkraft GmbH & Co. KG,59126,64553
 9983102000006,Betreiber einer technischen Ressource,BTR,660230,Berliner Energieagentur Gesellschaft mit beschränkter Haftung,327,64556
-9983103000005,Einsatzverantwortlicher,EIV,667343,FK Invest GmbH,59115,64557
+9983103000005,Einsatzverantwortlicher,EIV,670343,International Power Invest GmbH,64136,64557
 9983111000005,Einsatzverantwortlicher,EIV,666549,Klinikum Konstanz GmbH,58321,64565
 9983116000000,Einsatzverantwortlicher,EIV,667367,Filament-Technik Gesellschaft für technische Garne mbH & Cie. Kommanditgesellschaft,59139,64570
 9983117000009,Betreiber einer technischen Ressource,BTR,667367,Filament-Technik Gesellschaft für technische Garne mbH & Cie. Kommanditgesellschaft,59139,64571
@@ -7706,7 +7703,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9984020000003,Einsatzverantwortlicher,EIV,668114,Nexentury GmbH,59895,65502
 9984022000001,Einsatzverantwortlicher,EIV,668117,Schwarz Produktion Stiftung & Co. KG,59898,65504
 9984023000000,Einsatzverantwortlicher,EIV,668118,Martina Hösl,59899,65505
-9984025000008,Einsatzverantwortlicher,EIV,668120,Reimer Photovoltaik GbR,59901,65507
 9984027000006,Lieferant,LF,663966,In Commodities A/S,15028,65509
 9984028000005,Betreiber einer technischen Ressource,BTR,667692,Fußner GmbH,59464,65510
 9984029000004,Einsatzverantwortlicher,EIV,668123,MEKU Mechatronische Systeme GmbH,59904,65511
@@ -9125,6 +9121,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985805000002,Betreiber einer technischen Ressource,BTR,670291,Neoen Speicher 6 GmbH & Co. KG,64084,68426
 9985806000001,Bilanzkreisverantwortlicher,BKV,664815,Onyx Germany GmbH,50623,68427
 9985808000009,Betreiber einer technischen Ressource,BTR,670293,WätaS SAF GmbH,64086,68429
+9985810000005,Lieferant,LF,669817,Celsio GmbH,61615,68434
 9985811000004,Energieserviceanbieter des Anschlussnutzers,ESA,670232,Zentrale Abfallwirtschaft Kaiserslautern - gemeinsame kommunale Anstalt der Stadt Kaiserslautern und der Landkreise Kaiserslautern und Donnersbergkreis (ZAK),64025,68435
 9985812000003,Energieserviceanbieter des Anschlussnutzers,ESA,662390,Städtische Werke Magdeburg GmbH & Co. KG,2502,68436
 9985813000002,Messstellenbetreiber,MSB,670301,Michael Helmut Willsch,64094,68437
@@ -9138,6 +9135,10 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985823000000,Messstellenbetreiber,MSB,670328,Herberts Industrieglas GmbH & Co. KG,64121,68450
 9985824000009,Messstellenbetreiber,MSB,670297,Netze Chemie- und Pharmapark Bergkamen GmbH,64090,68451
 9985826000007,Einsatzverantwortlicher,EIV,669397,terralayr flexibility services GmbH,61178,68453
+9985827000006,Betreiber einer technischen Ressource,BTR,667925,Lear Corporation Engineering GmbH,59706,68454
+9985828000005,Betreiber einer technischen Ressource,BTR,670332,"Eckard Kanold Garten-, Landschafts- und Sportplatzbau, Schnee- und Glättebeseitigung GmbH & Co. KG",64125,68455
 9985830000001,Bilanzkreisverantwortlicher,BKV,670327,Manta Energy GmbH,64120,68457
+9985831000000,Netznutzer ohne All-Inklusiv-Vertrag,NN,664170,Gasunie Deutschland Transport Services GmbH,20219,68458
+9985833000008,Energieserviceanbieter des Anschlussnutzers,ESA,670338,UpGrid AG,64131,68460
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
