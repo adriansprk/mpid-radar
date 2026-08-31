@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-26",
-      "published_at": "2026-08-26T02:44:54+00:00",
-      "content_hash": "4138a8b9d3337ea38d913669322bbe5d3a88c48cd9fe0f0cee68d388421ea526"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-26T02:38:26.328132+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4389,
-      "market_partners": 9142,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-08-26T02:38:26.328132+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-08-28",
-      "published_at": "2026-08-28T12:44:45.402984+00:00",
+      "published_at": "2026-08-28T12:52:27+00:00",
       "content_hash": "13e8f35056d217cb03d8889fc516da188f63c1c0e1502f1760c37e66f668b15f"
     },
     "source": {
@@ -71,161 +35,77 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-08-31",
+      "published_at": "2026-08-31T07:00:55.499142+00:00",
+      "content_hash": "edd94cd1c846ec8e6423dc1a683a6c0a9326c01ee85c1da6db6dc7147ca7c873"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-08-31T07:00:55.499142+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4390,
+      "market_partners": 9143,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-08-31T07:00:55.499142+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985810000005",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 68434,
-      "company_id": 61615,
-      "company_uid": 669817,
-      "company_name": "Celsio GmbH"
-    },
-    {
-      "bdew_code": "9985827000006",
+      "bdew_code": "9985836000005",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
-      "code_row_id": 68454,
-      "company_id": 59706,
-      "company_uid": 667925,
-      "company_name": "Lear Corporation Engineering GmbH"
-    },
-    {
-      "bdew_code": "9985828000005",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68455,
-      "company_id": 64125,
-      "company_uid": 670332,
-      "company_name": "Eckard Kanold Garten-, Landschafts- und Sportplatzbau, Schnee- und Glättebeseitigung GmbH & Co. KG"
-    },
-    {
-      "bdew_code": "9985831000000",
-      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
-      "role_code": "NN",
-      "code_row_id": 68458,
-      "company_id": 20219,
-      "company_uid": 664170,
-      "company_name": "Gasunie Deutschland Transport Services GmbH"
-    },
-    {
-      "bdew_code": "9985833000008",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68460,
-      "company_id": 64131,
-      "company_uid": 670338,
-      "company_name": "UpGrid AG"
-    },
-    {
-      "bdew_code": "5790002727757",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68462,
-      "company_id": 64134,
-      "company_uid": 670341,
-      "company_name": "Current Commodities A/S"
+      "code_row_id": 68464,
+      "company_id": 2026,
+      "company_uid": 661916,
+      "company_name": "Stadtwerke Bad Kissingen GmbH"
     }
   ],
   "codes_removed": [
     {
-      "bdew_code": "9907079000006",
-      "market_function": "Netzbetreiber",
-      "role_code": "NB",
-      "code_row_id": 5703,
-      "company_id": 2528,
-      "company_uid": 662416,
-      "company_name": "Stadtwerke Versmold GmbH"
-    },
-    {
-      "bdew_code": "9907617000004",
-      "market_function": "Netzbetreiber",
-      "role_code": "NB",
-      "code_row_id": 5929,
-      "company_id": 2602,
-      "company_uid": 662490,
-      "company_name": "SWV Regional GmbH"
-    },
-    {
-      "bdew_code": "9979312000001",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 60695,
-      "company_id": 56723,
-      "company_uid": 664951,
-      "company_name": "OCTAEDER GMBH"
-    },
-    {
-      "bdew_code": "9983070000005",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 64524,
-      "company_id": 59100,
-      "company_uid": 667328,
-      "company_name": "Greenfield Kraftwerk 1 GmbH & Co. KG"
-    },
-    {
-      "bdew_code": "9984025000008",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 65507,
-      "company_id": 59901,
-      "company_uid": 668120,
-      "company_name": "Reimer Photovoltaik GbR"
+      "bdew_code": "9978035000009",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 10828,
+      "company_id": 6642,
+      "company_uid": 663549,
+      "company_name": "Allianz Stromversorgungs-GmbH"
     }
   ],
-  "codes_changed": [
-    {
-      "code_row_id": 64540,
-      "bdew_code": "9983086000007",
-      "changes": {
-        "company_uid": {
-          "old": 667343,
-          "new": 670343
-        },
-        "company_name": {
-          "old": "FK Invest GmbH",
-          "new": "International Power Invest GmbH"
-        }
-      }
-    },
-    {
-      "code_row_id": 64557,
-      "bdew_code": "9983103000005",
-      "changes": {
-        "company_uid": {
-          "old": 667343,
-          "new": 670343
-        },
-        "company_name": {
-          "old": "FK Invest GmbH",
-          "new": "International Power Invest GmbH"
-        }
-      }
-    }
-  ],
-  "companies_added_ids": [
-    20219,
-    59706,
-    64125,
-    64131,
-    64134,
-    64136
-  ],
+  "codes_changed": [],
+  "companies_added_ids": [],
   "companies_removed_ids": [
-    56723,
-    59100,
-    59115,
-    59901
+    6642
   ],
   "companies_changed": [],
   "summary": {
-    "codes_added": 6,
-    "codes_removed": 5,
-    "codes_changed": 2,
+    "codes_added": 1,
+    "codes_removed": 1,
+    "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 6,
-    "companies_removed": 4,
+    "companies_added": 0,
+    "companies_removed": 1,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",

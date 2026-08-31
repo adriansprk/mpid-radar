@@ -4220,7 +4220,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9978020000006,Lieferant,LF,663536,RHÖN-KLINIKUM Energie für Gesundheit GmbH,6629,10813
 9978022000004,Lieferant,LF,663538,ERG WIND MEG 1 LIMITED LIABILITY PARTNERSHIP,6631,10815
 9978028000008,Netznutzer ohne All-Inklusiv-Vertrag,NN,662884,NTT Global Data Centers EMEA GmbH,2999,10821
-9978035000009,Lieferant,LF,663549,Allianz Stromversorgungs-GmbH,6642,10828
 9978040000002,Netznutzer ohne All-Inklusiv-Vertrag,NN,663552,Digital Frankfurt GmbH,6645,10833
 9978041000001,Lieferant,LF,663553,Johanniter Service GmbH,6646,10834
 9978042000000,Lieferant,LF,663554,Energora GmbH,6647,10835
@@ -9140,5 +9139,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985830000001,Bilanzkreisverantwortlicher,BKV,670327,Manta Energy GmbH,64120,68457
 9985831000000,Netznutzer ohne All-Inklusiv-Vertrag,NN,664170,Gasunie Deutschland Transport Services GmbH,20219,68458
 9985833000008,Energieserviceanbieter des Anschlussnutzers,ESA,670338,UpGrid AG,64131,68460
+9985836000005,Betreiber einer technischen Ressource,BTR,661916,Stadtwerke Bad Kissingen GmbH,2026,68464
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

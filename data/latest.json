@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-28",
-      "published_at": "2026-08-28T12:52:27+00:00",
-      "content_hash": "13e8f35056d217cb03d8889fc516da188f63c1c0e1502f1760c37e66f668b15f"
+      "version": "2026-08-31",
+      "published_at": "2026-08-31T07:10:34+00:00",
+      "content_hash": "edd94cd1c846ec8e6423dc1a683a6c0a9326c01ee85c1da6db6dc7147ca7c873"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-28T12:44:45.402984+00:00",
+      "observed_at": "2026-08-31T07:00:55.499142+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4391,
+      "companies": 4390,
       "market_partners": 9143,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-08-28T12:44:45.402984+00:00",
+      "cleaned_at": "2026-08-31T07:00:55.499142+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -720,11 +720,6 @@
       "company_id": 57761,
       "company_uid": 665989,
       "company_name": "Allianz Global Investors GmbH"
-    },
-    {
-      "company_id": 6642,
-      "company_uid": 663549,
-      "company_name": "Allianz Stromversorgungs-GmbH"
     },
     {
       "company_id": 57922,
@@ -59983,15 +59978,6 @@
       "company_name": "NTT Global Data Centers EMEA GmbH"
     },
     {
-      "bdew_code": "9978035000009",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 10828,
-      "company_id": 6642,
-      "company_uid": 663549,
-      "company_name": "Allianz Stromversorgungs-GmbH"
-    },
-    {
       "bdew_code": "9978040000002",
       "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
       "role_code": "NN",
@@ -104261,6 +104247,15 @@
       "company_id": 64131,
       "company_uid": 670338,
       "company_name": "UpGrid AG"
+    },
+    {
+      "bdew_code": "9985836000005",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68464,
+      "company_id": 2026,
+      "company_uid": 661916,
+      "company_name": "Stadtwerke Bad Kissingen GmbH"
     },
     {
       "bdew_code": "9987098000005",
