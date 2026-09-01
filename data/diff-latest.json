@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-28",
-      "published_at": "2026-08-28T12:52:27+00:00",
-      "content_hash": "13e8f35056d217cb03d8889fc516da188f63c1c0e1502f1760c37e66f668b15f"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-28T12:44:45.402984+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4391,
-      "market_partners": 9143,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-08-28T12:44:45.402984+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-08-31",
-      "published_at": "2026-08-31T07:00:55.499142+00:00",
+      "published_at": "2026-08-31T07:10:34+00:00",
       "content_hash": "edd94cd1c846ec8e6423dc1a683a6c0a9326c01ee85c1da6db6dc7147ca7c873"
     },
     "source": {
@@ -71,41 +35,96 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-09-01",
+      "published_at": "2026-09-01T06:13:38.646631+00:00",
+      "content_hash": "00ed000886d3514268a762573ab3beacf25a1024a8441c80a3ffdf51e9193c63"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-09-01T06:13:38.646631+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4392,
+      "market_partners": 9143,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-09-01T06:13:38.646631+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985836000005",
+      "bdew_code": "9985835000006",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
-      "code_row_id": 68464,
-      "company_id": 2026,
-      "company_uid": 661916,
-      "company_name": "Stadtwerke Bad Kissingen GmbH"
+      "code_row_id": 68463,
+      "company_id": 64135,
+      "company_uid": 670342,
+      "company_name": "Hamburg-Kölner Vermögensverwaltungsgesellschaft mbH"
+    },
+    {
+      "bdew_code": "9985838000003",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68466,
+      "company_id": 64143,
+      "company_uid": 670350,
+      "company_name": "Wattserve Hallerndorf GmbH"
     }
   ],
   "codes_removed": [
     {
-      "bdew_code": "9978035000009",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 10828,
-      "company_id": 6642,
-      "company_uid": 663549,
-      "company_name": "Allianz Stromversorgungs-GmbH"
+      "bdew_code": "9981309000001",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 62740,
+      "company_id": 582,
+      "company_uid": 660483,
+      "company_name": "EHINGER ENERGIE Stromvertrieb GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9981312000006",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 62743,
+      "company_id": 582,
+      "company_uid": 660483,
+      "company_name": "EHINGER ENERGIE Stromvertrieb GmbH & Co. KG"
     }
   ],
   "codes_changed": [],
-  "companies_added_ids": [],
-  "companies_removed_ids": [
-    6642
+  "companies_added_ids": [
+    64135,
+    64143
   ],
+  "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 1,
-    "codes_removed": 1,
+    "codes_added": 2,
+    "codes_removed": 2,
     "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 0,
-    "companies_removed": 1,
+    "companies_added": 2,
+    "companies_removed": 0,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",

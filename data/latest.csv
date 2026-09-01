@@ -6209,10 +6209,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9981306000004,Einsatzverantwortlicher,EIV,662244,stadtwerker Versorgungs GmbH,2356,62737
 9981307000003,Einsatzverantwortlicher,EIV,666310,EEW Energy from Waste Hannover GmbH,58082,62738
 9981308000002,Betreiber einer technischen Ressource,BTR,666311,Volz GmbH PUR-Kunststoffe,58083,62739
-9981309000001,Einsatzverantwortlicher,EIV,660483,EHINGER ENERGIE Stromvertrieb GmbH & Co. KG,582,62740
 9981310000008,Einsatzverantwortlicher,EIV,666312,Jörg Weitz,58084,62741
 9981311000007,Betreiber einer technischen Ressource,BTR,666312,Jörg Weitz,58084,62742
-9981312000006,Betreiber einer technischen Ressource,BTR,660483,EHINGER ENERGIE Stromvertrieb GmbH & Co. KG,582,62743
 9981315000003,Betreiber einer technischen Ressource,BTR,662100,Stadtwerke Homburg GmbH,2212,62746
 9981316000002,Betreiber einer technischen Ressource,BTR,666148,Wasserkraftwerk Großweil GmbH,57920,62747
 9981318000000,Betreiber einer technischen Ressource,BTR,666255,Dold Holzwerke GmbH,58027,62749
@@ -9139,6 +9137,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985830000001,Bilanzkreisverantwortlicher,BKV,670327,Manta Energy GmbH,64120,68457
 9985831000000,Netznutzer ohne All-Inklusiv-Vertrag,NN,664170,Gasunie Deutschland Transport Services GmbH,20219,68458
 9985833000008,Energieserviceanbieter des Anschlussnutzers,ESA,670338,UpGrid AG,64131,68460
+9985835000006,Betreiber einer technischen Ressource,BTR,670342,Hamburg-Kölner Vermögensverwaltungsgesellschaft mbH,64135,68463
 9985836000005,Betreiber einer technischen Ressource,BTR,661916,Stadtwerke Bad Kissingen GmbH,2026,68464
+9985838000003,Bilanzkreisverantwortlicher,BKV,670350,Wattserve Hallerndorf GmbH,64143,68466
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
