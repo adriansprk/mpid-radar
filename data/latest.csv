@@ -7962,7 +7962,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9984430000007,Bilanzkreisverantwortlicher,BKV,666461,SE SUSTAINABLE EXERGY GmbH,58233,65934
 9984431000006,Messstellenbetreiber,MSB,663209,Flughafen Leipzig/Halle Gesellschaft mit beschränkter Haftung,3332,65935
 9984433000004,Betreiber einer technischen Ressource,BTR,668542,Cross Court Tennispark Bornheim GbR,60323,65937
-9984434000003,Betreiber einer technischen Ressource,BTR,668543,ST Deutschland GmbH,60324,65938
 9984435000002,Netznutzer ohne All-Inklusiv-Vertrag,NN,668544,Deutsche Edelstahlwerke Siegen/Hagen GmbH & Co. KG,60325,65939
 9984436000001,Netznutzer ohne All-Inklusiv-Vertrag,NN,668545,Deutsche Edelstahlwerke Härterei Technik GmbH,60326,65940
 9984437000000,Betreiber einer technischen Ressource,BTR,668547,Gustav Magenwirth GmbH & Co. KG,60328,65942
@@ -7992,7 +7991,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9984463000008,Betreiber einer technischen Ressource,BTR,668572,PVA Klimmer GbR,60353,65969
 9984464000007,Einsatzverantwortlicher,EIV,668573,Kunert Wedderstedt GmbH & Co KG Papierverarbeitungswerk,60354,65970
 9984465000006,Betreiber einer technischen Ressource,BTR,668575,Kallista Energy GmbH,60356,65971
-9984466000005,Einsatzverantwortlicher,EIV,668543,ST Deutschland GmbH,60324,65972
 9984467000004,Lieferant,LF,668577,Pfleiderer Deutschland GmbH,60358,65973
 9984468000003,Einsatzverantwortlicher,EIV,668575,Kallista Energy GmbH,60356,65974
 9984469000002,Einsatzverantwortlicher,EIV,660807,Enovos Energie Deutschland GmbH,909,65975
@@ -8320,7 +8318,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9984887000006,Bilanzkreisverantwortlicher,BKV,668934,ElectroFleet Energy GmbH,60715,66419
 9984888000005,Lieferant,LF,669039,SachsenEnergie Versorgung GmbH,60820,66420
 9984890000001,Lieferant,LF,668944,Schwering und Hasse Elektrodraht GmbH,60725,66423
-9984891000000,Messstellenbetreiber,MSB,669042,SerCo Elektro GmbH,60823,66424
 9984893000008,Einsatzverantwortlicher,EIV,668920,Respect Energy GmbH,60701,66426
 9984894000007,Betreiber einer technischen Ressource,BTR,668920,Respect Energy GmbH,60701,66427
 9984895000006,Messstellenbetreiber,MSB,660802,Enloc Energy GmbH,904,66428
@@ -8511,8 +8508,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985115000007,Einsatzverantwortlicher,EIV,669346,Streiff & Helmold Gesellschaft mit beschränkter Haftung,61127,66678
 9985116000006,Betreiber einer technischen Ressource,BTR,669347,Umwelt Management Aktiengesellschaft UMaAG,61128,66679
 9985117000005,Lieferant,LF,669286,BaehrBots GmbH,61067,66680
-9985118000004,Bilanzkreisverantwortlicher,BKV,669348,EP Energie Deutschland GmbH,61129,66681
-9985119000003,Lieferant,LF,669348,EP Energie Deutschland GmbH,61129,66682
+9985118000004,Bilanzkreisverantwortlicher,BKV,669348,LEAG Energy Cubes GmbH,61129,66681
+9985119000003,Lieferant,LF,669348,LEAG Energy Cubes GmbH,61129,66682
 9985120000000,Bilanzkreisverantwortlicher,BKV,669206,Zeros Energy Trading GmbH,60987,66685
 9985121000009,Energieserviceanbieter des Anschlussnutzers,ESA,669354,eTASK Immobilien Software GmbH,61135,66686
 9985122000008,Einsatzverantwortlicher,EIV,669316,ReDirect GmbH,61097,66687
@@ -8586,8 +8583,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985209000004,Energieserviceanbieter des Anschlussnutzers,ESA,669434,SPiNE GmbH,61215,66779
 9985210000001,Einsatzverantwortlicher,EIV,669315,Solarpark Boldekow GmbH & Co. KG,61096,66780
 9985211000000,Einsatzverantwortlicher,EIV,661472,MERCK Kommanditgesellschaft auf Aktien,1578,66781
-9985212000009,Betreiber einer technischen Ressource,BTR,669348,EP Energie Deutschland GmbH,61129,66783
-9985213000008,Einsatzverantwortlicher,EIV,669348,EP Energie Deutschland GmbH,61129,66784
+9985212000009,Betreiber einer technischen Ressource,BTR,669348,LEAG Energy Cubes GmbH,61129,66783
+9985213000008,Einsatzverantwortlicher,EIV,669348,LEAG Energy Cubes GmbH,61129,66784
 9985214000007,Betreiber einer technischen Ressource,BTR,669462,Burkhardt & Witteler GbR,61243,66785
 9985215000006,Lieferant,LF,669463,IE Innovative Energy GmbH,61244,66786
 9985216000005,Messstellenbetreiber,MSB,669470,Energy Metering Germany GmbH,61251,66787
@@ -9140,5 +9137,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985835000006,Betreiber einer technischen Ressource,BTR,670342,Hamburg-Kölner Vermögensverwaltungsgesellschaft mbH,64135,68463
 9985836000005,Betreiber einer technischen Ressource,BTR,661916,Stadtwerke Bad Kissingen GmbH,2026,68464
 9985838000003,Bilanzkreisverantwortlicher,BKV,670350,Wattserve Hallerndorf GmbH,64143,68466
+9985840000009,Einsatzverantwortlicher,EIV,670342,Hamburg-Kölner Vermögensverwaltungsgesellschaft mbH,64135,68468
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

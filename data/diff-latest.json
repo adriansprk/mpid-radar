@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-08-31",
-      "published_at": "2026-08-31T07:10:34+00:00",
-      "content_hash": "edd94cd1c846ec8e6423dc1a683a6c0a9326c01ee85c1da6db6dc7147ca7c873"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-08-31T07:00:55.499142+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4390,
-      "market_partners": 9143,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-08-31T07:00:55.499142+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-09-01",
-      "published_at": "2026-09-01T06:13:38.646631+00:00",
+      "published_at": "2026-09-01T06:20:05+00:00",
       "content_hash": "00ed000886d3514268a762573ab3beacf25a1024a8441c80a3ffdf51e9193c63"
     },
     "source": {
@@ -71,61 +35,148 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-09-02",
+      "published_at": "2026-09-02T05:47:52.640580+00:00",
+      "content_hash": "2e2ce51ab5d96da4fc5cdc75dad4d9bf384eed816ae4ba4c3411a363fd514f1a"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-09-02T05:47:52.640580+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4390,
+      "market_partners": 9141,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-09-02T05:47:52.640580+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985835000006",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68463,
+      "bdew_code": "9985840000009",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68468,
       "company_id": 64135,
       "company_uid": 670342,
       "company_name": "Hamburg-Kölner Vermögensverwaltungsgesellschaft mbH"
-    },
-    {
-      "bdew_code": "9985838000003",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68466,
-      "company_id": 64143,
-      "company_uid": 670350,
-      "company_name": "Wattserve Hallerndorf GmbH"
     }
   ],
   "codes_removed": [
     {
-      "bdew_code": "9981309000001",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 62740,
-      "company_id": 582,
-      "company_uid": 660483,
-      "company_name": "EHINGER ENERGIE Stromvertrieb GmbH & Co. KG"
-    },
-    {
-      "bdew_code": "9981312000006",
+      "bdew_code": "9984434000003",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
-      "code_row_id": 62743,
-      "company_id": 582,
-      "company_uid": 660483,
-      "company_name": "EHINGER ENERGIE Stromvertrieb GmbH & Co. KG"
+      "code_row_id": 65938,
+      "company_id": 60324,
+      "company_uid": 668543,
+      "company_name": "ST Deutschland GmbH"
+    },
+    {
+      "bdew_code": "9984466000005",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 65972,
+      "company_id": 60324,
+      "company_uid": 668543,
+      "company_name": "ST Deutschland GmbH"
+    },
+    {
+      "bdew_code": "9984891000000",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 66424,
+      "company_id": 60823,
+      "company_uid": 669042,
+      "company_name": "SerCo Elektro GmbH"
     }
   ],
-  "codes_changed": [],
-  "companies_added_ids": [
-    64135,
-    64143
+  "codes_changed": [
+    {
+      "code_row_id": 66681,
+      "bdew_code": "9985118000004",
+      "changes": {
+        "company_name": {
+          "old": "EP Energie Deutschland GmbH",
+          "new": "LEAG Energy Cubes GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 66682,
+      "bdew_code": "9985119000003",
+      "changes": {
+        "company_name": {
+          "old": "EP Energie Deutschland GmbH",
+          "new": "LEAG Energy Cubes GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 66783,
+      "bdew_code": "9985212000009",
+      "changes": {
+        "company_name": {
+          "old": "EP Energie Deutschland GmbH",
+          "new": "LEAG Energy Cubes GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 66784,
+      "bdew_code": "9985213000008",
+      "changes": {
+        "company_name": {
+          "old": "EP Energie Deutschland GmbH",
+          "new": "LEAG Energy Cubes GmbH"
+        }
+      }
+    }
   ],
-  "companies_removed_ids": [],
-  "companies_changed": [],
+  "companies_added_ids": [],
+  "companies_removed_ids": [
+    60324,
+    60823
+  ],
+  "companies_changed": [
+    {
+      "company_id": 61129,
+      "changes": {
+        "company_name": {
+          "old": "EP Energie Deutschland GmbH",
+          "new": "LEAG Energy Cubes GmbH"
+        }
+      }
+    }
+  ],
   "summary": {
-    "codes_added": 2,
-    "codes_removed": 2,
-    "codes_changed": 0,
+    "codes_added": 1,
+    "codes_removed": 3,
+    "codes_changed": 4,
     "codes_recoded": 0,
-    "companies_added": 2,
-    "companies_removed": 0,
-    "companies_changed": 0
+    "companies_added": 0,
+    "companies_removed": 2,
+    "companies_changed": 1
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

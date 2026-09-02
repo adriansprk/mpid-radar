@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-01",
-      "published_at": "2026-09-01T06:20:05+00:00",
-      "content_hash": "00ed000886d3514268a762573ab3beacf25a1024a8441c80a3ffdf51e9193c63"
+      "version": "2026-09-02",
+      "published_at": "2026-09-02T05:56:51+00:00",
+      "content_hash": "2e2ce51ab5d96da4fc5cdc75dad4d9bf384eed816ae4ba4c3411a363fd514f1a"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-01T06:13:38.646631+00:00",
+      "observed_at": "2026-09-02T05:47:52.640580+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4392,
-      "market_partners": 9143,
+      "companies": 4390,
+      "market_partners": 9141,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-01T06:13:38.646631+00:00",
+      "cleaned_at": "2026-09-02T05:47:52.640580+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -3915,11 +3915,6 @@
       "company_id": 15045,
       "company_uid": 663983,
       "company_name": "EP Commodities, a.s."
-    },
-    {
-      "company_id": 61129,
-      "company_uid": 669348,
-      "company_name": "EP Energie Deutschland GmbH"
     },
     {
       "company_id": 59489,
@@ -9992,6 +9987,11 @@
       "company_name": "LE Energy Solutions GmbH"
     },
     {
+      "company_id": 61129,
+      "company_uid": 669348,
+      "company_name": "LEAG Energy Cubes GmbH"
+    },
+    {
       "company_id": 9738,
       "company_uid": 663663,
       "company_name": "LEIPA Georg Leinfelder GmbH"
@@ -14187,11 +14187,6 @@
       "company_name": "SSW-Stadtwerke St. Wendel GmbH & Co. KG"
     },
     {
-      "company_id": 60324,
-      "company_uid": 668543,
-      "company_name": "ST Deutschland GmbH"
-    },
-    {
       "company_id": 64024,
       "company_uid": 670231,
       "company_name": "ST Extruded Products Germany GmbH"
@@ -14850,11 +14845,6 @@
       "company_id": 58467,
       "company_uid": 666695,
       "company_name": "Sep 82 PV GmbH"
-    },
-    {
-      "company_id": 60823,
-      "company_uid": 669042,
-      "company_name": "SerCo Elektro GmbH"
     },
     {
       "company_id": 16052,
@@ -93666,15 +93656,6 @@
       "company_name": "Cross Court Tennispark Bornheim GbR"
     },
     {
-      "bdew_code": "9984434000003",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 65938,
-      "company_id": 60324,
-      "company_uid": 668543,
-      "company_name": "ST Deutschland GmbH"
-    },
-    {
       "bdew_code": "9984435000002",
       "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
       "role_code": "NN",
@@ -93934,15 +93915,6 @@
       "company_id": 60356,
       "company_uid": 668575,
       "company_name": "Kallista Energy GmbH"
-    },
-    {
-      "bdew_code": "9984466000005",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 65972,
-      "company_id": 60324,
-      "company_uid": 668543,
-      "company_name": "ST Deutschland GmbH"
     },
     {
       "bdew_code": "9984467000004",
@@ -96888,15 +96860,6 @@
       "company_name": "Schwering und Hasse Elektrodraht GmbH"
     },
     {
-      "bdew_code": "9984891000000",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 66424,
-      "company_id": 60823,
-      "company_uid": 669042,
-      "company_name": "SerCo Elektro GmbH"
-    },
-    {
       "bdew_code": "9984893000008",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -98613,7 +98576,7 @@
       "code_row_id": 66681,
       "company_id": 61129,
       "company_uid": 669348,
-      "company_name": "EP Energie Deutschland GmbH"
+      "company_name": "LEAG Energy Cubes GmbH"
     },
     {
       "bdew_code": "9985119000003",
@@ -98622,7 +98585,7 @@
       "code_row_id": 66682,
       "company_id": 61129,
       "company_uid": 669348,
-      "company_name": "EP Energie Deutschland GmbH"
+      "company_name": "LEAG Energy Cubes GmbH"
     },
     {
       "bdew_code": "9985120000000",
@@ -99288,7 +99251,7 @@
       "code_row_id": 66783,
       "company_id": 61129,
       "company_uid": 669348,
-      "company_name": "EP Energie Deutschland GmbH"
+      "company_name": "LEAG Energy Cubes GmbH"
     },
     {
       "bdew_code": "9985213000008",
@@ -99297,7 +99260,7 @@
       "code_row_id": 66784,
       "company_id": 61129,
       "company_uid": 669348,
-      "company_name": "EP Energie Deutschland GmbH"
+      "company_name": "LEAG Energy Cubes GmbH"
     },
     {
       "bdew_code": "9985214000007",
@@ -104266,6 +104229,15 @@
       "company_id": 64143,
       "company_uid": 670350,
       "company_name": "Wattserve Hallerndorf GmbH"
+    },
+    {
+      "bdew_code": "9985840000009",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68468,
+      "company_id": 64135,
+      "company_uid": 670342,
+      "company_name": "Hamburg-Kölner Vermögensverwaltungsgesellschaft mbH"
     },
     {
       "bdew_code": "9987098000005",
