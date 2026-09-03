@@ -6238,7 +6238,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9981365000003,Betreiber einer technischen Ressource,BTR,662561,"Überlandwerk Rhön, Gesellschaft mit beschränkter Haftung",2675,62796
 9981366000002,Einsatzverantwortlicher,EIV,666340,Privatbrauerei Eibau i. Sa. GmbH,58112,62797
 9981367000001,Einsatzverantwortlicher,EIV,665997,Wilhelm Jaeger,57769,62798
-9981370000006,Einsatzverantwortlicher,EIV,666343,Erbengemeinschaft nach Eckard Kanold c/o Hausverwaltung Kim Eggert,58115,62801
 9981371000005,Einsatzverantwortlicher,EIV,664155,EES ENERKO Energy Solutions GmbH,20204,62802
 9981372000004,Betreiber einer technischen Ressource,BTR,664155,EES ENERKO Energy Solutions GmbH,20204,62803
 9981373000003,Betreiber einer technischen Ressource,BTR,666344,Biotest GmbH & Co. KGaA,58116,62804
@@ -9050,7 +9049,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985731000001,Lieferant,LF,670206,DSG Deutsche Stromhandelsgesellschaft mbH,63999,68350
 9985732000000,Einsatzverantwortlicher,EIV,670035,Second Foundation Trading AG,62832,68351
 9985733000009,Bilanzkreisverantwortlicher,BKV,670208,Nurex ApS,64001,68352
-9985734000008,Betreiber einer technischen Ressource,BTR,670211,Max Lohse GmbH,64004,68353
 9985736000006,Bilanzkreisverantwortlicher,BKV,670212,AMP Algo s.r.o.,64005,68355
 9985737000005,Energieserviceanbieter des Anschlussnutzers,ESA,670214,SES-Ingenieure GmbH,64007,68356
 9985738000004,Betreiber einer technischen Ressource,BTR,662663,illwerke vkw AG,2777,68357

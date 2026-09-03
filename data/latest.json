@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-02",
-      "published_at": "2026-09-02T05:56:51+00:00",
-      "content_hash": "2e2ce51ab5d96da4fc5cdc75dad4d9bf384eed816ae4ba4c3411a363fd514f1a"
+      "version": "2026-09-03",
+      "published_at": "2026-09-03T05:53:00+00:00",
+      "content_hash": "c1c785da987afeba83d5aa5af38eed01308066a573563c159fda171752b9ae03"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-02T05:47:52.640580+00:00",
+      "observed_at": "2026-09-03T05:45:29.961980+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4390,
-      "market_partners": 9141,
+      "companies": 4388,
+      "market_partners": 9139,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-02T05:47:52.640580+00:00",
+      "cleaned_at": "2026-09-03T05:45:29.961980+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -5722,11 +5722,6 @@
       "company_name": "Erbatech GmbH"
     },
     {
-      "company_id": 58115,
-      "company_uid": 666343,
-      "company_name": "Erbengemeinschaft nach Eckard Kanold c/o Hausverwaltung Kim Eggert"
-    },
-    {
       "company_id": 945,
       "company_uid": 660843,
       "company_name": "Erdgas Südwest GmbH"
@@ -10915,11 +10910,6 @@
       "company_id": 58260,
       "company_uid": 666488,
       "company_name": "Max Jenne GmbH"
-    },
-    {
-      "company_id": 64004,
-      "company_uid": 670211,
-      "company_name": "Max Lohse GmbH"
     },
     {
       "company_id": 59853,
@@ -78140,15 +78130,6 @@
       "company_name": "Wilhelm Jaeger"
     },
     {
-      "bdew_code": "9981370000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 62801,
-      "company_id": 58115,
-      "company_uid": 666343,
-      "company_name": "Erbengemeinschaft nach Eckard Kanold c/o Hausverwaltung Kim Eggert"
-    },
-    {
       "bdew_code": "9981371000005",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -103446,15 +103427,6 @@
       "company_id": 64001,
       "company_uid": 670208,
       "company_name": "Nurex ApS"
-    },
-    {
-      "bdew_code": "9985734000008",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68353,
-      "company_id": 64004,
-      "company_uid": 670211,
-      "company_name": "Max Lohse GmbH"
     },
     {
       "bdew_code": "9985736000006",
