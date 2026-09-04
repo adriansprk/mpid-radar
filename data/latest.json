@@ -2,14 +2,14 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-03",
-      "published_at": "2026-09-03T05:53:00+00:00",
-      "content_hash": "c1c785da987afeba83d5aa5af38eed01308066a573563c159fda171752b9ae03"
+      "version": "2026-09-04",
+      "published_at": "2026-09-04T05:57:39+00:00",
+      "content_hash": "e60a97d7c6d866b7e7751bbff0f8b85b1ef9d2353e7b77526b7cca0cc9f4bbce"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-03T05:45:29.961980+00:00",
+      "observed_at": "2026-09-04T05:51:18.567311+00:00",
       "filter": ""
     },
     "records": {
@@ -18,7 +18,7 @@
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-03T05:45:29.961980+00:00",
+      "cleaned_at": "2026-09-04T05:51:18.567311+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -275,6 +275,11 @@
       "company_id": 260,
       "company_uid": 660166,
       "company_name": "AQUATECH Umwelt- und Energietechnik AG"
+    },
+    {
+      "company_id": 61414,
+      "company_uid": 669633,
+      "company_name": "ARBELOS ENERGY LIMITED"
     },
     {
       "company_id": 4577,
@@ -8609,7 +8614,7 @@
     {
       "company_id": 60419,
       "company_uid": 668638,
-      "company_name": "Hüls PV-Anlagen GbR"
+      "company_name": "Hüls PV GbR"
     },
     {
       "company_id": 1345,
@@ -12130,11 +12135,6 @@
       "company_id": 62824,
       "company_uid": 670027,
       "company_name": "Octopus Energy Services Germany GmbH"
-    },
-    {
-      "company_id": 61414,
-      "company_uid": 669633,
-      "company_name": "Octopus Energy Trading Limited"
     },
     {
       "company_id": 57263,
@@ -94147,7 +94147,7 @@
       "code_row_id": 66018,
       "company_id": 60419,
       "company_uid": 668638,
-      "company_name": "Hüls PV-Anlagen GbR"
+      "company_name": "Hüls PV GbR"
     },
     {
       "bdew_code": "9984510000000",
@@ -100141,7 +100141,7 @@
       "code_row_id": 66902,
       "company_id": 61414,
       "company_uid": 669633,
-      "company_name": "Octopus Energy Trading Limited"
+      "company_name": "ARBELOS ENERGY LIMITED"
     },
     {
       "bdew_code": "9985322000006",

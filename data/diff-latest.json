@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-02",
-      "published_at": "2026-09-02T05:56:51+00:00",
-      "content_hash": "2e2ce51ab5d96da4fc5cdc75dad4d9bf384eed816ae4ba4c3411a363fd514f1a"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-02T05:47:52.640580+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4390,
-      "market_partners": 9141,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-09-02T05:47:52.640580+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-09-03",
-      "published_at": "2026-09-03T05:45:29.961980+00:00",
+      "published_at": "2026-09-03T05:53:00+00:00",
       "content_hash": "c1c785da987afeba83d5aa5af38eed01308066a573563c159fda171752b9ae03"
     },
     "source": {
@@ -71,42 +35,96 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-09-04",
+      "published_at": "2026-09-04T05:51:18.567311+00:00",
+      "content_hash": "e60a97d7c6d866b7e7751bbff0f8b85b1ef9d2353e7b77526b7cca0cc9f4bbce"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-09-04T05:51:18.567311+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4388,
+      "market_partners": 9139,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-09-04T05:51:18.567311+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [],
-  "codes_removed": [
+  "codes_removed": [],
+  "codes_changed": [
     {
-      "bdew_code": "9981370000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 62801,
-      "company_id": 58115,
-      "company_uid": 666343,
-      "company_name": "Erbengemeinschaft nach Eckard Kanold c/o Hausverwaltung Kim Eggert"
+      "code_row_id": 66018,
+      "bdew_code": "9984509000003",
+      "changes": {
+        "company_name": {
+          "old": "Hüls PV-Anlagen GbR",
+          "new": "Hüls PV GbR"
+        }
+      }
     },
     {
-      "bdew_code": "9985734000008",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68353,
-      "company_id": 64004,
-      "company_uid": 670211,
-      "company_name": "Max Lohse GmbH"
+      "code_row_id": 66902,
+      "bdew_code": "9985321000007",
+      "changes": {
+        "company_name": {
+          "old": "Octopus Energy Trading Limited",
+          "new": "ARBELOS ENERGY LIMITED"
+        }
+      }
     }
   ],
-  "codes_changed": [],
   "companies_added_ids": [],
-  "companies_removed_ids": [
-    58115,
-    64004
+  "companies_removed_ids": [],
+  "companies_changed": [
+    {
+      "company_id": 60419,
+      "changes": {
+        "company_name": {
+          "old": "Hüls PV-Anlagen GbR",
+          "new": "Hüls PV GbR"
+        }
+      }
+    },
+    {
+      "company_id": 61414,
+      "changes": {
+        "company_name": {
+          "old": "Octopus Energy Trading Limited",
+          "new": "ARBELOS ENERGY LIMITED"
+        }
+      }
+    }
   ],
-  "companies_changed": [],
   "summary": {
     "codes_added": 0,
-    "codes_removed": 2,
-    "codes_changed": 0,
+    "codes_removed": 0,
+    "codes_changed": 2,
     "codes_recoded": 0,
     "companies_added": 0,
-    "companies_removed": 2,
-    "companies_changed": 0
+    "companies_removed": 0,
+    "companies_changed": 2
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

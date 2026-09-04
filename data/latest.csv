@@ -8017,7 +8017,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9984503000009,Lieferant,LF,665148,NWG Metering GmbH,56920,66010
 9984507000005,Betreiber einer technischen Ressource,BTR,668636,Solvis GmbH,60417,66015
 9984508000004,Einsatzverantwortlicher,EIV,668603,Reichold Feinkost GmbH,60384,66016
-9984509000003,Betreiber einer technischen Ressource,BTR,668638,Hüls PV-Anlagen GbR,60419,66018
+9984509000003,Betreiber einer technischen Ressource,BTR,668638,Hüls PV GbR,60419,66018
 9984510000000,Energieserviceanbieter des Anschlussnutzers,ESA,668640,first energy GmbH,60421,66019
 9984515000005,Energieserviceanbieter des Anschlussnutzers,ESA,665156,BlueMetering GmbH,56928,66024
 9984516000004,Betreiber einer technischen Ressource,BTR,668647,Frontier-BS-Eins GmbH & Co.KG,60428,66026
@@ -8683,7 +8683,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985317000003,Lieferant,LF,669627,OK Energy Group GmbH,61408,66898
 9985318000002,Messstellenbetreiber,MSB,669628,LEWITZ Messtechnik GmbH,61409,66899
 9985320000008,Lieferant,LF,669631,Paartal-Energie GmbH,61412,66901
-9985321000007,Bilanzkreisverantwortlicher,BKV,669633,Octopus Energy Trading Limited,61414,66902
+9985321000007,Bilanzkreisverantwortlicher,BKV,669633,ARBELOS ENERGY LIMITED,61414,66902
 9985322000006,Energieserviceanbieter des Anschlussnutzers,ESA,669109,Stadtwerke EVB Huntetal Netz GmbH,60890,66903
 9985323000005,Energieserviceanbieter des Anschlussnutzers,ESA,660075,Stadtwerke EVB Huntetal GmbH,160,66904
 9985324000004,Bilanzkreisverantwortlicher,BKV,669634,Gontermann-Peipers Gesellschaft mit beschränkter Haftung,61415,66905
