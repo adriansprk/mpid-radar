@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-03",
-      "published_at": "2026-09-03T05:53:00+00:00",
-      "content_hash": "c1c785da987afeba83d5aa5af38eed01308066a573563c159fda171752b9ae03"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-03T05:45:29.961980+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4388,
-      "market_partners": 9139,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-09-03T05:45:29.961980+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-09-04",
-      "published_at": "2026-09-04T05:51:18.567311+00:00",
+      "published_at": "2026-09-04T05:57:39+00:00",
       "content_hash": "e60a97d7c6d866b7e7751bbff0f8b85b1ef9d2353e7b77526b7cca0cc9f4bbce"
     },
     "source": {
@@ -71,60 +35,68 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-09-05",
+      "published_at": "2026-09-05T05:43:38.791306+00:00",
+      "content_hash": "2563dc635d721817f4c957bbb3f305a5b06ad5ee61abc990bb6daa0785f0d39b"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-09-05T05:43:38.791306+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4387,
+      "market_partners": 9138,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-09-05T05:43:38.791306+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [],
-  "codes_removed": [],
-  "codes_changed": [
+  "codes_removed": [
     {
-      "code_row_id": 66018,
-      "bdew_code": "9984509000003",
-      "changes": {
-        "company_name": {
-          "old": "Hüls PV-Anlagen GbR",
-          "new": "Hüls PV GbR"
-        }
-      }
-    },
-    {
-      "code_row_id": 66902,
-      "bdew_code": "9985321000007",
-      "changes": {
-        "company_name": {
-          "old": "Octopus Energy Trading Limited",
-          "new": "ARBELOS ENERGY LIMITED"
-        }
-      }
+      "bdew_code": "9981387000007",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 62818,
+      "company_id": 58124,
+      "company_uid": 666352,
+      "company_name": "Robert Fürst"
     }
   ],
+  "codes_changed": [],
   "companies_added_ids": [],
-  "companies_removed_ids": [],
-  "companies_changed": [
-    {
-      "company_id": 60419,
-      "changes": {
-        "company_name": {
-          "old": "Hüls PV-Anlagen GbR",
-          "new": "Hüls PV GbR"
-        }
-      }
-    },
-    {
-      "company_id": 61414,
-      "changes": {
-        "company_name": {
-          "old": "Octopus Energy Trading Limited",
-          "new": "ARBELOS ENERGY LIMITED"
-        }
-      }
-    }
+  "companies_removed_ids": [
+    58124
   ],
+  "companies_changed": [],
   "summary": {
     "codes_added": 0,
-    "codes_removed": 0,
-    "codes_changed": 2,
+    "codes_removed": 1,
+    "codes_changed": 0,
     "codes_recoded": 0,
     "companies_added": 0,
-    "companies_removed": 0,
-    "companies_changed": 2
+    "companies_removed": 1,
+    "companies_changed": 0
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

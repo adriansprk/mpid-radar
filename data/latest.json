@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-04",
-      "published_at": "2026-09-04T05:57:39+00:00",
-      "content_hash": "e60a97d7c6d866b7e7751bbff0f8b85b1ef9d2353e7b77526b7cca0cc9f4bbce"
+      "version": "2026-09-05",
+      "published_at": "2026-09-05T05:54:11+00:00",
+      "content_hash": "2563dc635d721817f4c957bbb3f305a5b06ad5ee61abc990bb6daa0785f0d39b"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-04T05:51:18.567311+00:00",
+      "observed_at": "2026-09-05T05:43:38.791306+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4388,
-      "market_partners": 9139,
+      "companies": 4387,
+      "market_partners": 9138,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-04T05:51:18.567311+00:00",
+      "cleaned_at": "2026-09-05T05:43:38.791306+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -13695,11 +13695,6 @@
       "company_id": 61238,
       "company_uid": 669457,
       "company_name": "Robert Engelhardt Der Elektromeister GmbH"
-    },
-    {
-      "company_id": 58124,
-      "company_uid": 666352,
-      "company_name": "Robert Fürst"
     },
     {
       "company_id": 58683,
@@ -78209,15 +78204,6 @@
       "company_id": 58122,
       "company_uid": 666350,
       "company_name": "fairPla.net 1 GmbH & Co. KG"
-    },
-    {
-      "bdew_code": "9981387000007",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 62818,
-      "company_id": 58124,
-      "company_uid": 666352,
-      "company_name": "Robert Fürst"
     },
     {
       "bdew_code": "9981388000006",
