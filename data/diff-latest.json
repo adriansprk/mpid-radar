@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-05",
-      "published_at": "2026-09-05T05:54:11+00:00",
-      "content_hash": "2563dc635d721817f4c957bbb3f305a5b06ad5ee61abc990bb6daa0785f0d39b"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-05T05:43:38.791306+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4387,
-      "market_partners": 9138,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-09-05T05:43:38.791306+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-09-08",
-      "published_at": "2026-09-08T05:56:10.321063+00:00",
+      "published_at": "2026-09-08T06:05:21+00:00",
       "content_hash": "d1249f2447e6b65754453113f5fb182af038557dbcf1aa5d16ff6e00eb923f97"
     },
     "source": {
@@ -71,24 +35,51 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-09-11",
+      "published_at": "2026-09-11T05:56:23.862547+00:00",
+      "content_hash": "81291a8ae1fb7dc4cfb8fe0424b5742f62b348bbfc33955a84d5dc5c47b4c5f4"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-09-11T05:56:23.862547+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4387,
+      "market_partners": 9141,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-09-11T05:56:23.862547+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985842000007",
+      "bdew_code": "9985844000005",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
-      "code_row_id": 68470,
-      "company_id": 42573,
-      "company_uid": 664697,
-      "company_name": "ENGIE Energy Management Solutions GmbH"
-    },
-    {
-      "bdew_code": "9985843000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 68471,
-      "company_id": 42573,
-      "company_uid": 664697,
-      "company_name": "ENGIE Energy Management Solutions GmbH"
+      "code_row_id": 68472,
+      "company_id": 61178,
+      "company_uid": 669397,
+      "company_name": "terralayr flexibility services GmbH"
     }
   ],
   "codes_removed": [],
@@ -97,7 +88,7 @@
   "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 2,
+    "codes_added": 1,
     "codes_removed": 0,
     "codes_changed": 0,
     "codes_recoded": 0,

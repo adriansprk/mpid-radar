@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-08",
-      "published_at": "2026-09-08T06:05:21+00:00",
-      "content_hash": "d1249f2447e6b65754453113f5fb182af038557dbcf1aa5d16ff6e00eb923f97"
+      "version": "2026-09-11",
+      "published_at": "2026-09-11T06:04:17+00:00",
+      "content_hash": "81291a8ae1fb7dc4cfb8fe0424b5742f62b348bbfc33955a84d5dc5c47b4c5f4"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-08T05:56:10.321063+00:00",
+      "observed_at": "2026-09-11T05:56:23.862547+00:00",
       "filter": ""
     },
     "records": {
       "companies": 4387,
-      "market_partners": 9140,
+      "market_partners": 9141,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-08T05:56:10.321063+00:00",
+      "cleaned_at": "2026-09-11T05:56:23.862547+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -104214,6 +104214,15 @@
       "company_id": 42573,
       "company_uid": 664697,
       "company_name": "ENGIE Energy Management Solutions GmbH"
+    },
+    {
+      "bdew_code": "9985844000005",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68472,
+      "company_id": 61178,
+      "company_uid": 669397,
+      "company_name": "terralayr flexibility services GmbH"
     },
     {
       "bdew_code": "9987098000005",
