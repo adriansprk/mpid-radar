@@ -2,14 +2,14 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-11",
-      "published_at": "2026-09-11T06:04:17+00:00",
-      "content_hash": "81291a8ae1fb7dc4cfb8fe0424b5742f62b348bbfc33955a84d5dc5c47b4c5f4"
+      "version": "2026-09-12",
+      "published_at": "2026-09-12T05:52:50+00:00",
+      "content_hash": "255e9b99a8075736574835aefbe4db7f270ea66f2b99415f775341d751858fde"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-11T05:56:23.862547+00:00",
+      "observed_at": "2026-09-12T05:45:17.720815+00:00",
       "filter": ""
     },
     "records": {
@@ -18,7 +18,7 @@
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-11T05:56:23.862547+00:00",
+      "cleaned_at": "2026-09-12T05:45:17.720815+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -19817,9 +19817,9 @@
       "company_name": "Voltaic Trading AG"
     },
     {
-      "company_id": 60910,
-      "company_uid": 669129,
-      "company_name": "Voltaik Check OHG"
+      "company_id": 64159,
+      "company_uid": 670366,
+      "company_name": "Voltaik Check Inh. Enno Jürgens e.K."
     },
     {
       "company_id": 41552,
@@ -97362,18 +97362,18 @@
       "market_function": "Lieferant",
       "role_code": "LF",
       "code_row_id": 66507,
-      "company_id": 60910,
-      "company_uid": 669129,
-      "company_name": "Voltaik Check OHG"
+      "company_id": 64159,
+      "company_uid": 670366,
+      "company_name": "Voltaik Check Inh. Enno Jürgens e.K."
     },
     {
       "bdew_code": "9984964000002",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
       "code_row_id": 66508,
-      "company_id": 60910,
-      "company_uid": 669129,
-      "company_name": "Voltaik Check OHG"
+      "company_id": 64159,
+      "company_uid": 670366,
+      "company_name": "Voltaik Check Inh. Enno Jürgens e.K."
     },
     {
       "bdew_code": "9984965000001",
