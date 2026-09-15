@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-11",
-      "published_at": "2026-09-11T06:04:17+00:00",
-      "content_hash": "81291a8ae1fb7dc4cfb8fe0424b5742f62b348bbfc33955a84d5dc5c47b4c5f4"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-11T05:56:23.862547+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4387,
-      "market_partners": 9141,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-09-11T05:56:23.862547+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-09-12",
-      "published_at": "2026-09-12T05:45:17.720815+00:00",
+      "published_at": "2026-09-12T05:52:50+00:00",
       "content_hash": "255e9b99a8075736574835aefbe4db7f270ea66f2b99415f775341d751858fde"
     },
     "source": {
@@ -71,52 +35,67 @@
       }
     }
   },
-  "codes_added": [],
-  "codes_removed": [],
-  "codes_changed": [
-    {
-      "code_row_id": 66507,
-      "bdew_code": "9984963000003",
-      "changes": {
-        "company_uid": {
-          "old": 669129,
-          "new": 670366
-        },
-        "company_name": {
-          "old": "Voltaik Check OHG",
-          "new": "Voltaik Check Inh. Enno Jürgens e.K."
-        }
-      }
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-09-15",
+      "published_at": "2026-09-15T06:09:08.333170+00:00",
+      "content_hash": "19b832c8761eeef895e9ca36cb4dba7befa9affd65d4a935dbb9d580129d4572"
     },
-    {
-      "code_row_id": 66508,
-      "bdew_code": "9984964000002",
-      "changes": {
-        "company_uid": {
-          "old": 669129,
-          "new": 670366
-        },
-        "company_name": {
-          "old": "Voltaik Check OHG",
-          "new": "Voltaik Check Inh. Enno Jürgens e.K."
-        }
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-09-15T06:09:08.333170+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4388,
+      "market_partners": 9142,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-09-15T06:09:08.333170+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
       }
     }
+  },
+  "codes_added": [
+    {
+      "bdew_code": "9985834000007",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68461,
+      "company_id": 64133,
+      "company_uid": 670340,
+      "company_name": "Green Voltis B.V."
+    }
   ],
+  "codes_removed": [],
+  "codes_changed": [],
   "companies_added_ids": [
-    64159
+    64133
   ],
-  "companies_removed_ids": [
-    60910
-  ],
+  "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 0,
+    "codes_added": 1,
     "codes_removed": 0,
-    "codes_changed": 2,
+    "codes_changed": 0,
     "codes_recoded": 0,
     "companies_added": 1,
-    "companies_removed": 1,
+    "companies_removed": 0,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",

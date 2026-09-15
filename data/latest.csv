@@ -9131,6 +9131,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985830000001,Bilanzkreisverantwortlicher,BKV,670327,Manta Energy GmbH,64120,68457
 9985831000000,Netznutzer ohne All-Inklusiv-Vertrag,NN,664170,Gasunie Deutschland Transport Services GmbH,20219,68458
 9985833000008,Energieserviceanbieter des Anschlussnutzers,ESA,670338,UpGrid AG,64131,68460
+9985834000007,Bilanzkreisverantwortlicher,BKV,670340,Green Voltis B.V.,64133,68461
 9985835000006,Betreiber einer technischen Ressource,BTR,670342,Hamburg-Kölner Vermögensverwaltungsgesellschaft mbH,64135,68463
 9985836000005,Betreiber einer technischen Ressource,BTR,661916,Stadtwerke Bad Kissingen GmbH,2026,68464
 9985838000003,Bilanzkreisverantwortlicher,BKV,670350,Wattserve Hallerndorf GmbH,64143,68466

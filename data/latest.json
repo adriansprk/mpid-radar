@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-12",
-      "published_at": "2026-09-12T05:52:50+00:00",
-      "content_hash": "255e9b99a8075736574835aefbe4db7f270ea66f2b99415f775341d751858fde"
+      "version": "2026-09-15",
+      "published_at": "2026-09-15T06:16:33+00:00",
+      "content_hash": "19b832c8761eeef895e9ca36cb4dba7befa9affd65d4a935dbb9d580129d4572"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-12T05:45:17.720815+00:00",
+      "observed_at": "2026-09-15T06:09:08.333170+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4387,
-      "market_partners": 9141,
+      "companies": 4388,
+      "market_partners": 9142,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-12T05:45:17.720815+00:00",
+      "cleaned_at": "2026-09-15T06:09:08.333170+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -7580,6 +7580,11 @@
       "company_id": 60442,
       "company_uid": 668661,
       "company_name": "Green Planet Solutions GmbH & Co. KG"
+    },
+    {
+      "company_id": 64133,
+      "company_uid": 670340,
+      "company_name": "Green Voltis B.V."
     },
     {
       "company_id": 60363,
@@ -104160,6 +104165,15 @@
       "company_id": 64131,
       "company_uid": 670338,
       "company_name": "UpGrid AG"
+    },
+    {
+      "bdew_code": "9985834000007",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68461,
+      "company_id": 64133,
+      "company_uid": 670340,
+      "company_name": "Green Voltis B.V."
     },
     {
       "bdew_code": "9985835000006",
