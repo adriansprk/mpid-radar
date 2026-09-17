@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-15",
-      "published_at": "2026-09-15T06:16:33+00:00",
-      "content_hash": "19b832c8761eeef895e9ca36cb4dba7befa9affd65d4a935dbb9d580129d4572"
+      "version": "2026-09-17",
+      "published_at": "2026-09-17T06:13:33+00:00",
+      "content_hash": "6d34a492dfb6e7c7002646e16c2c6b5eb8303a673b3bed7a8cf873dd190aacae"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-15T06:09:08.333170+00:00",
+      "observed_at": "2026-09-17T06:07:05.975006+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4388,
-      "market_partners": 9142,
+      "companies": 4389,
+      "market_partners": 9143,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-15T06:09:08.333170+00:00",
+      "cleaned_at": "2026-09-17T06:07:05.975006+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -2140,6 +2140,11 @@
       "company_id": 57993,
       "company_uid": 666221,
       "company_name": "Bruno Fels"
+    },
+    {
+      "company_id": 64165,
+      "company_uid": 670372,
+      "company_name": "Bräuer-Fenster BF-Fensterbau GmbH"
     },
     {
       "company_id": 379,
@@ -104237,6 +104242,15 @@
       "company_id": 61178,
       "company_uid": 669397,
       "company_name": "terralayr flexibility services GmbH"
+    },
+    {
+      "bdew_code": "9985845000004",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68473,
+      "company_id": 64165,
+      "company_uid": 670372,
+      "company_name": "Bräuer-Fenster BF-Fensterbau GmbH"
     },
     {
       "bdew_code": "9987098000005",
