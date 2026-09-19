@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-15",
-      "published_at": "2026-09-15T06:16:33+00:00",
-      "content_hash": "19b832c8761eeef895e9ca36cb4dba7befa9affd65d4a935dbb9d580129d4572"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-15T06:09:08.333170+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4388,
-      "market_partners": 9142,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-09-15T06:09:08.333170+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-09-17",
-      "published_at": "2026-09-17T06:07:05.975006+00:00",
+      "published_at": "2026-09-17T06:13:33+00:00",
       "content_hash": "6d34a492dfb6e7c7002646e16c2c6b5eb8303a673b3bed7a8cf873dd190aacae"
     },
     "source": {
@@ -71,21 +35,57 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-09-19",
+      "published_at": "2026-09-19T05:50:25.083489+00:00",
+      "content_hash": "0dbd44e2ed83ac72d758ecc3ae5e622cdc0584db37207f178aed11d639a45057"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-09-19T05:50:25.083489+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4390,
+      "market_partners": 9144,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-09-19T05:50:25.083489+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985845000004",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68473,
-      "company_id": 64165,
-      "company_uid": 670372,
-      "company_name": "Bräuer-Fenster BF-Fensterbau GmbH"
+      "bdew_code": "9985847000002",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68476,
+      "company_id": 61618,
+      "company_uid": 669820,
+      "company_name": "Schwarz Energy Trading GmbH"
     }
   ],
   "codes_removed": [],
   "codes_changed": [],
   "companies_added_ids": [
-    64165
+    61618
   ],
   "companies_removed_ids": [],
   "companies_changed": [],
