@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-19",
-      "published_at": "2026-09-19T05:59:39+00:00",
-      "content_hash": "0dbd44e2ed83ac72d758ecc3ae5e622cdc0584db37207f178aed11d639a45057"
+      "version": "2026-09-21",
+      "published_at": "2026-09-21T06:27:11+00:00",
+      "content_hash": "d4ebed7e425e4a0c8579564dceb8b152f533201d30ffd37b0704eeadb7fdad7a"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-19T05:50:25.083489+00:00",
+      "observed_at": "2026-09-21T06:17:45.668565+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4390,
-      "market_partners": 9144,
+      "companies": 4391,
+      "market_partners": 9145,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-19T05:50:25.083489+00:00",
+      "cleaned_at": "2026-09-21T06:17:45.668565+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -3305,6 +3305,11 @@
       "company_id": 62737,
       "company_uid": 669940,
       "company_name": "Duvenbeck Logistics Holding GmbH & Co. KG"
+    },
+    {
+      "company_id": 64169,
+      "company_uid": 670376,
+      "company_name": "Dynamic Energy Trading B.V."
     },
     {
       "company_id": 61029,
@@ -23958,6 +23963,15 @@
       "company_id": 60724,
       "company_uid": 668943,
       "company_name": "Enerjisa Commodities B.V."
+    },
+    {
+      "bdew_code": "8719333038438",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68474,
+      "company_id": 64169,
+      "company_uid": 670376,
+      "company_name": "Dynamic Energy Trading B.V."
     },
     {
       "bdew_code": "8719333039343",
