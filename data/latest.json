@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-21",
-      "published_at": "2026-09-21T06:27:11+00:00",
-      "content_hash": "d4ebed7e425e4a0c8579564dceb8b152f533201d30ffd37b0704eeadb7fdad7a"
+      "version": "2026-09-22",
+      "published_at": "2026-09-22T06:20:23+00:00",
+      "content_hash": "88b17064212d8b30322928839c7a873e7af6d76e282f84d7141721efdc03d11a"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-21T06:17:45.668565+00:00",
+      "observed_at": "2026-09-22T06:11:20.027338+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4391,
-      "market_partners": 9145,
+      "companies": 4392,
+      "market_partners": 9148,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-21T06:17:45.668565+00:00",
+      "cleaned_at": "2026-09-22T06:11:20.027338+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -20620,6 +20620,11 @@
       "company_id": 56845,
       "company_uid": 665073,
       "company_name": "Yippie GmbH"
+    },
+    {
+      "company_id": 64155,
+      "company_uid": 670362,
+      "company_name": "Ykasth Commodities A/S"
     },
     {
       "company_id": 1376,
@@ -104236,6 +104241,15 @@
       "company_name": "Hamburg-Kölner Vermögensverwaltungsgesellschaft mbH"
     },
     {
+      "bdew_code": "9985841000008",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68469,
+      "company_id": 64155,
+      "company_uid": 670362,
+      "company_name": "Ykasth Commodities A/S"
+    },
+    {
       "bdew_code": "9985842000007",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -104272,6 +104286,15 @@
       "company_name": "Bräuer-Fenster BF-Fensterbau GmbH"
     },
     {
+      "bdew_code": "9985846000003",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68475,
+      "company_id": 61618,
+      "company_uid": 669820,
+      "company_name": "Schwarz Energy Trading GmbH"
+    },
+    {
       "bdew_code": "9985847000002",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -104279,6 +104302,15 @@
       "company_id": 61618,
       "company_uid": 669820,
       "company_name": "Schwarz Energy Trading GmbH"
+    },
+    {
+      "bdew_code": "9985848000001",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68477,
+      "company_id": 64021,
+      "company_uid": 670228,
+      "company_name": "Pyrpose Energy GmbH"
     },
     {
       "bdew_code": "9987098000005",

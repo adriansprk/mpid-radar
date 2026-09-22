@@ -9137,10 +9137,13 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985836000005,Betreiber einer technischen Ressource,BTR,661916,Stadtwerke Bad Kissingen GmbH,2026,68464
 9985838000003,Bilanzkreisverantwortlicher,BKV,670350,Wattserve Hallerndorf GmbH,64143,68466
 9985840000009,Einsatzverantwortlicher,EIV,670342,Hamburg-Kölner Vermögensverwaltungsgesellschaft mbH,64135,68468
+9985841000008,Bilanzkreisverantwortlicher,BKV,670362,Ykasth Commodities A/S,64155,68469
 9985842000007,Betreiber einer technischen Ressource,BTR,664697,ENGIE Energy Management Solutions GmbH,42573,68470
 9985843000006,Einsatzverantwortlicher,EIV,664697,ENGIE Energy Management Solutions GmbH,42573,68471
 9985844000005,Betreiber einer technischen Ressource,BTR,669397,terralayr flexibility services GmbH,61178,68472
 9985845000004,Betreiber einer technischen Ressource,BTR,670372,Bräuer-Fenster BF-Fensterbau GmbH,64165,68473
+9985846000003,Lieferant,LF,669820,Schwarz Energy Trading GmbH,61618,68475
 9985847000002,Bilanzkreisverantwortlicher,BKV,669820,Schwarz Energy Trading GmbH,61618,68476
+9985848000001,Bilanzkreisverantwortlicher,BKV,670228,Pyrpose Energy GmbH,64021,68477
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
