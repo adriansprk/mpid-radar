@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-22",
-      "published_at": "2026-09-22T06:20:23+00:00",
-      "content_hash": "88b17064212d8b30322928839c7a873e7af6d76e282f84d7141721efdc03d11a"
+      "version": "2026-09-24",
+      "published_at": "2026-09-24T06:18:12+00:00",
+      "content_hash": "c62a0ed0368e2d870e54e619c0b75c9468a6e056870d3cd41322d700a8fab59c"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-22T06:11:20.027338+00:00",
+      "observed_at": "2026-09-24T06:08:58.755733+00:00",
       "filter": ""
     },
     "records": {
       "companies": 4392,
-      "market_partners": 9148,
+      "market_partners": 9149,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-22T06:11:20.027338+00:00",
+      "cleaned_at": "2026-09-24T06:08:58.755733+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -104311,6 +104311,15 @@
       "company_id": 64021,
       "company_uid": 670228,
       "company_name": "Pyrpose Energy GmbH"
+    },
+    {
+      "bdew_code": "9985849000000",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68478,
+      "company_id": 2298,
+      "company_uid": 662186,
+      "company_name": "Stadtwerke Neuenhaus GmbH"
     },
     {
       "bdew_code": "9987098000005",
