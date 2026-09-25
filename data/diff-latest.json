@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-22",
-      "published_at": "2026-09-22T06:20:23+00:00",
-      "content_hash": "88b17064212d8b30322928839c7a873e7af6d76e282f84d7141721efdc03d11a"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-22T06:11:20.027338+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4392,
-      "market_partners": 9148,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-09-22T06:11:20.027338+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-09-24",
-      "published_at": "2026-09-24T06:08:58.755733+00:00",
+      "published_at": "2026-09-24T06:18:12+00:00",
       "content_hash": "c62a0ed0368e2d870e54e619c0b75c9468a6e056870d3cd41322d700a8fab59c"
     },
     "source": {
@@ -71,20 +35,58 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-09-25",
+      "published_at": "2026-09-25T06:08:57.018666+00:00",
+      "content_hash": "a78cbc4147917ad6219178025c1882f9b86c32cfe14bf02e85d56640e41cec62"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-09-25T06:08:57.018666+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4393,
+      "market_partners": 9150,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-09-25T06:08:57.018666+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 78,
+        "codes_normalized": 119
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985849000000",
+      "bdew_code": "9985850000007",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
-      "code_row_id": 68478,
-      "company_id": 2298,
-      "company_uid": 662186,
-      "company_name": "Stadtwerke Neuenhaus GmbH"
+      "code_row_id": 68479,
+      "company_id": 64174,
+      "company_uid": 670381,
+      "company_name": "EnValue Energie Trading GmbH & Co. KG"
     }
   ],
   "codes_removed": [],
   "codes_changed": [],
-  "companies_added_ids": [],
+  "companies_added_ids": [
+    64174
+  ],
   "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
@@ -92,7 +94,7 @@
     "codes_removed": 0,
     "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 0,
+    "companies_added": 1,
     "companies_removed": 0,
     "companies_changed": 0
   },
