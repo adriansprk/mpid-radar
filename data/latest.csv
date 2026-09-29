@@ -9147,5 +9147,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985848000001,Bilanzkreisverantwortlicher,BKV,670228,Pyrpose Energy GmbH,64021,68477
 9985849000000,Bilanzkreisverantwortlicher,BKV,662186,Stadtwerke Neuenhaus GmbH,2298,68478
 9985850000007,Bilanzkreisverantwortlicher,BKV,670381,EnValue Energie Trading GmbH & Co. KG,64174,68479
+9985851000006,Einsatzverantwortlicher,EIV,670327,Manta Energy GmbH,64120,68481
+9985852000005,Betreiber einer technischen Ressource,BTR,670327,Manta Energy GmbH,64120,68482
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

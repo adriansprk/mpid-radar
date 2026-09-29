@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-25",
-      "published_at": "2026-09-25T06:18:11+00:00",
-      "content_hash": "a78cbc4147917ad6219178025c1882f9b86c32cfe14bf02e85d56640e41cec62"
+      "version": "2026-09-29",
+      "published_at": "2026-09-29T06:57:08+00:00",
+      "content_hash": "8278397021849c8a2c4f5df7f904260d490e5466f7c7f3bcad692a10a19bcbfc"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-25T06:08:57.018666+00:00",
+      "observed_at": "2026-09-29T06:52:32.612669+00:00",
       "filter": ""
     },
     "records": {
       "companies": 4393,
-      "market_partners": 9150,
+      "market_partners": 9152,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-25T06:08:57.018666+00:00",
+      "cleaned_at": "2026-09-29T06:52:32.612669+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -104334,6 +104334,24 @@
       "company_id": 64174,
       "company_uid": 670381,
       "company_name": "EnValue Energie Trading GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9985851000006",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68481,
+      "company_id": 64120,
+      "company_uid": 670327,
+      "company_name": "Manta Energy GmbH"
+    },
+    {
+      "bdew_code": "9985852000005",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68482,
+      "company_id": 64120,
+      "company_uid": 670327,
+      "company_name": "Manta Energy GmbH"
     },
     {
       "bdew_code": "9987098000005",
