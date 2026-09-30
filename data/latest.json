@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-29",
-      "published_at": "2026-09-29T06:57:08+00:00",
-      "content_hash": "8278397021849c8a2c4f5df7f904260d490e5466f7c7f3bcad692a10a19bcbfc"
+      "version": "2026-09-30",
+      "published_at": "2026-09-30T06:43:56+00:00",
+      "content_hash": "758e5b68bf26444e620eb541752411e99190a7dcd83f42dbdd85c6b99c256ff8"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-29T06:52:32.612669+00:00",
+      "observed_at": "2026-09-30T06:40:08.982975+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4393,
-      "market_partners": 9152,
+      "companies": 4397,
+      "market_partners": 9156,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-29T06:52:32.612669+00:00",
+      "cleaned_at": "2026-09-30T06:40:08.982975+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -4942,6 +4942,11 @@
       "company_name": "Energie Mittelsachsen GmbH"
     },
     {
+      "company_id": 64180,
+      "company_uid": 670387,
+      "company_name": "Energie Neuhausen GmbH & Co. KG"
+    },
+    {
       "company_id": 767,
       "company_uid": 660666,
       "company_name": "Energie SaarLorLux AG"
@@ -8757,6 +8762,11 @@
       "company_name": "ITC Internet-Trade-Center AG"
     },
     {
+      "company_id": 64175,
+      "company_uid": 670382,
+      "company_name": "ITM Energy ApS"
+    },
+    {
       "company_id": 1403,
       "company_uid": 661299,
       "company_name": "IWB Industrielle Werke Basel"
@@ -9950,6 +9960,11 @@
       "company_id": 59963,
       "company_uid": 668182,
       "company_name": "Köhler & Bandl GmbH & Co. KG"
+    },
+    {
+      "company_id": 64182,
+      "company_uid": 670389,
+      "company_name": "Köhlgartenwiese Vertriebs GmbH"
     },
     {
       "company_id": 3552,
@@ -11765,6 +11780,11 @@
       "company_id": 1691,
       "company_uid": 661585,
       "company_name": "Neubrandenburger Stadtwerke GmbH"
+    },
+    {
+      "company_id": 64181,
+      "company_uid": 670388,
+      "company_name": "Neue Materialien Bayreuth GmbH"
     },
     {
       "company_id": 59465,
@@ -23514,6 +23534,15 @@
       "company_id": 64113,
       "company_uid": 670320,
       "company_name": "In Commodities Stack A/S"
+    },
+    {
+      "bdew_code": "5790002874000",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68480,
+      "company_id": 64175,
+      "company_uid": 670382,
+      "company_name": "ITM Energy ApS"
     },
     {
       "bdew_code": "5909000829800",
@@ -36543,9 +36572,9 @@
       "market_function": "Lieferant",
       "role_code": "LF",
       "code_row_id": 2768,
-      "company_id": 1485,
-      "company_uid": 661379,
-      "company_name": "Kraftwerk Köhlgartenwiese GmbH"
+      "company_id": 64182,
+      "company_uid": 670389,
+      "company_name": "Köhlgartenwiese Vertriebs GmbH"
     },
     {
       "bdew_code": "9904251000002",
@@ -104352,6 +104381,33 @@
       "company_id": 64120,
       "company_uid": 670327,
       "company_name": "Manta Energy GmbH"
+    },
+    {
+      "bdew_code": "9985853000004",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68483,
+      "company_id": 1725,
+      "company_uid": 661618,
+      "company_name": "Centrica Energy Trading A/S"
+    },
+    {
+      "bdew_code": "9985854000003",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68484,
+      "company_id": 64180,
+      "company_uid": 670387,
+      "company_name": "Energie Neuhausen GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9985855000002",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68486,
+      "company_id": 64181,
+      "company_uid": 670388,
+      "company_name": "Neue Materialien Bayreuth GmbH"
     },
     {
       "bdew_code": "9987098000005",

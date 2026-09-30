@@ -167,6 +167,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 5790002861703,Bilanzkreisverantwortlicher,BKV,670134,X Commodities ApS,63927,68302
 5790002870811,Bilanzkreisverantwortlicher,BKV,670307,Quant Partners ApS,64100,68439
 5790002871795,Bilanzkreisverantwortlicher,BKV,670320,In Commodities Stack A/S,64113,68449
+5790002874000,Bilanzkreisverantwortlicher,BKV,670382,ITM Energy ApS,64175,68480
 5909000829800,Bilanzkreisverantwortlicher,BKV,664301,ENEA Trading Sp. z o.o.,23331,29335
 5909000893252,Bilanzkreisverantwortlicher,BKV,668646,XOOG OPERATOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,60427,66025
 5909000893757,Bilanzkreisverantwortlicher,BKV,668683,Sky Quant sp. z o.o.,60464,66055
@@ -1614,7 +1615,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9904243000002,Lieferant,LF,661091,Gemeindewerke Stockstadt,1194,2187
 9904244000001,Lieferant,LF,660949,Fürstlich Fugger v. Glött'sche E-Werks GmbH & Co. KG,1052,1785
 9904247000008,Lieferant,LF,662345,Stadtwerke Weilburg GmbH,2457,5490
-9904250000003,Lieferant,LF,661379,Kraftwerk Köhlgartenwiese GmbH,1485,2768
+9904250000003,Lieferant,LF,670389,Köhlgartenwiese Vertriebs GmbH,64182,2768
 9904251000002,Messstellenbetreiber,MSB,661965,Stadtwerke Bretten Gesellschaft mit beschränkter Haftung,2075,4034
 9904254000009,Bilanzkreisverantwortlicher,BKV,660006,Allgäuer Überlandwerk GmbH,60,62
 9904257000006,Bilanzkreisverantwortlicher,BKV,662630,VERBUND Energy4Business GmbH,2744,6206
@@ -9149,5 +9150,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985850000007,Bilanzkreisverantwortlicher,BKV,670381,EnValue Energie Trading GmbH & Co. KG,64174,68479
 9985851000006,Einsatzverantwortlicher,EIV,670327,Manta Energy GmbH,64120,68481
 9985852000005,Betreiber einer technischen Ressource,BTR,670327,Manta Energy GmbH,64120,68482
+9985853000004,Energieserviceanbieter des Anschlussnutzers,ESA,661618,Centrica Energy Trading A/S,1725,68483
+9985854000003,Lieferant,LF,670387,Energie Neuhausen GmbH & Co. KG,64180,68484
+9985855000002,Einsatzverantwortlicher,EIV,670388,Neue Materialien Bayreuth GmbH,64181,68486
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

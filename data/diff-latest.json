@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-25",
-      "published_at": "2026-09-25T06:18:11+00:00",
-      "content_hash": "a78cbc4147917ad6219178025c1882f9b86c32cfe14bf02e85d56640e41cec62"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-25T06:08:57.018666+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4393,
-      "market_partners": 9150,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-09-25T06:08:57.018666+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 78,
-        "codes_normalized": 119
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-09-29",
-      "published_at": "2026-09-29T06:52:32.612669+00:00",
+      "published_at": "2026-09-29T06:57:08+00:00",
       "content_hash": "8278397021849c8a2c4f5df7f904260d490e5466f7c7f3bcad692a10a19bcbfc"
     },
     "source": {
@@ -71,37 +35,111 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-09-30",
+      "published_at": "2026-09-30T06:40:08.982975+00:00",
+      "content_hash": "758e5b68bf26444e620eb541752411e99190a7dcd83f42dbdd85c6b99c256ff8"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-09-30T06:40:08.982975+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4397,
+      "market_partners": 9156,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-09-30T06:40:08.982975+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 78,
+        "codes_normalized": 119
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985851000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 68481,
-      "company_id": 64120,
-      "company_uid": 670327,
-      "company_name": "Manta Energy GmbH"
+      "bdew_code": "5790002874000",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68480,
+      "company_id": 64175,
+      "company_uid": 670382,
+      "company_name": "ITM Energy ApS"
     },
     {
-      "bdew_code": "9985852000005",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68482,
-      "company_id": 64120,
-      "company_uid": 670327,
-      "company_name": "Manta Energy GmbH"
+      "bdew_code": "9985853000004",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68483,
+      "company_id": 1725,
+      "company_uid": 661618,
+      "company_name": "Centrica Energy Trading A/S"
+    },
+    {
+      "bdew_code": "9985854000003",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68484,
+      "company_id": 64180,
+      "company_uid": 670387,
+      "company_name": "Energie Neuhausen GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9985855000002",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68486,
+      "company_id": 64181,
+      "company_uid": 670388,
+      "company_name": "Neue Materialien Bayreuth GmbH"
     }
   ],
   "codes_removed": [],
-  "codes_changed": [],
-  "companies_added_ids": [],
+  "codes_changed": [
+    {
+      "code_row_id": 2768,
+      "bdew_code": "9904250000003",
+      "changes": {
+        "company_uid": {
+          "old": 661379,
+          "new": 670389
+        },
+        "company_name": {
+          "old": "Kraftwerk Köhlgartenwiese GmbH",
+          "new": "Köhlgartenwiese Vertriebs GmbH"
+        }
+      }
+    }
+  ],
+  "companies_added_ids": [
+    64175,
+    64180,
+    64181,
+    64182
+  ],
   "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 2,
+    "codes_added": 4,
     "codes_removed": 0,
-    "codes_changed": 0,
+    "codes_changed": 1,
     "codes_recoded": 0,
-    "companies_added": 0,
+    "companies_added": 4,
     "companies_removed": 0,
     "companies_changed": 0
   },
