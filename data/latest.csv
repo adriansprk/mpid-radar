@@ -308,7 +308,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9900122000006,Netzbetreiber,NB,660294,Butzbacher Netzbetrieb GmbH & Co. KG,393,332
 9900123000005,Netzbetreiber,NB,661976,Stadtwerke Buxtehude GmbH,2086,4073
 9900124000004,Netzbetreiber,NB,669677,Netze Calw GmbH,61458,1107
-9900126000002,Netzbetreiber,NB,660314,Celle-Uelzen Netz GmbH,413,359
+9900126000002,Netzbetreiber,NB,660314,SVO Netz GmbH,413,359
 9900127000001,Netzbetreiber,NB,661979,Stadtwerke Cham GmbH,2089,4083
 9900128000000,Netzbetreiber,NB,661980,Stadtwerke Clausthal-Zellerfeld GmbH,2090,4086
 9900129000009,Netzbetreiber,NB,662441,SÜC Energie und H2O GmbH,2553,5796
@@ -1789,7 +1789,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9904641000000,Messstellenbetreiber,MSB,662072,Stadtwerke Haldensleben GmbH,2184,4441
 9904646000005,Messstellenbetreiber,MSB,662019,Stadtwerke Engen GmbH,2129,4240
 9904647000004,Messstellenbetreiber,MSB,660452,naturenergie netze GmbH,551,615
-9904648000003,Messstellenbetreiber,MSB,660314,Celle-Uelzen Netz GmbH,413,361
+9904648000003,Messstellenbetreiber,MSB,660314,SVO Netz GmbH,413,361
 9904649000002,Messstellenbetreiber,MSB,662488,SWT Stadtwerke Trier Versorgungs-GmbH,2600,5924
 9904650000009,Messstellenbetreiber,MSB,662458,SWE Netz GmbH,2570,5840
 9904653000006,Lieferant,LF,660992,GASAG AG,1095,1875
@@ -2132,7 +2132,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9905507000001,Bilanzkreisverantwortlicher,BKV,661626,NRM Netzdienste Rhein-Main GmbH,1733,3258
 9905508000000,Messstellenbetreiber,MSB,662561,"Überlandwerk Rhön, Gesellschaft mit beschränkter Haftung",2675,6096
 9905509000009,Messstellenbetreiber,MSB,660646,Energie- und Wasserversorgung Rheine GmbH,747,1083
-9905516000000,Bilanzkreisverantwortlicher,BKV,660314,Celle-Uelzen Netz GmbH,413,362
+9905516000000,Bilanzkreisverantwortlicher,BKV,660314,SVO Netz GmbH,413,362
 9905517000009,Bilanzkreisverantwortlicher,BKV,662066,Stadtwerke Güstrow GmbH,2178,4419
 9905518000008,Messstellenbetreiber,MSB,660260,badenovaNETZE GmbH,359,263
 9905520000004,Bilanzkreisverantwortlicher,BKV,661139,GEWI GmbH,1242,2311
@@ -4661,7 +4661,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9978882000004,Netznutzer ohne All-Inklusiv-Vertrag,NN,668223,juwi GmbH,60004,45509
 9978886000000,Lieferant,LF,664648,LB Heizstrom Nord GmbH,41525,45513
 9978887000009,Lieferant,LF,664649,LB Heizstrom Süd GmbH,41526,45514
-9978888000008,Bilanzkreisverantwortlicher,BKV,664651,EDF TRADING MARKETS (IRELAND) LIMITED,41528,45515
+9978888000008,Bilanzkreisverantwortlicher,BKV,664651,EDF Trading Europe Limited,41528,45515
 9978889000007,Lieferant,LF,664654,Raffinerie Heide GmbH,41531,45517
 9978890000004,Übertragungsnetzbetreiber,ÜNB,662031,Stadtwerke Flensburg GmbH,2143,45519
 9978891000003,Bilanzkreisverantwortlicher,BKV,664656,2KTRADE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,41533,45521
@@ -4765,7 +4765,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9979013000003,Lieferant,LF,660147,AllgäuNetz GmbH & Co. KG,241,49638
 9979014000002,Lieferant,LF,660148,Alliander Netz Heinsberg GmbH,242,49639
 9979015000001,Lieferant,LF,662117,Stadtwerke Karlsruhe Netzservice GmbH,2229,49640
-9979017000009,Lieferant,LF,660314,Celle-Uelzen Netz GmbH,413,49643
+9979017000009,Lieferant,LF,660314,SVO Netz GmbH,413,49643
 9979018000008,Lieferant,LF,662387,Städtische Werke Borna Netz GmbH,2499,49644
 9979019000007,Lieferant,LF,661569,Netze BW GmbH,1675,49645
 9979020000004,Lieferant,LF,662425,Stromnetzgesellschaft Herrenberg mbH & Co. KG,2537,49646
@@ -6477,8 +6477,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9981741000007,Betreiber einer technischen Ressource,BTR,666531,Christine Kruse,58303,63179
 9981749000009,Betreiber einer technischen Ressource,BTR,666563,ZfP Südwürttemberg,58335,63187
 9981750000006,Betreiber einer technischen Ressource,BTR,661152,VIVAVIS AG,1255,63188
-9981751000005,Einsatzverantwortlicher,EIV,660314,Celle-Uelzen Netz GmbH,413,63189
-9981752000004,Betreiber einer technischen Ressource,BTR,660314,Celle-Uelzen Netz GmbH,413,63190
+9981751000005,Einsatzverantwortlicher,EIV,660314,SVO Netz GmbH,413,63189
+9981752000004,Betreiber einer technischen Ressource,BTR,660314,SVO Netz GmbH,413,63190
 9981753000003,Einsatzverantwortlicher,EIV,664584,Berliner Stadtreinigungsbetriebe (BSR),36484,63191
 9981754000002,Betreiber einer technischen Ressource,BTR,664584,Berliner Stadtreinigungsbetriebe (BSR),36484,63192
 9981755000001,Einsatzverantwortlicher,EIV,666564,USE MY ENERGY GmbH,58336,63193
@@ -7818,7 +7818,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9984229000002,Lieferant,LF,661904,Stadtwerke Backnang GmbH,2014,65719
 9984231000008,Einsatzverantwortlicher,EIV,668315,Fickert Steinbearbeitungsmaschinen GmbH & Co. KG,60096,65721
 9984232000007,Lieferant,LF,668316,Hospital LogiServe GmbH,60097,65722
-9984233000006,Einsatzverantwortlicher,EIV,668317,Maschinenfabrik Bermatingen GmbH & Co. KG,60098,65723
 9984238000001,Betreiber einer technischen Ressource,BTR,663943,"""ROMONTA GmbH""",14007,65728
 9984239000000,Betreiber einer technischen Ressource,BTR,661708,PROKON Regenerative Energien eG,1816,65729
 9984240000007,Betreiber einer technischen Ressource,BTR,668323,Hobbywerkstatt Gustavsburg,60104,65730
@@ -9153,5 +9152,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985853000004,Energieserviceanbieter des Anschlussnutzers,ESA,661618,Centrica Energy Trading A/S,1725,68483
 9985854000003,Lieferant,LF,670387,Energie Neuhausen GmbH & Co. KG,64180,68484
 9985855000002,Einsatzverantwortlicher,EIV,670388,Neue Materialien Bayreuth GmbH,64181,68486
+9985857000000,Einsatzverantwortlicher,EIV,670140,Encavis Energy Solutions GmbH,63933,68488
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

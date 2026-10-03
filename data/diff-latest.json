@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-29",
-      "published_at": "2026-09-29T06:57:08+00:00",
-      "content_hash": "8278397021849c8a2c4f5df7f904260d490e5466f7c7f3bcad692a10a19bcbfc"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-29T06:52:32.612669+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4393,
-      "market_partners": 9152,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-09-29T06:52:32.612669+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 78,
-        "codes_normalized": 119
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-09-30",
-      "published_at": "2026-09-30T06:40:08.982975+00:00",
+      "published_at": "2026-09-30T06:43:56+00:00",
       "content_hash": "758e5b68bf26444e620eb541752411e99190a7dcd83f42dbdd85c6b99c256ff8"
     },
     "source": {
@@ -71,77 +35,168 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-10-03",
+      "published_at": "2026-10-03T06:28:58.686745+00:00",
+      "content_hash": "82f8f184e448226d51c7b76e4fc4a0d7779ed7fffdf7bebf437a8f58408f44bb"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-10-03T06:28:58.686745+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4396,
+      "market_partners": 9156,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-10-03T06:28:58.686745+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 78,
+        "codes_normalized": 119
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "5790002874000",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68480,
-      "company_id": 64175,
-      "company_uid": 670382,
-      "company_name": "ITM Energy ApS"
-    },
-    {
-      "bdew_code": "9985853000004",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68483,
-      "company_id": 1725,
-      "company_uid": 661618,
-      "company_name": "Centrica Energy Trading A/S"
-    },
-    {
-      "bdew_code": "9985854000003",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 68484,
-      "company_id": 64180,
-      "company_uid": 670387,
-      "company_name": "Energie Neuhausen GmbH & Co. KG"
-    },
-    {
-      "bdew_code": "9985855000002",
+      "bdew_code": "9985857000000",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
-      "code_row_id": 68486,
-      "company_id": 64181,
-      "company_uid": 670388,
-      "company_name": "Neue Materialien Bayreuth GmbH"
+      "code_row_id": 68488,
+      "company_id": 63933,
+      "company_uid": 670140,
+      "company_name": "Encavis Energy Solutions GmbH"
     }
   ],
-  "codes_removed": [],
+  "codes_removed": [
+    {
+      "bdew_code": "9984233000006",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 65723,
+      "company_id": 60098,
+      "company_uid": 668317,
+      "company_name": "Maschinenfabrik Bermatingen GmbH & Co. KG"
+    }
+  ],
   "codes_changed": [
     {
-      "code_row_id": 2768,
-      "bdew_code": "9904250000003",
+      "code_row_id": 359,
+      "bdew_code": "9900126000002",
       "changes": {
-        "company_uid": {
-          "old": 661379,
-          "new": 670389
-        },
         "company_name": {
-          "old": "Kraftwerk Köhlgartenwiese GmbH",
-          "new": "Köhlgartenwiese Vertriebs GmbH"
+          "old": "Celle-Uelzen Netz GmbH",
+          "new": "SVO Netz GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 361,
+      "bdew_code": "9904648000003",
+      "changes": {
+        "company_name": {
+          "old": "Celle-Uelzen Netz GmbH",
+          "new": "SVO Netz GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 362,
+      "bdew_code": "9905516000000",
+      "changes": {
+        "company_name": {
+          "old": "Celle-Uelzen Netz GmbH",
+          "new": "SVO Netz GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 45515,
+      "bdew_code": "9978888000008",
+      "changes": {
+        "company_name": {
+          "old": "EDF TRADING MARKETS (IRELAND) LIMITED",
+          "new": "EDF Trading Europe Limited"
+        }
+      }
+    },
+    {
+      "code_row_id": 49643,
+      "bdew_code": "9979017000009",
+      "changes": {
+        "company_name": {
+          "old": "Celle-Uelzen Netz GmbH",
+          "new": "SVO Netz GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 63189,
+      "bdew_code": "9981751000005",
+      "changes": {
+        "company_name": {
+          "old": "Celle-Uelzen Netz GmbH",
+          "new": "SVO Netz GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 63190,
+      "bdew_code": "9981752000004",
+      "changes": {
+        "company_name": {
+          "old": "Celle-Uelzen Netz GmbH",
+          "new": "SVO Netz GmbH"
         }
       }
     }
   ],
-  "companies_added_ids": [
-    64175,
-    64180,
-    64181,
-    64182
+  "companies_added_ids": [],
+  "companies_removed_ids": [
+    60098
   ],
-  "companies_removed_ids": [],
-  "companies_changed": [],
+  "companies_changed": [
+    {
+      "company_id": 413,
+      "changes": {
+        "company_name": {
+          "old": "Celle-Uelzen Netz GmbH",
+          "new": "SVO Netz GmbH"
+        }
+      }
+    },
+    {
+      "company_id": 41528,
+      "changes": {
+        "company_name": {
+          "old": "EDF TRADING MARKETS (IRELAND) LIMITED",
+          "new": "EDF Trading Europe Limited"
+        }
+      }
+    }
+  ],
   "summary": {
-    "codes_added": 4,
-    "codes_removed": 0,
-    "codes_changed": 1,
+    "codes_added": 1,
+    "codes_removed": 1,
+    "codes_changed": 7,
     "codes_recoded": 0,
-    "companies_added": 4,
-    "companies_removed": 0,
-    "companies_changed": 0
+    "companies_added": 0,
+    "companies_removed": 1,
+    "companies_changed": 2
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

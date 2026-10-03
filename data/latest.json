@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-09-30",
-      "published_at": "2026-09-30T06:43:56+00:00",
-      "content_hash": "758e5b68bf26444e620eb541752411e99190a7dcd83f42dbdd85c6b99c256ff8"
+      "version": "2026-10-03",
+      "published_at": "2026-10-03T06:32:41+00:00",
+      "content_hash": "82f8f184e448226d51c7b76e4fc4a0d7779ed7fffdf7bebf437a8f58408f44bb"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-09-30T06:40:08.982975+00:00",
+      "observed_at": "2026-10-03T06:28:58.686745+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4397,
+      "companies": 4396,
       "market_partners": 9156,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-09-30T06:40:08.982975+00:00",
+      "cleaned_at": "2026-10-03T06:28:58.686745+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -2532,11 +2532,6 @@
       "company_name": "Celil Adigüzel"
     },
     {
-      "company_id": 413,
-      "company_uid": 660314,
-      "company_name": "Celle-Uelzen Netz GmbH"
-    },
-    {
       "company_id": 61615,
       "company_uid": 669817,
       "company_name": "Celsio GmbH"
@@ -3534,7 +3529,7 @@
     {
       "company_id": 41528,
       "company_uid": 664651,
-      "company_name": "EDF TRADING MARKETS (IRELAND) LIMITED"
+      "company_name": "EDF Trading Europe Limited"
     },
     {
       "company_id": 59148,
@@ -10912,11 +10907,6 @@
       "company_name": "Martinswerk GmbH"
     },
     {
-      "company_id": 60098,
-      "company_uid": 668317,
-      "company_name": "Maschinenfabrik Bermatingen GmbH & Co. KG"
-    },
-    {
       "company_id": 59203,
       "company_uid": 667431,
       "company_name": "Maschinenring Nordfriesland GmbH"
@@ -14305,6 +14295,11 @@
       "company_id": 2562,
       "company_uid": 662450,
       "company_name": "SVI-Stromversorgung Ismaning GmbH"
+    },
+    {
+      "company_id": 413,
+      "company_uid": 660314,
+      "company_name": "SVO Netz GmbH"
     },
     {
       "company_id": 2563,
@@ -24811,7 +24806,7 @@
       "code_row_id": 359,
       "company_id": 413,
       "company_uid": 660314,
-      "company_name": "Celle-Uelzen Netz GmbH"
+      "company_name": "SVO Netz GmbH"
     },
     {
       "bdew_code": "9900127000001",
@@ -38140,7 +38135,7 @@
       "code_row_id": 361,
       "company_id": 413,
       "company_uid": 660314,
-      "company_name": "Celle-Uelzen Netz GmbH"
+      "company_name": "SVO Netz GmbH"
     },
     {
       "bdew_code": "9904649000002",
@@ -41227,7 +41222,7 @@
       "code_row_id": 362,
       "company_id": 413,
       "company_uid": 660314,
-      "company_name": "Celle-Uelzen Netz GmbH"
+      "company_name": "SVO Netz GmbH"
     },
     {
       "bdew_code": "9905517000009",
@@ -63988,7 +63983,7 @@
       "code_row_id": 45515,
       "company_id": 41528,
       "company_uid": 664651,
-      "company_name": "EDF TRADING MARKETS (IRELAND) LIMITED"
+      "company_name": "EDF Trading Europe Limited"
     },
     {
       "bdew_code": "9978889000007",
@@ -64924,7 +64919,7 @@
       "code_row_id": 49643,
       "company_id": 413,
       "company_uid": 660314,
-      "company_name": "Celle-Uelzen Netz GmbH"
+      "company_name": "SVO Netz GmbH"
     },
     {
       "bdew_code": "9979018000008",
@@ -80332,7 +80327,7 @@
       "code_row_id": 63189,
       "company_id": 413,
       "company_uid": 660314,
-      "company_name": "Celle-Uelzen Netz GmbH"
+      "company_name": "SVO Netz GmbH"
     },
     {
       "bdew_code": "9981752000004",
@@ -80341,7 +80336,7 @@
       "code_row_id": 63190,
       "company_id": 413,
       "company_uid": 660314,
-      "company_name": "Celle-Uelzen Netz GmbH"
+      "company_name": "SVO Netz GmbH"
     },
     {
       "bdew_code": "9981753000003",
@@ -92395,15 +92390,6 @@
       "company_name": "Hospital LogiServe GmbH"
     },
     {
-      "bdew_code": "9984233000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 65723,
-      "company_id": 60098,
-      "company_uid": 668317,
-      "company_name": "Maschinenfabrik Bermatingen GmbH & Co. KG"
-    },
-    {
       "bdew_code": "9984238000001",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -104408,6 +104394,15 @@
       "company_id": 64181,
       "company_uid": 670388,
       "company_name": "Neue Materialien Bayreuth GmbH"
+    },
+    {
+      "bdew_code": "9985857000000",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68488,
+      "company_id": 63933,
+      "company_uid": 670140,
+      "company_name": "Encavis Energy Solutions GmbH"
     },
     {
       "bdew_code": "9987098000005",
