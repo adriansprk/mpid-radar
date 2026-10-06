@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-03",
-      "published_at": "2026-10-03T06:32:41+00:00",
-      "content_hash": "82f8f184e448226d51c7b76e4fc4a0d7779ed7fffdf7bebf437a8f58408f44bb"
+      "version": "2026-10-06",
+      "published_at": "2026-10-06T07:36:23+00:00",
+      "content_hash": "662cd19b49a34ae63c7a3b832401a25ff1575df8a943704f641a66030653d79c"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-03T06:28:58.686745+00:00",
+      "observed_at": "2026-10-06T07:31:32.631426+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4396,
-      "market_partners": 9156,
+      "companies": 4395,
+      "market_partners": 9155,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-03T06:28:58.686745+00:00",
+      "cleaned_at": "2026-10-06T07:31:32.631426+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -8407,11 +8407,6 @@
       "company_name": "Herbert Bauer GmbH & Co. Oberflächentechnik Stahlbau Rohrwerk KG"
     },
     {
-      "company_id": 64121,
-      "company_uid": 670328,
-      "company_name": "Herberts Industrieglas GmbH & Co. KG"
-    },
-    {
       "company_id": 58784,
       "company_uid": 667012,
       "company_name": "Herborner Pumpentechnik GmbH & Co KG"
@@ -10835,11 +10830,6 @@
       "company_id": 59868,
       "company_uid": 668087,
       "company_name": "Markus Krall"
-    },
-    {
-      "company_id": 58000,
-      "company_uid": 666228,
-      "company_name": "Markus Lehmann"
     },
     {
       "company_id": 57780,
@@ -15240,6 +15230,11 @@
       "company_id": 31470,
       "company_uid": 664510,
       "company_name": "SozDia Stiftung Berlin - Gemeinsam Leben Gestalten"
+    },
+    {
+      "company_id": 64191,
+      "company_uid": 670398,
+      "company_name": "Speed-Center GmbH & Co. KG"
     },
     {
       "company_id": 57934,
@@ -77202,9 +77197,9 @@
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
       "code_row_id": 62602,
-      "company_id": 58000,
-      "company_uid": 666228,
-      "company_name": "Markus Lehmann"
+      "company_id": 64191,
+      "company_uid": 670398,
+      "company_name": "Speed-Center GmbH & Co. KG"
     },
     {
       "bdew_code": "9981176000002",
@@ -104142,15 +104137,6 @@
       "company_id": 64107,
       "company_uid": 670314,
       "company_name": "BürgerEnergie Nord eG"
-    },
-    {
-      "bdew_code": "9985823000000",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 68450,
-      "company_id": 64121,
-      "company_uid": 670328,
-      "company_name": "Herberts Industrieglas GmbH & Co. KG"
     },
     {
       "bdew_code": "9985824000009",

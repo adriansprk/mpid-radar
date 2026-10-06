@@ -6130,7 +6130,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9981167000003,Einsatzverantwortlicher,EIV,666222,Grundstücks- Entwicklungs GmbH Weitramsdorf,57994,62598
 9981168000002,Betreiber einer technischen Ressource,BTR,666226,SWE UmweltService GmbH,57998,62599
 9981169000001,Einsatzverantwortlicher,EIV,666226,SWE UmweltService GmbH,57998,62600
-9981171000007,Betreiber einer technischen Ressource,BTR,666228,Markus Lehmann,58000,62602
+9981171000007,Betreiber einer technischen Ressource,BTR,670398,Speed-Center GmbH & Co. KG,64191,62602
 9981176000002,Einsatzverantwortlicher,EIV,666233,REHART GmbH Regenerieren Hartplattieren,58005,62607
 9981184000002,Betreiber einer technischen Ressource,BTR,666239,Solaris 1 GbR,58011,62615
 9981185000001,Einsatzverantwortlicher,EIV,666239,Solaris 1 GbR,58011,62616
@@ -9124,7 +9124,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985820000003,Bilanzkreisverantwortlicher,BKV,670292,Flexbid GmbH,64085,68445
 9985821000002,Bilanzkreisverantwortlicher,BKV,670313,"HAVEL Trading S.A., Leudelange, succursale de Genève",64106,68446
 9985822000001,Lieferant,LF,670314,BürgerEnergie Nord eG,64107,68447
-9985823000000,Messstellenbetreiber,MSB,670328,Herberts Industrieglas GmbH & Co. KG,64121,68450
 9985824000009,Messstellenbetreiber,MSB,670297,Netze Chemie- und Pharmapark Bergkamen GmbH,64090,68451
 9985826000007,Einsatzverantwortlicher,EIV,669397,terralayr flexibility services GmbH,61178,68453
 9985827000006,Betreiber einer technischen Ressource,BTR,667925,Lear Corporation Engineering GmbH,59706,68454
