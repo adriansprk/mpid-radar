@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-03",
-      "published_at": "2026-10-03T06:32:41+00:00",
-      "content_hash": "82f8f184e448226d51c7b76e4fc4a0d7779ed7fffdf7bebf437a8f58408f44bb"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-03T06:28:58.686745+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4396,
-      "market_partners": 9156,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-10-03T06:28:58.686745+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 78,
-        "codes_normalized": 119
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-10-06",
-      "published_at": "2026-10-06T07:31:32.631426+00:00",
+      "published_at": "2026-10-06T07:36:23+00:00",
       "content_hash": "662cd19b49a34ae63c7a3b832401a25ff1575df8a943704f641a66030653d79c"
     },
     "source": {
@@ -71,50 +35,97 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-10-07",
+      "published_at": "2026-10-07T07:11:39.360580+00:00",
+      "content_hash": "66f0c4d8d0e9a60d095bff56acfbe3556ee91113dd26ddabe5a3b58fd876c26e"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-10-07T07:11:39.360580+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4395,
+      "market_partners": 9154,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-10-07T07:11:39.360580+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 78,
+        "codes_normalized": 119
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [],
   "codes_removed": [
     {
-      "bdew_code": "9985823000000",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 68450,
-      "company_id": 64121,
-      "company_uid": 670328,
-      "company_name": "Herberts Industrieglas GmbH & Co. KG"
+      "bdew_code": "9978075000001",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 12856,
+      "company_id": 8658,
+      "company_uid": 663577,
+      "company_name": "HEnW Energie Hub Moorburg GmbH"
     }
   ],
   "codes_changed": [
     {
-      "code_row_id": 62602,
-      "bdew_code": "9981171000007",
+      "code_row_id": 56655,
+      "bdew_code": "9979241000007",
       "changes": {
-        "company_uid": {
-          "old": 666228,
-          "new": 670398
-        },
         "company_name": {
-          "old": "Markus Lehmann",
-          "new": "Speed-Center GmbH & Co. KG"
+          "old": "Enpal Energy GmbH",
+          "new": "Omniwatt Energy GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 56656,
+      "bdew_code": "9979242000006",
+      "changes": {
+        "company_name": {
+          "old": "Enpal Energy GmbH",
+          "new": "Omniwatt Energy GmbH"
         }
       }
     }
   ],
-  "companies_added_ids": [
-    64191
+  "companies_added_ids": [],
+  "companies_removed_ids": [],
+  "companies_changed": [
+    {
+      "company_id": 51648,
+      "changes": {
+        "company_name": {
+          "old": "Enpal Energy GmbH",
+          "new": "Omniwatt Energy GmbH"
+        }
+      }
+    }
   ],
-  "companies_removed_ids": [
-    58000,
-    64121
-  ],
-  "companies_changed": [],
   "summary": {
     "codes_added": 0,
     "codes_removed": 1,
-    "codes_changed": 1,
+    "codes_changed": 2,
     "codes_recoded": 0,
-    "companies_added": 1,
-    "companies_removed": 2,
-    "companies_changed": 0
+    "companies_added": 0,
+    "companies_removed": 0,
+    "companies_changed": 1
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

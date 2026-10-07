@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-06",
-      "published_at": "2026-10-06T07:36:23+00:00",
-      "content_hash": "662cd19b49a34ae63c7a3b832401a25ff1575df8a943704f641a66030653d79c"
+      "version": "2026-10-07",
+      "published_at": "2026-10-07T07:15:25+00:00",
+      "content_hash": "66f0c4d8d0e9a60d095bff56acfbe3556ee91113dd26ddabe5a3b58fd876c26e"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-06T07:31:32.631426+00:00",
+      "observed_at": "2026-10-07T07:11:39.360580+00:00",
       "filter": ""
     },
     "records": {
       "companies": 4395,
-      "market_partners": 9155,
+      "market_partners": 9154,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-06T07:31:32.631426+00:00",
+      "cleaned_at": "2026-10-07T07:11:39.360580+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -5690,11 +5690,6 @@
       "company_id": 1857,
       "company_uid": 661749,
       "company_name": "Enovos Power GmbH"
-    },
-    {
-      "company_id": 51648,
-      "company_uid": 664843,
-      "company_name": "Enpal Energy GmbH"
     },
     {
       "company_id": 2936,
@@ -12200,6 +12195,11 @@
       "company_id": 26415,
       "company_uid": 664407,
       "company_name": "Omexom Renewable Energies Offshore GmbH"
+    },
+    {
+      "company_id": 51648,
+      "company_uid": 664843,
+      "company_name": "Omniwatt Energy GmbH"
     },
     {
       "company_id": 1754,
@@ -60138,15 +60138,6 @@
       "company_name": "Vattenfall Wasserkraft GmbH"
     },
     {
-      "bdew_code": "9978075000001",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 12856,
-      "company_id": 8658,
-      "company_uid": 663577,
-      "company_name": "HEnW Energie Hub Moorburg GmbH"
-    },
-    {
       "bdew_code": "9978077000009",
       "market_function": "Messstellenbetreiber",
       "role_code": "MSB",
@@ -66552,7 +66543,7 @@
       "code_row_id": 56655,
       "company_id": 51648,
       "company_uid": 664843,
-      "company_name": "Enpal Energy GmbH"
+      "company_name": "Omniwatt Energy GmbH"
     },
     {
       "bdew_code": "9979242000006",
@@ -66561,7 +66552,7 @@
       "code_row_id": 56656,
       "company_id": 51648,
       "company_uid": 664843,
-      "company_name": "Enpal Energy GmbH"
+      "company_name": "Omniwatt Energy GmbH"
     },
     {
       "bdew_code": "9979243000005",

@@ -4235,7 +4235,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9978067000001,Netznutzer ohne All-Inklusiv-Vertrag,NN,663572,Universitätsklinikum Leipzig AöR,8653,12847
 9978070000006,Einsatzverantwortlicher,EIV,663576,Vattenfall Europe Nuclear Energy GmbH,8657,12851
 9978071000005,Einsatzverantwortlicher,EIV,663496,Vattenfall Wasserkraft GmbH,5615,12852
-9978075000001,Einsatzverantwortlicher,EIV,663577,HEnW Energie Hub Moorburg GmbH,8658,12856
 9978077000009,Messstellenbetreiber,MSB,663507,Remstalwerk Netzgesellschaft GmbH,6600,12858
 9978080000004,Messstellenbetreiber,MSB,662703,Stadtwerke Warendorf GmbH,2818,12861
 9978081000003,Netznutzer ohne All-Inklusiv-Vertrag,NN,663578,Ruhrverband,8659,12862
@@ -4947,8 +4946,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9979237000003,Bilanzkreisverantwortlicher,BKV,664745,Tibber Deutschland GmbH,47579,56651
 9979238000002,Bilanzkreisverantwortlicher,BKV,664842,homee GmbH,51647,56652
 9979239000001,Lieferant,LF,660612,ENA Energienetze Apolda GmbH,712,56653
-9979241000007,Bilanzkreisverantwortlicher,BKV,664843,Enpal Energy GmbH,51648,56655
-9979242000006,Lieferant,LF,664843,Enpal Energy GmbH,51648,56656
+9979241000007,Bilanzkreisverantwortlicher,BKV,664843,Omniwatt Energy GmbH,51648,56655
+9979242000006,Lieferant,LF,664843,Omniwatt Energy GmbH,51648,56656
 9979243000005,Lieferant,LF,662350,Stadtwerke Weißenfels Energienetze GmbH,2462,56657
 9979244000004,Bilanzkreisverantwortlicher,BKV,664848,Sors Markets Ltd,53642,57633
 9979245000003,Lieferant,LF,664852,Kraftwerk Eberswalde GmbH (HoKaWe),53646,57635
