@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-06",
-      "published_at": "2026-10-06T07:36:23+00:00",
-      "content_hash": "662cd19b49a34ae63c7a3b832401a25ff1575df8a943704f641a66030653d79c"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-06T07:31:32.631426+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4395,
-      "market_partners": 9155,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-10-06T07:31:32.631426+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 78,
-        "codes_normalized": 119
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-10-07",
-      "published_at": "2026-10-07T07:11:39.360580+00:00",
+      "published_at": "2026-10-07T07:15:25+00:00",
       "content_hash": "66f0c4d8d0e9a60d095bff56acfbe3556ee91113dd26ddabe5a3b58fd876c26e"
     },
     "source": {
@@ -71,61 +35,139 @@
       }
     }
   },
-  "codes_added": [],
-  "codes_removed": [
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-10-08",
+      "published_at": "2026-10-08T07:20:19.840683+00:00",
+      "content_hash": "7af7b9d88bc277b1c93e85e7c0cd9d7d6e89edacf059b4832526d6681bf58942"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-10-08T07:20:19.840683+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4399,
+      "market_partners": 9159,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-10-08T07:20:19.840683+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 78,
+        "codes_normalized": 119
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
+  "codes_added": [
     {
-      "bdew_code": "9978075000001",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 12856,
-      "company_id": 8658,
-      "company_uid": 663577,
-      "company_name": "HEnW Energie Hub Moorburg GmbH"
+      "bdew_code": "9985829000004",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68456,
+      "company_id": 64120,
+      "company_uid": 670327,
+      "company_name": "Manta Energy GmbH"
+    },
+    {
+      "bdew_code": "9985858000009",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68489,
+      "company_id": 64187,
+      "company_uid": 670394,
+      "company_name": "EW Energieservice GmbH"
+    },
+    {
+      "bdew_code": "9985860000005",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68491,
+      "company_id": 64200,
+      "company_uid": 670407,
+      "company_name": "ENET Energy SA"
+    },
+    {
+      "bdew_code": "9985861000004",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68492,
+      "company_id": 64204,
+      "company_uid": 670411,
+      "company_name": "NeuConnect Deutschland GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "5790002855634",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68494,
+      "company_id": 64205,
+      "company_uid": 670412,
+      "company_name": "Delta Energy Trading ApS"
     }
   ],
+  "codes_removed": [],
   "codes_changed": [
     {
-      "code_row_id": 56655,
-      "bdew_code": "9979241000007",
+      "code_row_id": 64062,
+      "bdew_code": "9982616000007",
       "changes": {
+        "company_uid": {
+          "old": 667078,
+          "new": 670410
+        },
         "company_name": {
-          "old": "Enpal Energy GmbH",
-          "new": "Omniwatt Energy GmbH"
+          "old": "Elektro-Anlagen Hartmann",
+          "new": "Elektro-Technik Hartmann GmbH & Co. KG"
         }
       }
     },
     {
-      "code_row_id": 56656,
-      "bdew_code": "9979242000006",
+      "code_row_id": 64086,
+      "bdew_code": "9982640000007",
       "changes": {
+        "company_uid": {
+          "old": 667078,
+          "new": 670410
+        },
         "company_name": {
-          "old": "Enpal Energy GmbH",
-          "new": "Omniwatt Energy GmbH"
+          "old": "Elektro-Anlagen Hartmann",
+          "new": "Elektro-Technik Hartmann GmbH & Co. KG"
         }
       }
     }
   ],
-  "companies_added_ids": [],
-  "companies_removed_ids": [],
-  "companies_changed": [
-    {
-      "company_id": 51648,
-      "changes": {
-        "company_name": {
-          "old": "Enpal Energy GmbH",
-          "new": "Omniwatt Energy GmbH"
-        }
-      }
-    }
+  "companies_added_ids": [
+    64187,
+    64200,
+    64203,
+    64204,
+    64205
   ],
+  "companies_removed_ids": [
+    58850
+  ],
+  "companies_changed": [],
   "summary": {
-    "codes_added": 0,
-    "codes_removed": 1,
+    "codes_added": 5,
+    "codes_removed": 0,
     "codes_changed": 2,
     "codes_recoded": 0,
-    "companies_added": 0,
-    "companies_removed": 0,
-    "companies_changed": 1
+    "companies_added": 5,
+    "companies_removed": 1,
+    "companies_changed": 0
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

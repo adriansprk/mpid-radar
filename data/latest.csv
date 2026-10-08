@@ -164,6 +164,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 5790002829789,Bilanzkreisverantwortlicher,BKV,669891,ENZOL Energy Trading ApS,61689,67115
 5790002837845,Bilanzkreisverantwortlicher,BKV,669874,DV Trading (Europe) P/S,61672,67096
 5790002841316,Bilanzkreisverantwortlicher,BKV,670254,Joulx ApS,64047,68389
+5790002855634,Bilanzkreisverantwortlicher,BKV,670412,Delta Energy Trading ApS,64205,68494
 5790002861703,Bilanzkreisverantwortlicher,BKV,670134,X Commodities ApS,63927,68302
 5790002870811,Bilanzkreisverantwortlicher,BKV,670307,Quant Partners ApS,64100,68439
 5790002871795,Bilanzkreisverantwortlicher,BKV,670320,In Commodities Stack A/S,64113,68449
@@ -6962,7 +6963,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9982608000007,Betreiber einer technischen Ressource,BTR,667074,E. & M. Reining GbR,58846,64054
 9982609000006,Einsatzverantwortlicher,EIV,662342,Stadtwerke Waren GmbH,2454,64055
 9982611000002,Lieferant,LF,660456,EDF TRADING LTD,555,64057
-9982616000007,Einsatzverantwortlicher,EIV,667078,Elektro-Anlagen Hartmann,58850,64062
+9982616000007,Einsatzverantwortlicher,EIV,670410,Elektro-Technik Hartmann GmbH & Co. KG,64203,64062
 9982619000004,Einsatzverantwortlicher,EIV,660068,Stadtwerke Waldshut-Tiengen GmbH,138,64065
 9982620000001,Betreiber einer technischen Ressource,BTR,660068,Stadtwerke Waldshut-Tiengen GmbH,138,64066
 9982621000000,Einsatzverantwortlicher,EIV,667080,Solarstrom Weddersehl GmbH & Co. KG,58852,64067
@@ -6978,7 +6979,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9982635000004,Betreiber einer technischen Ressource,BTR,664643,Northland Deutsche Bucht GmbH,40522,64081
 9982636000003,Betreiber einer technischen Ressource,BTR,663964,Nordsee One GmbH,15026,64082
 9982639000000,Einsatzverantwortlicher,EIV,667088,Reinhold und Helmut Betz GbR,58860,64085
-9982640000007,Betreiber einer technischen Ressource,BTR,667078,Elektro-Anlagen Hartmann,58850,64086
+9982640000007,Betreiber einer technischen Ressource,BTR,670410,Elektro-Technik Hartmann GmbH & Co. KG,64203,64086
 9982641000006,Lieferant,LF,664415,EMIS ENERGY GmbH,27413,64087
 9982643000004,Betreiber einer technischen Ressource,BTR,664028,Möhring EnergieService GmbH,17081,64089
 9982644000003,Einsatzverantwortlicher,EIV,667090,Heino Schmielau,58862,64090
@@ -9127,6 +9128,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985826000007,Einsatzverantwortlicher,EIV,669397,terralayr flexibility services GmbH,61178,68453
 9985827000006,Betreiber einer technischen Ressource,BTR,667925,Lear Corporation Engineering GmbH,59706,68454
 9985828000005,Betreiber einer technischen Ressource,BTR,670332,"Eckard Kanold Garten-, Landschafts- und Sportplatzbau, Schnee- und Glättebeseitigung GmbH & Co. KG",64125,68455
+9985829000004,Lieferant,LF,670327,Manta Energy GmbH,64120,68456
 9985830000001,Bilanzkreisverantwortlicher,BKV,670327,Manta Energy GmbH,64120,68457
 9985831000000,Netznutzer ohne All-Inklusiv-Vertrag,NN,664170,Gasunie Deutschland Transport Services GmbH,20219,68458
 9985833000008,Energieserviceanbieter des Anschlussnutzers,ESA,670338,UpGrid AG,64131,68460
@@ -9151,5 +9153,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985854000003,Lieferant,LF,670387,Energie Neuhausen GmbH & Co. KG,64180,68484
 9985855000002,Einsatzverantwortlicher,EIV,670388,Neue Materialien Bayreuth GmbH,64181,68486
 9985857000000,Einsatzverantwortlicher,EIV,670140,Encavis Energy Solutions GmbH,63933,68488
+9985858000009,Bilanzkreisverantwortlicher,BKV,670394,EW Energieservice GmbH,64187,68489
+9985860000005,Bilanzkreisverantwortlicher,BKV,670407,ENET Energy SA,64200,68491
+9985861000004,Bilanzkreisverantwortlicher,BKV,670411,NeuConnect Deutschland GmbH & Co. KG,64204,68492
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

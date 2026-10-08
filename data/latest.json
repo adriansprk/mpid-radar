@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-07",
-      "published_at": "2026-10-07T07:15:25+00:00",
-      "content_hash": "66f0c4d8d0e9a60d095bff56acfbe3556ee91113dd26ddabe5a3b58fd876c26e"
+      "version": "2026-10-08",
+      "published_at": "2026-10-08T07:23:26+00:00",
+      "content_hash": "7af7b9d88bc277b1c93e85e7c0cd9d7d6e89edacf059b4832526d6681bf58942"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-07T07:11:39.360580+00:00",
+      "observed_at": "2026-10-08T07:20:19.840683+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4395,
-      "market_partners": 9154,
+      "companies": 4399,
+      "market_partners": 9159,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-07T07:11:39.360580+00:00",
+      "cleaned_at": "2026-10-08T07:20:19.840683+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -3052,6 +3052,11 @@
       "company_name": "Deckertsche Solaranlage 1 Weißwasser GbR"
     },
     {
+      "company_id": 64205,
+      "company_uid": 670412,
+      "company_name": "Delta Energy Trading ApS"
+    },
+    {
       "company_id": 475,
       "company_uid": 660376,
       "company_name": "Denker & Wulf AG"
@@ -3812,6 +3817,11 @@
       "company_name": "ENERVIE Vernetzt GmbH"
     },
     {
+      "company_id": 64200,
+      "company_uid": 670407,
+      "company_name": "ENET Energy SA"
+    },
+    {
       "company_id": 1101,
       "company_uid": 660998,
       "company_name": "ENGIE Deutschland AG"
@@ -4075,6 +4085,11 @@
       "company_id": 993,
       "company_uid": 660890,
       "company_name": "EW Eichsfeldgas GmbH"
+    },
+    {
+      "company_id": 64187,
+      "company_uid": 670394,
+      "company_name": "EW Energieservice GmbH"
     },
     {
       "company_id": 990,
@@ -4647,11 +4662,6 @@
       "company_name": "Elektro- & Sicherheitstechnik Reis GmbH & Co. KG"
     },
     {
-      "company_id": 58850,
-      "company_uid": 667078,
-      "company_name": "Elektro-Anlagen Hartmann"
-    },
-    {
       "company_id": 666,
       "company_uid": 660566,
       "company_name": "Elektro-Findeisen"
@@ -4660,6 +4670,11 @@
       "company_id": 60927,
       "company_uid": 669146,
       "company_name": "Elektro-Klupsch"
+    },
+    {
+      "company_id": 64203,
+      "company_uid": 670410,
+      "company_name": "Elektro-Technik Hartmann GmbH & Co. KG"
     },
     {
       "company_id": 59445,
@@ -11750,6 +11765,11 @@
       "company_id": 1689,
       "company_uid": 661583,
       "company_name": "Netzwerke Saarlouis GmbH"
+    },
+    {
+      "company_id": 64204,
+      "company_uid": 670411,
+      "company_name": "NeuConnect Deutschland GmbH & Co. KG"
     },
     {
       "company_id": 1691,
@@ -23497,6 +23517,15 @@
       "company_id": 64047,
       "company_uid": 670254,
       "company_name": "Joulx ApS"
+    },
+    {
+      "bdew_code": "5790002855634",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68494,
+      "company_id": 64205,
+      "company_uid": 670412,
+      "company_name": "Delta Energy Trading ApS"
     },
     {
       "bdew_code": "5790002861703",
@@ -84685,9 +84714,9 @@
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
       "code_row_id": 64062,
-      "company_id": 58850,
-      "company_uid": 667078,
-      "company_name": "Elektro-Anlagen Hartmann"
+      "company_id": 64203,
+      "company_uid": 670410,
+      "company_name": "Elektro-Technik Hartmann GmbH & Co. KG"
     },
     {
       "bdew_code": "9982619000004",
@@ -84829,9 +84858,9 @@
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
       "code_row_id": 64086,
-      "company_id": 58850,
-      "company_uid": 667078,
-      "company_name": "Elektro-Anlagen Hartmann"
+      "company_id": 64203,
+      "company_uid": 670410,
+      "company_name": "Elektro-Technik Hartmann GmbH & Co. KG"
     },
     {
       "bdew_code": "9982641000006",
@@ -104166,6 +104195,15 @@
       "company_name": "Eckard Kanold Garten-, Landschafts- und Sportplatzbau, Schnee- und Glättebeseitigung GmbH & Co. KG"
     },
     {
+      "bdew_code": "9985829000004",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68456,
+      "company_id": 64120,
+      "company_uid": 670327,
+      "company_name": "Manta Energy GmbH"
+    },
+    {
       "bdew_code": "9985830000001",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -104380,6 +104418,33 @@
       "company_id": 63933,
       "company_uid": 670140,
       "company_name": "Encavis Energy Solutions GmbH"
+    },
+    {
+      "bdew_code": "9985858000009",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68489,
+      "company_id": 64187,
+      "company_uid": 670394,
+      "company_name": "EW Energieservice GmbH"
+    },
+    {
+      "bdew_code": "9985860000005",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68491,
+      "company_id": 64200,
+      "company_uid": 670407,
+      "company_name": "ENET Energy SA"
+    },
+    {
+      "bdew_code": "9985861000004",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68492,
+      "company_id": 64204,
+      "company_uid": 670411,
+      "company_name": "NeuConnect Deutschland GmbH & Co. KG"
     },
     {
       "bdew_code": "9987098000005",
