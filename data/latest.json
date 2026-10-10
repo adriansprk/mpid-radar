@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-08",
-      "published_at": "2026-10-08T07:23:26+00:00",
-      "content_hash": "7af7b9d88bc277b1c93e85e7c0cd9d7d6e89edacf059b4832526d6681bf58942"
+      "version": "2026-10-10",
+      "published_at": "2026-10-10T07:05:26+00:00",
+      "content_hash": "7d34548347d6229c1a6e239fac06e2d909eb26c7569561dd42cb456e5544b635"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-08T07:20:19.840683+00:00",
+      "observed_at": "2026-10-10T07:02:28.353605+00:00",
       "filter": ""
     },
     "records": {
       "companies": 4399,
-      "market_partners": 9159,
+      "market_partners": 9161,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-08T07:20:19.840683+00:00",
+      "cleaned_at": "2026-10-10T07:02:28.353605+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -104445,6 +104445,24 @@
       "company_id": 64204,
       "company_uid": 670411,
       "company_name": "NeuConnect Deutschland GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9985863000002",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68496,
+      "company_id": 60164,
+      "company_uid": 668383,
+      "company_name": "n:lead GmbH"
+    },
+    {
+      "bdew_code": "9985864000001",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68497,
+      "company_id": 60164,
+      "company_uid": 668383,
+      "company_name": "n:lead GmbH"
     },
     {
       "bdew_code": "9987098000005",

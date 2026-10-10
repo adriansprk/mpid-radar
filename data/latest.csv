@@ -9156,5 +9156,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985858000009,Bilanzkreisverantwortlicher,BKV,670394,EW Energieservice GmbH,64187,68489
 9985860000005,Bilanzkreisverantwortlicher,BKV,670407,ENET Energy SA,64200,68491
 9985861000004,Bilanzkreisverantwortlicher,BKV,670411,NeuConnect Deutschland GmbH & Co. KG,64204,68492
+9985863000002,Einsatzverantwortlicher,EIV,668383,n:lead GmbH,60164,68496
+9985864000001,Betreiber einer technischen Ressource,BTR,668383,n:lead GmbH,60164,68497
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
