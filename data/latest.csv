@@ -9158,6 +9158,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985861000004,Bilanzkreisverantwortlicher,BKV,670411,NeuConnect Deutschland GmbH & Co. KG,64204,68492
 9985863000002,Einsatzverantwortlicher,EIV,668383,n:lead GmbH,60164,68496
 9985864000001,Betreiber einer technischen Ressource,BTR,668383,n:lead GmbH,60164,68497
+9985866000009,Energieserviceanbieter des Anschlussnutzers,ESA,670420,IngSoft GmbH,64213,68499
+9985867000008,Energieserviceanbieter des Anschlussnutzers,ESA,670424,Jott Em Ha GmbH,64217,68500
 9985869000006,Einsatzverantwortlicher,EIV,669257,Flower Infrastructure Technologies AB,61038,68502
 9985870000003,Betreiber einer technischen Ressource,BTR,669257,Flower Infrastructure Technologies AB,61038,68503
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408

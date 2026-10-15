@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-14",
-      "published_at": "2026-10-14T06:10:43+00:00",
-      "content_hash": "402aa71986abfe8301245d8e3ac037f87e77b131d5311ce43f329a8bfde46c95"
+      "version": "2026-10-15",
+      "published_at": "2026-10-15T05:55:19+00:00",
+      "content_hash": "69b60736d5de90eca4d3b55f8679af8f3a798038be5511f7ea4f005813514cba"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-14T06:06:56.846250+00:00",
+      "observed_at": "2026-10-15T05:52:28.300110+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4399,
-      "market_partners": 9163,
+      "companies": 4401,
+      "market_partners": 9165,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-14T06:06:56.846250+00:00",
+      "cleaned_at": "2026-10-15T05:52:28.300110+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -8932,6 +8932,11 @@
       "company_name": "Ing.-Büro Martin"
     },
     {
+      "company_id": 64213,
+      "company_uid": 670420,
+      "company_name": "IngSoft GmbH"
+    },
+    {
       "company_id": 59626,
       "company_uid": 667854,
       "company_name": "Inge Stannecker"
@@ -9205,6 +9210,11 @@
       "company_id": 59891,
       "company_uid": 668110,
       "company_name": "Josera Erbacher Service GmbH & Co. KG"
+    },
+    {
+      "company_id": 64217,
+      "company_uid": 670424,
+      "company_name": "Jott Em Ha GmbH"
     },
     {
       "company_id": 64047,
@@ -104463,6 +104473,24 @@
       "company_id": 60164,
       "company_uid": 668383,
       "company_name": "n:lead GmbH"
+    },
+    {
+      "bdew_code": "9985866000009",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68499,
+      "company_id": 64213,
+      "company_uid": 670420,
+      "company_name": "IngSoft GmbH"
+    },
+    {
+      "bdew_code": "9985867000008",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68500,
+      "company_id": 64217,
+      "company_uid": 670424,
+      "company_name": "Jott Em Ha GmbH"
     },
     {
       "bdew_code": "9985869000006",
