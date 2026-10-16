@@ -2,29 +2,29 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-15",
-      "published_at": "2026-10-15T05:55:19+00:00",
-      "content_hash": "69b60736d5de90eca4d3b55f8679af8f3a798038be5511f7ea4f005813514cba"
+      "version": "2026-10-16",
+      "published_at": "2026-10-16T05:53:30+00:00",
+      "content_hash": "96c37f5e92d88cd2a3697cb5d4203fd1428e4f481ac001fe70cba68dc502ee52"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-15T05:52:28.300110+00:00",
+      "observed_at": "2026-10-16T05:48:49.496420+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4401,
-      "market_partners": 9165,
+      "companies": 4406,
+      "market_partners": 9170,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-15T05:52:28.300110+00:00",
+      "cleaned_at": "2026-10-16T05:48:49.496420+00:00",
       "dropped_fields": [
         "contact_name"
       ],
       "normalization": {
         "companies_normalized": 78,
-        "codes_normalized": 119
+        "codes_normalized": 120
       },
       "unknown_roles": [],
       "duplicate_company_names": {
@@ -12847,6 +12847,11 @@
       "company_name": "Power Supply Systems GmbH"
     },
     {
+      "company_id": 64209,
+      "company_uid": 670416,
+      "company_name": "PowerXecution A/S"
+    },
+    {
       "company_id": 62870,
       "company_uid": 670073,
       "company_name": "Powernaut"
@@ -12860,6 +12865,11 @@
       "company_id": 61423,
       "company_uid": 669642,
       "company_name": "Powertica Commodities UK Ltd."
+    },
+    {
+      "company_id": 64210,
+      "company_uid": 670417,
+      "company_name": "Praxis Dr Hommel"
     },
     {
       "company_id": 1808,
@@ -14572,6 +14582,11 @@
       "company_name": "Sagemcom IMD Center GmbH"
     },
     {
+      "company_id": 64226,
+      "company_uid": 670433,
+      "company_name": "Salux GmbH"
+    },
+    {
       "company_id": 125,
       "company_uid": 660058,
       "company_name": "Salzburg AG für Energie, Verkehr und Telekommunikation"
@@ -15444,7 +15459,7 @@
     {
       "company_id": 1996,
       "company_uid": 661886,
-      "company_name": "Stadtwerke Aalen GmbH"
+      "company_name": "Stadtwerke Aalen GmbH & Co. KG"
     },
     {
       "company_id": 1997,
@@ -19477,6 +19492,11 @@
       "company_name": "VAVA24 GmbH"
     },
     {
+      "company_id": 64233,
+      "company_uid": 670440,
+      "company_name": "VBH Services GmbH"
+    },
+    {
       "company_id": 57534,
       "company_uid": 665762,
       "company_name": "VBK - Verkehrsbetriebe Karlsruhe GmbH"
@@ -21882,6 +21902,11 @@
       "company_name": "utilicount GmbH & Co. KG"
     },
     {
+      "company_id": 62847,
+      "company_uid": 670050,
+      "company_name": "utilize GmbH"
+    },
+    {
       "company_id": 60476,
       "company_uid": 668695,
       "company_name": "vantago GmbH"
@@ -23511,6 +23536,15 @@
       "company_name": "ENZOL Energy Trading ApS"
     },
     {
+      "bdew_code": "5790002836626",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68495,
+      "company_id": 64209,
+      "company_uid": 670416,
+      "company_name": "PowerXecution A/S"
+    },
+    {
       "bdew_code": "5790002837845",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -24165,7 +24199,7 @@
       "code_row_id": 3746,
       "company_id": 1996,
       "company_uid": 661886,
-      "company_name": "Stadtwerke Aalen GmbH"
+      "company_name": "Stadtwerke Aalen GmbH & Co. KG"
     },
     {
       "bdew_code": "9900006000007",
@@ -32364,7 +32398,7 @@
       "code_row_id": 3750,
       "company_id": 1996,
       "company_uid": 661886,
-      "company_name": "Stadtwerke Aalen GmbH"
+      "company_name": "Stadtwerke Aalen GmbH & Co. KG"
     },
     {
       "bdew_code": "9903559000003",
@@ -34297,9 +34331,9 @@
       "market_function": "Lieferant",
       "role_code": "LF",
       "code_row_id": 6237,
-      "company_id": 2755,
-      "company_uid": 662641,
-      "company_name": "Versorgungsbetriebe Hoyerswerda GmbH"
+      "company_id": 64233,
+      "company_uid": 670440,
+      "company_name": "VBH Services GmbH"
     },
     {
       "bdew_code": "9903851000008",
@@ -40635,7 +40669,7 @@
       "code_row_id": 3747,
       "company_id": 1996,
       "company_uid": 661886,
-      "company_name": "Stadtwerke Aalen GmbH"
+      "company_name": "Stadtwerke Aalen GmbH & Co. KG"
     },
     {
       "bdew_code": "9905336000008",
@@ -44667,7 +44701,7 @@
       "code_row_id": 3749,
       "company_id": 1996,
       "company_uid": 661886,
-      "company_name": "Stadtwerke Aalen GmbH"
+      "company_name": "Stadtwerke Aalen GmbH & Co. KG"
     },
     {
       "bdew_code": "9906145000007",
@@ -84825,7 +84859,7 @@
       "code_row_id": 64079,
       "company_id": 1996,
       "company_uid": 661886,
-      "company_name": "Stadtwerke Aalen GmbH"
+      "company_name": "Stadtwerke Aalen GmbH & Co. KG"
     },
     {
       "bdew_code": "9982634000005",
@@ -84834,7 +84868,7 @@
       "code_row_id": 64080,
       "company_id": 1996,
       "company_uid": 661886,
-      "company_name": "Stadtwerke Aalen GmbH"
+      "company_name": "Stadtwerke Aalen GmbH & Co. KG"
     },
     {
       "bdew_code": "9982635000004",
@@ -102630,6 +102664,15 @@
       "company_name": "TriaSoft GmbH"
     },
     {
+      "bdew_code": "9985628000007",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68239,
+      "company_id": 62847,
+      "company_uid": 670050,
+      "company_name": "utilize GmbH"
+    },
+    {
       "bdew_code": "9985629000006",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -104439,6 +104482,15 @@
       "company_name": "EW Energieservice GmbH"
     },
     {
+      "bdew_code": "9985859000008",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68490,
+      "company_id": 64174,
+      "company_uid": 670381,
+      "company_name": "EnValue Energie Trading GmbH & Co. KG"
+    },
+    {
       "bdew_code": "9985860000005",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -104475,6 +104527,15 @@
       "company_name": "n:lead GmbH"
     },
     {
+      "bdew_code": "9985865000000",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68498,
+      "company_id": 64210,
+      "company_uid": 670417,
+      "company_name": "Praxis Dr Hommel"
+    },
+    {
       "bdew_code": "9985866000009",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
@@ -104509,6 +104570,15 @@
       "company_id": 61038,
       "company_uid": 669257,
       "company_name": "Flower Infrastructure Technologies AB"
+    },
+    {
+      "bdew_code": "9985872000001",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68505,
+      "company_id": 64226,
+      "company_uid": 670433,
+      "company_name": "Salux GmbH"
     },
     {
       "bdew_code": "9987098000005",

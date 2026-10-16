@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-14",
-      "published_at": "2026-10-14T06:10:43+00:00",
-      "content_hash": "402aa71986abfe8301245d8e3ac037f87e77b131d5311ce43f329a8bfde46c95"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-14T06:06:56.846250+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4399,
-      "market_partners": 9163,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-10-14T06:06:56.846250+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 78,
-        "codes_normalized": 119
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-10-15",
-      "published_at": "2026-10-15T05:52:28.300110+00:00",
+      "published_at": "2026-10-15T05:55:19+00:00",
       "content_hash": "69b60736d5de90eca4d3b55f8679af8f3a798038be5511f7ea4f005813514cba"
     },
     "source": {
@@ -71,42 +35,193 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-10-16",
+      "published_at": "2026-10-16T05:48:49.496420+00:00",
+      "content_hash": "96c37f5e92d88cd2a3697cb5d4203fd1428e4f481ac001fe70cba68dc502ee52"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-10-16T05:48:49.496420+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4406,
+      "market_partners": 9170,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-10-16T05:48:49.496420+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 78,
+        "codes_normalized": 120
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985866000009",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68499,
-      "company_id": 64213,
-      "company_uid": 670420,
-      "company_name": "IngSoft GmbH"
+      "bdew_code": "9985628000007",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68239,
+      "company_id": 62847,
+      "company_uid": 670050,
+      "company_name": "utilize GmbH"
     },
     {
-      "bdew_code": "9985867000008",
+      "bdew_code": "9985859000008",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68490,
+      "company_id": 64174,
+      "company_uid": 670381,
+      "company_name": "EnValue Energie Trading GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "5790002836626",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68495,
+      "company_id": 64209,
+      "company_uid": 670416,
+      "company_name": "PowerXecution A/S"
+    },
+    {
+      "bdew_code": "9985865000000",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
-      "code_row_id": 68500,
-      "company_id": 64217,
-      "company_uid": 670424,
-      "company_name": "Jott Em Ha GmbH"
+      "code_row_id": 68498,
+      "company_id": 64210,
+      "company_uid": 670417,
+      "company_name": "Praxis Dr Hommel"
+    },
+    {
+      "bdew_code": "9985872000001",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68505,
+      "company_id": 64226,
+      "company_uid": 670433,
+      "company_name": "Salux GmbH"
     }
   ],
   "codes_removed": [],
-  "codes_changed": [],
+  "codes_changed": [
+    {
+      "code_row_id": 3746,
+      "bdew_code": "9900004000009",
+      "changes": {
+        "company_name": {
+          "old": "Stadtwerke Aalen GmbH",
+          "new": "Stadtwerke Aalen GmbH & Co. KG"
+        }
+      }
+    },
+    {
+      "code_row_id": 3747,
+      "bdew_code": "9905335000009",
+      "changes": {
+        "company_name": {
+          "old": "Stadtwerke Aalen GmbH",
+          "new": "Stadtwerke Aalen GmbH & Co. KG"
+        }
+      }
+    },
+    {
+      "code_row_id": 3749,
+      "bdew_code": "9906144000008",
+      "changes": {
+        "company_name": {
+          "old": "Stadtwerke Aalen GmbH",
+          "new": "Stadtwerke Aalen GmbH & Co. KG"
+        }
+      }
+    },
+    {
+      "code_row_id": 3750,
+      "bdew_code": "9903558000004",
+      "changes": {
+        "company_name": {
+          "old": "Stadtwerke Aalen GmbH",
+          "new": "Stadtwerke Aalen GmbH & Co. KG"
+        }
+      }
+    },
+    {
+      "code_row_id": 6237,
+      "bdew_code": "9903850000009",
+      "changes": {
+        "company_uid": {
+          "old": 662641,
+          "new": 670440
+        },
+        "company_name": {
+          "old": "Versorgungsbetriebe Hoyerswerda GmbH",
+          "new": "VBH Services GmbH"
+        }
+      }
+    },
+    {
+      "code_row_id": 64079,
+      "bdew_code": "9982633000006",
+      "changes": {
+        "company_name": {
+          "old": "Stadtwerke Aalen GmbH",
+          "new": "Stadtwerke Aalen GmbH & Co. KG"
+        }
+      }
+    },
+    {
+      "code_row_id": 64080,
+      "bdew_code": "9982634000005",
+      "changes": {
+        "company_name": {
+          "old": "Stadtwerke Aalen GmbH",
+          "new": "Stadtwerke Aalen GmbH & Co. KG"
+        }
+      }
+    }
+  ],
   "companies_added_ids": [
-    64213,
-    64217
+    62847,
+    64209,
+    64210,
+    64226,
+    64233
   ],
   "companies_removed_ids": [],
-  "companies_changed": [],
+  "companies_changed": [
+    {
+      "company_id": 1996,
+      "changes": {
+        "company_name": {
+          "old": "Stadtwerke Aalen GmbH",
+          "new": "Stadtwerke Aalen GmbH & Co. KG"
+        }
+      }
+    }
+  ],
   "summary": {
-    "codes_added": 2,
+    "codes_added": 5,
     "codes_removed": 0,
-    "codes_changed": 0,
+    "codes_changed": 7,
     "codes_recoded": 0,
-    "companies_added": 2,
+    "companies_added": 5,
     "companies_removed": 0,
-    "companies_changed": 0
+    "companies_changed": 1
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

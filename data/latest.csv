@@ -162,6 +162,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 5790002751516,Bilanzkreisverantwortlicher,BKV,669229,Eio Energi ApS,61010,66582
 5790002823169,Bilanzkreisverantwortlicher,BKV,669176,Aro.inc ApS,60957,66543
 5790002829789,Bilanzkreisverantwortlicher,BKV,669891,ENZOL Energy Trading ApS,61689,67115
+5790002836626,Bilanzkreisverantwortlicher,BKV,670416,PowerXecution A/S,64209,68495
 5790002837845,Bilanzkreisverantwortlicher,BKV,669874,DV Trading (Europe) P/S,61672,67096
 5790002841316,Bilanzkreisverantwortlicher,BKV,670254,Joulx ApS,64047,68389
 5790002855634,Bilanzkreisverantwortlicher,BKV,670412,Delta Energy Trading ApS,64205,68494
@@ -234,7 +235,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9120011070005,Bilanzkreisverantwortlicher,BKV,660058,"Salzburg AG für Energie, Verkehr und Telekommunikation",125,3584
 9900001000002,Netzbetreiber,NB,668622,enwor Netz GmbH,60403,1523
 9900003000000,Netzbetreiber,NB,661280,Regionetz GmbH,1384,2591
-9900004000009,Netzbetreiber,NB,661886,Stadtwerke Aalen GmbH,1996,3746
+9900004000009,Netzbetreiber,NB,661886,Stadtwerke Aalen GmbH & Co. KG,1996,3746
 9900006000007,Netzbetreiber,NB,661887,Stadtwerke Achim AG,1997,3751
 9900008000005,Netzbetreiber,NB,660064,LokalWerke GmbH,133,3757
 9900009000004,Netzbetreiber,NB,661889,Netzgesellschaft Ahlen mbH,1999,3765
@@ -1145,7 +1146,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9903554000008,Lieferant,LF,662382,Stadtwerke Zweibrücken GmbH,2494,5616
 9903555000007,Lieferant,LF,664477,Stadtwerke Rastatt GmbH,30444,5656
 9903556000006,Lieferant,LF,661901,Stadtwerke Aschersleben GmbH,2011,3807
-9903558000004,Lieferant,LF,661886,Stadtwerke Aalen GmbH,1996,3750
+9903558000004,Lieferant,LF,661886,Stadtwerke Aalen GmbH & Co. KG,1996,3750
 9903559000003,Lieferant,LF,662072,Stadtwerke Haldensleben GmbH,2184,4443
 9903560000000,Lieferant,LF,661995,Stadtwerke Dinslaken GmbH,2105,4136
 9903561000009,Lieferant,LF,662221,Stadtwerke Pasewalk GmbH,2333,4989
@@ -1360,7 +1361,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9903846000005,Lieferant,LF,669150,Talwerk GmbH,60931,2208
 9903848000003,Lieferant,LF,660075,Stadtwerke EVB Huntetal GmbH,160,4273
 9903849000002,Lieferant,LF,662088,Stadtwerke Heilbad Heiligenstadt GmbH,2200,4493
-9903850000009,Lieferant,LF,662641,Versorgungsbetriebe Hoyerswerda GmbH,2755,6237
+9903850000009,Lieferant,LF,670440,VBH Services GmbH,64233,6237
 9903851000008,Lieferant,LF,661023,Gemeindewerke Bovenden GmbH & Co. KG,1126,1954
 9903852000007,Lieferant,LF,665016,Stadtwerke Sigmaringen GmbH,56788,5229
 9903854000005,Lieferant,LF,660853,ESWE Versorgungs AG,955,1554
@@ -2064,7 +2065,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9905330000004,Messstellenbetreiber,MSB,661289,In(n) Energie GmbH,1393,2607
 9905333000001,Messstellenbetreiber,MSB,661662,ovag Netz GmbH,1770,3329
 9905334000000,Lieferant,LF,660089,Siegener Versorgungsbetriebe GmbH,175,3632
-9905335000009,Messstellenbetreiber,MSB,661886,Stadtwerke Aalen GmbH,1996,3747
+9905335000009,Messstellenbetreiber,MSB,661886,Stadtwerke Aalen GmbH & Co. KG,1996,3747
 9905336000008,Messstellenbetreiber,MSB,662207,Stadtwerke Norderstedt,2319,4921
 9905338000006,Lieferant,LF,662687,"WEP Wärme-, Energie- und Prozesstechnik GmbH",2802,6337
 9905345000007,Messstellenbetreiber,MSB,662062,Stadtwerke Grevesmühlen GmbH,2174,4404
@@ -2512,7 +2513,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9906140000002,Bilanzkreisverantwortlicher,BKV,660559,Elektrizitätswerk Wennenmühle Schörger GmbH & Co. KG,659,916
 9906141000001,Messstellenbetreiber,MSB,662183,Stadtwerke Nettetal Gesellschaft mit beschränkter Haftung,2295,4838
 9906143000009,Bilanzkreisverantwortlicher,BKV,661736,Regionalwerk Bodensee Netze GmbH & Co. KG,1844,3457
-9906144000008,Bilanzkreisverantwortlicher,BKV,661886,Stadtwerke Aalen GmbH,1996,3749
+9906144000008,Bilanzkreisverantwortlicher,BKV,661886,Stadtwerke Aalen GmbH & Co. KG,1996,3749
 9906145000007,Bilanzkreisverantwortlicher,BKV,662025,Stadtwerke Ettlingen GmbH,2137,4263
 9906146000006,Bilanzkreisverantwortlicher,BKV,662455,Bielefelder Netz GmbH,2567,5829
 9906147000005,Bilanzkreisverantwortlicher,BKV,661039,Gemeindewerke Gundelfingen GmbH,1142,2011
@@ -6974,8 +6975,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9982628000003,Einsatzverantwortlicher,EIV,667084,Bertrandt Energie GmbH,58856,64074
 9982631000008,Betreiber einer technischen Ressource,BTR,662081,Stadtwerke Havelberg GmbH,2193,64077
 9982632000007,Einsatzverantwortlicher,EIV,667085,S. & J. Jordan Solar eGbr,58857,64078
-9982633000006,Betreiber einer technischen Ressource,BTR,661886,Stadtwerke Aalen GmbH,1996,64079
-9982634000005,Einsatzverantwortlicher,EIV,661886,Stadtwerke Aalen GmbH,1996,64080
+9982633000006,Betreiber einer technischen Ressource,BTR,661886,Stadtwerke Aalen GmbH & Co. KG,1996,64079
+9982634000005,Einsatzverantwortlicher,EIV,661886,Stadtwerke Aalen GmbH & Co. KG,1996,64080
 9982635000004,Betreiber einer technischen Ressource,BTR,664643,Northland Deutsche Bucht GmbH,40522,64081
 9982636000003,Betreiber einer technischen Ressource,BTR,663964,Nordsee One GmbH,15026,64082
 9982639000000,Einsatzverantwortlicher,EIV,667088,Reinhold und Helmut Betz GbR,58860,64085
@@ -8953,6 +8954,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985625000000,Bilanzkreisverantwortlicher,BKV,670049,EnerSpot a.s.,62846,68235
 9985626000009,Lieferant,LF,670025,Fuse GmbH,62822,68236
 9985627000008,Lieferant,LF,669813,TriaSoft GmbH,61611,68237
+9985628000007,Lieferant,LF,670050,utilize GmbH,62847,68239
 9985629000006,Betreiber einer technischen Ressource,BTR,670051,Wäscherei Kellner GmbH,62848,68240
 9985630000003,Einsatzverantwortlicher,EIV,670051,Wäscherei Kellner GmbH,62848,68241
 9985631000002,Messstellenbetreiber,MSB,663577,HEnW Energie Hub Moorburg GmbH,8658,68242
@@ -9154,13 +9156,16 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985855000002,Einsatzverantwortlicher,EIV,670388,Neue Materialien Bayreuth GmbH,64181,68486
 9985857000000,Einsatzverantwortlicher,EIV,670140,Encavis Energy Solutions GmbH,63933,68488
 9985858000009,Bilanzkreisverantwortlicher,BKV,670394,EW Energieservice GmbH,64187,68489
+9985859000008,Lieferant,LF,670381,EnValue Energie Trading GmbH & Co. KG,64174,68490
 9985860000005,Bilanzkreisverantwortlicher,BKV,670407,ENET Energy SA,64200,68491
 9985861000004,Bilanzkreisverantwortlicher,BKV,670411,NeuConnect Deutschland GmbH & Co. KG,64204,68492
 9985863000002,Einsatzverantwortlicher,EIV,668383,n:lead GmbH,60164,68496
 9985864000001,Betreiber einer technischen Ressource,BTR,668383,n:lead GmbH,60164,68497
+9985865000000,Energieserviceanbieter des Anschlussnutzers,ESA,670417,Praxis Dr Hommel,64210,68498
 9985866000009,Energieserviceanbieter des Anschlussnutzers,ESA,670420,IngSoft GmbH,64213,68499
 9985867000008,Energieserviceanbieter des Anschlussnutzers,ESA,670424,Jott Em Ha GmbH,64217,68500
 9985869000006,Einsatzverantwortlicher,EIV,669257,Flower Infrastructure Technologies AB,61038,68502
 9985870000003,Betreiber einer technischen Ressource,BTR,669257,Flower Infrastructure Technologies AB,61038,68503
+9985872000001,Betreiber einer technischen Ressource,BTR,670433,Salux GmbH,64226,68505
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
