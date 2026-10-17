@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-16",
-      "published_at": "2026-10-16T05:53:30+00:00",
-      "content_hash": "96c37f5e92d88cd2a3697cb5d4203fd1428e4f481ac001fe70cba68dc502ee52"
+      "version": "2026-10-17",
+      "published_at": "2026-10-17T05:37:30+00:00",
+      "content_hash": "b3e9e659e2c36edd74b6aaf808254d0507af6ca26d8d56ccf724a523154e5941"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-16T05:48:49.496420+00:00",
+      "observed_at": "2026-10-17T05:33:46.118372+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4406,
-      "market_partners": 9170,
+      "companies": 4408,
+      "market_partners": 9172,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-16T05:48:49.496420+00:00",
+      "cleaned_at": "2026-10-17T05:33:46.118372+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -8335,6 +8335,11 @@
       "company_id": 58242,
       "company_uid": 666470,
       "company_name": "Heinzmann Gdbr."
+    },
+    {
+      "company_id": 64225,
+      "company_uid": 670432,
+      "company_name": "Heizkraftwerk Altenstadt GmbH & Co. KG"
     },
     {
       "company_id": 57162,
@@ -20635,6 +20640,11 @@
       "company_id": 57786,
       "company_uid": 666014,
       "company_name": "Wundel GbR"
+    },
+    {
+      "company_id": 64236,
+      "company_uid": 670443,
+      "company_name": "Wärmetechnik Leickel GmbH"
     },
     {
       "company_id": 58670,
@@ -104572,6 +104582,15 @@
       "company_name": "Flower Infrastructure Technologies AB"
     },
     {
+      "bdew_code": "9985871000002",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68504,
+      "company_id": 64225,
+      "company_uid": 670432,
+      "company_name": "Heizkraftwerk Altenstadt GmbH & Co. KG"
+    },
+    {
       "bdew_code": "9985872000001",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -104579,6 +104598,15 @@
       "company_id": 64226,
       "company_uid": 670433,
       "company_name": "Salux GmbH"
+    },
+    {
+      "bdew_code": "9985873000000",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68507,
+      "company_id": 64236,
+      "company_uid": 670443,
+      "company_name": "Wärmetechnik Leickel GmbH"
     },
     {
       "bdew_code": "9987098000005",
