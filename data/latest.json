@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-17",
-      "published_at": "2026-10-17T05:37:30+00:00",
-      "content_hash": "b3e9e659e2c36edd74b6aaf808254d0507af6ca26d8d56ccf724a523154e5941"
+      "version": "2026-10-20",
+      "published_at": "2026-10-20T06:03:32+00:00",
+      "content_hash": "73d4ebdd0aea0e0dfd00bd07c59337b3322c7b2d590d07ea3aca4f989a69c838"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-17T05:33:46.118372+00:00",
+      "observed_at": "2026-10-20T05:59:13.585165+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4408,
-      "market_partners": 9172,
+      "companies": 4410,
+      "market_partners": 9175,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-17T05:33:46.118372+00:00",
+      "cleaned_at": "2026-10-20T05:59:13.585165+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -13817,6 +13817,11 @@
       "company_name": "Ronald Hecht & Ronald John GbR"
     },
     {
+      "company_id": 64244,
+      "company_uid": 670451,
+      "company_name": "Ronny Ristow"
+    },
+    {
       "company_id": 59140,
       "company_uid": 667368,
       "company_name": "Rose GmbH für Medizintechnik"
@@ -19130,6 +19135,11 @@
       "company_id": 57404,
       "company_uid": 665632,
       "company_name": "Top Solar GbR"
+    },
+    {
+      "company_id": 64243,
+      "company_uid": 670450,
+      "company_name": "Torsten Kistowski"
     },
     {
       "company_id": 59758,
@@ -104607,6 +104617,33 @@
       "company_id": 64236,
       "company_uid": 670443,
       "company_name": "Wärmetechnik Leickel GmbH"
+    },
+    {
+      "bdew_code": "9985875000008",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68509,
+      "company_id": 64243,
+      "company_uid": 670450,
+      "company_name": "Torsten Kistowski"
+    },
+    {
+      "bdew_code": "9985876000007",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68510,
+      "company_id": 64244,
+      "company_uid": 670451,
+      "company_name": "Ronny Ristow"
+    },
+    {
+      "bdew_code": "9985877000006",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68512,
+      "company_id": 63933,
+      "company_uid": 670140,
+      "company_name": "Encavis Energy Solutions GmbH"
     },
     {
       "bdew_code": "9987098000005",

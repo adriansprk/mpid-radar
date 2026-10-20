@@ -9169,5 +9169,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985871000002,Lieferant,LF,670432,Heizkraftwerk Altenstadt GmbH & Co. KG,64225,68504
 9985872000001,Betreiber einer technischen Ressource,BTR,670433,Salux GmbH,64226,68505
 9985873000000,Einsatzverantwortlicher,EIV,670443,Wärmetechnik Leickel GmbH,64236,68507
+9985875000008,Betreiber einer technischen Ressource,BTR,670450,Torsten Kistowski,64243,68509
+9985876000007,Betreiber einer technischen Ressource,BTR,670451,Ronny Ristow,64244,68510
+9985877000006,Betreiber einer technischen Ressource,BTR,670140,Encavis Energy Solutions GmbH,63933,68512
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
