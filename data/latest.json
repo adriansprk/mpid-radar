@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-20",
-      "published_at": "2026-10-20T06:03:32+00:00",
-      "content_hash": "73d4ebdd0aea0e0dfd00bd07c59337b3322c7b2d590d07ea3aca4f989a69c838"
+      "version": "2026-10-21",
+      "published_at": "2026-10-21T06:03:07+00:00",
+      "content_hash": "9064c6daee5adbf2bf4f091b84624018f7db083618723022e113465c9f7e8892"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-20T05:59:13.585165+00:00",
+      "observed_at": "2026-10-21T05:59:39.367899+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4410,
-      "market_partners": 9175,
+      "companies": 4406,
+      "market_partners": 9167,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-20T05:59:13.585165+00:00",
+      "cleaned_at": "2026-10-21T05:59:39.367899+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -2060,11 +2060,6 @@
       "company_id": 373,
       "company_uid": 660274,
       "company_name": "Braunschweiger Versorgungs-Aktiengesellschaft & Co. KG"
-    },
-    {
-      "company_id": 375,
-      "company_uid": 660276,
-      "company_name": "Bremer Energiehaus-Genossenschaft eG"
     },
     {
       "company_id": 58402,
@@ -4512,11 +4507,6 @@
       "company_name": "Elektrizitätswerk Hindelang eG"
     },
     {
-      "company_id": 644,
-      "company_uid": 660544,
-      "company_name": "Elektrizitätswerk Leitlein GmbH & Co. KG"
-    },
-    {
       "company_id": 645,
       "company_uid": 660545,
       "company_name": "Elektrizitätswerk Mainbernheim GmbH"
@@ -4860,11 +4850,6 @@
       "company_id": 62846,
       "company_uid": 670049,
       "company_name": "EnerSpot a.s."
-    },
-    {
-      "company_id": 1706,
-      "company_uid": 661600,
-      "company_name": "Enerbiz GmbH"
     },
     {
       "company_id": 60304,
@@ -5580,11 +5565,6 @@
       "company_id": 884,
       "company_uid": 660782,
       "company_name": "Energy & More Energiebroker GmbH und Co. KG"
-    },
-    {
-      "company_id": 885,
-      "company_uid": 660783,
-      "company_name": "Energy & More Management GmbH"
     },
     {
       "company_id": 878,
@@ -8805,11 +8785,6 @@
       "company_id": 1360,
       "company_uid": 661256,
       "company_name": "Illumia S.P.A."
-    },
-    {
-      "company_id": 1362,
-      "company_uid": 661258,
-      "company_name": "Ilzhöfer Inh. Walch GmbH & Co. KG"
     },
     {
       "company_id": 58179,
@@ -13220,6 +13195,11 @@
       "company_id": 8672,
       "company_uid": 663591,
       "company_name": "RUB Energy GmbH & Co. KG"
+    },
+    {
+      "company_id": 64018,
+      "company_uid": 670225,
+      "company_name": "RW Haßberge Vertriebs-GmbH"
     },
     {
       "company_id": 60086,
@@ -25266,15 +25246,6 @@
       "company_name": "Stadtwerke Forchheim GmbH"
     },
     {
-      "bdew_code": "9900189000007",
-      "market_function": "Netzbetreiber",
-      "role_code": "NB",
-      "code_row_id": 861,
-      "company_id": 644,
-      "company_uid": 660544,
-      "company_name": "Elektrizitätswerk Leitlein GmbH & Co. KG"
-    },
-    {
       "bdew_code": "9900190000004",
       "market_function": "Netzbetreiber",
       "role_code": "NB",
@@ -36246,15 +36217,6 @@
       "company_name": "Stromversorgung Inzell eG"
     },
     {
-      "bdew_code": "9904167000005",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 862,
-      "company_id": 644,
-      "company_uid": 660544,
-      "company_name": "Elektrizitätswerk Leitlein GmbH & Co. KG"
-    },
-    {
       "bdew_code": "9904169000003",
       "market_function": "Lieferant",
       "role_code": "LF",
@@ -38782,15 +38744,6 @@
       "company_id": 839,
       "company_uid": 660737,
       "company_name": "Energieversorgung Limburg GmbH"
-    },
-    {
-      "bdew_code": "9904798000002",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 295,
-      "company_id": 375,
-      "company_uid": 660276,
-      "company_name": "Bremer Energiehaus-Genossenschaft eG"
     },
     {
       "bdew_code": "9904799000001",
@@ -42123,15 +42076,6 @@
       "company_name": "Endesa Generacíon S.A."
     },
     {
-      "bdew_code": "9905681000000",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 2541,
-      "company_id": 1362,
-      "company_uid": 661258,
-      "company_name": "Ilzhöfer Inh. Walch GmbH & Co. KG"
-    },
-    {
       "bdew_code": "9905683000008",
       "market_function": "Messstellenbetreiber",
       "role_code": "MSB",
@@ -43203,15 +43147,6 @@
       "company_name": "Zweckverband für Abfallzweckwirtschaft Südwestthüringen (ZASt)"
     },
     {
-      "bdew_code": "9905879000002",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 3211,
-      "company_id": 1706,
-      "company_uid": 661600,
-      "company_name": "Enerbiz GmbH"
-    },
-    {
       "bdew_code": "9905880000009",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -43453,15 +43388,6 @@
       "company_id": 2596,
       "company_uid": 662484,
       "company_name": "SWS Netze GmbH"
-    },
-    {
-      "bdew_code": "9905918000004",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 3212,
-      "company_id": 1706,
-      "company_uid": 661600,
-      "company_name": "Enerbiz GmbH"
     },
     {
       "bdew_code": "9905919000003",
@@ -45469,24 +45395,6 @@
       "company_id": 2275,
       "company_uid": 662163,
       "company_name": "Mainzer Netze GmbH"
-    },
-    {
-      "bdew_code": "9906297000004",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 865,
-      "company_id": 644,
-      "company_uid": 660544,
-      "company_name": "Elektrizitätswerk Leitlein GmbH & Co. KG"
-    },
-    {
-      "bdew_code": "9906298000003",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 863,
-      "company_id": 644,
-      "company_uid": 660544,
-      "company_name": "Elektrizitätswerk Leitlein GmbH & Co. KG"
     },
     {
       "bdew_code": "9906299000002",
@@ -54784,15 +54692,6 @@
       "company_id": 2584,
       "company_uid": 662472,
       "company_name": "SWL Verteilungsnetzgesellschaft mbH"
-    },
-    {
-      "bdew_code": "9910928000001",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 1408,
-      "company_id": 885,
-      "company_uid": 660783,
-      "company_name": "Energy & More Management GmbH"
     },
     {
       "bdew_code": "9910930000007",
@@ -103609,6 +103508,15 @@
       "company_id": 61097,
       "company_uid": 669316,
       "company_name": "ReDirect GmbH"
+    },
+    {
+      "bdew_code": "9985743000007",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68362,
+      "company_id": 64018,
+      "company_uid": 670225,
+      "company_name": "RW Haßberge Vertriebs-GmbH"
     },
     {
       "bdew_code": "9985744000006",
