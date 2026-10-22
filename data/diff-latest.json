@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-20",
-      "published_at": "2026-10-20T06:03:32+00:00",
-      "content_hash": "73d4ebdd0aea0e0dfd00bd07c59337b3322c7b2d590d07ea3aca4f989a69c838"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-20T05:59:13.585165+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4410,
-      "market_partners": 9175,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-10-20T05:59:13.585165+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 78,
-        "codes_normalized": 120
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-10-21",
-      "published_at": "2026-10-21T05:59:39.367899+00:00",
+      "published_at": "2026-10-21T06:03:07+00:00",
       "content_hash": "9064c6daee5adbf2bf4f091b84624018f7db083618723022e113465c9f7e8892"
     },
     "source": {
@@ -71,36 +35,43 @@
       }
     }
   },
-  "codes_added": [
-    {
-      "bdew_code": "9985743000007",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 68362,
-      "company_id": 64018,
-      "company_uid": 670225,
-      "company_name": "RW Haßberge Vertriebs-GmbH"
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-10-22",
+      "published_at": "2026-10-22T06:05:53.367163+00:00",
+      "content_hash": "517255f10a5e6c42c24cb5aade74dcabef22213752af378cca48b64428ee472f"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-10-22T06:05:53.367163+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4397,
+      "market_partners": 9151,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-10-22T06:05:53.367163+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
     }
-  ],
-  "codes_removed": [
-    {
-      "bdew_code": "9910928000001",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 1408,
-      "company_id": 885,
-      "company_uid": 660783,
-      "company_name": "Energy & More Management GmbH"
-    },
-    {
-      "bdew_code": "9905681000000",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 2541,
-      "company_id": 1362,
-      "company_uid": 661258,
-      "company_name": "Ilzhöfer Inh. Walch GmbH & Co. KG"
-    },
+  },
+  "codes_added": [
     {
       "bdew_code": "9904798000002",
       "market_function": "Lieferant",
@@ -111,22 +82,40 @@
       "company_name": "Bremer Energiehaus-Genossenschaft eG"
     },
     {
-      "bdew_code": "9905879000002",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 3211,
-      "company_id": 1706,
-      "company_uid": 661600,
-      "company_name": "Enerbiz GmbH"
+      "bdew_code": "9985879000004",
+      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
+      "role_code": "NN",
+      "code_row_id": 68514,
+      "company_id": 64253,
+      "company_uid": 670460,
+      "company_name": "Silbitz Guss GmbH"
     },
     {
-      "bdew_code": "9905918000004",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 3212,
-      "company_id": 1706,
-      "company_uid": 661600,
-      "company_name": "Enerbiz GmbH"
+      "bdew_code": "9985881000000",
+      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
+      "role_code": "NN",
+      "code_row_id": 68516,
+      "company_id": 64258,
+      "company_uid": 670465,
+      "company_name": "ZGG - Zeitzer Guss GmbH"
+    },
+    {
+      "bdew_code": "9985882000009",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68517,
+      "company_id": 64259,
+      "company_uid": 670466,
+      "company_name": "Gebrüder Passon UG (haftungsbeschränkt)"
+    },
+    {
+      "bdew_code": "9985883000008",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68518,
+      "company_id": 62832,
+      "company_uid": 670035,
+      "company_name": "Second Foundation Trading AG"
     },
     {
       "bdew_code": "9900189000007",
@@ -165,25 +154,265 @@
       "company_name": "Elektrizitätswerk Leitlein GmbH & Co. KG"
     }
   ],
+  "codes_removed": [
+    {
+      "bdew_code": "9978022000004",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 10815,
+      "company_id": 6631,
+      "company_uid": 663538,
+      "company_name": "ERG WIND MEG 1 LIMITED LIABILITY PARTNERSHIP"
+    },
+    {
+      "bdew_code": "9978147000004",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 12935,
+      "company_id": 8714,
+      "company_uid": 663633,
+      "company_name": "Terbrack Kunststoff GmbH & Co. Kommanditgesellschaft"
+    },
+    {
+      "bdew_code": "9978464000000",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 25211,
+      "company_id": 20196,
+      "company_uid": 664147,
+      "company_name": "Edison Spa"
+    },
+    {
+      "bdew_code": "9905134000002",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 3325,
+      "company_id": 1767,
+      "company_uid": 661659,
+      "company_name": "Otto Fricke & Co. GmbH"
+    },
+    {
+      "bdew_code": "9978737000000",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 35444,
+      "company_id": 19132,
+      "company_uid": 664082,
+      "company_name": "Stadtwerke Neckarsulm"
+    },
+    {
+      "bdew_code": "9978808000004",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 39471,
+      "company_id": 33477,
+      "company_uid": 664547,
+      "company_name": "Lightcore Energy Deutschland GmbH"
+    },
+    {
+      "bdew_code": "9978905000006",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 45537,
+      "company_id": 41552,
+      "company_uid": 664675,
+      "company_name": "Voltego GmbH"
+    },
+    {
+      "bdew_code": "9978907000004",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 45539,
+      "company_id": 41552,
+      "company_uid": 664675,
+      "company_name": "Voltego GmbH"
+    },
+    {
+      "bdew_code": "9979444000002",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 60835,
+      "company_id": 56920,
+      "company_uid": 665148,
+      "company_name": "NWG Metering GmbH"
+    },
+    {
+      "bdew_code": "9980319000001",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 61741,
+      "company_id": 57511,
+      "company_uid": 665739,
+      "company_name": "Luckenbach Vermögensverwaltung e.K."
+    },
+    {
+      "bdew_code": "9980344000000",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 61766,
+      "company_id": 57511,
+      "company_uid": 665739,
+      "company_name": "Luckenbach Vermögensverwaltung e.K."
+    },
+    {
+      "bdew_code": "9982239000004",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 63682,
+      "company_id": 41552,
+      "company_uid": 664675,
+      "company_name": "Voltego GmbH"
+    },
+    {
+      "bdew_code": "9982728000002",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 64175,
+      "company_id": 58907,
+      "company_uid": 667135,
+      "company_name": "LeineEnergie GmbH"
+    },
+    {
+      "bdew_code": "9983559000005",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 65030,
+      "company_id": 56785,
+      "company_uid": 665013,
+      "company_name": "Glotec Team Vermögensverwaltung GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9983589000009",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 65060,
+      "company_id": 56785,
+      "company_uid": 665013,
+      "company_name": "Glotec Team Vermögensverwaltung GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9984461000000",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 65967,
+      "company_id": 60350,
+      "company_uid": 668569,
+      "company_name": "Baltic Eagle GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9984503000009",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 66010,
+      "company_id": 56920,
+      "company_uid": 665148,
+      "company_name": "NWG Metering GmbH"
+    },
+    {
+      "bdew_code": "9984580000006",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 66093,
+      "company_id": 60499,
+      "company_uid": 668718,
+      "company_name": "VentusVentures Energy GmbH"
+    },
+    {
+      "bdew_code": "9984774000002",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 66297,
+      "company_id": 60350,
+      "company_uid": 668569,
+      "company_name": "Baltic Eagle GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9984776000000",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 66300,
+      "company_id": 60350,
+      "company_uid": 668569,
+      "company_name": "Baltic Eagle GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9984938000004",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 66476,
+      "company_id": 60499,
+      "company_uid": 668718,
+      "company_name": "VentusVentures Energy GmbH"
+    },
+    {
+      "bdew_code": "9985168000004",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 66736,
+      "company_id": 41552,
+      "company_uid": 664675,
+      "company_name": "Voltego GmbH"
+    },
+    {
+      "bdew_code": "9985595000007",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68203,
+      "company_id": 62807,
+      "company_uid": 670010,
+      "company_name": "Vēomaina, UAB"
+    },
+    {
+      "bdew_code": "9985596000006",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68204,
+      "company_id": 62807,
+      "company_uid": 670010,
+      "company_name": "Vēomaina, UAB"
+    },
+    {
+      "bdew_code": "9985666000001",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68280,
+      "company_id": 58907,
+      "company_uid": 667135,
+      "company_name": "LeineEnergie GmbH"
+    }
+  ],
   "codes_changed": [],
   "companies_added_ids": [
-    64018
-  ],
-  "companies_removed_ids": [
     375,
     644,
-    885,
-    1362,
-    1706
+    64253,
+    64258,
+    64259
+  ],
+  "companies_removed_ids": [
+    1767,
+    6631,
+    8714,
+    19132,
+    20196,
+    33477,
+    41552,
+    56785,
+    56920,
+    57511,
+    58907,
+    60350,
+    60499,
+    62807
   ],
   "companies_changed": [],
   "summary": {
-    "codes_added": 1,
-    "codes_removed": 9,
+    "codes_added": 9,
+    "codes_removed": 25,
     "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 1,
-    "companies_removed": 5,
+    "companies_added": 5,
+    "companies_removed": 14,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",

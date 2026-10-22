@@ -2,29 +2,29 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-21",
-      "published_at": "2026-10-21T06:03:07+00:00",
-      "content_hash": "9064c6daee5adbf2bf4f091b84624018f7db083618723022e113465c9f7e8892"
+      "version": "2026-10-22",
+      "published_at": "2026-10-22T06:08:52+00:00",
+      "content_hash": "517255f10a5e6c42c24cb5aade74dcabef22213752af378cca48b64428ee472f"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-21T05:59:39.367899+00:00",
+      "observed_at": "2026-10-22T06:05:53.367163+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4406,
-      "market_partners": 9167,
+      "companies": 4397,
+      "market_partners": 9151,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-21T05:59:39.367899+00:00",
+      "cleaned_at": "2026-10-22T06:05:53.367163+00:00",
       "dropped_fields": [
         "contact_name"
       ],
       "normalization": {
-        "companies_normalized": 78,
-        "codes_normalized": 120
+        "companies_normalized": 77,
+        "codes_normalized": 118
       },
       "unknown_roles": [],
       "duplicate_company_names": {
@@ -1547,11 +1547,6 @@
       "company_name": "Baltic Cable Aktiebolag"
     },
     {
-      "company_id": 60350,
-      "company_uid": 668569,
-      "company_name": "Baltic Eagle GmbH & Co. KG"
-    },
-    {
       "company_id": 60332,
       "company_uid": 668551,
       "company_name": "Bandstahl Schulte & Co. GmbH"
@@ -2060,6 +2055,11 @@
       "company_id": 373,
       "company_uid": 660274,
       "company_name": "Braunschweiger Versorgungs-Aktiengesellschaft & Co. KG"
+    },
+    {
+      "company_id": 375,
+      "company_uid": 660276,
+      "company_name": "Bremer Energiehaus-Genossenschaft eG"
     },
     {
       "company_id": 58402,
@@ -3937,11 +3937,6 @@
       "company_name": "EQ.digital GmbH"
     },
     {
-      "company_id": 6631,
-      "company_uid": 663538,
-      "company_name": "ERG WIND MEG 1 LIMITED LIABILITY PARTNERSHIP"
-    },
-    {
       "company_id": 3545,
       "company_uid": 663412,
       "company_name": "ES FOR IN SE"
@@ -4232,11 +4227,6 @@
       "company_name": "Edgar Feger"
     },
     {
-      "company_id": 20196,
-      "company_uid": 664147,
-      "company_name": "Edison Spa"
-    },
-    {
       "company_id": 59715,
       "company_uid": 667934,
       "company_name": "Edmund Forstner"
@@ -4505,6 +4495,11 @@
       "company_id": 640,
       "company_uid": 660540,
       "company_name": "Elektrizitätswerk Hindelang eG"
+    },
+    {
+      "company_id": 644,
+      "company_uid": 660544,
+      "company_name": "Elektrizitätswerk Leitlein GmbH & Co. KG"
     },
     {
       "company_id": 645,
@@ -6932,6 +6927,11 @@
       "company_name": "Gebrüder Miller, Elektrizitätsversorgung GmbH & Co. KG"
     },
     {
+      "company_id": 64259,
+      "company_uid": 670466,
+      "company_name": "Gebrüder Passon UG (haftungsbeschränkt)"
+    },
+    {
       "company_id": 59040,
       "company_uid": 667268,
       "company_name": "Gebäudemanagement Landau - Eigenbetrieb"
@@ -7510,11 +7510,6 @@
       "company_id": 2895,
       "company_uid": 662780,
       "company_name": "Global Tech I Offshore Wind GmbH"
-    },
-    {
-      "company_id": 56785,
-      "company_uid": 665013,
-      "company_name": "Glotec Team Vermögensverwaltung GmbH & Co. KG"
     },
     {
       "company_id": 58904,
@@ -10272,11 +10267,6 @@
       "company_name": "Leine Photovoltaik GmbH"
     },
     {
-      "company_id": 58907,
-      "company_uid": 667135,
-      "company_name": "LeineEnergie GmbH"
-    },
-    {
       "company_id": 21322,
       "company_uid": 664275,
       "company_name": "LeineNetz GmbH"
@@ -10357,11 +10347,6 @@
       "company_name": "Liepener Wind Projektbeteiligungs GmbH & Co. KG"
     },
     {
-      "company_id": 33477,
-      "company_uid": 664547,
-      "company_name": "Lightcore Energy Deutschland GmbH"
-    },
-    {
       "company_id": 59989,
       "company_uid": 668208,
       "company_name": "Linnemann Vermögensverwaltung GmbH & Co. KG"
@@ -10400,11 +10385,6 @@
       "company_id": 1537,
       "company_uid": 661431,
       "company_name": "LuV Windenergie GmbH & Co. WP Schwaförden KG"
-    },
-    {
-      "company_id": 57511,
-      "company_uid": 665739,
-      "company_name": "Luckenbach Vermögensverwaltung e.K."
     },
     {
       "company_id": 3399,
@@ -11547,11 +11527,6 @@
       "company_name": "NTT Global Data Centers EMEA Power Supply GmbH & Co. KG"
     },
     {
-      "company_id": 56920,
-      "company_uid": 665148,
-      "company_name": "NWG Metering GmbH"
-    },
-    {
       "company_id": 1738,
       "company_uid": 661631,
       "company_name": "NWG Power GmbH"
@@ -12305,11 +12280,6 @@
       "company_id": 60271,
       "company_uid": 668490,
       "company_name": "Ottmar & Heike Helfrich KG"
-    },
-    {
-      "company_id": 1767,
-      "company_uid": 661659,
-      "company_name": "Otto Fricke & Co. GmbH"
     },
     {
       "company_id": 58106,
@@ -14952,6 +14922,11 @@
       "company_name": "Sihl GmbH"
     },
     {
+      "company_id": 64253,
+      "company_uid": 670460,
+      "company_name": "Silbitz Guss GmbH"
+    },
+    {
       "company_id": 59116,
       "company_uid": 667344,
       "company_name": "Simmerather Recycling GmbH Stephan Braun"
@@ -17012,11 +16987,6 @@
       "company_name": "Stadtwerke Münster GmbH"
     },
     {
-      "company_id": 19132,
-      "company_uid": 664082,
-      "company_name": "Stadtwerke Neckarsulm"
-    },
-    {
       "company_id": 2295,
       "company_uid": 662183,
       "company_name": "Stadtwerke Nettetal Gesellschaft mit beschränkter Haftung"
@@ -18922,11 +18892,6 @@
       "company_name": "TennisSport Westerbeck GmbH"
     },
     {
-      "company_id": 8714,
-      "company_uid": 663633,
-      "company_name": "Terbrack Kunststoff GmbH & Co. Kommanditgesellschaft"
-    },
-    {
       "company_id": 59948,
       "company_uid": 668167,
       "company_name": "Terminal 2 Gesellschaft mbH & Co oHG"
@@ -19687,11 +19652,6 @@
       "company_name": "Veja Mate Offshore Project GmbH"
     },
     {
-      "company_id": 60499,
-      "company_uid": 668718,
-      "company_name": "VentusVentures Energy GmbH"
-    },
-    {
       "company_id": 1736,
       "company_uid": 661629,
       "company_name": "Veolia Industriepark Deutschland GmbH"
@@ -19902,11 +19862,6 @@
       "company_name": "Voltaik Check Inh. Enno Jürgens e.K."
     },
     {
-      "company_id": 41552,
-      "company_uid": 664675,
-      "company_name": "Voltego GmbH"
-    },
-    {
       "company_id": 61011,
       "company_uid": 669230,
       "company_name": "Voltex Dynamics GmbH"
@@ -19930,11 +19885,6 @@
       "company_id": 20268,
       "company_uid": 664219,
       "company_name": "Vulkan Energiewirtschaft Oderbrücke GmbH"
-    },
-    {
-      "company_id": 62807,
-      "company_uid": 670010,
-      "company_name": "Vēomaina, UAB"
     },
     {
       "company_id": 63977,
@@ -20720,6 +20670,11 @@
       "company_id": 57179,
       "company_uid": 665407,
       "company_name": "ZG Raiffeisen Technik Immobilien GmbH"
+    },
+    {
+      "company_id": 64258,
+      "company_uid": 670465,
+      "company_name": "ZGG - Zeitzer Guss GmbH"
     },
     {
       "company_id": 61670,
@@ -25244,6 +25199,15 @@
       "company_id": 2144,
       "company_uid": 662032,
       "company_name": "Stadtwerke Forchheim GmbH"
+    },
+    {
+      "bdew_code": "9900189000007",
+      "market_function": "Netzbetreiber",
+      "role_code": "NB",
+      "code_row_id": 861,
+      "company_id": 644,
+      "company_uid": 660544,
+      "company_name": "Elektrizitätswerk Leitlein GmbH & Co. KG"
     },
     {
       "bdew_code": "9900190000004",
@@ -36217,6 +36181,15 @@
       "company_name": "Stromversorgung Inzell eG"
     },
     {
+      "bdew_code": "9904167000005",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 862,
+      "company_id": 644,
+      "company_uid": 660544,
+      "company_name": "Elektrizitätswerk Leitlein GmbH & Co. KG"
+    },
+    {
       "bdew_code": "9904169000003",
       "market_function": "Lieferant",
       "role_code": "LF",
@@ -38746,6 +38719,15 @@
       "company_name": "Energieversorgung Limburg GmbH"
     },
     {
+      "bdew_code": "9904798000002",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 295,
+      "company_id": 375,
+      "company_uid": 660276,
+      "company_name": "Bremer Energiehaus-Genossenschaft eG"
+    },
+    {
       "bdew_code": "9904799000001",
       "market_function": "Messstellenbetreiber",
       "role_code": "MSB",
@@ -39842,15 +39824,6 @@
       "company_id": 2086,
       "company_uid": 661976,
       "company_name": "Stadtwerke Buxtehude GmbH"
-    },
-    {
-      "bdew_code": "9905134000002",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 3325,
-      "company_id": 1767,
-      "company_uid": 661659,
-      "company_name": "Otto Fricke & Co. GmbH"
     },
     {
       "bdew_code": "9905135000001",
@@ -45395,6 +45368,24 @@
       "company_id": 2275,
       "company_uid": 662163,
       "company_name": "Mainzer Netze GmbH"
+    },
+    {
+      "bdew_code": "9906297000004",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 865,
+      "company_id": 644,
+      "company_uid": 660544,
+      "company_name": "Elektrizitätswerk Leitlein GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9906298000003",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 863,
+      "company_id": 644,
+      "company_uid": 660544,
+      "company_name": "Elektrizitätswerk Leitlein GmbH & Co. KG"
     },
     {
       "bdew_code": "9906299000002",
@@ -59995,15 +59986,6 @@
       "company_name": "RHÖN-KLINIKUM Energie für Gesundheit GmbH"
     },
     {
-      "bdew_code": "9978022000004",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 10815,
-      "company_id": 6631,
-      "company_uid": 663538,
-      "company_name": "ERG WIND MEG 1 LIMITED LIABILITY PARTNERSHIP"
-    },
-    {
       "bdew_code": "9978028000008",
       "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
       "role_code": "NN",
@@ -60380,15 +60362,6 @@
       "company_id": 8712,
       "company_uid": 663631,
       "company_name": "Stadtwerke Plettenberg Gesellschaft mit beschränkter Haftung"
-    },
-    {
-      "bdew_code": "9978147000004",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 12935,
-      "company_id": 8714,
-      "company_uid": 663633,
-      "company_name": "Terbrack Kunststoff GmbH & Co. Kommanditgesellschaft"
     },
     {
       "bdew_code": "9978154000005",
@@ -61894,15 +61867,6 @@
       "company_name": "Stadtwerke Energie Jena-Pößneck GmbH"
     },
     {
-      "bdew_code": "9978464000000",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 25211,
-      "company_id": 20196,
-      "company_uid": 664147,
-      "company_name": "Edison Spa"
-    },
-    {
       "bdew_code": "9978465000009",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -63145,15 +63109,6 @@
       "company_name": "Überlandwerk Leinetal G m b H"
     },
     {
-      "bdew_code": "9978737000000",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 35444,
-      "company_id": 19132,
-      "company_uid": 664082,
-      "company_name": "Stadtwerke Neckarsulm"
-    },
-    {
       "bdew_code": "9978738000009",
       "market_function": "Lieferant",
       "role_code": "LF",
@@ -63548,15 +63503,6 @@
       "company_id": 2732,
       "company_uid": 662618,
       "company_name": "Hamburger Energiewerke GmbH"
-    },
-    {
-      "bdew_code": "9978808000004",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 39471,
-      "company_id": 33477,
-      "company_uid": 664547,
-      "company_name": "Lightcore Energy Deutschland GmbH"
     },
     {
       "bdew_code": "9978812000008",
@@ -64052,24 +63998,6 @@
       "company_id": 31468,
       "company_uid": 664508,
       "company_name": "Solarimo GmbH"
-    },
-    {
-      "bdew_code": "9978905000006",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 45537,
-      "company_id": 41552,
-      "company_uid": 664675,
-      "company_name": "Voltego GmbH"
-    },
-    {
-      "bdew_code": "9978907000004",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 45539,
-      "company_id": 41552,
-      "company_uid": 664675,
-      "company_name": "Voltego GmbH"
     },
     {
       "bdew_code": "9978908000003",
@@ -67877,15 +67805,6 @@
       "company_id": 1827,
       "company_uid": 661719,
       "company_name": "Quantum GmbH"
-    },
-    {
-      "bdew_code": "9979444000002",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 60835,
-      "company_id": 56920,
-      "company_uid": 665148,
-      "company_name": "NWG Metering GmbH"
     },
     {
       "bdew_code": "9979445000001",
@@ -72433,15 +72352,6 @@
       "company_name": "Suntec Energiesysteme GmbH"
     },
     {
-      "bdew_code": "9980319000001",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 61741,
-      "company_id": 57511,
-      "company_uid": 665739,
-      "company_name": "Luckenbach Vermögensverwaltung e.K."
-    },
-    {
       "bdew_code": "9980320000008",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -72548,15 +72458,6 @@
       "company_id": 57522,
       "company_uid": 665750,
       "company_name": "Gugelfuss GmbH"
-    },
-    {
-      "bdew_code": "9980344000000",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 61766,
-      "company_id": 57511,
-      "company_uid": 665739,
-      "company_name": "Luckenbach Vermögensverwaltung e.K."
     },
     {
       "bdew_code": "9980346000008",
@@ -82747,15 +82648,6 @@
       "company_name": "Agrargenossenschaft Weißbach e.G."
     },
     {
-      "bdew_code": "9982239000004",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 63682,
-      "company_id": 41552,
-      "company_uid": 664675,
-      "company_name": "Voltego GmbH"
-    },
-    {
       "bdew_code": "9982240000001",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -85292,15 +85184,6 @@
       "company_id": 9737,
       "company_uid": 663662,
       "company_name": "GreenStone Energy GmbH"
-    },
-    {
-      "bdew_code": "9982728000002",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 64175,
-      "company_id": 58907,
-      "company_uid": 667135,
-      "company_name": "LeineEnergie GmbH"
     },
     {
       "bdew_code": "9982729000001",
@@ -89344,15 +89227,6 @@
       "company_name": "Schwienhorst"
     },
     {
-      "bdew_code": "9983559000005",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 65030,
-      "company_id": 56785,
-      "company_uid": 665013,
-      "company_name": "Glotec Team Vermögensverwaltung GmbH & Co. KG"
-    },
-    {
       "bdew_code": "9983563000009",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -89441,15 +89315,6 @@
       "company_id": 59535,
       "company_uid": 667763,
       "company_name": "Koller Stefan"
-    },
-    {
-      "bdew_code": "9983589000009",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 65060,
-      "company_id": 56785,
-      "company_uid": 665013,
-      "company_name": "Glotec Team Vermögensverwaltung GmbH & Co. KG"
     },
     {
       "bdew_code": "9983590000006",
@@ -93871,15 +93736,6 @@
       "company_name": "ENNA Next d.o.o."
     },
     {
-      "bdew_code": "9984461000000",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 65967,
-      "company_id": 60350,
-      "company_uid": 668569,
-      "company_name": "Baltic Eagle GmbH & Co. KG"
-    },
-    {
       "bdew_code": "9984462000009",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -94130,15 +93986,6 @@
       "company_id": 60408,
       "company_uid": 668627,
       "company_name": "Geyer Umformtechnik GmbH"
-    },
-    {
-      "bdew_code": "9984503000009",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 66010,
-      "company_id": 56920,
-      "company_uid": 665148,
-      "company_name": "NWG Metering GmbH"
     },
     {
       "bdew_code": "9984507000005",
@@ -94634,15 +94481,6 @@
       "company_id": 60502,
       "company_uid": 668721,
       "company_name": "HKD Handelsgesellschaft für Kirche und Diakonie mbH"
-    },
-    {
-      "bdew_code": "9984580000006",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 66093,
-      "company_id": 60499,
-      "company_uid": 668718,
-      "company_name": "VentusVentures Energy GmbH"
     },
     {
       "bdew_code": "9984581000005",
@@ -95950,15 +95788,6 @@
       "company_name": "TCA Sustainable Energy Solutions GmbH"
     },
     {
-      "bdew_code": "9984774000002",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 66297,
-      "company_id": 60350,
-      "company_uid": 668569,
-      "company_name": "Baltic Eagle GmbH & Co. KG"
-    },
-    {
       "bdew_code": "9984775000001",
       "market_function": "Lieferant",
       "role_code": "LF",
@@ -95966,15 +95795,6 @@
       "company_id": 60697,
       "company_uid": 668916,
       "company_name": "Olivia Energie GmbH"
-    },
-    {
-      "bdew_code": "9984776000000",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 66300,
-      "company_id": 60350,
-      "company_uid": 668569,
-      "company_name": "Baltic Eagle GmbH & Co. KG"
     },
     {
       "bdew_code": "9984777000009",
@@ -97208,15 +97028,6 @@
       "company_id": 60881,
       "company_uid": 669100,
       "company_name": "TBS Betonanlagen Vermietungs-GmbH"
-    },
-    {
-      "bdew_code": "9984938000004",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 66476,
-      "company_id": 60499,
-      "company_uid": 668718,
-      "company_name": "VentusVentures Energy GmbH"
     },
     {
       "bdew_code": "9984940000000",
@@ -98909,15 +98720,6 @@
       "company_id": 61187,
       "company_uid": 669406,
       "company_name": "Lynus Deutschland GmbH"
-    },
-    {
-      "bdew_code": "9985168000004",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 66736,
-      "company_id": 41552,
-      "company_uid": 664675,
-      "company_name": "Voltego GmbH"
     },
     {
       "bdew_code": "9985169000003",
@@ -102304,24 +102106,6 @@
       "company_name": "Akkodis Germany Consulting GmbH"
     },
     {
-      "bdew_code": "9985595000007",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 68203,
-      "company_id": 62807,
-      "company_uid": 670010,
-      "company_name": "Vēomaina, UAB"
-    },
-    {
-      "bdew_code": "9985596000006",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68204,
-      "company_id": 62807,
-      "company_uid": 670010,
-      "company_name": "Vēomaina, UAB"
-    },
-    {
       "bdew_code": "9985597000005",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
@@ -102887,15 +102671,6 @@
       "company_id": 61187,
       "company_uid": 669406,
       "company_name": "Lynus Deutschland GmbH"
-    },
-    {
-      "bdew_code": "9985666000001",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 68280,
-      "company_id": 58907,
-      "company_uid": 667135,
-      "company_name": "LeineEnergie GmbH"
     },
     {
       "bdew_code": "9985667000000",
@@ -104552,6 +104327,42 @@
       "company_id": 63933,
       "company_uid": 670140,
       "company_name": "Encavis Energy Solutions GmbH"
+    },
+    {
+      "bdew_code": "9985879000004",
+      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
+      "role_code": "NN",
+      "code_row_id": 68514,
+      "company_id": 64253,
+      "company_uid": 670460,
+      "company_name": "Silbitz Guss GmbH"
+    },
+    {
+      "bdew_code": "9985881000000",
+      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
+      "role_code": "NN",
+      "code_row_id": 68516,
+      "company_id": 64258,
+      "company_uid": 670465,
+      "company_name": "ZGG - Zeitzer Guss GmbH"
+    },
+    {
+      "bdew_code": "9985882000009",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68517,
+      "company_id": 64259,
+      "company_uid": 670466,
+      "company_name": "Gebrüder Passon UG (haftungsbeschränkt)"
+    },
+    {
+      "bdew_code": "9985883000008",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68518,
+      "company_id": 62832,
+      "company_uid": 670035,
+      "company_name": "Second Foundation Trading AG"
     },
     {
       "bdew_code": "9987098000005",
