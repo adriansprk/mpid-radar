@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-22",
-      "published_at": "2026-10-22T06:08:52+00:00",
-      "content_hash": "517255f10a5e6c42c24cb5aade74dcabef22213752af378cca48b64428ee472f"
+      "version": "2026-10-23",
+      "published_at": "2026-10-23T06:04:56+00:00",
+      "content_hash": "01fa724a98bc0043a22cbecfdd8abc95f4b2ae9ab0bff095ca4e2a4a661e0d3f"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-22T06:05:53.367163+00:00",
+      "observed_at": "2026-10-23T06:00:47.804202+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4397,
-      "market_partners": 9151,
+      "companies": 4385,
+      "market_partners": 9134,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-22T06:05:53.367163+00:00",
+      "cleaned_at": "2026-10-23T06:00:47.804202+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -455,11 +455,6 @@
       "company_id": 6602,
       "company_uid": 663509,
       "company_name": "Activis Energy GmbH & Co. KG"
-    },
-    {
-      "company_id": 58456,
-      "company_uid": 666684,
-      "company_name": "Adelbert Hall"
     },
     {
       "company_id": 57352,
@@ -1445,11 +1440,6 @@
       "company_id": 380,
       "company_uid": 660281,
       "company_name": "BRUNATA-METRONA GmbH & Co. KG"
-    },
-    {
-      "company_id": 57939,
-      "company_uid": 666167,
-      "company_name": "BSB GmbH"
     },
     {
       "company_id": 20190,
@@ -2857,11 +2847,6 @@
       "company_name": "DEC Deutsches EnergieContor GmbH & Co. KG"
     },
     {
-      "company_id": 58564,
-      "company_uid": 666792,
-      "company_name": "DEFAMA Zubehör GmbH"
-    },
-    {
       "company_id": 471,
       "company_uid": 660372,
       "company_name": "DEH Deutsche Energiehandels GmbH"
@@ -3217,11 +3202,6 @@
       "company_name": "Dr. Arno Zips"
     },
     {
-      "company_id": 58810,
-      "company_uid": 667038,
-      "company_name": "Dr. Friedrich-W. + Barbara Fischer GbR"
-    },
-    {
       "company_id": 60040,
       "company_uid": 668259,
       "company_name": "Dr. Gerhard Bergler"
@@ -3230,11 +3210,6 @@
       "company_id": 60195,
       "company_uid": 668414,
       "company_name": "Dr. Gerhard Brunner"
-    },
-    {
-      "company_id": 59480,
-      "company_uid": 667708,
-      "company_name": "Dr. Gerhard Weber"
     },
     {
       "company_id": 58608,
@@ -6917,11 +6892,6 @@
       "company_name": "Gebrüder Jensen Maschinenbau, Gesellschaft mit beschränkter Haftung"
     },
     {
-      "company_id": 59272,
-      "company_uid": 667500,
-      "company_name": "Gebrüder Jäger GmbH & Co.KG"
-    },
-    {
       "company_id": 1107,
       "company_uid": 661004,
       "company_name": "Gebrüder Miller, Elektrizitätsversorgung GmbH & Co. KG"
@@ -6990,11 +6960,6 @@
       "company_id": 1116,
       "company_uid": 661013,
       "company_name": "Gemeinde Partenstein"
-    },
-    {
-      "company_id": 59290,
-      "company_uid": 667518,
-      "company_name": "Gemeinde Wittibreut"
     },
     {
       "company_id": 1238,
@@ -8782,6 +8747,11 @@
       "company_name": "Illumia S.P.A."
     },
     {
+      "company_id": 1362,
+      "company_uid": 661258,
+      "company_name": "Ilzhöfer Inh. Walch GmbH & Co. KG"
+    },
+    {
       "company_id": 58179,
       "company_uid": 666407,
       "company_name": "Immergut GmbH & Co. KG"
@@ -9075,6 +9045,11 @@
       "company_id": 63926,
       "company_uid": 670133,
       "company_name": "Jane Street Energy Europe B.V."
+    },
+    {
+      "company_id": 64265,
+      "company_uid": 670472,
+      "company_name": "Jannik Hüpgen"
     },
     {
       "company_id": 60684,
@@ -9572,19 +9547,9 @@
       "company_name": "Kisters AG"
     },
     {
-      "company_id": 58324,
-      "company_uid": 666552,
-      "company_name": "Klaus Hommel"
-    },
-    {
       "company_id": 61356,
       "company_uid": 669575,
       "company_name": "Klaus Horstmann Solar"
-    },
-    {
-      "company_id": 58196,
-      "company_uid": 666424,
-      "company_name": "Klaus Jäger"
     },
     {
       "company_id": 58162,
@@ -9790,11 +9755,6 @@
       "company_id": 59241,
       "company_uid": 667469,
       "company_name": "Korsch Aktiengesellschaft"
-    },
-    {
-      "company_id": 58266,
-      "company_uid": 666494,
-      "company_name": "Kraftgrün e.K."
     },
     {
       "company_id": 53646,
@@ -11527,6 +11487,11 @@
       "company_name": "NTT Global Data Centers EMEA Power Supply GmbH & Co. KG"
     },
     {
+      "company_id": 56920,
+      "company_uid": 665148,
+      "company_name": "NWG Metering GmbH"
+    },
+    {
       "company_id": 1738,
       "company_uid": 661631,
       "company_name": "NWG Power GmbH"
@@ -12885,11 +12850,6 @@
       "company_id": 59885,
       "company_uid": 668104,
       "company_name": "Produktivgenossenschaft Flämingrind e.G. Kranepuhl"
-    },
-    {
-      "company_id": 58557,
-      "company_uid": 666785,
-      "company_name": "Project Z Solar GmbH"
     },
     {
       "company_id": 64027,
@@ -14855,11 +14815,6 @@
       "company_id": 58382,
       "company_uid": 666610,
       "company_name": "Semmelhaack Logistik GmbH"
-    },
-    {
-      "company_id": 59045,
-      "company_uid": 667273,
-      "company_name": "Senger Holstein GmbH"
     },
     {
       "company_id": 58467,
@@ -18997,11 +18952,6 @@
       "company_name": "Thomas Meyer"
     },
     {
-      "company_id": 57828,
-      "company_uid": 666056,
-      "company_name": "Thomas Rathgeber"
-    },
-    {
       "company_id": 57839,
       "company_uid": 666067,
       "company_name": "Thomas Steiner"
@@ -19410,11 +19360,6 @@
       "company_id": 57745,
       "company_uid": 665973,
       "company_name": "Ursula Sebald Hettrich"
-    },
-    {
-      "company_id": 57956,
-      "company_uid": 666184,
-      "company_name": "Ute Figel"
     },
     {
       "company_id": 58056,
@@ -19920,11 +19865,6 @@
       "company_id": 46599,
       "company_uid": 664739,
       "company_name": "WEG Weidener Energie GmbH"
-    },
-    {
-      "company_id": 58099,
-      "company_uid": 666327,
-      "company_name": "WEHRLE-WERK Aktiengesellschaft"
     },
     {
       "company_id": 59766,
@@ -42049,6 +41989,15 @@
       "company_name": "Endesa Generacíon S.A."
     },
     {
+      "bdew_code": "9905681000000",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 2541,
+      "company_id": 1362,
+      "company_uid": 661258,
+      "company_name": "Ilzhöfer Inh. Walch GmbH & Co. KG"
+    },
+    {
       "bdew_code": "9905683000008",
       "market_function": "Messstellenbetreiber",
       "role_code": "MSB",
@@ -50885,15 +50834,6 @@
       "company_id": 59223,
       "company_uid": 667451,
       "company_name": "QuartiersNetz Bayern GmbH"
-    },
-    {
-      "bdew_code": "9907811000008",
-      "market_function": "Netzbetreiber",
-      "role_code": "NB",
-      "code_row_id": 64733,
-      "company_id": 59272,
-      "company_uid": 667500,
-      "company_name": "Gebrüder Jäger GmbH & Co.KG"
     },
     {
       "bdew_code": "9907813000006",
@@ -67807,6 +67747,15 @@
       "company_name": "Quantum GmbH"
     },
     {
+      "bdew_code": "9979444000002",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 60835,
+      "company_id": 56920,
+      "company_uid": 665148,
+      "company_name": "NWG Metering GmbH"
+    },
+    {
       "bdew_code": "9979445000001",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -75520,15 +75469,6 @@
       "company_name": "Veitsbronn 7 PV GbR"
     },
     {
-      "bdew_code": "9980885000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 62314,
-      "company_id": 57828,
-      "company_uid": 666056,
-      "company_name": "Thomas Rathgeber"
-    },
-    {
       "bdew_code": "9980886000005",
       "market_function": "Data Provider",
       "role_code": "DP",
@@ -75572,15 +75512,6 @@
       "company_id": 57835,
       "company_uid": 666063,
       "company_name": "Martinswerk GmbH"
-    },
-    {
-      "bdew_code": "9980898000001",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 62327,
-      "company_id": 57828,
-      "company_uid": 666056,
-      "company_name": "Thomas Rathgeber"
     },
     {
       "bdew_code": "9980900000006",
@@ -76771,15 +76702,6 @@
       "company_name": "Hertle UG (haftungsbeschränkt)"
     },
     {
-      "bdew_code": "9981105000007",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 62536,
-      "company_id": 57956,
-      "company_uid": 666184,
-      "company_name": "Ute Figel"
-    },
-    {
       "bdew_code": "9981109000003",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -77905,15 +77827,6 @@
       "company_name": "Gemeindewerke Haßloch GmbH"
     },
     {
-      "bdew_code": "9981338000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 62769,
-      "company_id": 58099,
-      "company_uid": 666327,
-      "company_name": "WEHRLE-WERK Aktiengesellschaft"
-    },
-    {
       "bdew_code": "9981340000002",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -78751,15 +78664,6 @@
       "company_name": "Stadtwerke Heilbad Heiligenstadt GmbH"
     },
     {
-      "bdew_code": "9981497000004",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 62930,
-      "company_id": 58196,
-      "company_uid": 666424,
-      "company_name": "Klaus Jäger"
-    },
-    {
       "bdew_code": "9981499000002",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -78767,15 +78671,6 @@
       "company_id": 1101,
       "company_uid": 660998,
       "company_name": "ENGIE Deutschland AG"
-    },
-    {
-      "bdew_code": "9981500000008",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 62933,
-      "company_id": 58196,
-      "company_uid": 666424,
-      "company_name": "Klaus Jäger"
     },
     {
       "bdew_code": "9981502000006",
@@ -79525,15 +79420,6 @@
       "company_name": "Möschlitzer Agrar GmbH"
     },
     {
-      "bdew_code": "9981617000008",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 63052,
-      "company_id": 58266,
-      "company_uid": 666494,
-      "company_name": "Kraftgrün e.K."
-    },
-    {
       "bdew_code": "9981618000007",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -80090,24 +79976,6 @@
       "company_id": 58322,
       "company_uid": 666550,
       "company_name": "FraWi GmbH & Co. Kabel KG"
-    },
-    {
-      "bdew_code": "9981729000003",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 63167,
-      "company_id": 58324,
-      "company_uid": 666552,
-      "company_name": "Klaus Hommel"
-    },
-    {
-      "bdew_code": "9981730000000",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 63168,
-      "company_id": 58324,
-      "company_uid": 666552,
-      "company_name": "Klaus Hommel"
     },
     {
       "bdew_code": "9981732000008",
@@ -81154,15 +81022,6 @@
       "company_name": "Raimund Würz"
     },
     {
-      "bdew_code": "9981948000008",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 63390,
-      "company_id": 58456,
-      "company_uid": 666684,
-      "company_name": "Adelbert Hall"
-    },
-    {
       "bdew_code": "9981949000007",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -81973,42 +81832,6 @@
       "company_name": "Evonik Operations GmbH"
     },
     {
-      "bdew_code": "9982125000001",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 63568,
-      "company_id": 58557,
-      "company_uid": 666785,
-      "company_name": "Project Z Solar GmbH"
-    },
-    {
-      "bdew_code": "9982126000000",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 63569,
-      "company_id": 58557,
-      "company_uid": 666785,
-      "company_name": "Project Z Solar GmbH"
-    },
-    {
-      "bdew_code": "9982127000009",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 63570,
-      "company_id": 57939,
-      "company_uid": 666167,
-      "company_name": "BSB GmbH"
-    },
-    {
-      "bdew_code": "9982128000008",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 63571,
-      "company_id": 57939,
-      "company_uid": 666167,
-      "company_name": "BSB GmbH"
-    },
-    {
       "bdew_code": "9982129000007",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -82115,15 +81938,6 @@
       "company_id": 58563,
       "company_uid": 666791,
       "company_name": "Mehl KG"
-    },
-    {
-      "bdew_code": "9982144000008",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 63587,
-      "company_id": 58564,
-      "company_uid": 666792,
-      "company_name": "DEFAMA Zubehör GmbH"
     },
     {
       "bdew_code": "9982145000007",
@@ -83429,15 +83243,6 @@
       "company_id": 58713,
       "company_uid": 666941,
       "company_name": "Enertec Hameln GmbH"
-    },
-    {
-      "bdew_code": "9982396000004",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 63842,
-      "company_id": 58564,
-      "company_uid": 666792,
-      "company_name": "DEFAMA Zubehör GmbH"
     },
     {
       "bdew_code": "9982397000003",
@@ -86581,15 +86386,6 @@
       "company_name": "Liebig & Stork GbR"
     },
     {
-      "bdew_code": "9982989000007",
-      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
-      "role_code": "NN",
-      "code_row_id": 64441,
-      "company_id": 59045,
-      "company_uid": 667273,
-      "company_name": "Senger Holstein GmbH"
-    },
-    {
       "bdew_code": "9982990000004",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -88138,15 +87934,6 @@
       "company_name": "Stadtwerke Erbendorf"
     },
     {
-      "bdew_code": "9983295000004",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 64756,
-      "company_id": 59290,
-      "company_uid": 667518,
-      "company_name": "Gemeinde Wittibreut"
-    },
-    {
       "bdew_code": "9983296000003",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -88559,15 +88346,6 @@
       "company_id": 59352,
       "company_uid": 667580,
       "company_name": "Hamm-Kliniken GmbH & Co. KG"
-    },
-    {
-      "bdew_code": "9983379000003",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 64843,
-      "company_id": 58810,
-      "company_uid": 667038,
-      "company_name": "Dr. Friedrich-W. + Barbara Fischer GbR"
     },
     {
       "bdew_code": "9983380000000",
@@ -89072,15 +88850,6 @@
       "company_id": 59472,
       "company_uid": 667700,
       "company_name": "Mitsui Bussan Gas & Power Solutions B.V."
-    },
-    {
-      "bdew_code": "9983524000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 64995,
-      "company_id": 59480,
-      "company_uid": 667708,
-      "company_name": "Dr. Gerhard Weber"
     },
     {
       "bdew_code": "9983531000007",
@@ -93986,6 +93755,15 @@
       "company_id": 60408,
       "company_uid": 668627,
       "company_name": "Geyer Umformtechnik GmbH"
+    },
+    {
+      "bdew_code": "9984503000009",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 66010,
+      "company_id": 56920,
+      "company_uid": 665148,
+      "company_name": "NWG Metering GmbH"
     },
     {
       "bdew_code": "9984507000005",
@@ -104363,6 +104141,15 @@
       "company_id": 62832,
       "company_uid": 670035,
       "company_name": "Second Foundation Trading AG"
+    },
+    {
+      "bdew_code": "9985884000007",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68519,
+      "company_id": 64265,
+      "company_uid": 670472,
+      "company_name": "Jannik Hüpgen"
     },
     {
       "bdew_code": "9987098000005",
