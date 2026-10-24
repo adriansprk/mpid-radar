@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-23",
-      "published_at": "2026-10-23T06:04:56+00:00",
-      "content_hash": "01fa724a98bc0043a22cbecfdd8abc95f4b2ae9ab0bff095ca4e2a4a661e0d3f"
+      "version": "2026-10-24",
+      "published_at": "2026-10-24T05:51:52+00:00",
+      "content_hash": "9eca95bfcd9aec1551e2812ed89de4fd20f8c5dac2b671495f95b778ca3e791d"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-23T06:00:47.804202+00:00",
+      "observed_at": "2026-10-24T05:47:42.737950+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4385,
-      "market_partners": 9134,
+      "companies": 4388,
+      "market_partners": 9140,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-23T06:00:47.804202+00:00",
+      "cleaned_at": "2026-10-24T05:47:42.737950+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -9547,6 +9547,11 @@
       "company_name": "Kisters AG"
     },
     {
+      "company_id": 58324,
+      "company_uid": 666552,
+      "company_name": "Klaus Hommel"
+    },
+    {
       "company_id": 61356,
       "company_uid": 669575,
       "company_name": "Klaus Horstmann Solar"
@@ -16942,6 +16947,11 @@
       "company_name": "Stadtwerke Münster GmbH"
     },
     {
+      "company_id": 19132,
+      "company_uid": 664082,
+      "company_name": "Stadtwerke Neckarsulm"
+    },
+    {
       "company_id": 2295,
       "company_uid": 662183,
       "company_name": "Stadtwerke Nettetal Gesellschaft mit beschränkter Haftung"
@@ -18950,6 +18960,11 @@
       "company_id": 57166,
       "company_uid": 665394,
       "company_name": "Thomas Meyer"
+    },
+    {
+      "company_id": 57828,
+      "company_uid": 666056,
+      "company_name": "Thomas Rathgeber"
     },
     {
       "company_id": 57839,
@@ -63049,6 +63064,15 @@
       "company_name": "Überlandwerk Leinetal G m b H"
     },
     {
+      "bdew_code": "9978737000000",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 35444,
+      "company_id": 19132,
+      "company_uid": 664082,
+      "company_name": "Stadtwerke Neckarsulm"
+    },
+    {
       "bdew_code": "9978738000009",
       "market_function": "Lieferant",
       "role_code": "LF",
@@ -75469,6 +75493,15 @@
       "company_name": "Veitsbronn 7 PV GbR"
     },
     {
+      "bdew_code": "9980885000006",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 62314,
+      "company_id": 57828,
+      "company_uid": 666056,
+      "company_name": "Thomas Rathgeber"
+    },
+    {
       "bdew_code": "9980886000005",
       "market_function": "Data Provider",
       "role_code": "DP",
@@ -75512,6 +75545,15 @@
       "company_id": 57835,
       "company_uid": 666063,
       "company_name": "Martinswerk GmbH"
+    },
+    {
+      "bdew_code": "9980898000001",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 62327,
+      "company_id": 57828,
+      "company_uid": 666056,
+      "company_name": "Thomas Rathgeber"
     },
     {
       "bdew_code": "9980900000006",
@@ -79976,6 +80018,24 @@
       "company_id": 58322,
       "company_uid": 666550,
       "company_name": "FraWi GmbH & Co. Kabel KG"
+    },
+    {
+      "bdew_code": "9981729000003",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 63167,
+      "company_id": 58324,
+      "company_uid": 666552,
+      "company_name": "Klaus Hommel"
+    },
+    {
+      "bdew_code": "9981730000000",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 63168,
+      "company_id": 58324,
+      "company_uid": 666552,
+      "company_name": "Klaus Hommel"
     },
     {
       "bdew_code": "9981732000008",
@@ -104150,6 +104210,15 @@
       "company_id": 64265,
       "company_uid": 670472,
       "company_name": "Jannik Hüpgen"
+    },
+    {
+      "bdew_code": "9985885000006",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68520,
+      "company_id": 64226,
+      "company_uid": 670433,
+      "company_name": "Salux GmbH"
     },
     {
       "bdew_code": "9987098000005",

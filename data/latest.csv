@@ -4564,6 +4564,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9978732000005,Lieferant,LF,664462,Kliniken Lörrach Service GmbH,29443,35438
 9978733000004,Bilanzkreisverantwortlicher,BKV,664463,RESPECT ENERGY SPÓLKA AKCYJNA,29444,35439
 9978734000003,Bilanzkreisverantwortlicher,BKV,662560,Überlandwerk Leinetal G m b H,2674,35440
+9978737000000,Lieferant,LF,664082,Stadtwerke Neckarsulm,19132,35444
 9978738000009,Lieferant,LF,664471,Volkswagen Group Charging GmbH,29452,35447
 9978739000008,Messstellenbetreiber,MSB,664472,Frankenmetering GmbH & Co. KG,30439,36435
 9978745000000,Bilanzkreisverantwortlicher,BKV,660122,abita Energie Otterberg GmbH,216,36441
@@ -5944,11 +5945,13 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9980880000001,Einsatzverantwortlicher,EIV,660450,ecoSWITCH AG,549,62309
 9980883000008,Betreiber einer technischen Ressource,BTR,665915,Stadtwerke Rotenburg a.d.Fulda,57687,62312
 9980884000007,Betreiber einer technischen Ressource,BTR,665486,Veitsbronn 7 PV GbR,57258,62313
+9980885000006,Einsatzverantwortlicher,EIV,666056,Thomas Rathgeber,57828,62314
 9980886000005,Data Provider,DP,664047,BTU EVU Rechenzentrum GmbH,19097,62315
 9980888000003,Einsatzverantwortlicher,EIV,666059,Wolfram Walter GbR,57831,62317
 9980889000002,Betreiber einer technischen Ressource,BTR,666059,Wolfram Walter GbR,57831,62318
 9980890000009,Einsatzverantwortlicher,EIV,666048,St. Elisabeth - Krankenhaus Geilenkirchen gemeinnützige Gesellschaft mbH,57820,62319
 9980893000006,Einsatzverantwortlicher,EIV,666063,Martinswerk GmbH,57835,62322
+9980898000001,Betreiber einer technischen Ressource,BTR,666056,Thomas Rathgeber,57828,62327
 9980900000006,Einsatzverantwortlicher,EIV,666067,Thomas Steiner,57839,62329
 9980902000004,Einsatzverantwortlicher,EIV,662366,Stadtwerke Wismar GmbH,2478,62332
 9980903000003,Betreiber einer technischen Ressource,BTR,666068,Institut für Energietechnik IfE GmbH an der Ostbayerischen Technischen Hochschule Amberg-Weiden,57840,62333
@@ -6445,6 +6448,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9981720000002,Messstellenbetreiber,MSB,666530,GETEC Quartier GmbH,58302,63158
 9981724000008,Betreiber einer technischen Ressource,BTR,666549,Klinikum Konstanz GmbH,58321,63162
 9981725000007,Betreiber einer technischen Ressource,BTR,666550,FraWi GmbH & Co. Kabel KG,58322,63163
+9981729000003,Betreiber einer technischen Ressource,BTR,666552,Klaus Hommel,58324,63167
+9981730000000,Einsatzverantwortlicher,EIV,666552,Klaus Hommel,58324,63168
 9981732000008,Einsatzverantwortlicher,EIV,666531,Christine Kruse,58303,63170
 9981733000007,Betreiber einer technischen Ressource,BTR,666555,Fred Zielke/PJF-GbR,58327,63171
 9981734000006,Einsatzverantwortlicher,EIV,662224,Stadtwerke Pfarrkirchen,2336,63172
@@ -9131,5 +9136,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985882000009,Energieserviceanbieter des Anschlussnutzers,ESA,670466,Gebrüder Passon UG (haftungsbeschränkt),64259,68517
 9985883000008,Betreiber einer technischen Ressource,BTR,670035,Second Foundation Trading AG,62832,68518
 9985884000007,Energieserviceanbieter des Anschlussnutzers,ESA,670472,Jannik Hüpgen,64265,68519
+9985885000006,Einsatzverantwortlicher,EIV,670433,Salux GmbH,64226,68520
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-22",
-      "published_at": "2026-10-22T06:08:52+00:00",
-      "content_hash": "517255f10a5e6c42c24cb5aade74dcabef22213752af378cca48b64428ee472f"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-22T06:05:53.367163+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4397,
-      "market_partners": 9151,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-10-22T06:05:53.367163+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-10-23",
-      "published_at": "2026-10-23T06:00:47.804202+00:00",
+      "published_at": "2026-10-23T06:04:56+00:00",
       "content_hash": "01fa724a98bc0043a22cbecfdd8abc95f4b2ae9ab0bff095ca4e2a4a661e0d3f"
     },
     "source": {
@@ -71,45 +35,52 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-10-24",
+      "published_at": "2026-10-24T05:47:42.737950+00:00",
+      "content_hash": "9eca95bfcd9aec1551e2812ed89de4fd20f8c5dac2b671495f95b778ca3e791d"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-10-24T05:47:42.737950+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4388,
+      "market_partners": 9140,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-10-24T05:47:42.737950+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9905681000000",
+      "bdew_code": "9978737000000",
       "market_function": "Lieferant",
       "role_code": "LF",
-      "code_row_id": 2541,
-      "company_id": 1362,
-      "company_uid": 661258,
-      "company_name": "Ilzhöfer Inh. Walch GmbH & Co. KG"
+      "code_row_id": 35444,
+      "company_id": 19132,
+      "company_uid": 664082,
+      "company_name": "Stadtwerke Neckarsulm"
     },
-    {
-      "bdew_code": "9979444000002",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 60835,
-      "company_id": 56920,
-      "company_uid": 665148,
-      "company_name": "NWG Metering GmbH"
-    },
-    {
-      "bdew_code": "9984503000009",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 66010,
-      "company_id": 56920,
-      "company_uid": 665148,
-      "company_name": "NWG Metering GmbH"
-    },
-    {
-      "bdew_code": "9985884000007",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68519,
-      "company_id": 64265,
-      "company_uid": 670472,
-      "company_name": "Jannik Hüpgen"
-    }
-  ],
-  "codes_removed": [
     {
       "bdew_code": "9980885000006",
       "market_function": "Einsatzverantwortlicher",
@@ -127,51 +98,6 @@
       "company_id": 57828,
       "company_uid": 666056,
       "company_name": "Thomas Rathgeber"
-    },
-    {
-      "bdew_code": "9981105000007",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 62536,
-      "company_id": 57956,
-      "company_uid": 666184,
-      "company_name": "Ute Figel"
-    },
-    {
-      "bdew_code": "9981338000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 62769,
-      "company_id": 58099,
-      "company_uid": 666327,
-      "company_name": "WEHRLE-WERK Aktiengesellschaft"
-    },
-    {
-      "bdew_code": "9981497000004",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 62930,
-      "company_id": 58196,
-      "company_uid": 666424,
-      "company_name": "Klaus Jäger"
-    },
-    {
-      "bdew_code": "9981500000008",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 62933,
-      "company_id": 58196,
-      "company_uid": 666424,
-      "company_name": "Klaus Jäger"
-    },
-    {
-      "bdew_code": "9981617000008",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 63052,
-      "company_id": 58266,
-      "company_uid": 666494,
-      "company_name": "Kraftgrün e.K."
     },
     {
       "bdew_code": "9981729000003",
@@ -192,145 +118,31 @@
       "company_name": "Klaus Hommel"
     },
     {
-      "bdew_code": "9981948000008",
+      "bdew_code": "9985885000006",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
-      "code_row_id": 63390,
-      "company_id": 58456,
-      "company_uid": 666684,
-      "company_name": "Adelbert Hall"
-    },
-    {
-      "bdew_code": "9982125000001",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 63568,
-      "company_id": 58557,
-      "company_uid": 666785,
-      "company_name": "Project Z Solar GmbH"
-    },
-    {
-      "bdew_code": "9982126000000",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 63569,
-      "company_id": 58557,
-      "company_uid": 666785,
-      "company_name": "Project Z Solar GmbH"
-    },
-    {
-      "bdew_code": "9982127000009",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 63570,
-      "company_id": 57939,
-      "company_uid": 666167,
-      "company_name": "BSB GmbH"
-    },
-    {
-      "bdew_code": "9982128000008",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 63571,
-      "company_id": 57939,
-      "company_uid": 666167,
-      "company_name": "BSB GmbH"
-    },
-    {
-      "bdew_code": "9982144000008",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 63587,
-      "company_id": 58564,
-      "company_uid": 666792,
-      "company_name": "DEFAMA Zubehör GmbH"
-    },
-    {
-      "bdew_code": "9982396000004",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 63842,
-      "company_id": 58564,
-      "company_uid": 666792,
-      "company_name": "DEFAMA Zubehör GmbH"
-    },
-    {
-      "bdew_code": "9982989000007",
-      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
-      "role_code": "NN",
-      "code_row_id": 64441,
-      "company_id": 59045,
-      "company_uid": 667273,
-      "company_name": "Senger Holstein GmbH"
-    },
-    {
-      "bdew_code": "9907811000008",
-      "market_function": "Netzbetreiber",
-      "role_code": "NB",
-      "code_row_id": 64733,
-      "company_id": 59272,
-      "company_uid": 667500,
-      "company_name": "Gebrüder Jäger GmbH & Co.KG"
-    },
-    {
-      "bdew_code": "9983295000004",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 64756,
-      "company_id": 59290,
-      "company_uid": 667518,
-      "company_name": "Gemeinde Wittibreut"
-    },
-    {
-      "bdew_code": "9983379000003",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 64843,
-      "company_id": 58810,
-      "company_uid": 667038,
-      "company_name": "Dr. Friedrich-W. + Barbara Fischer GbR"
-    },
-    {
-      "bdew_code": "9983524000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 64995,
-      "company_id": 59480,
-      "company_uid": 667708,
-      "company_name": "Dr. Gerhard Weber"
+      "code_row_id": 68520,
+      "company_id": 64226,
+      "company_uid": 670433,
+      "company_name": "Salux GmbH"
     }
   ],
+  "codes_removed": [],
   "codes_changed": [],
   "companies_added_ids": [
-    1362,
-    56920,
-    64265
-  ],
-  "companies_removed_ids": [
+    19132,
     57828,
-    57939,
-    57956,
-    58099,
-    58196,
-    58266,
-    58324,
-    58456,
-    58557,
-    58564,
-    58810,
-    59045,
-    59272,
-    59290,
-    59480
+    58324
   ],
+  "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 4,
-    "codes_removed": 21,
+    "codes_added": 6,
+    "codes_removed": 0,
     "codes_changed": 0,
     "codes_recoded": 0,
     "companies_added": 3,
-    "companies_removed": 15,
+    "companies_removed": 0,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",
