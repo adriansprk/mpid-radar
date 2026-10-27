@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-23",
-      "published_at": "2026-10-23T06:04:56+00:00",
-      "content_hash": "01fa724a98bc0043a22cbecfdd8abc95f4b2ae9ab0bff095ca4e2a4a661e0d3f"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-23T06:00:47.804202+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4385,
-      "market_partners": 9134,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-10-23T06:00:47.804202+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-10-24",
-      "published_at": "2026-10-24T05:47:42.737950+00:00",
+      "published_at": "2026-10-24T05:51:52+00:00",
       "content_hash": "9eca95bfcd9aec1551e2812ed89de4fd20f8c5dac2b671495f95b778ca3e791d"
     },
     "source": {
@@ -71,78 +35,296 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-10-27",
+      "published_at": "2026-10-27T06:13:59.473278+00:00",
+      "content_hash": "062c34c58d10124f37cb96e0ca8e188c1f719740bd4fc0f73eb4ec8b955a4a40"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-10-27T06:13:59.473278+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4371,
+      "market_partners": 9122,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-10-27T06:13:59.473278+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 118
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9978737000000",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 35444,
-      "company_id": 19132,
-      "company_uid": 664082,
-      "company_name": "Stadtwerke Neckarsulm"
+      "bdew_code": "9985886000005",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68521,
+      "company_id": 64273,
+      "company_uid": 670480,
+      "company_name": "ene't MaKo Plus GmbH"
     },
     {
-      "bdew_code": "9980885000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 62314,
-      "company_id": 57828,
-      "company_uid": 666056,
-      "company_name": "Thomas Rathgeber"
-    },
-    {
-      "bdew_code": "9980898000001",
+      "bdew_code": "9985887000004",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
-      "code_row_id": 62327,
-      "company_id": 57828,
-      "company_uid": 666056,
-      "company_name": "Thomas Rathgeber"
+      "code_row_id": 68522,
+      "company_id": 64277,
+      "company_uid": 670484,
+      "company_name": "DEFAMA Zeitz GmbH & Co. KG"
     },
     {
-      "bdew_code": "9981729000003",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 63167,
-      "company_id": 58324,
-      "company_uid": 666552,
-      "company_name": "Klaus Hommel"
-    },
-    {
-      "bdew_code": "9981730000000",
+      "bdew_code": "9985888000003",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
-      "code_row_id": 63168,
-      "company_id": 58324,
-      "company_uid": 666552,
-      "company_name": "Klaus Hommel"
-    },
-    {
-      "bdew_code": "9985885000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 68520,
-      "company_id": 64226,
-      "company_uid": 670433,
-      "company_name": "Salux GmbH"
+      "code_row_id": 68523,
+      "company_id": 64076,
+      "company_uid": 670283,
+      "company_name": "MEGGLE Bakery GmbH"
     }
   ],
-  "codes_removed": [],
+  "codes_removed": [
+    {
+      "bdew_code": "9981932000006",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 63371,
+      "company_id": 58441,
+      "company_uid": 666669,
+      "company_name": "ene't Service GmbH"
+    },
+    {
+      "bdew_code": "9983145000005",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 64599,
+      "company_id": 59155,
+      "company_uid": 667383,
+      "company_name": "HR Energiemanagement GmbH"
+    },
+    {
+      "bdew_code": "9983806000005",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 65282,
+      "company_id": 59724,
+      "company_uid": 667943,
+      "company_name": "Andreas Krug"
+    },
+    {
+      "bdew_code": "9983967000001",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 65448,
+      "company_id": 59853,
+      "company_uid": 668072,
+      "company_name": "Max Schneidhuber"
+    },
+    {
+      "bdew_code": "9984047000002",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 65529,
+      "company_id": 59920,
+      "company_uid": 668139,
+      "company_name": "Jens Neubauer"
+    },
+    {
+      "bdew_code": "9984174000008",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 65660,
+      "company_id": 60040,
+      "company_uid": 668259,
+      "company_name": "Dr. Gerhard Bergler"
+    },
+    {
+      "bdew_code": "9984266000007",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 65757,
+      "company_id": 60138,
+      "company_uid": 668357,
+      "company_name": "Back & Frost GmbH"
+    },
+    {
+      "bdew_code": "9984280000009",
+      "market_function": "Data Provider",
+      "role_code": "DP",
+      "code_row_id": 65773,
+      "company_id": 60153,
+      "company_uid": 668372,
+      "company_name": "Autel Netherlands B.V."
+    },
+    {
+      "bdew_code": "9984478000001",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 65985,
+      "company_id": 60370,
+      "company_uid": 668589,
+      "company_name": "EnergyPower UG (haftungsbeschränkt)"
+    },
+    {
+      "bdew_code": "9984571000007",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 66083,
+      "company_id": 59083,
+      "company_uid": 667311,
+      "company_name": "COUNT WESTGASS AS"
+    },
+    {
+      "bdew_code": "9984661000008",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 66177,
+      "company_id": 60585,
+      "company_uid": 668804,
+      "company_name": "HOBA Green Energy GmbH"
+    },
+    {
+      "bdew_code": "9984694000009",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 66214,
+      "company_id": 60620,
+      "company_uid": 668839,
+      "company_name": "Flachs Surborg Baudienstleistungen GbR"
+    },
+    {
+      "bdew_code": "9984882000001",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 66414,
+      "company_id": 60814,
+      "company_uid": 669033,
+      "company_name": "ENERGO Zone GmbH"
+    },
+    {
+      "bdew_code": "9984920000004",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 66456,
+      "company_id": 60850,
+      "company_uid": 669069,
+      "company_name": "DK Recycling und Roheisen GmbH"
+    },
+    {
+      "bdew_code": "9984933000009",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 66471,
+      "company_id": 60877,
+      "company_uid": 669096,
+      "company_name": "SONNENEXT energy GmbH"
+    },
+    {
+      "bdew_code": "9984941000009",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 66481,
+      "company_id": 60887,
+      "company_uid": 669106,
+      "company_name": "Hycube Technologies GmbH"
+    },
+    {
+      "bdew_code": "9984943000007",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 66483,
+      "company_id": 60875,
+      "company_uid": 669094,
+      "company_name": "Hamm Solar GbR"
+    },
+    {
+      "bdew_code": "9985032000007",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 66586,
+      "company_id": 61015,
+      "company_uid": 669234,
+      "company_name": "QuartierKraft GmbH"
+    },
+    {
+      "bdew_code": "9985042000005",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 66598,
+      "company_id": 61027,
+      "company_uid": 669246,
+      "company_name": "SIRIUS SUN 1 GmbH"
+    },
+    {
+      "bdew_code": "9985046000001",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 66603,
+      "company_id": 61034,
+      "company_uid": 669253,
+      "company_name": "Nomos GmbH"
+    },
+    {
+      "bdew_code": "9985047000000",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 66604,
+      "company_id": 61034,
+      "company_uid": 669253,
+      "company_name": "Nomos GmbH"
+    }
+  ],
   "codes_changed": [],
   "companies_added_ids": [
-    19132,
-    57828,
-    58324
+    64273,
+    64277
   ],
-  "companies_removed_ids": [],
+  "companies_removed_ids": [
+    58441,
+    59155,
+    59724,
+    59853,
+    59920,
+    60040,
+    60138,
+    60153,
+    60370,
+    60585,
+    60620,
+    60814,
+    60850,
+    60875,
+    60877,
+    60887,
+    61015,
+    61027,
+    61034
+  ],
   "companies_changed": [],
   "summary": {
-    "codes_added": 6,
-    "codes_removed": 0,
+    "codes_added": 3,
+    "codes_removed": 21,
     "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 3,
-    "companies_removed": 0,
+    "companies_added": 2,
+    "companies_removed": 19,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",

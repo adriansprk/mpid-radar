@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-24",
-      "published_at": "2026-10-24T05:51:52+00:00",
-      "content_hash": "9eca95bfcd9aec1551e2812ed89de4fd20f8c5dac2b671495f95b778ca3e791d"
+      "version": "2026-10-27",
+      "published_at": "2026-10-27T06:18:42+00:00",
+      "content_hash": "062c34c58d10124f37cb96e0ca8e188c1f719740bd4fc0f73eb4ec8b955a4a40"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-24T05:47:42.737950+00:00",
+      "observed_at": "2026-10-27T06:13:59.473278+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4388,
-      "market_partners": 9140,
+      "companies": 4371,
+      "market_partners": 9122,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-24T05:47:42.737950+00:00",
+      "cleaned_at": "2026-10-27T06:13:59.473278+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -877,11 +877,6 @@
       "company_name": "Andreas Huber"
     },
     {
-      "company_id": 59724,
-      "company_uid": 667943,
-      "company_name": "Andreas Krug"
-    },
-    {
       "company_id": 59325,
       "company_uid": 667553,
       "company_name": "Andreas Roidl Biogasanlage GbR"
@@ -1075,11 +1070,6 @@
       "company_id": 13772,
       "company_uid": 663708,
       "company_name": "Aurubis AG"
-    },
-    {
-      "company_id": 60153,
-      "company_uid": 668372,
-      "company_name": "Autel Netherlands B.V."
     },
     {
       "company_id": 60200,
@@ -1495,11 +1485,6 @@
       "company_id": 58899,
       "company_uid": 667127,
       "company_name": "BaER Energie GmbH"
-    },
-    {
-      "company_id": 60138,
-      "company_uid": 668357,
-      "company_name": "Back & Frost GmbH"
     },
     {
       "company_id": 57193,
@@ -2847,6 +2832,11 @@
       "company_name": "DEC Deutsches EnergieContor GmbH & Co. KG"
     },
     {
+      "company_id": 64277,
+      "company_uid": 670484,
+      "company_name": "DEFAMA Zeitz GmbH & Co. KG"
+    },
+    {
       "company_id": 471,
       "company_uid": 660372,
       "company_name": "DEH Deutsche Energiehandels GmbH"
@@ -2890,11 +2880,6 @@
       "company_id": 25415,
       "company_uid": 664396,
       "company_name": "DIGImeto GmbH & Co. KG"
-    },
-    {
-      "company_id": 60850,
-      "company_uid": 669069,
-      "company_name": "DK Recycling und Roheisen GmbH"
     },
     {
       "company_id": 61575,
@@ -3200,11 +3185,6 @@
       "company_id": 57523,
       "company_uid": 665751,
       "company_name": "Dr. Arno Zips"
-    },
-    {
-      "company_id": 60040,
-      "company_uid": 668259,
-      "company_name": "Dr. Gerhard Bergler"
     },
     {
       "company_id": 60195,
@@ -3745,11 +3725,6 @@
       "company_id": 814,
       "company_uid": 660713,
       "company_name": "ENERGIEUNION GmbH"
-    },
-    {
-      "company_id": 60814,
-      "company_uid": 669033,
-      "company_name": "ENERGO Zone GmbH"
     },
     {
       "company_id": 61286,
@@ -5587,11 +5562,6 @@
       "company_name": "EnergyLink Direkt GmbH & Co. KG"
     },
     {
-      "company_id": 60370,
-      "company_uid": 668589,
-      "company_name": "EnergyPower UG (haftungsbeschränkt)"
-    },
-    {
       "company_id": 894,
       "company_uid": 660792,
       "company_name": "Energysolution GmbH"
@@ -6120,11 +6090,6 @@
       "company_id": 1054,
       "company_uid": 660951,
       "company_name": "Fischereihafen-Betriebsgesellschaft mit beschränkter Haftung"
-    },
-    {
-      "company_id": 60620,
-      "company_uid": 668839,
-      "company_name": "Flachs Surborg Baudienstleistungen GbR"
     },
     {
       "company_id": 61164,
@@ -7902,11 +7867,6 @@
       "company_name": "HKG Energiedienstleistungen GmbH"
     },
     {
-      "company_id": 60585,
-      "company_uid": 668804,
-      "company_name": "HOBA Green Energy GmbH"
-    },
-    {
       "company_id": 61154,
       "company_uid": 669373,
       "company_name": "HOCHTIEF Solarpartner GmbH"
@@ -7930,11 +7890,6 @@
       "company_id": 61496,
       "company_uid": 669712,
       "company_name": "HR Elektrotechnik GmbH"
-    },
-    {
-      "company_id": 59155,
-      "company_uid": 667383,
-      "company_name": "HR Energiemanagement GmbH"
     },
     {
       "company_id": 57093,
@@ -8050,11 +8005,6 @@
       "company_id": 46575,
       "company_uid": 664715,
       "company_name": "Hamburger Stadtentwässerung Anstalt des öffentlichen Rechts"
-    },
-    {
-      "company_id": 60875,
-      "company_uid": 669094,
-      "company_name": "Hamm Solar GbR"
     },
     {
       "company_id": 59352,
@@ -8555,11 +8505,6 @@
       "company_id": 58222,
       "company_uid": 666450,
       "company_name": "Hubertus Kurzen"
-    },
-    {
-      "company_id": 60887,
-      "company_uid": 669106,
-      "company_name": "Hycube Technologies GmbH"
     },
     {
       "company_id": 61719,
@@ -9065,11 +9010,6 @@
       "company_id": 58449,
       "company_uid": 666677,
       "company_name": "Jens Ehlers"
-    },
-    {
-      "company_id": 59920,
-      "company_uid": 668139,
-      "company_name": "Jens Neubauer"
     },
     {
       "company_id": 59007,
@@ -10877,11 +10817,6 @@
       "company_name": "Max Jenne GmbH"
     },
     {
-      "company_id": 59853,
-      "company_uid": 668072,
-      "company_name": "Max Schneidhuber"
-    },
-    {
       "company_id": 1568,
       "company_uid": 661462,
       "company_name": "MaxEnergy GmbH"
@@ -11790,11 +11725,6 @@
       "company_id": 1716,
       "company_uid": 661610,
       "company_name": "Noble Clean Fuels Limited"
-    },
-    {
-      "company_id": 61034,
-      "company_uid": 669253,
-      "company_name": "Nomos GmbH"
     },
     {
       "company_id": 58674,
@@ -12952,11 +12882,6 @@
       "company_name": "Quark Energy Trading Limited"
     },
     {
-      "company_id": 61015,
-      "company_uid": 669234,
-      "company_name": "QuartierKraft GmbH"
-    },
-    {
       "company_id": 59223,
       "company_uid": 667451,
       "company_name": "QuartiersNetz Bayern GmbH"
@@ -14022,11 +13947,6 @@
       "company_name": "SINOVO business solutions GmbH"
     },
     {
-      "company_id": 61027,
-      "company_uid": 669246,
-      "company_name": "SIRIUS SUN 1 GmbH"
-    },
-    {
       "company_id": 64049,
       "company_uid": 670256,
       "company_name": "SISTEMS GmbH"
@@ -14085,11 +14005,6 @@
       "company_id": 61298,
       "company_uid": 669517,
       "company_name": "SOLVAY GmbH"
-    },
-    {
-      "company_id": 60877,
-      "company_uid": 669096,
-      "company_name": "SONNENEXT energy GmbH"
     },
     {
       "company_id": 3214,
@@ -21092,9 +21007,9 @@
       "company_name": "endanet GmbH"
     },
     {
-      "company_id": 58441,
-      "company_uid": 666669,
-      "company_name": "ene't Service GmbH"
+      "company_id": 64273,
+      "company_uid": 670480,
+      "company_name": "ene't MaKo Plus GmbH"
     },
     {
       "company_id": 731,
@@ -81019,15 +80934,6 @@
       "company_name": "Achim und Jochen Ilzhöfer GBR"
     },
     {
-      "bdew_code": "9981932000006",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 63371,
-      "company_id": 58441,
-      "company_uid": 666669,
-      "company_name": "ene't Service GmbH"
-    },
-    {
       "bdew_code": "9981937000001",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -87328,15 +87234,6 @@
       "company_name": "Geib & Meyer GbR"
     },
     {
-      "bdew_code": "9983145000005",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 64599,
-      "company_id": 59155,
-      "company_uid": 667383,
-      "company_name": "HR Energiemanagement GmbH"
-    },
-    {
       "bdew_code": "9983150000008",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -89893,15 +89790,6 @@
       "company_name": "FT Wind GBR"
     },
     {
-      "bdew_code": "9983806000005",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 65282,
-      "company_id": 59724,
-      "company_uid": 667943,
-      "company_name": "Andreas Krug"
-    },
-    {
       "bdew_code": "9983808000003",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -90721,15 +90609,6 @@
       "company_name": "Gerüst-Bauer"
     },
     {
-      "bdew_code": "9983967000001",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 65448,
-      "company_id": 59853,
-      "company_uid": 668072,
-      "company_name": "Max Schneidhuber"
-    },
-    {
       "bdew_code": "9983968000000",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -91133,15 +91012,6 @@
       "company_id": 59919,
       "company_uid": 668138,
       "company_name": "FAMIS GmbH"
-    },
-    {
-      "bdew_code": "9984047000002",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 65529,
-      "company_id": 59920,
-      "company_uid": 668139,
-      "company_name": "Jens Neubauer"
     },
     {
       "bdew_code": "9984048000001",
@@ -91747,15 +91617,6 @@
       "company_name": "United European Electra GmbH"
     },
     {
-      "bdew_code": "9984174000008",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 65660,
-      "company_id": 60040,
-      "company_uid": 668259,
-      "company_name": "Dr. Gerhard Bergler"
-    },
-    {
       "bdew_code": "9984175000007",
       "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
       "role_code": "NN",
@@ -92242,15 +92103,6 @@
       "company_name": "primaholding GmbH"
     },
     {
-      "bdew_code": "9984266000007",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 65757,
-      "company_id": 60138,
-      "company_uid": 668357,
-      "company_name": "Back & Frost GmbH"
-    },
-    {
       "bdew_code": "9984267000006",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -92312,15 +92164,6 @@
       "company_id": 60152,
       "company_uid": 668371,
       "company_name": "Natixis S.A."
-    },
-    {
-      "bdew_code": "9984280000009",
-      "market_function": "Data Provider",
-      "role_code": "DP",
-      "code_row_id": 65773,
-      "company_id": 60153,
-      "company_uid": 668372,
-      "company_name": "Autel Netherlands B.V."
     },
     {
       "bdew_code": "9984282000007",
@@ -93682,15 +93525,6 @@
       "company_name": "Green Wind Operations GmbH"
     },
     {
-      "bdew_code": "9984478000001",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 65985,
-      "company_id": 60370,
-      "company_uid": 668589,
-      "company_name": "EnergyPower UG (haftungsbeschränkt)"
-    },
-    {
       "bdew_code": "9984480000007",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -94267,15 +94101,6 @@
       "company_name": "maincubes Holding & Service GmbH"
     },
     {
-      "bdew_code": "9984571000007",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 66083,
-      "company_id": 59083,
-      "company_uid": 667311,
-      "company_name": "COUNT WESTGASS AS"
-    },
-    {
       "bdew_code": "9984574000004",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
@@ -94744,15 +94569,6 @@
       "company_name": "Qivalo GmbH"
     },
     {
-      "bdew_code": "9984661000008",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 66177,
-      "company_id": 60585,
-      "company_uid": 668804,
-      "company_name": "HOBA Green Energy GmbH"
-    },
-    {
       "bdew_code": "9984663000006",
       "market_function": "Messstellenbetreiber",
       "role_code": "MSB",
@@ -94994,15 +94810,6 @@
       "company_id": 507,
       "company_uid": 660408,
       "company_name": "Dow Olefinverbund GmbH"
-    },
-    {
-      "bdew_code": "9984694000009",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 66214,
-      "company_id": 60620,
-      "company_uid": 668839,
-      "company_name": "Flachs Surborg Baudienstleistungen GbR"
     },
     {
       "bdew_code": "9984695000008",
@@ -96445,15 +96252,6 @@
       "company_name": "Stark Energy GmbH"
     },
     {
-      "bdew_code": "9984882000001",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 66414,
-      "company_id": 60814,
-      "company_uid": 669033,
-      "company_name": "ENERGO Zone GmbH"
-    },
-    {
       "bdew_code": "9984883000000",
       "market_function": "Lieferant",
       "role_code": "LF",
@@ -96715,15 +96513,6 @@
       "company_name": "Rheinisch-Westfälische Technische Hochschule (RWTH) Aachen"
     },
     {
-      "bdew_code": "9984920000004",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 66456,
-      "company_id": 60850,
-      "company_uid": 669069,
-      "company_name": "DK Recycling und Roheisen GmbH"
-    },
-    {
       "bdew_code": "9984921000003",
       "market_function": "Messstellenbetreiber",
       "role_code": "MSB",
@@ -96823,15 +96612,6 @@
       "company_name": "Zerberus Invest GmbH"
     },
     {
-      "bdew_code": "9984933000009",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 66471,
-      "company_id": 60877,
-      "company_uid": 669096,
-      "company_name": "SONNENEXT energy GmbH"
-    },
-    {
       "bdew_code": "9984934000008",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -96877,15 +96657,6 @@
       "company_name": "Dannenberg Energy GmbH & Co. KG"
     },
     {
-      "bdew_code": "9984941000009",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 66481,
-      "company_id": 60887,
-      "company_uid": 669106,
-      "company_name": "Hycube Technologies GmbH"
-    },
-    {
       "bdew_code": "9984942000008",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -96893,15 +96664,6 @@
       "company_id": 60888,
       "company_uid": 669107,
       "company_name": "Dafnis Aps"
-    },
-    {
-      "bdew_code": "9984943000007",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 66483,
-      "company_id": 60875,
-      "company_uid": 669094,
-      "company_name": "Hamm Solar GbR"
     },
     {
       "bdew_code": "9984944000006",
@@ -97543,15 +97305,6 @@
       "company_name": "Carl Zeiss GOM Metrology GmbH"
     },
     {
-      "bdew_code": "9985032000007",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 66586,
-      "company_id": 61015,
-      "company_uid": 669234,
-      "company_name": "QuartierKraft GmbH"
-    },
-    {
       "bdew_code": "9985034000005",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -97615,15 +97368,6 @@
       "company_name": "Münch Energie GmbH & Co. KG"
     },
     {
-      "bdew_code": "9985042000005",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 66598,
-      "company_id": 61027,
-      "company_uid": 669246,
-      "company_name": "SIRIUS SUN 1 GmbH"
-    },
-    {
       "bdew_code": "9985043000004",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -97649,24 +97393,6 @@
       "company_id": 60562,
       "company_uid": 668781,
       "company_name": "empact GmbH"
-    },
-    {
-      "bdew_code": "9985046000001",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 66603,
-      "company_id": 61034,
-      "company_uid": 669253,
-      "company_name": "Nomos GmbH"
-    },
-    {
-      "bdew_code": "9985047000000",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 66604,
-      "company_id": 61034,
-      "company_uid": 669253,
-      "company_name": "Nomos GmbH"
     },
     {
       "bdew_code": "9985048000009",
@@ -104219,6 +103945,33 @@
       "company_id": 64226,
       "company_uid": 670433,
       "company_name": "Salux GmbH"
+    },
+    {
+      "bdew_code": "9985886000005",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68521,
+      "company_id": 64273,
+      "company_uid": 670480,
+      "company_name": "ene't MaKo Plus GmbH"
+    },
+    {
+      "bdew_code": "9985887000004",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68522,
+      "company_id": 64277,
+      "company_uid": 670484,
+      "company_name": "DEFAMA Zeitz GmbH & Co. KG"
+    },
+    {
+      "bdew_code": "9985888000003",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68523,
+      "company_id": 64076,
+      "company_uid": 670283,
+      "company_name": "MEGGLE Bakery GmbH"
     },
     {
       "bdew_code": "9987098000005",
