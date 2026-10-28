@@ -230,6 +230,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 8719333051550,Bilanzkreisverantwortlicher,BKV,669781,Flexia B.V.,61579,67026
 8719333052120,Lieferant,LF,669781,Flexia B.V.,61579,67064
 8720844058549,Bilanzkreisverantwortlicher,BKV,669745,Faraday Trading BV,61543,66999
+8884300015825,Bilanzkreisverantwortlicher,BKV,670490,Wintermute Asia Pte Ltd,64283,68527
 9099999129718,Bilanzkreisverantwortlicher,BKV,661525,MVM ONEnergy Zrt.,1631,3040
 9099999134194,Bilanzkreisverantwortlicher,BKV,664465,GASELA GmbH,29446,35441
 9120011070005,Bilanzkreisverantwortlicher,BKV,660058,"Salzburg AG für Energie, Verkehr und Telekommunikation",125,3584
@@ -8074,6 +8075,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9984653000008,Messstellenbetreiber,MSB,668796,TCA Sustainable Energy Solutions GmbH,60577,66169
 9984656000005,Einsatzverantwortlicher,EIV,665986,Danpower New Energy GmbH,57758,66172
 9984658000003,Energieserviceanbieter des Anschlussnutzers,ESA,668802,Qivalo GmbH,60583,66174
+9984661000008,Bilanzkreisverantwortlicher,BKV,668804,HOBA Green Energy GmbH,60585,66177
 9984663000006,Messstellenbetreiber,MSB,661939,Stadtwerke Barmstedt Xtra GmbH,2049,66179
 9984665000004,Messstellenbetreiber,MSB,668809,COUNTROL GmbH,60590,66181
 9984666000003,Energieserviceanbieter des Anschlussnutzers,ESA,668809,COUNTROL GmbH,60590,66182
@@ -8307,6 +8309,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9984937000005,Betreiber einer technischen Ressource,BTR,669100,TBS Betonanlagen Vermietungs-GmbH,60881,66475
 9984940000000,Energieserviceanbieter des Anschlussnutzers,ESA,669105,Dannenberg Energy GmbH & Co. KG,60886,66480
 9984942000008,Bilanzkreisverantwortlicher,BKV,669107,Dafnis Aps,60888,66482
+9984943000007,Einsatzverantwortlicher,EIV,669094,Hamm Solar GbR,60875,66483
 9984944000006,Einsatzverantwortlicher,EIV,660079,Teutoburger Energie Netzwerk eG (TEN eG),164,66484
 9984945000005,Messstellenbetreiber,MSB,665600,Oli Systems GmbH,57372,66485
 9984946000004,Bilanzkreisverantwortlicher,BKV,669110,ORLEN Energia Sp. z o.o.,60891,66486
@@ -8388,6 +8391,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985043000004,Betreiber einer technischen Ressource,BTR,669252,GreenTEC Solutions GmbH,61033,66600
 9985044000003,Energieserviceanbieter des Anschlussnutzers,ESA,662699,WestfalenWIND Strom GmbH,2814,66601
 9985045000002,Energieserviceanbieter des Anschlussnutzers,ESA,668781,empact GmbH,60562,66602
+9985046000001,Lieferant,LF,669253,Nomos GmbH,61034,66603
+9985047000000,Bilanzkreisverantwortlicher,BKV,669253,Nomos GmbH,61034,66604
 9985048000009,Lieferant,LF,669245,Münch Energie GmbH & Co. KG,61026,66605
 9985049000008,Bilanzkreisverantwortlicher,BKV,669254,Exxonmobil Gas Marketing Europe LTD,61035,66606
 9985051000004,Einsatzverantwortlicher,EIV,667644,decarbon1ze GmbH,59416,66609
@@ -8419,7 +8424,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985083000006,Bilanzkreisverantwortlicher,BKV,669305,Nordenhamer Zinkhütte GmbH,61086,66644
 9985084000005,Einsatzverantwortlicher,EIV,664625,E.MAGIS energy GmbH,39514,66645
 9985085000004,Betreiber einer technischen Ressource,BTR,664625,E.MAGIS energy GmbH,39514,66646
-9985086000003,Einsatzverantwortlicher,EIV,669306,Fuß Fahrzeug- und Maschinenbau GmbH & Co. KG,61087,66647
 9985087000002,Energieserviceanbieter des Anschlussnutzers,ESA,669299,sicos solutions GmbH,61080,66648
 9985088000001,Bilanzkreisverantwortlicher,BKV,669262,VWG Trade & Services GmbH,61043,66649
 9985089000000,Lieferant,LF,669310,Energiepark Letschin SP L GmbH & Co. KG,61091,66650
@@ -8464,8 +8468,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985130000008,Messstellenbetreiber,MSB,664066,EINHUNDERT Energie GmbH,19116,66695
 9985131000007,Lieferant,LF,664613,Richtwerk Energie GmbH,39502,66696
 9985132000006,Messstellenbetreiber,MSB,666848,Mako365 GmbH,58620,66697
-9985133000005,Energieserviceanbieter des Anschlussnutzers,ESA,669370,Smartii GmbH,61151,66698
-9985134000004,Messstellenbetreiber,MSB,669370,Smartii GmbH,61151,66699
 9985137000001,Lieferant,LF,669373,HOCHTIEF Solarpartner GmbH,61154,66702
 9985140000006,Messstellenbetreiber,MSB,669376,Jochen Lenz,61157,66705
 9985141000005,Bilanzkreisverantwortlicher,BKV,664356,Stadtwerke Sankt Augustin GmbH,23386,66706
@@ -8487,8 +8489,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985165000007,Bilanzkreisverantwortlicher,BKV,663388,17er Oberlandenergie GmbH,3521,66732
 9985166000006,Lieferant,LF,669406,Lynus Deutschland GmbH,61187,66734
 9985167000005,Bilanzkreisverantwortlicher,BKV,669406,Lynus Deutschland GmbH,61187,66735
-9985169000003,Einsatzverantwortlicher,EIV,669408,FinCConsult GmbH,61189,66737
-9985170000000,Bilanzkreisverantwortlicher,BKV,669404,Ecobat Resources Freiberg GmbH,61185,66738
+9985170000000,Bilanzkreisverantwortlicher,BKV,669404,Clarios Recycling Freiberg GmbH,61185,66738
 9985171000009,Einsatzverantwortlicher,EIV,668685,Stadtwerke Zerbst GmbH,60466,66739
 9985172000008,Betreiber einer technischen Ressource,BTR,668685,Stadtwerke Zerbst GmbH,60466,66740
 9985173000007,Betreiber einer technischen Ressource,BTR,667356,Anno-Plan GmbH,59128,66741
@@ -8529,7 +8530,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985215000006,Lieferant,LF,669463,IE Innovative Energy GmbH,61244,66786
 9985216000005,Messstellenbetreiber,MSB,669470,Energy Metering Germany GmbH,61251,66787
 9985217000004,Betreiber einer technischen Ressource,BTR,662028,Stadtwerke Feuchtwangen,2140,66788
-9985218000003,Einsatzverantwortlicher,EIV,669472,GEHO-Solartechnik GmbH,61253,66789
 9985219000002,Bilanzkreisverantwortlicher,BKV,669474,UniCredit SpA,61255,66790
 9985220000009,Energieserviceanbieter des Anschlussnutzers,ESA,669449,Advizeo Deutschland GmbH,61230,66791
 9985221000008,Bilanzkreisverantwortlicher,BKV,669463,IE Innovative Energy GmbH,61244,66792
@@ -8585,12 +8585,10 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985275000004,Einsatzverantwortlicher,EIV,669575,Klaus Horstmann Solar,61356,66853
 9985276000003,Betreiber einer technischen Ressource,BTR,669576,Annett Schmidt & Torsten Schmidt,61357,66854
 9985277000002,Einsatzverantwortlicher,EIV,669576,Annett Schmidt & Torsten Schmidt,61357,66855
-9985278000001,Data Provider,DP,669577,Streem Energy,61358,66856
 9985279000000,Energieserviceanbieter des Anschlussnutzers,ESA,669579,Raiffeisen-Warengenossenschaft Niedersachsen Mitte eG,61360,66857
 9985280000007,Energieserviceanbieter des Anschlussnutzers,ESA,669580,juna.ai GmbH,61361,66858
 9985281000006,Messstellenbetreiber,MSB,669586,Energie am See GmbH,61367,66859
 9985282000005,Energieserviceanbieter des Anschlussnutzers,ESA,669588,metergrid GmbH,61369,66860
-9985283000004,Lieferant,LF,669589,urkrafft GmbH,61370,66861
 9985284000003,Bilanzkreisverantwortlicher,BKV,669591,Impact Energy Trading A/S,61372,66862
 9985285000002,Energieserviceanbieter des Anschlussnutzers,ESA,661468,Meine-Energie GmbH,1574,66863
 9985287000000,Energieserviceanbieter des Anschlussnutzers,ESA,669593,bitnify GmbH,61374,66865
@@ -8646,7 +8644,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985344000000,Messstellenbetreiber,MSB,669222,Rossmann EcoPower GmbH,61003,66927
 9985348000006,Energieserviceanbieter des Anschlussnutzers,ESA,669613,GASCADE Gastransport GmbH,61394,66931
 9985351000001,Betreiber einer technischen Ressource,BTR,669670,Donautal Geflügelspezialitäten Zweigniederlassung der LOHMANN & Co. AKTIENGESELLSCHAFT,61451,66934
-9985352000000,Lieferant,LF,669672,Medizinische Hochschule Hannover (MHH),61453,66935
 9985353000009,Netznutzer ohne All-Inklusiv-Vertrag,NN,669673,GRILLO Chemicals GmbH,61454,66936
 9985354000008,Bilanzkreisverantwortlicher,BKV,669674,BETEL SA,61455,66938
 9985356000006,Bilanzkreisverantwortlicher,BKV,669519,LandStrom Energie GmbH,61300,66940
@@ -8690,7 +8687,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985403000008,Bilanzkreisverantwortlicher,BKV,669733,G-Energy GmbH,61531,66995
 9985404000007,Betreiber einer technischen Ressource,BTR,669735,Merkur Frucht Freiburg GmbH,61533,66996
 9985405000006,Energieserviceanbieter des Anschlussnutzers,ESA,669740,Energiepark Rieps GmbH & Co. KG,61538,66997
-9985406000005,Betreiber einer technischen Ressource,BTR,669744,EcoEnergy Solutions LLC,61542,66998
 9985407000004,Bilanzkreisverantwortlicher,BKV,669746,AEW Energie AG,61544,67000
 9985408000003,Bilanzkreisverantwortlicher,BKV,669747,PK Trade ApS,61545,67001
 9985409000002,Lieferant,LF,669532,LINPAC Packaging GmbH,61313,67002
@@ -8732,7 +8728,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985450000001,Einsatzverantwortlicher,EIV,669805,Alexianer Klinikum Hochsauerland GmbH,61603,67046
 9985451000000,Betreiber einer technischen Ressource,BTR,669806,Kuhle & Nitschke GbR,61604,67047
 9985452000009,Einsatzverantwortlicher,EIV,669807,UCL Umwelt Control Labor GmbH,61605,67048
-9985453000008,Energieserviceanbieter des Anschlussnutzers,ESA,669577,Streem Energy,61358,67050
 9985454000007,Energieserviceanbieter des Anschlussnutzers,ESA,661756,Stadtwerke Duisburg Energiehandel GmbH,1864,67052
 9985455000006,Bilanzkreisverantwortlicher,BKV,669813,TriaSoft GmbH,61611,67053
 9985457000004,Energieserviceanbieter des Anschlussnutzers,ESA,669816,Elektrosysteme Schmidt GmbH,61614,67055
@@ -8760,13 +8755,11 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985480000005,Betreiber einer technischen Ressource,BTR,664796,enspired GmbH,50604,67081
 9985481000004,Einsatzverantwortlicher,EIV,661069,Gemeindewerke Neuendettelsau,1172,67082
 9985482000003,Bilanzkreisverantwortlicher,BKV,669851,"IMC Trading B.V. NL, Denmark filial",61649,67083
-9985483000002,Energieserviceanbieter des Anschlussnutzers,ESA,669852,EMPURON energy GmbH,61650,67084
 9985484000001,Messstellenbetreiber,MSB,669618,Industriepark Neckarsulm Energie GmbH,61399,67085
 9985485000000,Energieserviceanbieter des Anschlussnutzers,ESA,669732,creomnia GmbH,61530,67086
 9985486000009,Lieferant,LF,669856,Energie Bottwartal GmbH,61654,67087
 9985487000008,Einsatzverantwortlicher,EIV,669857,Katholische Hospitalvereinigung Thüringen gGmbH,61655,67089
 9985489000006,Bilanzkreisverantwortlicher,BKV,669860,Otark Energy Services GmbH,61658,67091
-9985490000003,Bilanzkreisverantwortlicher,BKV,669869,Alpine Energy Partners SA,61667,67095
 9985491000002,Einsatzverantwortlicher,EIV,669875,AGM Energie GmbH & Co. KG,61673,67097
 9985492000001,Energieserviceanbieter des Anschlussnutzers,ESA,669876,Elektro Krekker,61674,67098
 9985493000000,Lieferant,LF,669623,netzplus GmbH & Co. KG,61404,67100
@@ -8800,7 +8793,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985526000000,Netznutzer ohne All-Inklusiv-Vertrag,NN,669918,Deutsche Edelstahlwerke Witten/Krefeld GmbH & Co.KG,61716,67135
 9985527000009,Lieferant,LF,669919,Vetra Energie GmbH,61717,67137
 9985528000008,Bilanzkreisverantwortlicher,BKV,669919,Vetra Energie GmbH,61717,67138
-9985529000007,Bilanzkreisverantwortlicher,BKV,669921,Hydro Energo s.r.o.,61719,67139
 9985530000004,Betreiber einer technischen Ressource,BTR,662095,Stadtwerke Hettstedt GmbH,2207,67140
 9985531000003,Energieserviceanbieter des Anschlussnutzers,ESA,669924,Gast & Partner GmbH,61722,67141
 9985532000002,Bilanzkreisverantwortlicher,BKV,669927,BeNiTho I eGbR,61725,67142
@@ -8817,8 +8809,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985543000009,Betreiber einer technischen Ressource,BTR,662678,EnBW Energy Factory GmbH,2792,68149
 9985544000008,Bilanzkreisverantwortlicher,BKV,669936,Hochwald Foods GmbH,62733,68150
 9985545000007,Bilanzkreisverantwortlicher,BKV,669938,Secondlaw Technologies Limited,62735,68151
-9985546000006,Einsatzverantwortlicher,EIV,669809,Creatica GmbH,61607,68153
-9985547000005,Betreiber einer technischen Ressource,BTR,669809,Creatica GmbH,61607,68154
 9985548000004,Energieserviceanbieter des Anschlussnutzers,ESA,669945,Dr.-Ing. Johannes Winter,62742,68155
 9985549000003,Einsatzverantwortlicher,EIV,669946,St. Benno Buch und Zeitschriften Verlagsgesellschaft mbH Leipzig Verlagsgesellschaft mbH Leipzig,62743,68156
 9985550000000,Bilanzkreisverantwortlicher,BKV,669947,Hertzify UG (haftungsbeschränkt),62744,68157
@@ -8862,24 +8852,17 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985591000001,Betreiber einer technischen Ressource,BTR,670002,Seerose Energie GmbH,62799,68199
 9985592000000,Energieserviceanbieter des Anschlussnutzers,ESA,667340,1KOMMA5° Göttingen GmbH,59112,68200
 9985593000009,Betreiber einer technischen Ressource,BTR,668494,VIOCON GmbH,60275,68201
-9985594000008,Energieserviceanbieter des Anschlussnutzers,ESA,670008,Akkodis Germany Consulting GmbH,62805,68202
-9985597000005,Energieserviceanbieter des Anschlussnutzers,ESA,670013,ENVIRIA Business Solutions GmbH,62810,68205
 9985599000003,Bilanzkreisverantwortlicher,BKV,670016,FGH GmbH,62813,68207
 9985600000009,Energieserviceanbieter des Anschlussnutzers,ESA,670017,e:fs TechHub GmbH,62814,68208
-9985601000008,Betreiber einer technischen Ressource,BTR,670020,Quadt GmbH & Co. KG,62817,68209
 9985602000007,Lieferant,LF,670021,innolab.energy GmbH,62818,68210
 9985603000006,Betreiber einer technischen Ressource,BTR,669822,Reel Energy GmbH,61620,68211
 9985604000005,Energieserviceanbieter des Anschlussnutzers,ESA,660104,Technische Werke Schussental GmbH & Co. KG,196,68212
 9985605000004,Energieserviceanbieter des Anschlussnutzers,ESA,669019,wpd windmanager GmbH & Co. KG,60800,68213
 9985606000003,Bilanzkreisverantwortlicher,BKV,670021,innolab.energy GmbH,62818,68214
-9985607000002,Betreiber einer technischen Ressource,BTR,670022,RheinhessenWind 1 GmbH & Co. KG,62819,68215
-9985608000001,Betreiber einer technischen Ressource,BTR,670023,RheinhessenWind 2 GmbH & Co. KG,62820,68216
-9985609000000,Betreiber einer technischen Ressource,BTR,670024,RheinhessenWind 3 GmbH & Co. KG,62821,68217
 9985610000007,Bilanzkreisverantwortlicher,BKV,670025,Fuse GmbH,62822,68218
 9985611000006,Bilanzkreisverantwortlicher,BKV,670026,FriesenWerk GmbH,62823,68219
 9985612000005,Messstellenbetreiber,MSB,670027,Octopus Energy Services Germany GmbH,62824,68220
 9985613000004,Bilanzkreisverantwortlicher,BKV,670029,Energieflüsse Handel GmbH,62826,68221
-9985614000003,Energieserviceanbieter des Anschlussnutzers,ESA,670030,RENOVA NEW ENERGY TECHNOLOGY (EUROPE) GmbH,62827,68222
 9985615000002,Energieserviceanbieter des Anschlussnutzers,ESA,670034,Sonnenmieter UG (haftungsbeschränkt),62831,68224
 9985616000001,Bilanzkreisverantwortlicher,BKV,670035,Second Foundation Trading AG,62832,68225
 9985617000000,Lieferant,LF,670035,Second Foundation Trading AG,62832,68226
@@ -8964,7 +8947,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985704000004,Energieserviceanbieter des Anschlussnutzers,ESA,670161,Levo GmbH,63954,68322
 9985705000003,Bilanzkreisverantwortlicher,BKV,670163,BG Energy d.o.o.,63956,68323
 9985706000002,Bilanzkreisverantwortlicher,BKV,670165,EBX Technologies GmbH,63958,68324
-9985707000001,Energieserviceanbieter des Anschlussnutzers,ESA,670166,InnoMieter GmbH,63959,68325
 9985708000000,Energieserviceanbieter des Anschlussnutzers,ESA,670167,WSS Energy Services GmbH & Co. KG,63960,68326
 9985709000009,Lieferant,LF,670170,Energie Schömberg GmbH,63963,68327
 9985710000006,Energieserviceanbieter des Anschlussnutzers,ESA,665082,IP Innovative Power GmbH,56854,68328
@@ -9041,7 +9023,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985789000003,Lieferant,LF,666030,Glencore Energy UK Ltd,57802,68410
 9985790000000,Lieferant,LF,670276,Cloover Energy GmbH,64069,68411
 9985791000009,Messstellenbetreiber,MSB,670278,Altenberger Elektroservice GmbH,64071,68412
-9985793000007,Einsatzverantwortlicher,EIV,670204,Windanker GmbH,63997,68414
 9985794000006,Data Provider,DP,670279,EnergieDock GmbH,64072,68415
 9985795000005,Einsatzverantwortlicher,EIV,666030,Glencore Energy UK Ltd,57802,68416
 9985796000004,Betreiber einer technischen Ressource,BTR,666030,Glencore Energy UK Ltd,57802,68417
@@ -9119,5 +9100,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985886000005,Energieserviceanbieter des Anschlussnutzers,ESA,670480,ene't MaKo Plus GmbH,64273,68521
 9985887000004,Betreiber einer technischen Ressource,BTR,670484,DEFAMA Zeitz GmbH & Co. KG,64277,68522
 9985888000003,Einsatzverantwortlicher,EIV,670283,MEGGLE Bakery GmbH,64076,68523
+9985889000002,Einsatzverantwortlicher,EIV,670486,Landwirtschaftliche Lehranstalten Triesdorf,64279,68524
+9985891000008,Lieferant,LF,662663,illwerke vkw AG,2777,68526
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

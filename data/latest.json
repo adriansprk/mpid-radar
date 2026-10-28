@@ -2,29 +2,29 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-27",
-      "published_at": "2026-10-27T06:18:42+00:00",
-      "content_hash": "062c34c58d10124f37cb96e0ca8e188c1f719740bd4fc0f73eb4ec8b955a4a40"
+      "version": "2026-10-28",
+      "published_at": "2026-10-28T06:54:01+00:00",
+      "content_hash": "e62ba5b4a67c94f2574e50bd86a64d31ef54a629d5aafc86446cad6a05a9007b"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-27T06:13:59.473278+00:00",
+      "observed_at": "2026-10-28T06:49:47.297259+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4371,
-      "market_partners": 9122,
+      "companies": 4355,
+      "market_partners": 9105,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-27T06:13:59.473278+00:00",
+      "cleaned_at": "2026-10-28T06:49:47.297259+00:00",
       "dropped_fields": [
         "contact_name"
       ],
       "normalization": {
-        "companies_normalized": 77,
-        "codes_normalized": 118
+        "companies_normalized": 75,
+        "codes_normalized": 116
       },
       "unknown_roles": [],
       "duplicate_company_names": {
@@ -617,11 +617,6 @@
       "company_name": "Airbus Defence and Space GmbH"
     },
     {
-      "company_id": 62805,
-      "company_uid": 670008,
-      "company_name": "Akkodis Germany Consulting GmbH"
-    },
-    {
       "company_id": 3329,
       "company_uid": 663206,
       "company_name": "Aktien-Gesellschaft der Dillinger Hüttenwerke (Société Anonyme des Forges et Aciéres de Dilling)"
@@ -745,11 +740,6 @@
       "company_id": 38498,
       "company_uid": 664605,
       "company_name": "Alphataraxia Europium B.V."
-    },
-    {
-      "company_id": 61667,
-      "company_uid": 669869,
-      "company_name": "Alpine Energy Partners SA"
     },
     {
       "company_id": 245,
@@ -2657,6 +2647,11 @@
       "company_name": "Citigroup Global Markets Limited"
     },
     {
+      "company_id": 61185,
+      "company_uid": 669404,
+      "company_name": "Clarios Recycling Freiberg GmbH"
+    },
+    {
       "company_id": 58472,
       "company_uid": 666700,
       "company_name": "Claudia Maahs"
@@ -2740,11 +2735,6 @@
       "company_id": 451,
       "company_uid": 660352,
       "company_name": "Cramer-Mühle GmbH & Co. KG"
-    },
-    {
-      "company_id": 61607,
-      "company_uid": 669809,
-      "company_name": "Creatica GmbH"
     },
     {
       "company_id": 41557,
@@ -3687,11 +3677,6 @@
       "company_name": "EMM-solar KG"
     },
     {
-      "company_id": 61650,
-      "company_uid": 669852,
-      "company_name": "EMPURON energy GmbH"
-    },
-    {
       "company_id": 842,
       "company_uid": 660740,
       "company_name": "EMW Energieversorgung Mainhardt Wüstenrot GmbH & Co KG"
@@ -3845,11 +3830,6 @@
       "company_id": 59536,
       "company_uid": 667764,
       "company_name": "ENTENEO ENERGY TRADING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIANOŚCIĄ"
-    },
-    {
-      "company_id": 62810,
-      "company_uid": 670013,
-      "company_name": "ENVIRIA Business Solutions GmbH"
     },
     {
       "company_id": 60747,
@@ -4142,19 +4122,9 @@
       "company_name": "Eclipse"
     },
     {
-      "company_id": 61542,
-      "company_uid": 669744,
-      "company_name": "EcoEnergy Solutions LLC"
-    },
-    {
       "company_id": 60434,
       "company_uid": 668653,
       "company_name": "EcoPlanet Green Operations GmbH"
-    },
-    {
-      "company_id": 61185,
-      "company_uid": 669404,
-      "company_name": "Ecobat Resources Freiberg GmbH"
     },
     {
       "company_id": 50608,
@@ -6052,11 +6022,6 @@
       "company_name": "Filderstadtwerke"
     },
     {
-      "company_id": 61189,
-      "company_uid": 669408,
-      "company_name": "FinCConsult GmbH"
-    },
-    {
       "company_id": 59022,
       "company_uid": 667250,
       "company_name": "Fina Markus"
@@ -6447,11 +6412,6 @@
       "company_name": "Fuxx - Die Sparenergie GmbH"
     },
     {
-      "company_id": 61087,
-      "company_uid": 669306,
-      "company_name": "Fuß Fahrzeug- und Maschinenbau GmbH & Co. KG"
-    },
-    {
       "company_id": 59464,
       "company_uid": 667692,
       "company_name": "Fußner GmbH"
@@ -6530,11 +6490,6 @@
       "company_id": 29446,
       "company_uid": 664465,
       "company_name": "GASELA GmbH"
-    },
-    {
-      "company_id": 61253,
-      "company_uid": 669472,
-      "company_name": "GEHO-Solartechnik GmbH"
     },
     {
       "company_id": 1111,
@@ -7867,6 +7822,11 @@
       "company_name": "HKG Energiedienstleistungen GmbH"
     },
     {
+      "company_id": 60585,
+      "company_uid": 668804,
+      "company_name": "HOBA Green Energy GmbH"
+    },
+    {
       "company_id": 61154,
       "company_uid": 669373,
       "company_name": "HOCHTIEF Solarpartner GmbH"
@@ -8005,6 +7965,11 @@
       "company_id": 46575,
       "company_uid": 664715,
       "company_name": "Hamburger Stadtentwässerung Anstalt des öffentlichen Rechts"
+    },
+    {
+      "company_id": 60875,
+      "company_uid": 669094,
+      "company_name": "Hamm Solar GbR"
     },
     {
       "company_id": 59352,
@@ -8507,11 +8472,6 @@
       "company_name": "Hubertus Kurzen"
     },
     {
-      "company_id": 61719,
-      "company_uid": 669921,
-      "company_name": "Hydro Energo s.r.o."
-    },
-    {
       "company_id": 57808,
       "company_uid": 666036,
       "company_name": "Häberle PV GbR"
@@ -8840,11 +8800,6 @@
       "company_id": 60146,
       "company_uid": 668365,
       "company_name": "Ingka Investments Renewable Energy Supply Germany GmbH"
-    },
-    {
-      "company_id": 63959,
-      "company_uid": 670166,
-      "company_name": "InnoMieter GmbH"
     },
     {
       "company_id": 1387,
@@ -10107,6 +10062,11 @@
       "company_name": "Landwind Verwaltungs GmbH & Co. KG"
     },
     {
+      "company_id": 64279,
+      "company_uid": 670486,
+      "company_name": "Landwirtschaftliche Lehranstalten Triesdorf"
+    },
+    {
       "company_id": 58659,
       "company_uid": 666887,
       "company_name": "Lasse Gentzke"
@@ -10850,11 +10810,6 @@
       "company_id": 58028,
       "company_uid": 666256,
       "company_name": "Mediterana GmbH & Co. KG"
-    },
-    {
-      "company_id": 61453,
-      "company_uid": 669672,
-      "company_name": "Medizinische Hochschule Hannover (MHH)"
     },
     {
       "company_id": 58563,
@@ -11725,6 +11680,11 @@
       "company_id": 1716,
       "company_uid": 661610,
       "company_name": "Noble Clean Fuels Limited"
+    },
+    {
+      "company_id": 61034,
+      "company_uid": 669253,
+      "company_name": "Nomos GmbH"
     },
     {
       "company_id": 58674,
@@ -12852,11 +12812,6 @@
       "company_name": "Quadra Energy GmbH"
     },
     {
-      "company_id": 62817,
-      "company_uid": 670020,
-      "company_name": "Quadt GmbH & Co. KG"
-    },
-    {
       "company_id": 4568,
       "company_uid": 663446,
       "company_name": "QuaeroSys UG (haftungsbeschränkt)"
@@ -12965,11 +12920,6 @@
       "company_id": 56813,
       "company_uid": 665041,
       "company_name": "REIMO-Reisemobil-Center Gesellschaft mit beschränkter Haftung Wassersport- und Freizeitbedarf"
-    },
-    {
-      "company_id": 62827,
-      "company_uid": 670030,
-      "company_name": "RENOVA NEW ENERGY TECHNOLOGY (EUROPE) GmbH"
     },
     {
       "company_id": 58077,
@@ -13495,21 +13445,6 @@
       "company_id": 1872,
       "company_uid": 661764,
       "company_name": "RheinNetz GmbH"
-    },
-    {
-      "company_id": 62819,
-      "company_uid": 670022,
-      "company_name": "RheinhessenWind 1 GmbH & Co. KG"
-    },
-    {
-      "company_id": 62820,
-      "company_uid": 670023,
-      "company_name": "RheinhessenWind 2 GmbH & Co. KG"
-    },
-    {
-      "company_id": 62821,
-      "company_uid": 670024,
-      "company_name": "RheinhessenWind 3 GmbH & Co. KG"
     },
     {
       "company_id": 1871,
@@ -14860,11 +14795,6 @@
       "company_id": 60999,
       "company_uid": 669218,
       "company_name": "SmartestEnergy Limited"
-    },
-    {
-      "company_id": 61151,
-      "company_uid": 669370,
-      "company_name": "Smartii GmbH"
     },
     {
       "company_id": 61143,
@@ -18152,11 +18082,6 @@
       "company_name": "Stern Strom GmbH"
     },
     {
-      "company_id": 61358,
-      "company_uid": 669577,
-      "company_name": "Streem Energy"
-    },
-    {
       "company_id": 61127,
       "company_uid": 669346,
       "company_name": "Streiff & Helmold Gesellschaft mit beschränkter Haftung"
@@ -20372,11 +20297,6 @@
       "company_name": "WindMW GmbH"
     },
     {
-      "company_id": 63997,
-      "company_uid": 670204,
-      "company_name": "Windanker GmbH"
-    },
-    {
       "company_id": 61621,
       "company_uid": 669823,
       "company_name": "Windenergie Suttrop GbR"
@@ -20395,6 +20315,11 @@
       "company_id": 21292,
       "company_uid": 664245,
       "company_name": "Windströöm GmbH"
+    },
+    {
+      "company_id": 64283,
+      "company_uid": 670490,
+      "company_name": "Wintermute Asia Pte Ltd"
     },
     {
       "company_id": 58633,
@@ -21715,11 +21640,6 @@
       "company_id": 64038,
       "company_uid": 670245,
       "company_name": "toolcraft AG"
-    },
-    {
-      "company_id": 61370,
-      "company_uid": 669589,
-      "company_name": "urkrafft GmbH"
     },
     {
       "company_id": 2710,
@@ -23971,6 +23891,15 @@
       "company_id": 61543,
       "company_uid": 669745,
       "company_name": "Faraday Trading BV"
+    },
+    {
+      "bdew_code": "8884300015825",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68527,
+      "company_id": 64283,
+      "company_uid": 670490,
+      "company_name": "Wintermute Asia Pte Ltd"
     },
     {
       "bdew_code": "9099999129718",
@@ -94569,6 +94498,15 @@
       "company_name": "Qivalo GmbH"
     },
     {
+      "bdew_code": "9984661000008",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 66177,
+      "company_id": 60585,
+      "company_uid": 668804,
+      "company_name": "HOBA Green Energy GmbH"
+    },
+    {
       "bdew_code": "9984663000006",
       "market_function": "Messstellenbetreiber",
       "role_code": "MSB",
@@ -96666,6 +96604,15 @@
       "company_name": "Dafnis Aps"
     },
     {
+      "bdew_code": "9984943000007",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 66483,
+      "company_id": 60875,
+      "company_uid": 669094,
+      "company_name": "Hamm Solar GbR"
+    },
+    {
       "bdew_code": "9984944000006",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -97395,6 +97342,24 @@
       "company_name": "empact GmbH"
     },
     {
+      "bdew_code": "9985046000001",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 66603,
+      "company_id": 61034,
+      "company_uid": 669253,
+      "company_name": "Nomos GmbH"
+    },
+    {
+      "bdew_code": "9985047000000",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 66604,
+      "company_id": 61034,
+      "company_uid": 669253,
+      "company_name": "Nomos GmbH"
+    },
+    {
       "bdew_code": "9985048000009",
       "market_function": "Lieferant",
       "role_code": "LF",
@@ -97672,15 +97637,6 @@
       "company_id": 39514,
       "company_uid": 664625,
       "company_name": "E.MAGIS energy GmbH"
-    },
-    {
-      "bdew_code": "9985086000003",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 66647,
-      "company_id": 61087,
-      "company_uid": 669306,
-      "company_name": "Fuß Fahrzeug- und Maschinenbau GmbH & Co. KG"
     },
     {
       "bdew_code": "9985087000002",
@@ -98079,24 +98035,6 @@
       "company_name": "Mako365 GmbH"
     },
     {
-      "bdew_code": "9985133000005",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 66698,
-      "company_id": 61151,
-      "company_uid": 669370,
-      "company_name": "Smartii GmbH"
-    },
-    {
-      "bdew_code": "9985134000004",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 66699,
-      "company_id": 61151,
-      "company_uid": 669370,
-      "company_name": "Smartii GmbH"
-    },
-    {
       "bdew_code": "9985137000001",
       "market_function": "Lieferant",
       "role_code": "LF",
@@ -98286,22 +98224,13 @@
       "company_name": "Lynus Deutschland GmbH"
     },
     {
-      "bdew_code": "9985169000003",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 66737,
-      "company_id": 61189,
-      "company_uid": 669408,
-      "company_name": "FinCConsult GmbH"
-    },
-    {
       "bdew_code": "9985170000000",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
       "code_row_id": 66738,
       "company_id": 61185,
       "company_uid": 669404,
-      "company_name": "Ecobat Resources Freiberg GmbH"
+      "company_name": "Clarios Recycling Freiberg GmbH"
     },
     {
       "bdew_code": "9985171000009",
@@ -98662,15 +98591,6 @@
       "company_id": 2140,
       "company_uid": 662028,
       "company_name": "Stadtwerke Feuchtwangen"
-    },
-    {
-      "bdew_code": "9985218000003",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 66789,
-      "company_id": 61253,
-      "company_uid": 669472,
-      "company_name": "GEHO-Solartechnik GmbH"
     },
     {
       "bdew_code": "9985219000002",
@@ -99168,15 +99088,6 @@
       "company_name": "Annett Schmidt & Torsten Schmidt"
     },
     {
-      "bdew_code": "9985278000001",
-      "market_function": "Data Provider",
-      "role_code": "DP",
-      "code_row_id": 66856,
-      "company_id": 61358,
-      "company_uid": 669577,
-      "company_name": "Streem Energy"
-    },
-    {
       "bdew_code": "9985279000000",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
@@ -99211,15 +99122,6 @@
       "company_id": 61369,
       "company_uid": 669588,
       "company_name": "metergrid GmbH"
-    },
-    {
-      "bdew_code": "9985283000004",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 66861,
-      "company_id": 61370,
-      "company_uid": 669589,
-      "company_name": "urkrafft GmbH"
     },
     {
       "bdew_code": "9985284000003",
@@ -99717,15 +99619,6 @@
       "company_name": "Donautal Geflügelspezialitäten Zweigniederlassung der LOHMANN & Co. AKTIENGESELLSCHAFT"
     },
     {
-      "bdew_code": "9985352000000",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 66935,
-      "company_id": 61453,
-      "company_uid": 669672,
-      "company_name": "Medizinische Hochschule Hannover (MHH)"
-    },
-    {
       "bdew_code": "9985353000009",
       "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
       "role_code": "NN",
@@ -100113,15 +100006,6 @@
       "company_name": "Energiepark Rieps GmbH & Co. KG"
     },
     {
-      "bdew_code": "9985406000005",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 66998,
-      "company_id": 61542,
-      "company_uid": 669744,
-      "company_name": "EcoEnergy Solutions LLC"
-    },
-    {
       "bdew_code": "9985407000004",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -100491,15 +100375,6 @@
       "company_name": "UCL Umwelt Control Labor GmbH"
     },
     {
-      "bdew_code": "9985453000008",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 67050,
-      "company_id": 61358,
-      "company_uid": 669577,
-      "company_name": "Streem Energy"
-    },
-    {
       "bdew_code": "9985454000007",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
@@ -100743,15 +100618,6 @@
       "company_name": "IMC Trading B.V. NL, Denmark filial"
     },
     {
-      "bdew_code": "9985483000002",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 67084,
-      "company_id": 61650,
-      "company_uid": 669852,
-      "company_name": "EMPURON energy GmbH"
-    },
-    {
       "bdew_code": "9985484000001",
       "market_function": "Messstellenbetreiber",
       "role_code": "MSB",
@@ -100795,15 +100661,6 @@
       "company_id": 61658,
       "company_uid": 669860,
       "company_name": "Otark Energy Services GmbH"
-    },
-    {
-      "bdew_code": "9985490000003",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 67095,
-      "company_id": 61667,
-      "company_uid": 669869,
-      "company_name": "Alpine Energy Partners SA"
     },
     {
       "bdew_code": "9985491000002",
@@ -101103,15 +100960,6 @@
       "company_name": "Vetra Energie GmbH"
     },
     {
-      "bdew_code": "9985529000007",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 67139,
-      "company_id": 61719,
-      "company_uid": 669921,
-      "company_name": "Hydro Energo s.r.o."
-    },
-    {
       "bdew_code": "9985530000004",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -101254,24 +101102,6 @@
       "company_id": 62735,
       "company_uid": 669938,
       "company_name": "Secondlaw Technologies Limited"
-    },
-    {
-      "bdew_code": "9985546000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 68153,
-      "company_id": 61607,
-      "company_uid": 669809,
-      "company_name": "Creatica GmbH"
-    },
-    {
-      "bdew_code": "9985547000005",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68154,
-      "company_id": 61607,
-      "company_uid": 669809,
-      "company_name": "Creatica GmbH"
     },
     {
       "bdew_code": "9985548000004",
@@ -101661,24 +101491,6 @@
       "company_name": "VIOCON GmbH"
     },
     {
-      "bdew_code": "9985594000008",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68202,
-      "company_id": 62805,
-      "company_uid": 670008,
-      "company_name": "Akkodis Germany Consulting GmbH"
-    },
-    {
-      "bdew_code": "9985597000005",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68205,
-      "company_id": 62810,
-      "company_uid": 670013,
-      "company_name": "ENVIRIA Business Solutions GmbH"
-    },
-    {
       "bdew_code": "9985599000003",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -101695,15 +101507,6 @@
       "company_id": 62814,
       "company_uid": 670017,
       "company_name": "e:fs TechHub GmbH"
-    },
-    {
-      "bdew_code": "9985601000008",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68209,
-      "company_id": 62817,
-      "company_uid": 670020,
-      "company_name": "Quadt GmbH & Co. KG"
     },
     {
       "bdew_code": "9985602000007",
@@ -101751,33 +101554,6 @@
       "company_name": "innolab.energy GmbH"
     },
     {
-      "bdew_code": "9985607000002",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68215,
-      "company_id": 62819,
-      "company_uid": 670022,
-      "company_name": "RheinhessenWind 1 GmbH & Co. KG"
-    },
-    {
-      "bdew_code": "9985608000001",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68216,
-      "company_id": 62820,
-      "company_uid": 670023,
-      "company_name": "RheinhessenWind 2 GmbH & Co. KG"
-    },
-    {
-      "bdew_code": "9985609000000",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68217,
-      "company_id": 62821,
-      "company_uid": 670024,
-      "company_name": "RheinhessenWind 3 GmbH & Co. KG"
-    },
-    {
       "bdew_code": "9985610000007",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -101812,15 +101588,6 @@
       "company_id": 62826,
       "company_uid": 670029,
       "company_name": "Energieflüsse Handel GmbH"
-    },
-    {
-      "bdew_code": "9985614000003",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68222,
-      "company_id": 62827,
-      "company_uid": 670030,
-      "company_name": "RENOVA NEW ENERGY TECHNOLOGY (EUROPE) GmbH"
     },
     {
       "bdew_code": "9985615000002",
@@ -102579,15 +102346,6 @@
       "company_name": "EBX Technologies GmbH"
     },
     {
-      "bdew_code": "9985707000001",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68325,
-      "company_id": 63959,
-      "company_uid": 670166,
-      "company_name": "InnoMieter GmbH"
-    },
-    {
       "bdew_code": "9985708000000",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
@@ -103270,15 +103028,6 @@
       "company_id": 64071,
       "company_uid": 670278,
       "company_name": "Altenberger Elektroservice GmbH"
-    },
-    {
-      "bdew_code": "9985793000007",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 68414,
-      "company_id": 63997,
-      "company_uid": 670204,
-      "company_name": "Windanker GmbH"
     },
     {
       "bdew_code": "9985794000006",
@@ -103972,6 +103721,24 @@
       "company_id": 64076,
       "company_uid": 670283,
       "company_name": "MEGGLE Bakery GmbH"
+    },
+    {
+      "bdew_code": "9985889000002",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68524,
+      "company_id": 64279,
+      "company_uid": 670486,
+      "company_name": "Landwirtschaftliche Lehranstalten Triesdorf"
+    },
+    {
+      "bdew_code": "9985891000008",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68526,
+      "company_id": 2777,
+      "company_uid": 662663,
+      "company_name": "illwerke vkw AG"
     },
     {
       "bdew_code": "9987098000005",
