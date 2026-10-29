@@ -2116,7 +2116,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9905470000005,Bilanzkreisverantwortlicher,BKV,662067,Stadtwerke Gütersloh GmbH,2179,4423
 9905474000001,Bilanzkreisverantwortlicher,BKV,661621,HYDRO ENERGI AS,1728,3252
 9905482000001,Lieferant,LF,661621,HYDRO ENERGI AS,1728,3251
-9905483000000,Lieferant,LF,660609,Emil Energie GmbH,709,995
 9905484000009,Messstellenbetreiber,MSB,662333,Stadtwerke Wachenheim,2445,5428
 9905488000005,Lieferant,LF,660167,ArcelorMittal Eisenhüttenstadt GmbH,261,101
 9905489000004,Bilanzkreisverantwortlicher,BKV,661753,REWAG REGENSBURGER ENERGIE- UND WASSERVERSORGUNG AG & CO KG,1861,3479
@@ -8585,6 +8584,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985275000004,Einsatzverantwortlicher,EIV,669575,Klaus Horstmann Solar,61356,66853
 9985276000003,Betreiber einer technischen Ressource,BTR,669576,Annett Schmidt & Torsten Schmidt,61357,66854
 9985277000002,Einsatzverantwortlicher,EIV,669576,Annett Schmidt & Torsten Schmidt,61357,66855
+9985278000001,Data Provider,DP,669577,Streem Energy,61358,66856
 9985279000000,Energieserviceanbieter des Anschlussnutzers,ESA,669579,Raiffeisen-Warengenossenschaft Niedersachsen Mitte eG,61360,66857
 9985280000007,Energieserviceanbieter des Anschlussnutzers,ESA,669580,juna.ai GmbH,61361,66858
 9985281000006,Messstellenbetreiber,MSB,669586,Energie am See GmbH,61367,66859
@@ -8728,6 +8728,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985450000001,Einsatzverantwortlicher,EIV,669805,Alexianer Klinikum Hochsauerland GmbH,61603,67046
 9985451000000,Betreiber einer technischen Ressource,BTR,669806,Kuhle & Nitschke GbR,61604,67047
 9985452000009,Einsatzverantwortlicher,EIV,669807,UCL Umwelt Control Labor GmbH,61605,67048
+9985453000008,Energieserviceanbieter des Anschlussnutzers,ESA,669577,Streem Energy,61358,67050
 9985454000007,Energieserviceanbieter des Anschlussnutzers,ESA,661756,Stadtwerke Duisburg Energiehandel GmbH,1864,67052
 9985455000006,Bilanzkreisverantwortlicher,BKV,669813,TriaSoft GmbH,61611,67053
 9985457000004,Energieserviceanbieter des Anschlussnutzers,ESA,669816,Elektrosysteme Schmidt GmbH,61614,67055
@@ -8852,6 +8853,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985591000001,Betreiber einer technischen Ressource,BTR,670002,Seerose Energie GmbH,62799,68199
 9985592000000,Energieserviceanbieter des Anschlussnutzers,ESA,667340,1KOMMA5° Göttingen GmbH,59112,68200
 9985593000009,Betreiber einer technischen Ressource,BTR,668494,VIOCON GmbH,60275,68201
+9985597000005,Energieserviceanbieter des Anschlussnutzers,ESA,670013,ENVIRIA Business Solutions GmbH,62810,68205
 9985599000003,Bilanzkreisverantwortlicher,BKV,670016,FGH GmbH,62813,68207
 9985600000009,Energieserviceanbieter des Anschlussnutzers,ESA,670017,e:fs TechHub GmbH,62814,68208
 9985602000007,Lieferant,LF,670021,innolab.energy GmbH,62818,68210

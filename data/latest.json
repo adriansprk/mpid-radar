@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-28",
-      "published_at": "2026-10-28T06:54:01+00:00",
-      "content_hash": "e62ba5b4a67c94f2574e50bd86a64d31ef54a629d5aafc86446cad6a05a9007b"
+      "version": "2026-10-29",
+      "published_at": "2026-10-29T07:04:53+00:00",
+      "content_hash": "b5d7218d9bc6caf5aed3d132e984aa23a8cbefdcddabd150f1640f5fd34943cc"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-28T06:49:47.297259+00:00",
+      "observed_at": "2026-10-29T07:01:13.867649+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4355,
-      "market_partners": 9105,
+      "companies": 4356,
+      "market_partners": 9107,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-28T06:49:47.297259+00:00",
+      "cleaned_at": "2026-10-29T07:01:13.867649+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -3832,6 +3832,11 @@
       "company_name": "ENTENEO ENERGY TRADING SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIANOŚCIĄ"
     },
     {
+      "company_id": 62810,
+      "company_uid": 670013,
+      "company_name": "ENVIRIA Business Solutions GmbH"
+    },
+    {
       "company_id": 60747,
       "company_uid": 668966,
       "company_name": "ENVIRIA Power Solutions GmbH"
@@ -4615,11 +4620,6 @@
       "company_id": 58285,
       "company_uid": 666513,
       "company_name": "Emil Bühler GmbH & Co. KG"
-    },
-    {
-      "company_id": 709,
-      "company_uid": 660609,
-      "company_name": "Emil Energie GmbH"
     },
     {
       "company_id": 60046,
@@ -18080,6 +18080,11 @@
       "company_id": 2519,
       "company_uid": 662407,
       "company_name": "Stern Strom GmbH"
+    },
+    {
+      "company_id": 61358,
+      "company_uid": 669577,
+      "company_name": "Streem Energy"
     },
     {
       "company_id": 61127,
@@ -40865,15 +40870,6 @@
       "company_id": 1728,
       "company_uid": 661621,
       "company_name": "HYDRO ENERGI AS"
-    },
-    {
-      "bdew_code": "9905483000000",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 995,
-      "company_id": 709,
-      "company_uid": 660609,
-      "company_name": "Emil Energie GmbH"
     },
     {
       "bdew_code": "9905484000009",
@@ -99088,6 +99084,15 @@
       "company_name": "Annett Schmidt & Torsten Schmidt"
     },
     {
+      "bdew_code": "9985278000001",
+      "market_function": "Data Provider",
+      "role_code": "DP",
+      "code_row_id": 66856,
+      "company_id": 61358,
+      "company_uid": 669577,
+      "company_name": "Streem Energy"
+    },
+    {
       "bdew_code": "9985279000000",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
@@ -100375,6 +100380,15 @@
       "company_name": "UCL Umwelt Control Labor GmbH"
     },
     {
+      "bdew_code": "9985453000008",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 67050,
+      "company_id": 61358,
+      "company_uid": 669577,
+      "company_name": "Streem Energy"
+    },
+    {
       "bdew_code": "9985454000007",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
@@ -101489,6 +101503,15 @@
       "company_id": 60275,
       "company_uid": 668494,
       "company_name": "VIOCON GmbH"
+    },
+    {
+      "bdew_code": "9985597000005",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68205,
+      "company_id": 62810,
+      "company_uid": 670013,
+      "company_name": "ENVIRIA Business Solutions GmbH"
     },
     {
       "bdew_code": "9985599000003",
