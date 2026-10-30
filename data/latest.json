@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-29",
-      "published_at": "2026-10-29T07:04:53+00:00",
-      "content_hash": "b5d7218d9bc6caf5aed3d132e984aa23a8cbefdcddabd150f1640f5fd34943cc"
+      "version": "2026-10-30",
+      "published_at": "2026-10-30T07:07:14+00:00",
+      "content_hash": "ab84b40d229b3dafb6bcee75d838770a4a052194b19f158fb4a915b8b567cc3e"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-29T07:01:13.867649+00:00",
+      "observed_at": "2026-10-30T07:03:36.325703+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4356,
-      "market_partners": 9107,
+      "companies": 4357,
+      "market_partners": 9108,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-29T07:01:13.867649+00:00",
+      "cleaned_at": "2026-10-30T07:03:36.325703+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -2705,6 +2705,11 @@
       "company_id": 446,
       "company_uid": 660347,
       "company_name": "Contigo Energie AG"
+    },
+    {
+      "company_id": 64284,
+      "company_uid": 670491,
+      "company_name": "Contracting BW GmbH"
     },
     {
       "company_id": 20229,
@@ -10812,6 +10817,11 @@
       "company_name": "Mediterana GmbH & Co. KG"
     },
     {
+      "company_id": 61453,
+      "company_uid": 669672,
+      "company_name": "Medizinische Hochschule Hannover (MHH)"
+    },
+    {
       "company_id": 58563,
       "company_uid": 666791,
       "company_name": "Mehl KG"
@@ -13020,11 +13030,6 @@
       "company_id": 60087,
       "company_uid": 668306,
       "company_name": "RWE Evendorf Windparkbetriebsgesellschaft mbH"
-    },
-    {
-      "company_id": 55688,
-      "company_uid": 664904,
-      "company_name": "RWE Generation Hydro GmbH"
     },
     {
       "company_id": 1897,
@@ -66702,15 +66707,6 @@
       "company_name": "Südzucker AG"
     },
     {
-      "bdew_code": "9979303000002",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 60685,
-      "company_id": 55688,
-      "company_uid": 664904,
-      "company_name": "RWE Generation Hydro GmbH"
-    },
-    {
       "bdew_code": "9979305000000",
       "market_function": "Lieferant",
       "role_code": "LF",
@@ -99624,6 +99620,15 @@
       "company_name": "Donautal Geflügelspezialitäten Zweigniederlassung der LOHMANN & Co. AKTIENGESELLSCHAFT"
     },
     {
+      "bdew_code": "9985352000000",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 66935,
+      "company_id": 61453,
+      "company_uid": 669672,
+      "company_name": "Medizinische Hochschule Hannover (MHH)"
+    },
+    {
       "bdew_code": "9985353000009",
       "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
       "role_code": "NN",
@@ -103762,6 +103767,15 @@
       "company_id": 2777,
       "company_uid": 662663,
       "company_name": "illwerke vkw AG"
+    },
+    {
+      "bdew_code": "9985893000006",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68529,
+      "company_id": 64284,
+      "company_uid": 670491,
+      "company_name": "Contracting BW GmbH"
     },
     {
       "bdew_code": "9987098000005",

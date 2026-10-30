@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-28",
-      "published_at": "2026-10-28T06:54:01+00:00",
-      "content_hash": "e62ba5b4a67c94f2574e50bd86a64d31ef54a629d5aafc86446cad6a05a9007b"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-28T06:49:47.297259+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4355,
-      "market_partners": 9105,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-10-28T06:49:47.297259+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 75,
-        "codes_normalized": 116
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-10-29",
-      "published_at": "2026-10-29T07:01:13.867649+00:00",
+      "published_at": "2026-10-29T07:04:53+00:00",
       "content_hash": "b5d7218d9bc6caf5aed3d132e984aa23a8cbefdcddabd150f1640f5fd34943cc"
     },
     "source": {
@@ -71,57 +35,84 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-10-30",
+      "published_at": "2026-10-30T07:03:36.325703+00:00",
+      "content_hash": "ab84b40d229b3dafb6bcee75d838770a4a052194b19f158fb4a915b8b567cc3e"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-10-30T07:03:36.325703+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4357,
+      "market_partners": 9108,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-10-30T07:03:36.325703+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 75,
+        "codes_normalized": 116
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985278000001",
-      "market_function": "Data Provider",
-      "role_code": "DP",
-      "code_row_id": 66856,
-      "company_id": 61358,
-      "company_uid": 669577,
-      "company_name": "Streem Energy"
+      "bdew_code": "9985352000000",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 66935,
+      "company_id": 61453,
+      "company_uid": 669672,
+      "company_name": "Medizinische Hochschule Hannover (MHH)"
     },
     {
-      "bdew_code": "9985453000008",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 67050,
-      "company_id": 61358,
-      "company_uid": 669577,
-      "company_name": "Streem Energy"
-    },
-    {
-      "bdew_code": "9985597000005",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68205,
-      "company_id": 62810,
-      "company_uid": 670013,
-      "company_name": "ENVIRIA Business Solutions GmbH"
+      "bdew_code": "9985893000006",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68529,
+      "company_id": 64284,
+      "company_uid": 670491,
+      "company_name": "Contracting BW GmbH"
     }
   ],
   "codes_removed": [
     {
-      "bdew_code": "9905483000000",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 995,
-      "company_id": 709,
-      "company_uid": 660609,
-      "company_name": "Emil Energie GmbH"
+      "bdew_code": "9979303000002",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 60685,
+      "company_id": 55688,
+      "company_uid": 664904,
+      "company_name": "RWE Generation Hydro GmbH"
     }
   ],
   "codes_changed": [],
   "companies_added_ids": [
-    61358,
-    62810
+    61453,
+    64284
   ],
   "companies_removed_ids": [
-    709
+    55688
   ],
   "companies_changed": [],
   "summary": {
-    "codes_added": 3,
+    "codes_added": 2,
     "codes_removed": 1,
     "codes_changed": 0,
     "codes_recoded": 0,

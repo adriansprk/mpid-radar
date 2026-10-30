@@ -4986,7 +4986,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9979297000001,Bilanzkreisverantwortlicher,BKV,663695,Charité – Universitätsmedizin Berlin,12763,59686
 9979298000000,Messstellenbetreiber,MSB,664927,Sagemcom IMD Center GmbH,55711,59687
 9979301000004,Einsatzverantwortlicher,EIV,664932,Südzucker AG,56704,60683
-9979303000002,Bilanzkreisverantwortlicher,BKV,664904,RWE Generation Hydro GmbH,55688,60685
 9979305000000,Lieferant,LF,664937,Steil Energie GmbH,56709,60688
 9979306000009,Lieferant,LF,664940,"Stadtwerke Weilheim i.OB., Anstalt des öffentlichen Rechts",56712,60689
 9979307000008,Einsatzverantwortlicher,EIV,662483,SWS Energie GmbH,2595,60690
@@ -8644,6 +8643,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985344000000,Messstellenbetreiber,MSB,669222,Rossmann EcoPower GmbH,61003,66927
 9985348000006,Energieserviceanbieter des Anschlussnutzers,ESA,669613,GASCADE Gastransport GmbH,61394,66931
 9985351000001,Betreiber einer technischen Ressource,BTR,669670,Donautal Geflügelspezialitäten Zweigniederlassung der LOHMANN & Co. AKTIENGESELLSCHAFT,61451,66934
+9985352000000,Lieferant,LF,669672,Medizinische Hochschule Hannover (MHH),61453,66935
 9985353000009,Netznutzer ohne All-Inklusiv-Vertrag,NN,669673,GRILLO Chemicals GmbH,61454,66936
 9985354000008,Bilanzkreisverantwortlicher,BKV,669674,BETEL SA,61455,66938
 9985356000006,Bilanzkreisverantwortlicher,BKV,669519,LandStrom Energie GmbH,61300,66940
@@ -9104,5 +9104,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985888000003,Einsatzverantwortlicher,EIV,670283,MEGGLE Bakery GmbH,64076,68523
 9985889000002,Einsatzverantwortlicher,EIV,670486,Landwirtschaftliche Lehranstalten Triesdorf,64279,68524
 9985891000008,Lieferant,LF,662663,illwerke vkw AG,2777,68526
+9985893000006,Betreiber einer technischen Ressource,BTR,670491,Contracting BW GmbH,64284,68529
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
