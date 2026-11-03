@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-30",
-      "published_at": "2026-10-30T07:07:14+00:00",
-      "content_hash": "ab84b40d229b3dafb6bcee75d838770a4a052194b19f158fb4a915b8b567cc3e"
+      "version": "2026-11-03",
+      "published_at": "2026-11-03T07:56:04+00:00",
+      "content_hash": "4bbf84949af066739e5648a8e27d38753ff110215f1e21b1c1c657b363774e47"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-30T07:03:36.325703+00:00",
+      "observed_at": "2026-11-03T07:53:07.023889+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4357,
-      "market_partners": 9108,
+      "companies": 4359,
+      "market_partners": 9112,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-10-30T07:03:36.325703+00:00",
+      "cleaned_at": "2026-11-03T07:53:07.023889+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -1420,6 +1420,11 @@
       "company_id": 380,
       "company_uid": 660281,
       "company_name": "BRUNATA-METRONA GmbH & Co. KG"
+    },
+    {
+      "company_id": 57939,
+      "company_uid": 666167,
+      "company_name": "BSB GmbH"
     },
     {
       "company_id": 20190,
@@ -5780,11 +5785,6 @@
       "company_id": 1018,
       "company_uid": 660915,
       "company_name": "ExtraEnergie GmbH"
-    },
-    {
-      "company_id": 56784,
-      "company_uid": 665012,
-      "company_name": "ExtraGrün GmbH"
     },
     {
       "company_id": 61035,
@@ -12757,6 +12757,11 @@
       "company_name": "Produktivgenossenschaft Flämingrind e.G. Kranepuhl"
     },
     {
+      "company_id": 58557,
+      "company_uid": 666785,
+      "company_name": "Project Z Solar GmbH"
+    },
+    {
       "company_id": 64027,
       "company_uid": 670234,
       "company_name": "Projekt Hoch 4 Energy GmbH"
@@ -13425,11 +13430,6 @@
       "company_id": 26417,
       "company_uid": 664409,
       "company_name": "Rhegio Dienstleistungen GmbH"
-    },
-    {
-      "company_id": 1862,
-      "company_uid": 661754,
-      "company_name": "Rhegio Natur GmbH"
     },
     {
       "company_id": 1863,
@@ -17694,7 +17694,7 @@
     {
       "company_id": 2451,
       "company_uid": 662339,
-      "company_name": "Stadtwerke Walldorf GmbH & Co. KG"
+      "company_name": "Stadtwerke Walldorf GmbH"
     },
     {
       "company_id": 2452,
@@ -21332,6 +21332,11 @@
       "company_name": "lekker Energie GmbH"
     },
     {
+      "company_id": 56784,
+      "company_uid": 665012,
+      "company_name": "lnnovaris Europe GmbH"
+    },
+    {
       "company_id": 60478,
       "company_uid": 668697,
       "company_name": "maincubes Holding & Service GmbH"
@@ -21585,6 +21590,11 @@
       "company_id": 360,
       "company_uid": 660261,
       "company_name": "stadtwerker GmbH"
+    },
+    {
+      "company_id": 1862,
+      "company_uid": 661754,
+      "company_name": "stadtwerker Natur GmbH"
     },
     {
       "company_id": 2356,
@@ -28733,7 +28743,7 @@
       "code_row_id": 5462,
       "company_id": 2451,
       "company_uid": 662339,
-      "company_name": "Stadtwerke Walldorf GmbH & Co. KG"
+      "company_name": "Stadtwerke Walldorf GmbH"
     },
     {
       "bdew_code": "9900988000000",
@@ -33413,7 +33423,7 @@
       "code_row_id": 5466,
       "company_id": 2451,
       "company_uid": 662339,
-      "company_name": "Stadtwerke Walldorf GmbH & Co. KG"
+      "company_name": "Stadtwerke Walldorf GmbH"
     },
     {
       "bdew_code": "9903749000003",
@@ -43034,7 +43044,7 @@
       "code_row_id": 5463,
       "company_id": 2451,
       "company_uid": 662339,
-      "company_name": "Stadtwerke Walldorf GmbH & Co. KG"
+      "company_name": "Stadtwerke Walldorf GmbH"
     },
     {
       "bdew_code": "9905898000009",
@@ -52493,7 +52503,7 @@
       "code_row_id": 5464,
       "company_id": 2451,
       "company_uid": 662339,
-      "company_name": "Stadtwerke Walldorf GmbH & Co. KG"
+      "company_name": "Stadtwerke Walldorf GmbH"
     },
     {
       "bdew_code": "9910434000008",
@@ -53528,7 +53538,7 @@
       "code_row_id": 3483,
       "company_id": 1862,
       "company_uid": 661754,
-      "company_name": "Rhegio Natur GmbH"
+      "company_name": "stadtwerker Natur GmbH"
     },
     {
       "bdew_code": "9910736000003",
@@ -66992,7 +67002,7 @@
       "code_row_id": 60733,
       "company_id": 56784,
       "company_uid": 665012,
-      "company_name": "ExtraGrün GmbH"
+      "company_name": "lnnovaris Europe GmbH"
     },
     {
       "bdew_code": "9979352000003",
@@ -67055,7 +67065,7 @@
       "code_row_id": 60743,
       "company_id": 56784,
       "company_uid": 665012,
-      "company_name": "ExtraGrün GmbH"
+      "company_name": "lnnovaris Europe GmbH"
     },
     {
       "bdew_code": "9979361000002",
@@ -75641,7 +75651,7 @@
       "code_row_id": 62370,
       "company_id": 2451,
       "company_uid": 662339,
-      "company_name": "Stadtwerke Walldorf GmbH & Co. KG"
+      "company_name": "Stadtwerke Walldorf GmbH"
     },
     {
       "bdew_code": "9980942000006",
@@ -75650,7 +75660,7 @@
       "code_row_id": 62372,
       "company_id": 2451,
       "company_uid": 662339,
-      "company_name": "Stadtwerke Walldorf GmbH & Co. KG"
+      "company_name": "Stadtwerke Walldorf GmbH"
     },
     {
       "bdew_code": "9980943000005",
@@ -81717,6 +81727,42 @@
       "company_id": 980,
       "company_uid": 660877,
       "company_name": "Evonik Operations GmbH"
+    },
+    {
+      "bdew_code": "9982125000001",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 63568,
+      "company_id": 58557,
+      "company_uid": 666785,
+      "company_name": "Project Z Solar GmbH"
+    },
+    {
+      "bdew_code": "9982126000000",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 63569,
+      "company_id": 58557,
+      "company_uid": 666785,
+      "company_name": "Project Z Solar GmbH"
+    },
+    {
+      "bdew_code": "9982127000009",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 63570,
+      "company_id": 57939,
+      "company_uid": 666167,
+      "company_name": "BSB GmbH"
+    },
+    {
+      "bdew_code": "9982128000008",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 63571,
+      "company_id": 57939,
+      "company_uid": 666167,
+      "company_name": "BSB GmbH"
     },
     {
       "bdew_code": "9982129000007",

@@ -766,7 +766,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9900982000006,Netzbetreiber,NB,662265,Stadtwerke Schkeuditz GmbH,2377,5147
 9900983000005,Netzbetreiber,NB,662052,Stadtwerke Glauchau Dienstleistungsgesellschaft mbH,2164,4361
 9900984000004,Netzbetreiber,NB,661908,Stadtwerke Bad Bramstedt Netz GmbH,2018,3828
-9900987000001,Netzbetreiber,NB,662339,Stadtwerke Walldorf GmbH & Co. KG,2451,5462
+9900987000001,Netzbetreiber,NB,662339,Stadtwerke Walldorf GmbH,2451,5462
 9900988000000,Netzbetreiber,NB,662027,Stadtwerke Fellbach GmbH,2139,4278
 9900992000004,Netzbetreiber,NB,661972,Stadtwerke Burg Energienetze GmbH,2082,4067
 9901000000001,Netzbetreiber,NB,664073,E.DIS Netz GmbH,19123,1729
@@ -1286,7 +1286,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9903742000000,Lieferant,LF,661903,Stadtwerke Augsburg Energie GmbH,2013,3815
 9903745000007,Lieferant,LF,661385,Kreiswerke Main-Kinzig GmbH,1491,2786
 9903746000006,Lieferant,LF,662351,Stadtwerke Weißenfels Gesellschaft mit beschränkter Haftung,2463,5506
-9903748000004,Lieferant,LF,662339,Stadtwerke Walldorf GmbH & Co. KG,2451,5466
+9903748000004,Lieferant,LF,662339,Stadtwerke Walldorf GmbH,2451,5466
 9903749000003,Lieferant,LF,662438,Stromversorgung Zerbst GmbH & Co. KG,2550,5782
 9903751000009,Lieferant,LF,662510,Technische Werke Naumburg GmbH,2622,5970
 9903753000007,Lieferant,LF,662227,Stadtwerke Pirmasens Versorgungs GmbH,2339,5009
@@ -2355,7 +2355,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9905889000000,Bilanzkreisverantwortlicher,BKV,662163,Mainzer Netze GmbH,2275,4751
 9905891000006,Bilanzkreisverantwortlicher,BKV,661916,Stadtwerke Bad Kissingen GmbH,2026,3854
 9905894000003,Bilanzkreisverantwortlicher,BKV,662124,Stadtwerke Konstanz GmbH,2236,4620
-9905895000002,Bilanzkreisverantwortlicher,BKV,662339,Stadtwerke Walldorf GmbH & Co. KG,2451,5463
+9905895000002,Bilanzkreisverantwortlicher,BKV,662339,Stadtwerke Walldorf GmbH,2451,5463
 9905898000009,Bilanzkreisverantwortlicher,BKV,661653,Optimization Engineers GmbH,1761,3313
 9905899000008,Bilanzkreisverantwortlicher,BKV,662134,Stadtwerke Langenfeld GmbH,2246,4653
 9905900000004,Bilanzkreisverantwortlicher,BKV,662131,Kommunalunternehmen Stadtwerke Landsberg,2243,4640
@@ -3406,7 +3406,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9910426000008,Messstellenbetreiber,MSB,660101,"Stadtwerke Baiersdorf Kommunalunternehmen, Anstalt des öffentlichen Rechts der Stadt Baiersdorf",190,3636
 9910427000007,Messstellenbetreiber,MSB,660856,EUROGATE Technical Services GmbH,958,1559
 9910431000001,Messstellenbetreiber,MSB,662449,SVH Stromversorgung Haar GmbH,2561,5811
-9910433000009,Messstellenbetreiber,MSB,662339,Stadtwerke Walldorf GmbH & Co. KG,2451,5464
+9910433000009,Messstellenbetreiber,MSB,662339,Stadtwerke Walldorf GmbH,2451,5464
 9910434000008,Messstellenbetreiber,MSB,662046,Stadtwerke Gengenbach -Versorgungsbetriebe-,2158,4342
 9910436000006,Messstellenbetreiber,MSB,662219,Stadtwerke Pappenheim GmbH,2331,4979
 9910437000005,Messstellenbetreiber,MSB,661998,Stadtwerke Dorfen GmbH,2108,4144
@@ -3521,7 +3521,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9910728000003,Bilanzkreisverantwortlicher,BKV,661319,J. Aron & Company,1423,2651
 9910729000002,Messstellenbetreiber,MSB,660958,Flughafen Düsseldorf GmbH,1061,1807
 9910730000009,Bilanzkreisverantwortlicher,BKV,662022,Stadtwerke Eschwege GmbH,2132,4252
-9910734000005,Messstellenbetreiber,MSB,661754,Rhegio Natur GmbH,1862,3483
+9910734000005,Messstellenbetreiber,MSB,661754,stadtwerker Natur GmbH,1862,3483
 9910736000003,Bilanzkreisverantwortlicher,BKV,662007,Stadtwerke Einbeck GmbH,2117,4189
 9910737000002,Bilanzkreisverantwortlicher,BKV,662322,Stadtwerke Uslar GmbH,2434,5384
 9910738000001,Bilanzkreisverantwortlicher,BKV,662344,Stadtwerke Wedel GmbH,2456,5483
@@ -5017,14 +5017,14 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9979343000004,Einsatzverantwortlicher,EIV,662397,Statkraft Markets GmbH,2509,60726
 9979345000002,Netznutzer ohne All-Inklusiv-Vertrag,NN,662528,ThyssenKrupp Steel Europe AG,2642,60728
 9979346000001,Lieferant,LF,665005,Stadtwerke Kierspe Gesellschaft mit beschränkter Haftung,56777,60729
-9979350000005,Lieferant,LF,665012,ExtraGrün GmbH,56784,60733
+9979350000005,Lieferant,LF,665012,lnnovaris Europe GmbH,56784,60733
 9979352000003,Einsatzverantwortlicher,EIV,661718,Quadra Energy GmbH,1826,60735
 9979353000002,Einsatzverantwortlicher,EIV,660897,EWE TRADING GmbH,1000,60736
 9979354000001,Bilanzkreisverantwortlicher,BKV,660885,EVU Weilerbach,988,60737
 9979356000009,Lieferant,LF,664752,Frequenz Energy-as-a-Service GmbH,48579,60739
 9979357000008,Lieferant,LF,665023,Stadtkrankenhaus Korbach Service-GmbH,56795,60740
 9979358000007,Bilanzkreisverantwortlicher,BKV,662772,Kraftwerk Obernburg GmbH,2887,60741
-9979360000003,Bilanzkreisverantwortlicher,BKV,665012,ExtraGrün GmbH,56784,60743
+9979360000003,Bilanzkreisverantwortlicher,BKV,665012,lnnovaris Europe GmbH,56784,60743
 9979361000002,Lieferant,LF,665030,DS Smith Paper Deutschland GmbH,56802,60744
 9979362000001,Einsatzverantwortlicher,EIV,660928,Uniper Energy Sales GmbH,1031,60745
 9979364000009,Lieferant,LF,665034,Iberdrola Strom GmbH,56806,60747
@@ -5978,8 +5978,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9980935000005,Betreiber einer technischen Ressource,BTR,662179,Stadtwerke Münchberg,2291,62365
 9980936000004,Einsatzverantwortlicher,EIV,662179,Stadtwerke Münchberg,2291,62366
 9980938000002,Einsatzverantwortlicher,EIV,660182,AVU Netz GmbH,279,62368
-9980940000008,Einsatzverantwortlicher,EIV,662339,Stadtwerke Walldorf GmbH & Co. KG,2451,62370
-9980942000006,Betreiber einer technischen Ressource,BTR,662339,Stadtwerke Walldorf GmbH & Co. KG,2451,62372
+9980940000008,Einsatzverantwortlicher,EIV,662339,Stadtwerke Walldorf GmbH,2451,62370
+9980942000006,Betreiber einer technischen Ressource,BTR,662339,Stadtwerke Walldorf GmbH,2451,62372
 9980943000005,Einsatzverantwortlicher,EIV,666088,Kreiskliniken Reutlingen GmbH,57860,62373
 9980945000003,Betreiber einer technischen Ressource,BTR,665904,Hoos Philipp Schützner GbR,57676,62375
 9980946000002,Betreiber einer technischen Ressource,BTR,666088,Kreiskliniken Reutlingen GmbH,57860,62376
@@ -6654,6 +6654,10 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9982120000006,Einsatzverantwortlicher,EIV,666781,Agrar-Genossenschaft Schalkau e.G.,58553,63563
 9982121000005,Betreiber einer technischen Ressource,BTR,666781,Agrar-Genossenschaft Schalkau e.G.,58553,63564
 9982123000003,Betreiber einer technischen Ressource,BTR,660877,Evonik Operations GmbH,980,63566
+9982125000001,Einsatzverantwortlicher,EIV,666785,Project Z Solar GmbH,58557,63568
+9982126000000,Betreiber einer technischen Ressource,BTR,666785,Project Z Solar GmbH,58557,63569
+9982127000009,Einsatzverantwortlicher,EIV,666167,BSB GmbH,57939,63570
+9982128000008,Betreiber einer technischen Ressource,BTR,666167,BSB GmbH,57939,63571
 9982129000007,Einsatzverantwortlicher,EIV,666786,Schnackenberg Holzbau GmbH,58558,63572
 9982130000004,Betreiber einer technischen Ressource,BTR,666786,Schnackenberg Holzbau GmbH,58558,63573
 9982131000003,Betreiber einer technischen Ressource,BTR,666714,AMW Martin Weimer,58486,63574
