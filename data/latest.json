@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-03",
-      "published_at": "2026-11-03T07:56:04+00:00",
-      "content_hash": "4bbf84949af066739e5648a8e27d38753ff110215f1e21b1c1c657b363774e47"
+      "version": "2026-11-04",
+      "published_at": "2026-11-04T07:31:51+00:00",
+      "content_hash": "12cf15ac40692c534e2db89a45f7637a203ddf20bd2347cf3a78b40ce3124bb9"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-03T07:53:07.023889+00:00",
+      "observed_at": "2026-11-04T07:28:03.613875+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4359,
+      "companies": 4358,
       "market_partners": 9112,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-03T07:53:07.023889+00:00",
+      "cleaned_at": "2026-11-04T07:28:03.613875+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -8137,6 +8137,11 @@
       "company_name": "Heiche Oberflächentechnik GmbH"
     },
     {
+      "company_id": 64292,
+      "company_uid": 670499,
+      "company_name": "Heidebau GmbH"
+    },
+    {
       "company_id": 61564,
       "company_uid": 669766,
       "company_name": "Heidesand Raiffeisen-Warengenossenschaft eG"
@@ -10287,11 +10292,6 @@
       "company_name": "Löttco GmbH & Co KG"
     },
     {
-      "company_id": 58512,
-      "company_uid": 666740,
-      "company_name": "Lübke GmbH"
-    },
-    {
       "company_id": 1542,
       "company_uid": 661436,
       "company_name": "M & J Haupt"
@@ -11035,11 +11035,6 @@
       "company_id": 59068,
       "company_uid": 667296,
       "company_name": "Mitsui Bussan Commodities Ltd"
-    },
-    {
-      "company_id": 59472,
-      "company_uid": 667700,
-      "company_name": "Mitsui Bussan Gas & Power Solutions B.V."
     },
     {
       "company_id": 1602,
@@ -81450,15 +81445,6 @@
       "company_name": "Tobias Rameder"
     },
     {
-      "bdew_code": "9982047000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 63490,
-      "company_id": 58512,
-      "company_uid": 666740,
-      "company_name": "Lübke GmbH"
-    },
-    {
       "bdew_code": "9982048000005",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -88765,15 +88751,6 @@
       "company_id": 59461,
       "company_uid": 667689,
       "company_name": "Elektrizitätsgenossenschaft Samerberg und Umgebung eG"
-    },
-    {
-      "bdew_code": "9983515000007",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 64986,
-      "company_id": 59472,
-      "company_uid": 667700,
-      "company_name": "Mitsui Bussan Gas & Power Solutions B.V."
     },
     {
       "bdew_code": "9983531000007",
@@ -103815,6 +103792,15 @@
       "company_name": "illwerke vkw AG"
     },
     {
+      "bdew_code": "9985892000007",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68528,
+      "company_id": 61622,
+      "company_uid": 669824,
+      "company_name": "B.Braun SE"
+    },
+    {
       "bdew_code": "9985893000006",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -103822,6 +103808,15 @@
       "company_id": 64284,
       "company_uid": 670491,
       "company_name": "Contracting BW GmbH"
+    },
+    {
+      "bdew_code": "9985896000003",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 68532,
+      "company_id": 64292,
+      "company_uid": 670499,
+      "company_name": "Heidebau GmbH"
     },
     {
       "bdew_code": "9987098000005",

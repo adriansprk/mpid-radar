@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-10-30",
-      "published_at": "2026-10-30T07:07:14+00:00",
-      "content_hash": "ab84b40d229b3dafb6bcee75d838770a4a052194b19f158fb4a915b8b567cc3e"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-10-30T07:03:36.325703+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4357,
-      "market_partners": 9108,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-10-30T07:03:36.325703+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 75,
-        "codes_normalized": 116
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-11-03",
-      "published_at": "2026-11-03T07:53:07.023889+00:00",
+      "published_at": "2026-11-03T07:56:04+00:00",
       "content_hash": "4bbf84949af066739e5648a8e27d38753ff110215f1e21b1c1c657b363774e47"
     },
     "source": {
@@ -71,179 +35,99 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-11-04",
+      "published_at": "2026-11-04T07:28:03.613875+00:00",
+      "content_hash": "12cf15ac40692c534e2db89a45f7637a203ddf20bd2347cf3a78b40ce3124bb9"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-11-04T07:28:03.613875+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4358,
+      "market_partners": 9112,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-11-04T07:28:03.613875+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 75,
+        "codes_normalized": 116
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9982125000001",
+      "bdew_code": "9985892000007",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68528,
+      "company_id": 61622,
+      "company_uid": 669824,
+      "company_name": "B.Braun SE"
+    },
+    {
+      "bdew_code": "9985896000003",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
-      "code_row_id": 63568,
-      "company_id": 58557,
-      "company_uid": 666785,
-      "company_name": "Project Z Solar GmbH"
-    },
+      "code_row_id": 68532,
+      "company_id": 64292,
+      "company_uid": 670499,
+      "company_name": "Heidebau GmbH"
+    }
+  ],
+  "codes_removed": [
     {
-      "bdew_code": "9982126000000",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 63569,
-      "company_id": 58557,
-      "company_uid": 666785,
-      "company_name": "Project Z Solar GmbH"
-    },
-    {
-      "bdew_code": "9982127000009",
+      "bdew_code": "9982047000006",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
-      "code_row_id": 63570,
-      "company_id": 57939,
-      "company_uid": 666167,
-      "company_name": "BSB GmbH"
+      "code_row_id": 63490,
+      "company_id": 58512,
+      "company_uid": 666740,
+      "company_name": "Lübke GmbH"
     },
     {
-      "bdew_code": "9982128000008",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 63571,
-      "company_id": 57939,
-      "company_uid": 666167,
-      "company_name": "BSB GmbH"
+      "bdew_code": "9983515000007",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 64986,
+      "company_id": 59472,
+      "company_uid": 667700,
+      "company_name": "Mitsui Bussan Gas & Power Solutions B.V."
     }
   ],
-  "codes_removed": [],
-  "codes_changed": [
-    {
-      "code_row_id": 3483,
-      "bdew_code": "9910734000005",
-      "changes": {
-        "company_name": {
-          "old": "Rhegio Natur GmbH",
-          "new": "stadtwerker Natur GmbH"
-        }
-      }
-    },
-    {
-      "code_row_id": 5462,
-      "bdew_code": "9900987000001",
-      "changes": {
-        "company_name": {
-          "old": "Stadtwerke Walldorf GmbH & Co. KG",
-          "new": "Stadtwerke Walldorf GmbH"
-        }
-      }
-    },
-    {
-      "code_row_id": 5463,
-      "bdew_code": "9905895000002",
-      "changes": {
-        "company_name": {
-          "old": "Stadtwerke Walldorf GmbH & Co. KG",
-          "new": "Stadtwerke Walldorf GmbH"
-        }
-      }
-    },
-    {
-      "code_row_id": 5464,
-      "bdew_code": "9910433000009",
-      "changes": {
-        "company_name": {
-          "old": "Stadtwerke Walldorf GmbH & Co. KG",
-          "new": "Stadtwerke Walldorf GmbH"
-        }
-      }
-    },
-    {
-      "code_row_id": 5466,
-      "bdew_code": "9903748000004",
-      "changes": {
-        "company_name": {
-          "old": "Stadtwerke Walldorf GmbH & Co. KG",
-          "new": "Stadtwerke Walldorf GmbH"
-        }
-      }
-    },
-    {
-      "code_row_id": 60733,
-      "bdew_code": "9979350000005",
-      "changes": {
-        "company_name": {
-          "old": "ExtraGrün GmbH",
-          "new": "lnnovaris Europe GmbH"
-        }
-      }
-    },
-    {
-      "code_row_id": 60743,
-      "bdew_code": "9979360000003",
-      "changes": {
-        "company_name": {
-          "old": "ExtraGrün GmbH",
-          "new": "lnnovaris Europe GmbH"
-        }
-      }
-    },
-    {
-      "code_row_id": 62370,
-      "bdew_code": "9980940000008",
-      "changes": {
-        "company_name": {
-          "old": "Stadtwerke Walldorf GmbH & Co. KG",
-          "new": "Stadtwerke Walldorf GmbH"
-        }
-      }
-    },
-    {
-      "code_row_id": 62372,
-      "bdew_code": "9980942000006",
-      "changes": {
-        "company_name": {
-          "old": "Stadtwerke Walldorf GmbH & Co. KG",
-          "new": "Stadtwerke Walldorf GmbH"
-        }
-      }
-    }
-  ],
+  "codes_changed": [],
   "companies_added_ids": [
-    57939,
-    58557
+    64292
   ],
-  "companies_removed_ids": [],
-  "companies_changed": [
-    {
-      "company_id": 1862,
-      "changes": {
-        "company_name": {
-          "old": "Rhegio Natur GmbH",
-          "new": "stadtwerker Natur GmbH"
-        }
-      }
-    },
-    {
-      "company_id": 2451,
-      "changes": {
-        "company_name": {
-          "old": "Stadtwerke Walldorf GmbH & Co. KG",
-          "new": "Stadtwerke Walldorf GmbH"
-        }
-      }
-    },
-    {
-      "company_id": 56784,
-      "changes": {
-        "company_name": {
-          "old": "ExtraGrün GmbH",
-          "new": "lnnovaris Europe GmbH"
-        }
-      }
-    }
+  "companies_removed_ids": [
+    58512,
+    59472
   ],
+  "companies_changed": [],
   "summary": {
-    "codes_added": 4,
-    "codes_removed": 0,
-    "codes_changed": 9,
+    "codes_added": 2,
+    "codes_removed": 2,
+    "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 2,
-    "companies_removed": 0,
-    "companies_changed": 3
+    "companies_added": 1,
+    "companies_removed": 2,
+    "companies_changed": 0
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

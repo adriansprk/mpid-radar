@@ -6623,7 +6623,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9982043000000,Einsatzverantwortlicher,EIV,666737,BKS Bio-Kraftwerk Schkölen GmbH,58509,63486
 9982044000009,Betreiber einer technischen Ressource,BTR,666737,BKS Bio-Kraftwerk Schkölen GmbH,58509,63487
 9982045000008,Einsatzverantwortlicher,EIV,666738,Tobias Rameder,58510,63488
-9982047000006,Einsatzverantwortlicher,EIV,666740,Lübke GmbH,58512,63490
 9982048000005,Betreiber einer technischen Ressource,BTR,666643,Peter Dippel,58415,63491
 9982049000004,Einsatzverantwortlicher,EIV,666741,"Agrarvereinigung ""MiFeMa"" eG Plauerhagen",58513,63492
 9982051000000,Betreiber einer technischen Ressource,BTR,660063,Stadtwerke Düsseldorf AG,132,63494
@@ -7436,7 +7435,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9983493000004,Betreiber einer technischen Ressource,BTR,662491,SWW Wunsiedel GmbH,2603,64962
 9983497000000,Einsatzverantwortlicher,EIV,667685,Bayerische Solar AG,59457,64966
 9983503000001,Einsatzverantwortlicher,EIV,667689,Elektrizitätsgenossenschaft Samerberg und Umgebung eG,59461,64972
-9983515000007,Bilanzkreisverantwortlicher,BKV,667700,Mitsui Bussan Gas & Power Solutions B.V.,59472,64986
 9983531000007,Energieserviceanbieter des Anschlussnutzers,ESA,667717,EQ.digital GmbH,59489,65002
 9983532000006,Einsatzverantwortlicher,EIV,667718,Schwienhorst,59490,65003
 9983534000004,Einsatzverantwortlicher,EIV,667720,Johann Krammer,59492,65005
@@ -9108,6 +9106,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985888000003,Einsatzverantwortlicher,EIV,670283,MEGGLE Bakery GmbH,64076,68523
 9985889000002,Einsatzverantwortlicher,EIV,670486,Landwirtschaftliche Lehranstalten Triesdorf,64279,68524
 9985891000008,Lieferant,LF,662663,illwerke vkw AG,2777,68526
+9985892000007,Lieferant,LF,669824,B.Braun SE,61622,68528
 9985893000006,Betreiber einer technischen Ressource,BTR,670491,Contracting BW GmbH,64284,68529
+9985896000003,Einsatzverantwortlicher,EIV,670499,Heidebau GmbH,64292,68532
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
