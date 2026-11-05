@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-04",
-      "published_at": "2026-11-04T07:31:51+00:00",
-      "content_hash": "12cf15ac40692c534e2db89a45f7637a203ddf20bd2347cf3a78b40ce3124bb9"
+      "version": "2026-11-05",
+      "published_at": "2026-11-05T07:57:22+00:00",
+      "content_hash": "4ffbf5e3480afc7bf0a36d5efa09d6051d7bedde054dec1548ea1ae5e12104a7"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-04T07:28:03.613875+00:00",
+      "observed_at": "2026-11-05T07:53:10.497576+00:00",
       "filter": ""
     },
     "records": {
       "companies": 4358,
-      "market_partners": 9112,
+      "market_partners": 9111,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-04T07:28:03.613875+00:00",
+      "cleaned_at": "2026-11-05T07:53:10.497576+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -3010,6 +3010,11 @@
       "company_id": 470,
       "company_uid": 660371,
       "company_name": "DeESA GmbH"
+    },
+    {
+      "company_id": 64295,
+      "company_uid": 670501,
+      "company_name": "Decipher ApS"
     },
     {
       "company_id": 58667,
@@ -11935,11 +11940,6 @@
       "company_id": 13775,
       "company_uid": 663711,
       "company_name": "OXEA Services GmbH"
-    },
-    {
-      "company_id": 58217,
-      "company_uid": 666445,
-      "company_name": "Oberbillig Energie GmbH"
     },
     {
       "company_id": 58646,
@@ -23366,6 +23366,15 @@
       "company_id": 64175,
       "company_uid": 670382,
       "company_name": "ITM Energy ApS"
+    },
+    {
+      "bdew_code": "5790002875380",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68533,
+      "company_id": 64295,
+      "company_uid": 670501,
+      "company_name": "Decipher ApS"
     },
     {
       "bdew_code": "5909000829800",
@@ -43751,15 +43760,6 @@
       "company_id": 1623,
       "company_uid": 661517,
       "company_name": "Müller-Mühle GmbH & Co. KG"
-    },
-    {
-      "bdew_code": "9906003000008",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 904,
-      "company_id": 21273,
-      "company_uid": 664226,
-      "company_name": "Elektrizitätswerk Tegernsee Vertriebs- und Service-KG"
     },
     {
       "bdew_code": "9906008000003",
@@ -78752,15 +78752,6 @@
       "company_id": 833,
       "company_uid": 660731,
       "company_name": "Energieversorgung Inselsberg GmbH"
-    },
-    {
-      "bdew_code": "9981533000009",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 62966,
-      "company_id": 58217,
-      "company_uid": 666445,
-      "company_name": "Oberbillig Energie GmbH"
     },
     {
       "bdew_code": "9981534000008",

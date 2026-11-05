@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-03",
-      "published_at": "2026-11-03T07:56:04+00:00",
-      "content_hash": "4bbf84949af066739e5648a8e27d38753ff110215f1e21b1c1c657b363774e47"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-03T07:53:07.023889+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4359,
-      "market_partners": 9112,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-11-03T07:53:07.023889+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 75,
-        "codes_normalized": 116
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-11-04",
-      "published_at": "2026-11-04T07:28:03.613875+00:00",
+      "published_at": "2026-11-04T07:31:51+00:00",
       "content_hash": "12cf15ac40692c534e2db89a45f7637a203ddf20bd2347cf3a78b40ce3124bb9"
     },
     "source": {
@@ -71,62 +35,88 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-11-05",
+      "published_at": "2026-11-05T07:53:10.497576+00:00",
+      "content_hash": "4ffbf5e3480afc7bf0a36d5efa09d6051d7bedde054dec1548ea1ae5e12104a7"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-11-05T07:53:10.497576+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4358,
+      "market_partners": 9111,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-11-05T07:53:10.497576+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 75,
+        "codes_normalized": 116
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985892000007",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 68528,
-      "company_id": 61622,
-      "company_uid": 669824,
-      "company_name": "B.Braun SE"
-    },
-    {
-      "bdew_code": "9985896000003",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 68532,
-      "company_id": 64292,
-      "company_uid": 670499,
-      "company_name": "Heidebau GmbH"
+      "bdew_code": "5790002875380",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68533,
+      "company_id": 64295,
+      "company_uid": 670501,
+      "company_name": "Decipher ApS"
     }
   ],
   "codes_removed": [
     {
-      "bdew_code": "9982047000006",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 63490,
-      "company_id": 58512,
-      "company_uid": 666740,
-      "company_name": "Lübke GmbH"
+      "bdew_code": "9981533000009",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 62966,
+      "company_id": 58217,
+      "company_uid": 666445,
+      "company_name": "Oberbillig Energie GmbH"
     },
     {
-      "bdew_code": "9983515000007",
+      "bdew_code": "9906003000008",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
-      "code_row_id": 64986,
-      "company_id": 59472,
-      "company_uid": 667700,
-      "company_name": "Mitsui Bussan Gas & Power Solutions B.V."
+      "code_row_id": 904,
+      "company_id": 21273,
+      "company_uid": 664226,
+      "company_name": "Elektrizitätswerk Tegernsee Vertriebs- und Service-KG"
     }
   ],
   "codes_changed": [],
   "companies_added_ids": [
-    64292
+    64295
   ],
   "companies_removed_ids": [
-    58512,
-    59472
+    58217
   ],
   "companies_changed": [],
   "summary": {
-    "codes_added": 2,
+    "codes_added": 1,
     "codes_removed": 2,
     "codes_changed": 0,
     "codes_recoded": 0,
     "companies_added": 1,
-    "companies_removed": 2,
+    "companies_removed": 1,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",

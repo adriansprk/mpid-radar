@@ -170,6 +170,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 5790002870811,Bilanzkreisverantwortlicher,BKV,670307,Quant Partners ApS,64100,68439
 5790002871795,Bilanzkreisverantwortlicher,BKV,670320,In Commodities Stack A/S,64113,68449
 5790002874000,Bilanzkreisverantwortlicher,BKV,670382,ITM Energy ApS,64175,68480
+5790002875380,Bilanzkreisverantwortlicher,BKV,670501,Decipher ApS,64295,68533
 5909000829800,Bilanzkreisverantwortlicher,BKV,664301,ENEA Trading Sp. z o.o.,23331,29335
 5909000893252,Bilanzkreisverantwortlicher,BKV,668646,XOOG OPERATOR SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ,60427,66025
 5909000893757,Bilanzkreisverantwortlicher,BKV,668683,Sky Quant sp. z o.o.,60464,66055
@@ -2435,7 +2436,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9905999000007,Bilanzkreisverantwortlicher,BKV,660521,Elektrizitätsgenossenschaft Vogling & Angrenzer eG,621,793
 9906001000000,Bilanzkreisverantwortlicher,BKV,660553,Elektrizitätswerk Stern KG Bad Endorf,653,900
 9906002000009,Bilanzkreisverantwortlicher,BKV,661517,Müller-Mühle GmbH & Co. KG,1623,3024
-9906003000008,Bilanzkreisverantwortlicher,BKV,664226,Elektrizitätswerk Tegernsee Vertriebs- und Service-KG,21273,904
 9906008000003,Bilanzkreisverantwortlicher,BKV,660731,Energieversorgung Inselsberg GmbH,833,1267
 9906009000002,Bilanzkreisverantwortlicher,BKV,660814,ENRW Energieversorgung Rottweil GmbH & Co. KG,916,1468
 9906014000005,Bilanzkreisverantwortlicher,BKV,660887,EW Geiger GmbH,990,1643
@@ -6324,7 +6324,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9981530000002,Betreiber einer technischen Ressource,BTR,664093,Stadtwerke Greifswald Gesellschaft mit beschränkter Haftung,19143,62963
 9981531000001,Einsatzverantwortlicher,EIV,660731,Energieversorgung Inselsberg GmbH,833,62964
 9981532000000,Betreiber einer technischen Ressource,BTR,660731,Energieversorgung Inselsberg GmbH,833,62965
-9981533000009,Lieferant,LF,666445,Oberbillig Energie GmbH,58217,62966
 9981534000008,Betreiber einer technischen Ressource,BTR,661776,Rothmoser GmbH & Co. KG,1885,62967
 9981536000006,Einsatzverantwortlicher,EIV,666448,HEKA Herzog GmbH,58220,62969
 9981537000005,Einsatzverantwortlicher,EIV,666449,PohlCon GmbH,58221,62970
