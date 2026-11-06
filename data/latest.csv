@@ -4389,7 +4389,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9978400000006,Lieferant,LF,664066,EINHUNDERT Energie GmbH,19116,24143
 9978401000005,Bilanzkreisverantwortlicher,BKV,663221,Knauber Erdgas GmbH,3354,24144
 9978402000004,Bilanzkreisverantwortlicher,BKV,661926,Stadtwerke Bad Salzuflen GmbH,2036,24145
-9978403000003,Bilanzkreisverantwortlicher,BKV,664056,FSG Energy GmbH & Co.KG,19106,24146
 9978405000001,Lieferant,LF,664076,Leu Energie GmbH & Co. KG,19126,24149
 9978406000000,Bilanzkreisverantwortlicher,BKV,662613,BEW Solutions GmbH,2727,24150
 9978407000009,Lieferant,LF,663662,GreenStone Energy GmbH,9737,24151
@@ -9108,5 +9107,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985892000007,Lieferant,LF,669824,B.Braun SE,61622,68528
 9985893000006,Betreiber einer technischen Ressource,BTR,670491,Contracting BW GmbH,64284,68529
 9985896000003,Einsatzverantwortlicher,EIV,670499,Heidebau GmbH,64292,68532
+9985897000002,Betreiber einer technischen Ressource,BTR,670506,Peter Stratmann,64300,68534
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

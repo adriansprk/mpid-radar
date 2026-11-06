@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-05",
-      "published_at": "2026-11-05T07:57:22+00:00",
-      "content_hash": "4ffbf5e3480afc7bf0a36d5efa09d6051d7bedde054dec1548ea1ae5e12104a7"
+      "version": "2026-11-06",
+      "published_at": "2026-11-06T07:56:37+00:00",
+      "content_hash": "548ef679d7ec539e76d71bc33bb17ea601c8ee4d51246b252606e5d65bb1d153"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-05T07:53:10.497576+00:00",
+      "observed_at": "2026-11-06T07:53:31.822454+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4358,
+      "companies": 4359,
       "market_partners": 9111,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-05T07:53:10.497576+00:00",
+      "cleaned_at": "2026-11-06T07:53:31.822454+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -12475,6 +12475,11 @@
       "company_id": 57390,
       "company_uid": 665618,
       "company_name": "Peter Schenk"
+    },
+    {
+      "company_id": 64300,
+      "company_uid": 670506,
+      "company_name": "Peter Stratmann"
     },
     {
       "company_id": 57630,
@@ -61339,15 +61344,6 @@
       "company_name": "Stadtwerke Bad Salzuflen GmbH"
     },
     {
-      "bdew_code": "9978403000003",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 24146,
-      "company_id": 19106,
-      "company_uid": 664056,
-      "company_name": "FSG Energy GmbH & Co.KG"
-    },
-    {
       "bdew_code": "9978405000001",
       "market_function": "Lieferant",
       "role_code": "LF",
@@ -103808,6 +103804,15 @@
       "company_id": 64292,
       "company_uid": 670499,
       "company_name": "Heidebau GmbH"
+    },
+    {
+      "bdew_code": "9985897000002",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68534,
+      "company_id": 64300,
+      "company_uid": 670506,
+      "company_name": "Peter Stratmann"
     },
     {
       "bdew_code": "9987098000005",
