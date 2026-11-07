@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-05",
-      "published_at": "2026-11-05T07:57:22+00:00",
-      "content_hash": "4ffbf5e3480afc7bf0a36d5efa09d6051d7bedde054dec1548ea1ae5e12104a7"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-05T07:53:10.497576+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4358,
-      "market_partners": 9111,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-11-05T07:53:10.497576+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 75,
-        "codes_normalized": 116
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-11-06",
-      "published_at": "2026-11-06T07:53:31.822454+00:00",
+      "published_at": "2026-11-06T07:56:37+00:00",
       "content_hash": "548ef679d7ec539e76d71bc33bb17ea601c8ee4d51246b252606e5d65bb1d153"
     },
     "source": {
@@ -71,37 +35,81 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-11-07",
+      "published_at": "2026-11-07T07:04:10.080875+00:00",
+      "content_hash": "4a8db6162fe048a690ec3ecc41a8914555da8712362aec9873cbf98ed823b55a"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-11-07T07:04:10.080875+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4360,
+      "market_partners": 9114,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-11-07T07:04:10.080875+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 75,
+        "codes_normalized": 116
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985897000002",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68534,
-      "company_id": 64300,
-      "company_uid": 670506,
-      "company_name": "Peter Stratmann"
-    }
-  ],
-  "codes_removed": [
+      "bdew_code": "9982728000002",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 64175,
+      "company_id": 58907,
+      "company_uid": 667135,
+      "company_name": "LeineEnergie GmbH"
+    },
     {
-      "bdew_code": "9978403000003",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 24146,
-      "company_id": 19106,
-      "company_uid": 664056,
-      "company_name": "FSG Energy GmbH & Co.KG"
+      "bdew_code": "9985622000003",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68232,
+      "company_id": 31459,
+      "company_uid": 664499,
+      "company_name": "Energiedienste der Landeshauptstadt Stuttgart GmbH"
+    },
+    {
+      "bdew_code": "9985666000001",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68280,
+      "company_id": 58907,
+      "company_uid": 667135,
+      "company_name": "LeineEnergie GmbH"
     }
   ],
+  "codes_removed": [],
   "codes_changed": [],
   "companies_added_ids": [
-    64300
+    58907
   ],
   "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 1,
-    "codes_removed": 1,
+    "codes_added": 3,
+    "codes_removed": 0,
     "codes_changed": 0,
     "codes_recoded": 0,
     "companies_added": 1,

@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-06",
-      "published_at": "2026-11-06T07:56:37+00:00",
-      "content_hash": "548ef679d7ec539e76d71bc33bb17ea601c8ee4d51246b252606e5d65bb1d153"
+      "version": "2026-11-07",
+      "published_at": "2026-11-07T07:07:55+00:00",
+      "content_hash": "4a8db6162fe048a690ec3ecc41a8914555da8712362aec9873cbf98ed823b55a"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-06T07:53:31.822454+00:00",
+      "observed_at": "2026-11-07T07:04:10.080875+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4359,
-      "market_partners": 9111,
+      "companies": 4360,
+      "market_partners": 9114,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-06T07:53:31.822454+00:00",
+      "cleaned_at": "2026-11-07T07:04:10.080875+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -10145,6 +10145,11 @@
       "company_id": 61212,
       "company_uid": 669431,
       "company_name": "Leine Photovoltaik GmbH"
+    },
+    {
+      "company_id": 58907,
+      "company_uid": 667135,
+      "company_name": "LeineEnergie GmbH"
     },
     {
       "company_id": 21322,
@@ -84897,6 +84902,15 @@
       "company_name": "GreenStone Energy GmbH"
     },
     {
+      "bdew_code": "9982728000002",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 64175,
+      "company_id": 58907,
+      "company_uid": 667135,
+      "company_name": "LeineEnergie GmbH"
+    },
+    {
       "bdew_code": "9982729000001",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -101691,6 +101705,15 @@
       "company_name": "Energiedienste der Landeshauptstadt Stuttgart GmbH"
     },
     {
+      "bdew_code": "9985622000003",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68232,
+      "company_id": 31459,
+      "company_uid": 664499,
+      "company_name": "Energiedienste der Landeshauptstadt Stuttgart GmbH"
+    },
+    {
       "bdew_code": "9985623000002",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
@@ -102040,6 +102063,15 @@
       "company_id": 61187,
       "company_uid": 669406,
       "company_name": "Lynus Deutschland GmbH"
+    },
+    {
+      "bdew_code": "9985666000001",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68280,
+      "company_id": 58907,
+      "company_uid": 667135,
+      "company_name": "LeineEnergie GmbH"
     },
     {
       "bdew_code": "9985667000000",

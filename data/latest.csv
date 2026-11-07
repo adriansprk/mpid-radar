@@ -7006,6 +7006,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9982724000006,Betreiber einer technischen Ressource,BTR,666917,WASA Compound GmbH & Co. KG,58689,64171
 9982725000005,Einsatzverantwortlicher,EIV,663662,GreenStone Energy GmbH,9737,64172
 9982726000004,Betreiber einer technischen Ressource,BTR,663662,GreenStone Energy GmbH,9737,64173
+9982728000002,Lieferant,LF,667135,LeineEnergie GmbH,58907,64175
 9982729000001,Betreiber einer technischen Ressource,BTR,667136,Sonneninitiative e.V.,58908,64176
 9982732000006,Einsatzverantwortlicher,EIV,661389,Kommunalunternehmen Stadtwerke Klingenberg (AöR),1495,64179
 9982733000005,Betreiber einer technischen Ressource,BTR,661389,Kommunalunternehmen Stadtwerke Klingenberg (AöR),1495,64180
@@ -8872,6 +8873,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985619000008,Lieferant,LF,670029,Energieflüsse Handel GmbH,62826,68228
 9985620000005,Bilanzkreisverantwortlicher,BKV,670039,Grendor Energy Solutions & Trading GmbH,62836,68229
 9985621000004,Bilanzkreisverantwortlicher,BKV,664499,Energiedienste der Landeshauptstadt Stuttgart GmbH,31459,68231
+9985622000003,Lieferant,LF,664499,Energiedienste der Landeshauptstadt Stuttgart GmbH,31459,68232
 9985623000002,Energieserviceanbieter des Anschlussnutzers,ESA,670044,Polaron Energietechnik GmbH,62841,68233
 9985624000001,Energieserviceanbieter des Anschlussnutzers,ESA,661465,medl GmbH,1571,68234
 9985625000000,Bilanzkreisverantwortlicher,BKV,670049,EnerSpot a.s.,62846,68235
@@ -8911,6 +8913,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985663000004,Bilanzkreisverantwortlicher,BKV,670093,INTENSE AG,62890,68277
 9985664000003,Lieferant,LF,670095,SGB Energie Direkt GmbH,62892,68278
 9985665000002,Betreiber einer technischen Ressource,BTR,669406,Lynus Deutschland GmbH,61187,68279
+9985666000001,Messstellenbetreiber,MSB,667135,LeineEnergie GmbH,58907,68280
 9985667000000,Bilanzkreisverantwortlicher,BKV,670095,SGB Energie Direkt GmbH,62892,68281
 9985669000008,Einsatzverantwortlicher,EIV,663983,"EP Commodities, a.s.",15045,68283
 9985670000005,Lieferant,LF,670026,FriesenWerk GmbH,62823,68284
