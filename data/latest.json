@@ -2,14 +2,14 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-10",
-      "published_at": "2026-11-10T08:27:22+00:00",
-      "content_hash": "0faf61cab8dffab18b5624cad48bff229c9a8117669544c8a1825ac0aaf788f4"
+      "version": "2026-11-11",
+      "published_at": "2026-11-11T07:47:21+00:00",
+      "content_hash": "19c76c720808ac3f6d783a163f6dfaecd86ed15f8da40814d9c176101bc44993"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-10T08:22:49.307528+00:00",
+      "observed_at": "2026-11-11T07:43:17.125543+00:00",
       "filter": ""
     },
     "records": {
@@ -18,7 +18,7 @@
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-10T08:22:49.307528+00:00",
+      "cleaned_at": "2026-11-11T07:43:17.125543+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -8825,6 +8825,11 @@
       "company_id": 1387,
       "company_uid": 661283,
       "company_name": "Innostrom GmbH"
+    },
+    {
+      "company_id": 56784,
+      "company_uid": 665012,
+      "company_name": "Innovaris Europe GmbH"
     },
     {
       "company_id": 61241,
@@ -21340,11 +21345,6 @@
       "company_id": 1515,
       "company_uid": 661409,
       "company_name": "lekker Energie GmbH"
-    },
-    {
-      "company_id": 56784,
-      "company_uid": 665012,
-      "company_name": "lnnovaris Europe GmbH"
     },
     {
       "company_id": 60478,
@@ -67003,7 +67003,7 @@
       "code_row_id": 60733,
       "company_id": 56784,
       "company_uid": 665012,
-      "company_name": "lnnovaris Europe GmbH"
+      "company_name": "Innovaris Europe GmbH"
     },
     {
       "bdew_code": "9979352000003",
@@ -67066,7 +67066,7 @@
       "code_row_id": 60743,
       "company_id": 56784,
       "company_uid": 665012,
-      "company_name": "lnnovaris Europe GmbH"
+      "company_name": "Innovaris Europe GmbH"
     },
     {
       "bdew_code": "9979361000002",
