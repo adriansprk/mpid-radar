@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-10",
-      "published_at": "2026-11-10T08:27:22+00:00",
-      "content_hash": "0faf61cab8dffab18b5624cad48bff229c9a8117669544c8a1825ac0aaf788f4"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-10T08:22:49.307528+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4361,
-      "market_partners": 9115,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-11-10T08:22:49.307528+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 75,
-        "codes_normalized": 116
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-11-11",
-      "published_at": "2026-11-11T07:43:17.125543+00:00",
+      "published_at": "2026-11-11T07:47:21+00:00",
       "content_hash": "19c76c720808ac3f6d783a163f6dfaecd86ed15f8da40814d9c176101bc44993"
     },
     "source": {
@@ -71,51 +35,78 @@
       }
     }
   },
-  "codes_added": [],
-  "codes_removed": [],
-  "codes_changed": [
-    {
-      "code_row_id": 60733,
-      "bdew_code": "9979350000005",
-      "changes": {
-        "company_name": {
-          "old": "lnnovaris Europe GmbH",
-          "new": "Innovaris Europe GmbH"
-        }
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-11-12",
+      "published_at": "2026-11-12T08:16:30.850010+00:00",
+      "content_hash": "a74b6049c262a2ef46898d62d0f58169fc065bc6ade461e714398afc281af049"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-11-12T08:16:30.850010+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4363,
+      "market_partners": 9117,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-11-12T08:16:30.850010+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 75,
+        "codes_normalized": 116
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
       }
+    }
+  },
+  "codes_added": [
+    {
+      "bdew_code": "9985902000004",
+      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
+      "role_code": "NN",
+      "code_row_id": 68539,
+      "company_id": 64163,
+      "company_uid": 670370,
+      "company_name": "Kyon-42 Battery Storage GmbH"
     },
     {
-      "code_row_id": 60743,
-      "bdew_code": "9979360000003",
-      "changes": {
-        "company_name": {
-          "old": "lnnovaris Europe GmbH",
-          "new": "Innovaris Europe GmbH"
-        }
-      }
+      "bdew_code": "9985903000003",
+      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
+      "role_code": "NN",
+      "code_row_id": 68540,
+      "company_id": 64164,
+      "company_uid": 670371,
+      "company_name": "Kyon-26 Battery Storage GmbH"
     }
   ],
-  "companies_added_ids": [],
+  "codes_removed": [],
+  "codes_changed": [],
+  "companies_added_ids": [
+    64163,
+    64164
+  ],
   "companies_removed_ids": [],
-  "companies_changed": [
-    {
-      "company_id": 56784,
-      "changes": {
-        "company_name": {
-          "old": "lnnovaris Europe GmbH",
-          "new": "Innovaris Europe GmbH"
-        }
-      }
-    }
-  ],
+  "companies_changed": [],
   "summary": {
-    "codes_added": 0,
+    "codes_added": 2,
     "codes_removed": 0,
-    "codes_changed": 2,
+    "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 0,
+    "companies_added": 2,
     "companies_removed": 0,
-    "companies_changed": 1
+    "companies_changed": 0
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

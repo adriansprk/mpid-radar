@@ -9112,5 +9112,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985893000006,Betreiber einer technischen Ressource,BTR,670491,Contracting BW GmbH,64284,68529
 9985896000003,Einsatzverantwortlicher,EIV,670499,Heidebau GmbH,64292,68532
 9985897000002,Betreiber einer technischen Ressource,BTR,670506,Peter Stratmann,64300,68534
+9985902000004,Netznutzer ohne All-Inklusiv-Vertrag,NN,670370,Kyon-42 Battery Storage GmbH,64163,68539
+9985903000003,Netznutzer ohne All-Inklusiv-Vertrag,NN,670371,Kyon-26 Battery Storage GmbH,64164,68540
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

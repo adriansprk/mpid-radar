@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-11",
-      "published_at": "2026-11-11T07:47:21+00:00",
-      "content_hash": "19c76c720808ac3f6d783a163f6dfaecd86ed15f8da40814d9c176101bc44993"
+      "version": "2026-11-12",
+      "published_at": "2026-11-12T08:20:12+00:00",
+      "content_hash": "a74b6049c262a2ef46898d62d0f58169fc065bc6ade461e714398afc281af049"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-11T07:43:17.125543+00:00",
+      "observed_at": "2026-11-12T08:16:30.850010+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4361,
-      "market_partners": 9115,
+      "companies": 4363,
+      "market_partners": 9117,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-11T07:43:17.125543+00:00",
+      "cleaned_at": "2026-11-12T08:16:30.850010+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -9820,6 +9820,16 @@
       "company_id": 57478,
       "company_uid": 665706,
       "company_name": "Kutz Gbr Rainer u. Andreas Kutz"
+    },
+    {
+      "company_id": 64164,
+      "company_uid": 670371,
+      "company_name": "Kyon-26 Battery Storage GmbH"
+    },
+    {
+      "company_id": 64163,
+      "company_uid": 670370,
+      "company_name": "Kyon-42 Battery Storage GmbH"
     },
     {
       "company_id": 58593,
@@ -103859,6 +103869,24 @@
       "company_id": 64300,
       "company_uid": 670506,
       "company_name": "Peter Stratmann"
+    },
+    {
+      "bdew_code": "9985902000004",
+      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
+      "role_code": "NN",
+      "code_row_id": 68539,
+      "company_id": 64163,
+      "company_uid": 670370,
+      "company_name": "Kyon-42 Battery Storage GmbH"
+    },
+    {
+      "bdew_code": "9985903000003",
+      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
+      "role_code": "NN",
+      "code_row_id": 68540,
+      "company_id": 64164,
+      "company_uid": 670371,
+      "company_name": "Kyon-26 Battery Storage GmbH"
     },
     {
       "bdew_code": "9987098000005",
