@@ -2,29 +2,29 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-12",
-      "published_at": "2026-11-12T08:20:12+00:00",
-      "content_hash": "a74b6049c262a2ef46898d62d0f58169fc065bc6ade461e714398afc281af049"
+      "version": "2026-11-17",
+      "published_at": "2026-11-17T09:13:44+00:00",
+      "content_hash": "a18c2530da9230e9e49e6f37ad6a6ecc00dfa809869f763e2e9d72d7b9276860"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-12T08:16:30.850010+00:00",
+      "observed_at": "2026-11-17T09:09:57.266796+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4363,
-      "market_partners": 9117,
+      "companies": 4362,
+      "market_partners": 9115,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-12T08:16:30.850010+00:00",
+      "cleaned_at": "2026-11-17T09:09:57.266796+00:00",
       "dropped_fields": [
         "contact_name"
       ],
       "normalization": {
-        "companies_normalized": 75,
-        "codes_normalized": 116
+        "companies_normalized": 76,
+        "codes_normalized": 117
       },
       "unknown_roles": [],
       "duplicate_company_names": {
@@ -865,6 +865,11 @@
       "company_id": 60043,
       "company_uid": 668262,
       "company_name": "Andreas Huber"
+    },
+    {
+      "company_id": 64311,
+      "company_uid": 670517,
+      "company_name": "Andreas Riedl"
     },
     {
       "company_id": 59325,
@@ -1847,11 +1852,6 @@
       "company_name": "Bioenergie Steensrade GmbH & Co. KG"
     },
     {
-      "company_id": 50595,
-      "company_uid": 664787,
-      "company_name": "Bioenergy-Nord GmbH & Co. KG"
-    },
-    {
       "company_id": 41534,
       "company_uid": 664657,
       "company_name": "Biogas Andresen GmbH & Co. KG"
@@ -2500,6 +2500,11 @@
       "company_id": 61615,
       "company_uid": 669817,
       "company_name": "Celsio GmbH"
+    },
+    {
+      "company_id": 20197,
+      "company_uid": 664148,
+      "company_name": "Centalion International B.V."
     },
     {
       "company_id": 13799,
@@ -7627,11 +7632,6 @@
       "company_name": "Gugelfuss GmbH"
     },
     {
-      "company_id": 20197,
-      "company_uid": 664148,
-      "company_name": "Gunvor International B.V."
-    },
-    {
       "company_id": 1280,
       "company_uid": 661177,
       "company_name": "Gunvor Raffinerie Ingolstadt GmbH"
@@ -8970,11 +8970,6 @@
       "company_id": 63926,
       "company_uid": 670133,
       "company_name": "Jane Street Energy Europe B.V."
-    },
-    {
-      "company_id": 64265,
-      "company_uid": 670472,
-      "company_name": "Jannik Hüpgen"
     },
     {
       "company_id": 60684,
@@ -23534,7 +23529,7 @@
       "code_row_id": 25212,
       "company_id": 20197,
       "company_uid": 664148,
-      "company_name": "Gunvor International B.V."
+      "company_name": "Centalion International B.V."
     },
     {
       "bdew_code": "7609999103100",
@@ -55766,15 +55761,6 @@
       "company_name": "NTT Global Data Centers EMEA Power Supply GmbH & Co. KG"
     },
     {
-      "bdew_code": "9911298000002",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 1649,
-      "company_id": 991,
-      "company_uid": 660888,
-      "company_name": "EW Schmid GmbH"
-    },
-    {
       "bdew_code": "9911304000003",
       "market_function": "Lieferant",
       "role_code": "LF",
@@ -65934,15 +65920,6 @@
       "company_id": 50594,
       "company_uid": 664786,
       "company_name": "TWL Metering GmbH"
-    },
-    {
-      "bdew_code": "9979182000009",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 55598,
-      "company_id": 50595,
-      "company_uid": 664787,
-      "company_name": "Bioenergy-Nord GmbH & Co. KG"
     },
     {
       "bdew_code": "9979185000006",
@@ -103772,15 +103749,6 @@
       "company_name": "Second Foundation Trading AG"
     },
     {
-      "bdew_code": "9985884000007",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68519,
-      "company_id": 64265,
-      "company_uid": 670472,
-      "company_name": "Jannik Hüpgen"
-    },
-    {
       "bdew_code": "9985885000006",
       "market_function": "Einsatzverantwortlicher",
       "role_code": "EIV",
@@ -103869,6 +103837,15 @@
       "company_id": 64300,
       "company_uid": 670506,
       "company_name": "Peter Stratmann"
+    },
+    {
+      "bdew_code": "9985898000001",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68535,
+      "company_id": 64311,
+      "company_uid": 670517,
+      "company_name": "Andreas Riedl"
     },
     {
       "bdew_code": "9985902000004",

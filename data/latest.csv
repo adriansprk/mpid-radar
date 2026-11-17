@@ -185,7 +185,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 7300009035458,Bilanzkreisverantwortlicher,BKV,662835,Modity Energy Trading AB,2950,6565
 7309861014922,Bilanzkreisverantwortlicher,BKV,669257,Flower Infrastructure Technologies AB,61038,66608
 7609999021909,Bilanzkreisverantwortlicher,BKV,660186,Azienda Elettrica Ticinese,283,139
-7609999101700,Bilanzkreisverantwortlicher,BKV,664148,Gunvor International B.V.,20197,25212
+7609999101700,Bilanzkreisverantwortlicher,BKV,664148,Centalion International B.V.,20197,25212
 7609999103100,Bilanzkreisverantwortlicher,BKV,661473,Mercuria Energy Trading SA,1579,2961
 7609999122408,Bilanzkreisverantwortlicher,BKV,660308,Castleton Commodities Merchant Europe Sàrl,407,353
 7609999122903,Bilanzkreisverantwortlicher,BKV,664161,Primeo Energie AG,20210,25225
@@ -3767,7 +3767,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9911289000003,Messstellenbetreiber,MSB,662644,VersorgungsWerke Heddesheim GmbH & Co. KG,2758,6252
 9911293000007,Messstellenbetreiber,MSB,661383,Kraftwerke Haag GmbH,1489,2777
 9911294000006,Lieferant,LF,660425,NTT Global Data Centers EMEA Power Supply GmbH & Co. KG,524,550
-9911298000002,Messstellenbetreiber,MSB,660888,EW Schmid GmbH,991,1649
 9911304000003,Lieferant,LF,661448,Manfred Welsch GmbH,1554,2905
 9911310000005,Lieferant,LF,660035,StadtWerke Rösrath - Energie GmbH,92,5087
 9911321000002,Lieferant,LF,660096,enewa GmbH,182,1437
@@ -4897,7 +4896,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9979178000005,Lieferant,LF,664784,Amtswerke Eggebek GmbH & Co. KG,50592,55594
 9979179000004,Lieferant,LF,664785,Raubling Papier GmbH,50593,55595
 9979180000001,Messstellenbetreiber,MSB,664786,TWL Metering GmbH,50594,55596
-9979182000009,Lieferant,LF,664787,Bioenergy-Nord GmbH & Co. KG,50595,55598
 9979185000006,Netznutzer ohne All-Inklusiv-Vertrag,NN,664792,Viega GmbH & Co. KG,50600,55601
 9979187000004,Bilanzkreisverantwortlicher,BKV,664796,enspired GmbH,50604,55603
 9979188000003,Messstellenbetreiber,MSB,662252,Stadtwerke Rostock Aktiengesellschaft,2364,55604
@@ -9101,7 +9099,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985881000000,Netznutzer ohne All-Inklusiv-Vertrag,NN,670465,ZGG - Zeitzer Guss GmbH,64258,68516
 9985882000009,Energieserviceanbieter des Anschlussnutzers,ESA,670466,Gebrüder Passon UG (haftungsbeschränkt),64259,68517
 9985883000008,Betreiber einer technischen Ressource,BTR,670035,Second Foundation Trading AG,62832,68518
-9985884000007,Energieserviceanbieter des Anschlussnutzers,ESA,670472,Jannik Hüpgen,64265,68519
 9985885000006,Einsatzverantwortlicher,EIV,670433,Salux GmbH,64226,68520
 9985886000005,Energieserviceanbieter des Anschlussnutzers,ESA,670480,ene't MaKo Plus GmbH,64273,68521
 9985887000004,Betreiber einer technischen Ressource,BTR,670484,DEFAMA Zeitz GmbH & Co. KG,64277,68522
@@ -9112,6 +9109,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985893000006,Betreiber einer technischen Ressource,BTR,670491,Contracting BW GmbH,64284,68529
 9985896000003,Einsatzverantwortlicher,EIV,670499,Heidebau GmbH,64292,68532
 9985897000002,Betreiber einer technischen Ressource,BTR,670506,Peter Stratmann,64300,68534
+9985898000001,Betreiber einer technischen Ressource,BTR,670517,Andreas Riedl,64311,68535
 9985902000004,Netznutzer ohne All-Inklusiv-Vertrag,NN,670370,Kyon-42 Battery Storage GmbH,64163,68539
 9985903000003,Netznutzer ohne All-Inklusiv-Vertrag,NN,670371,Kyon-26 Battery Storage GmbH,64164,68540
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
