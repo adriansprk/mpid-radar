@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-17",
-      "published_at": "2026-11-17T09:13:44+00:00",
-      "content_hash": "a18c2530da9230e9e49e6f37ad6a6ecc00dfa809869f763e2e9d72d7b9276860"
+      "version": "2026-11-18",
+      "published_at": "2026-11-18T08:34:12+00:00",
+      "content_hash": "2ef8453b9fa88b663d0f77bc79ae1a21383a275a658d298c4593adcd8bd8520e"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-17T09:09:57.266796+00:00",
+      "observed_at": "2026-11-18T08:29:52.600053+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4362,
-      "market_partners": 9115,
+      "companies": 4365,
+      "market_partners": 9118,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-17T09:09:57.266796+00:00",
+      "cleaned_at": "2026-11-18T08:29:52.600053+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -4170,6 +4170,11 @@
       "company_id": 58340,
       "company_uid": 666568,
       "company_name": "Edgar Feger"
+    },
+    {
+      "company_id": 20196,
+      "company_uid": 664147,
+      "company_name": "Edison Spa"
     },
     {
       "company_id": 59715,
@@ -9927,6 +9932,11 @@
       "company_name": "LEW Verteilnetz GmbH"
     },
     {
+      "company_id": 56926,
+      "company_uid": 665154,
+      "company_name": "LEW Wasserkraft GmbH"
+    },
+    {
       "company_id": 61409,
       "company_uid": 669628,
       "company_name": "LEWITZ Messtechnik GmbH"
@@ -11660,6 +11670,11 @@
       "company_id": 59895,
       "company_uid": 668114,
       "company_name": "Nexentury GmbH"
+    },
+    {
+      "company_id": 64313,
+      "company_uid": 670519,
+      "company_name": "Next Gen Energy ApS"
     },
     {
       "company_id": 1703,
@@ -21282,9 +21297,9 @@
       "company_name": "inetz GmbH"
     },
     {
-      "company_id": 60918,
-      "company_uid": 669137,
-      "company_name": "inexogy smart metering GmbH & Co. KG"
+      "company_id": 493,
+      "company_uid": 660394,
+      "company_name": "inexogy smart metering GmbH"
     },
     {
       "company_id": 1374,
@@ -39448,9 +39463,9 @@
       "market_function": "Messstellenbetreiber",
       "role_code": "MSB",
       "code_row_id": 492,
-      "company_id": 60918,
-      "company_uid": 669137,
-      "company_name": "inexogy smart metering GmbH & Co. KG"
+      "company_id": 493,
+      "company_uid": 660394,
+      "company_name": "inexogy smart metering GmbH"
     },
     {
       "bdew_code": "9905051000002",
@@ -61672,6 +61687,15 @@
       "company_id": 97,
       "company_uid": 660039,
       "company_name": "Stadtwerke Energie Jena-Pößneck GmbH"
+    },
+    {
+      "bdew_code": "9978464000000",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 25211,
+      "company_id": 20196,
+      "company_uid": 664147,
+      "company_name": "Edison Spa"
     },
     {
       "bdew_code": "9978465000009",
@@ -103848,6 +103872,15 @@
       "company_name": "Andreas Riedl"
     },
     {
+      "bdew_code": "9985899000000",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68536,
+      "company_id": 64313,
+      "company_uid": 670519,
+      "company_name": "Next Gen Energy ApS"
+    },
+    {
       "bdew_code": "9985902000004",
       "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
       "role_code": "NN",
@@ -103864,6 +103897,15 @@
       "company_id": 64164,
       "company_uid": 670371,
       "company_name": "Kyon-26 Battery Storage GmbH"
+    },
+    {
+      "bdew_code": "9985905000001",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68542,
+      "company_id": 56926,
+      "company_uid": 665154,
+      "company_name": "LEW Wasserkraft GmbH"
     },
     {
       "bdew_code": "9987098000005",

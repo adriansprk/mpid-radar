@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-12",
-      "published_at": "2026-11-12T08:20:12+00:00",
-      "content_hash": "a74b6049c262a2ef46898d62d0f58169fc065bc6ade461e714398afc281af049"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-12T08:16:30.850010+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4363,
-      "market_partners": 9117,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-11-12T08:16:30.850010+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 75,
-        "codes_normalized": 116
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-11-17",
-      "published_at": "2026-11-17T09:09:57.266796+00:00",
+      "published_at": "2026-11-17T09:13:44+00:00",
       "content_hash": "a18c2530da9230e9e49e6f37ad6a6ecc00dfa809869f763e2e9d72d7b9276860"
     },
     "source": {
@@ -71,84 +35,106 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-11-18",
+      "published_at": "2026-11-18T08:29:52.600053+00:00",
+      "content_hash": "2ef8453b9fa88b663d0f77bc79ae1a21383a275a658d298c4593adcd8bd8520e"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-11-18T08:29:52.600053+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4365,
+      "market_partners": 9118,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-11-18T08:29:52.600053+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 76,
+        "codes_normalized": 117
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985898000001",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68535,
-      "company_id": 64311,
-      "company_uid": 670517,
-      "company_name": "Andreas Riedl"
-    }
-  ],
-  "codes_removed": [
-    {
-      "bdew_code": "9911298000002",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 1649,
-      "company_id": 991,
-      "company_uid": 660888,
-      "company_name": "EW Schmid GmbH"
+      "bdew_code": "9978464000000",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 25211,
+      "company_id": 20196,
+      "company_uid": 664147,
+      "company_name": "Edison Spa"
     },
     {
-      "bdew_code": "9979182000009",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 55598,
-      "company_id": 50595,
-      "company_uid": 664787,
-      "company_name": "Bioenergy-Nord GmbH & Co. KG"
+      "bdew_code": "9985899000000",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68536,
+      "company_id": 64313,
+      "company_uid": 670519,
+      "company_name": "Next Gen Energy ApS"
     },
     {
-      "bdew_code": "9985884000007",
+      "bdew_code": "9985905000001",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
-      "code_row_id": 68519,
-      "company_id": 64265,
-      "company_uid": 670472,
-      "company_name": "Jannik Hüpgen"
+      "code_row_id": 68542,
+      "company_id": 56926,
+      "company_uid": 665154,
+      "company_name": "LEW Wasserkraft GmbH"
     }
   ],
+  "codes_removed": [],
   "codes_changed": [
     {
-      "code_row_id": 25212,
-      "bdew_code": "7609999101700",
+      "code_row_id": 492,
+      "bdew_code": "9905048000007",
       "changes": {
+        "company_uid": {
+          "old": 669137,
+          "new": 660394
+        },
         "company_name": {
-          "old": "Gunvor International B.V.",
-          "new": "Centalion International B.V."
+          "old": "inexogy smart metering GmbH & Co. KG",
+          "new": "inexogy smart metering GmbH"
         }
       }
     }
   ],
   "companies_added_ids": [
-    64311
+    493,
+    20196,
+    56926,
+    64313
   ],
   "companies_removed_ids": [
-    50595,
-    64265
+    60918
   ],
-  "companies_changed": [
-    {
-      "company_id": 20197,
-      "changes": {
-        "company_name": {
-          "old": "Gunvor International B.V.",
-          "new": "Centalion International B.V."
-        }
-      }
-    }
-  ],
+  "companies_changed": [],
   "summary": {
-    "codes_added": 1,
-    "codes_removed": 3,
+    "codes_added": 3,
+    "codes_removed": 0,
     "codes_changed": 1,
     "codes_recoded": 0,
-    "companies_added": 1,
-    "companies_removed": 2,
-    "companies_changed": 1
+    "companies_added": 4,
+    "companies_removed": 1,
+    "companies_changed": 0
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

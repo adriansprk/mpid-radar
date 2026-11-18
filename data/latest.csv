@@ -1954,7 +1954,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9905032000005,Messstellenbetreiber,MSB,661101,Gemeindewerke Wendelstein Kommunalunternehmen,1204,2211
 9905037000000,Messstellenbetreiber,MSB,661630,nvb Nordhorner Versorgungsbetriebe GmbH,1737,3267
 9905044000001,Messstellenbetreiber,MSB,662091,Stadtwerke Herborn Gesellschaft mit beschränkter Haftung,2203,4506
-9905048000007,Messstellenbetreiber,MSB,669137,inexogy smart metering GmbH & Co. KG,60918,492
+9905048000007,Messstellenbetreiber,MSB,660394,inexogy smart metering GmbH,493,492
 9905051000002,Lieferant,LF,662680,Stadtwerke Meerbusch GmbH,2794,6316
 9905056000007,Messstellenbetreiber,MSB,660806,ENOMETRIK Gesellschaft für Messdienstleistungen mbH,908,1449
 9905057000006,Lieferant,LF,660430,E-Werk Max Peißker,529,568
@@ -4424,6 +4424,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9978461000003,Netznutzer ohne All-Inklusiv-Vertrag,NN,664141,BSED UG (haftungsbeschränkt),20190,25207
 9978462000002,Messstellenbetreiber,MSB,661376,KOS Energie GmbH,1481,25209
 9978463000001,Messstellenbetreiber,MSB,660039,Stadtwerke Energie Jena-Pößneck GmbH,97,25210
+9978464000000,Bilanzkreisverantwortlicher,BKV,664147,Edison Spa,20196,25211
 9978465000009,Bilanzkreisverantwortlicher,BKV,664116,NHL Netzgesellschaft Heilbronner Land GmbH & Co. KG,19166,25213
 9978466000008,Messstellenbetreiber,MSB,664116,NHL Netzgesellschaft Heilbronner Land GmbH & Co. KG,19166,25214
 9978467000007,Bilanzkreisverantwortlicher,BKV,663495,Fair Trade Power Deutschland GmbH,5614,25215
@@ -9110,7 +9111,9 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985896000003,Einsatzverantwortlicher,EIV,670499,Heidebau GmbH,64292,68532
 9985897000002,Betreiber einer technischen Ressource,BTR,670506,Peter Stratmann,64300,68534
 9985898000001,Betreiber einer technischen Ressource,BTR,670517,Andreas Riedl,64311,68535
+9985899000000,Bilanzkreisverantwortlicher,BKV,670519,Next Gen Energy ApS,64313,68536
 9985902000004,Netznutzer ohne All-Inklusiv-Vertrag,NN,670370,Kyon-42 Battery Storage GmbH,64163,68539
 9985903000003,Netznutzer ohne All-Inklusiv-Vertrag,NN,670371,Kyon-26 Battery Storage GmbH,64164,68540
+9985905000001,Energieserviceanbieter des Anschlussnutzers,ESA,665154,LEW Wasserkraft GmbH,56926,68542
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409
