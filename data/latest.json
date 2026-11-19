@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-18",
-      "published_at": "2026-11-18T08:34:12+00:00",
-      "content_hash": "2ef8453b9fa88b663d0f77bc79ae1a21383a275a658d298c4593adcd8bd8520e"
+      "version": "2026-11-19",
+      "published_at": "2026-11-19T08:48:35+00:00",
+      "content_hash": "7501b1a541e2bf4c56eafa384c3280ddf3a9713f5a92de074a6f6e1faf418f93"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-18T08:29:52.600053+00:00",
+      "observed_at": "2026-11-19T08:44:28.507622+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4365,
-      "market_partners": 9118,
+      "companies": 4366,
+      "market_partners": 9119,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-18T08:29:52.600053+00:00",
+      "cleaned_at": "2026-11-19T08:44:28.507622+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -21320,6 +21320,11 @@
       "company_id": 3481,
       "company_uid": 663348,
       "company_name": "investmentsdia s.r.o."
+    },
+    {
+      "company_id": 64327,
+      "company_uid": 670533,
+      "company_name": "iqbi B.V."
     },
     {
       "company_id": 60228,
@@ -103906,6 +103911,15 @@
       "company_id": 56926,
       "company_uid": 665154,
       "company_name": "LEW Wasserkraft GmbH"
+    },
+    {
+      "bdew_code": "9985906000000",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68543,
+      "company_id": 64327,
+      "company_uid": 670533,
+      "company_name": "iqbi B.V."
     },
     {
       "bdew_code": "9987098000005",

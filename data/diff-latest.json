@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-17",
-      "published_at": "2026-11-17T09:13:44+00:00",
-      "content_hash": "a18c2530da9230e9e49e6f37ad6a6ecc00dfa809869f763e2e9d72d7b9276860"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-17T09:09:57.266796+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4362,
-      "market_partners": 9115,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-11-17T09:09:57.266796+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 76,
-        "codes_normalized": 117
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-11-18",
-      "published_at": "2026-11-18T08:29:52.600053+00:00",
+      "published_at": "2026-11-18T08:34:12+00:00",
       "content_hash": "2ef8453b9fa88b663d0f77bc79ae1a21383a275a658d298c4593adcd8bd8520e"
     },
     "source": {
@@ -71,69 +35,67 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-11-19",
+      "published_at": "2026-11-19T08:44:28.507622+00:00",
+      "content_hash": "7501b1a541e2bf4c56eafa384c3280ddf3a9713f5a92de074a6f6e1faf418f93"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-11-19T08:44:28.507622+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4366,
+      "market_partners": 9119,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-11-19T08:44:28.507622+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 76,
+        "codes_normalized": 117
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9978464000000",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 25211,
-      "company_id": 20196,
-      "company_uid": 664147,
-      "company_name": "Edison Spa"
-    },
-    {
-      "bdew_code": "9985899000000",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68536,
-      "company_id": 64313,
-      "company_uid": 670519,
-      "company_name": "Next Gen Energy ApS"
-    },
-    {
-      "bdew_code": "9985905000001",
+      "bdew_code": "9985906000000",
       "market_function": "Energieserviceanbieter des Anschlussnutzers",
       "role_code": "ESA",
-      "code_row_id": 68542,
-      "company_id": 56926,
-      "company_uid": 665154,
-      "company_name": "LEW Wasserkraft GmbH"
+      "code_row_id": 68543,
+      "company_id": 64327,
+      "company_uid": 670533,
+      "company_name": "iqbi B.V."
     }
   ],
   "codes_removed": [],
-  "codes_changed": [
-    {
-      "code_row_id": 492,
-      "bdew_code": "9905048000007",
-      "changes": {
-        "company_uid": {
-          "old": 669137,
-          "new": 660394
-        },
-        "company_name": {
-          "old": "inexogy smart metering GmbH & Co. KG",
-          "new": "inexogy smart metering GmbH"
-        }
-      }
-    }
-  ],
+  "codes_changed": [],
   "companies_added_ids": [
-    493,
-    20196,
-    56926,
-    64313
+    64327
   ],
-  "companies_removed_ids": [
-    60918
-  ],
+  "companies_removed_ids": [],
   "companies_changed": [],
   "summary": {
-    "codes_added": 3,
+    "codes_added": 1,
     "codes_removed": 0,
-    "codes_changed": 1,
+    "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 4,
-    "companies_removed": 1,
+    "companies_added": 1,
+    "companies_removed": 0,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",
