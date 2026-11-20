@@ -212,6 +212,7 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 8437024964001,Bilanzkreisverantwortlicher,BKV,668416,TRADERGY SL,60197,65825
 8589000070005,Bilanzkreisverantwortlicher,BKV,664529,"Power Solutions, s.r.o.",32477,38461
 8593085023504,Bilanzkreisverantwortlicher,BKV,664851,GULANS ENERGY s.r.o.,53645,57634
+8593085181907,Bilanzkreisverantwortlicher,BKV,670537,CWP Energy Europe s.r.o.,64331,68544
 8594181530002,Bilanzkreisverantwortlicher,BKV,663348,investmentsdia s.r.o.,3481,7601
 8712423021983,Bilanzkreisverantwortlicher,BKV,661703,Priogen Holding B.V.,1811,3396
 8712423025110,Bilanzkreisverantwortlicher,BKV,660271,Brainchild Capital Investments BV,370,283
@@ -9116,5 +9117,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985903000003,Netznutzer ohne All-Inklusiv-Vertrag,NN,670371,Kyon-26 Battery Storage GmbH,64164,68540
 9985905000001,Energieserviceanbieter des Anschlussnutzers,ESA,665154,LEW Wasserkraft GmbH,56926,68542
 9985906000000,Energieserviceanbieter des Anschlussnutzers,ESA,670533,iqbi B.V.,64327,68543
+9985907000009,Bilanzkreisverantwortlicher,BKV,670538,Flame Power & Gas SA,64332,68545
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

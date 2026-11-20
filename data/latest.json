@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-19",
-      "published_at": "2026-11-19T08:48:35+00:00",
-      "content_hash": "7501b1a541e2bf4c56eafa384c3280ddf3a9713f5a92de074a6f6e1faf418f93"
+      "version": "2026-11-20",
+      "published_at": "2026-11-20T08:33:13+00:00",
+      "content_hash": "7970d78fa16b40e08834086795a3dad81ab9849b92fa850ec3b50ae1c1a7d5a5"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-19T08:44:28.507622+00:00",
+      "observed_at": "2026-11-20T08:29:33.994088+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4366,
-      "market_partners": 9119,
+      "companies": 4368,
+      "market_partners": 9121,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-19T08:44:28.507622+00:00",
+      "cleaned_at": "2026-11-20T08:29:33.994088+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -2410,6 +2410,11 @@
       "company_id": 58711,
       "company_uid": 666939,
       "company_name": "CVG Pegasus Computer GmbH"
+    },
+    {
+      "company_id": 64331,
+      "company_uid": 670537,
+      "company_name": "CWP Energy Europe s.r.o."
     },
     {
       "company_id": 62866,
@@ -6075,6 +6080,11 @@
       "company_id": 1054,
       "company_uid": 660951,
       "company_name": "Fischereihafen-Betriebsgesellschaft mit beschränkter Haftung"
+    },
+    {
+      "company_id": 64332,
+      "company_uid": 670538,
+      "company_name": "Flame Power & Gas SA"
     },
     {
       "company_id": 61164,
@@ -23784,6 +23794,15 @@
       "company_id": 53645,
       "company_uid": 664851,
       "company_name": "GULANS ENERGY s.r.o."
+    },
+    {
+      "bdew_code": "8593085181907",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68544,
+      "company_id": 64331,
+      "company_uid": 670537,
+      "company_name": "CWP Energy Europe s.r.o."
     },
     {
       "bdew_code": "8594181530002",
@@ -103920,6 +103939,15 @@
       "company_id": 64327,
       "company_uid": 670533,
       "company_name": "iqbi B.V."
+    },
+    {
+      "bdew_code": "9985907000009",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68545,
+      "company_id": 64332,
+      "company_uid": 670538,
+      "company_name": "Flame Power & Gas SA"
     },
     {
       "bdew_code": "9987098000005",
