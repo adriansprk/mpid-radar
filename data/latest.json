@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-20",
-      "published_at": "2026-11-20T08:33:13+00:00",
-      "content_hash": "7970d78fa16b40e08834086795a3dad81ab9849b92fa850ec3b50ae1c1a7d5a5"
+      "version": "2026-11-21",
+      "published_at": "2026-11-21T08:19:24+00:00",
+      "content_hash": "c69bca07c5589c79fca87f79621346cea32d8e1b1065f9681907b5ad2083678a"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-20T08:29:33.994088+00:00",
+      "observed_at": "2026-11-21T08:14:54.516319+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4368,
-      "market_partners": 9121,
+      "companies": 4370,
+      "market_partners": 9123,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-20T08:29:33.994088+00:00",
+      "cleaned_at": "2026-11-21T08:14:54.516319+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -617,6 +617,11 @@
       "company_name": "Airbus Defence and Space GmbH"
     },
     {
+      "company_id": 62805,
+      "company_uid": 670008,
+      "company_name": "Akkodis Germany Consulting GmbH"
+    },
+    {
       "company_id": 3329,
       "company_uid": 663206,
       "company_name": "Aktien-Gesellschaft der Dillinger Hüttenwerke (Société Anonyme des Forges et Aciéres de Dilling)"
@@ -865,6 +870,11 @@
       "company_id": 60043,
       "company_uid": 668262,
       "company_name": "Andreas Huber"
+    },
+    {
+      "company_id": 59724,
+      "company_uid": 667943,
+      "company_name": "Andreas Krug"
     },
     {
       "company_id": 64311,
@@ -89775,6 +89785,15 @@
       "company_name": "FT Wind GBR"
     },
     {
+      "bdew_code": "9983806000005",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 65282,
+      "company_id": 59724,
+      "company_uid": 667943,
+      "company_name": "Andreas Krug"
+    },
+    {
       "bdew_code": "9983808000003",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -101572,6 +101591,15 @@
       "company_id": 60275,
       "company_uid": 668494,
       "company_name": "VIOCON GmbH"
+    },
+    {
+      "bdew_code": "9985594000008",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68202,
+      "company_id": 62805,
+      "company_uid": 670008,
+      "company_name": "Akkodis Germany Consulting GmbH"
     },
     {
       "bdew_code": "9985597000005",

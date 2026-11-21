@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-19",
-      "published_at": "2026-11-19T08:48:35+00:00",
-      "content_hash": "7501b1a541e2bf4c56eafa384c3280ddf3a9713f5a92de074a6f6e1faf418f93"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-19T08:44:28.507622+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4366,
-      "market_partners": 9119,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-11-19T08:44:28.507622+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 76,
-        "codes_normalized": 117
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-11-20",
-      "published_at": "2026-11-20T08:29:33.994088+00:00",
+      "published_at": "2026-11-20T08:33:13+00:00",
       "content_hash": "7970d78fa16b40e08834086795a3dad81ab9849b92fa850ec3b50ae1c1a7d5a5"
     },
     "source": {
@@ -71,31 +35,67 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-11-21",
+      "published_at": "2026-11-21T08:14:54.516319+00:00",
+      "content_hash": "c69bca07c5589c79fca87f79621346cea32d8e1b1065f9681907b5ad2083678a"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-11-21T08:14:54.516319+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4370,
+      "market_partners": 9123,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-11-21T08:14:54.516319+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 76,
+        "codes_normalized": 117
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "8593085181907",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68544,
-      "company_id": 64331,
-      "company_uid": 670537,
-      "company_name": "CWP Energy Europe s.r.o."
+      "bdew_code": "9983806000005",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 65282,
+      "company_id": 59724,
+      "company_uid": 667943,
+      "company_name": "Andreas Krug"
     },
     {
-      "bdew_code": "9985907000009",
-      "market_function": "Bilanzkreisverantwortlicher",
-      "role_code": "BKV",
-      "code_row_id": 68545,
-      "company_id": 64332,
-      "company_uid": 670538,
-      "company_name": "Flame Power & Gas SA"
+      "bdew_code": "9985594000008",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 68202,
+      "company_id": 62805,
+      "company_uid": 670008,
+      "company_name": "Akkodis Germany Consulting GmbH"
     }
   ],
   "codes_removed": [],
   "codes_changed": [],
   "companies_added_ids": [
-    64331,
-    64332
+    59724,
+    62805
   ],
   "companies_removed_ids": [],
   "companies_changed": [],
