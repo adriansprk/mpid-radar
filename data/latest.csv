@@ -5306,7 +5306,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9979842000000,Einsatzverantwortlicher,EIV,662169,Stadtwerke Merseburg GmbH,2281,61257
 9979843000009,Betreiber einer technischen Ressource,BTR,665455,"Alten- und Pflegeheim ""Blumenhain"" Jasmin Freidhof-Debes e. K.",57227,61258
 9979844000008,Betreiber einer technischen Ressource,BTR,665416,BITZER Kühlmaschinenbau Schkeuditz GmbH,57188,61259
-9979851000009,Einsatzverantwortlicher,EIV,660014,Siemens Aktiengesellschaft,69,61267
 9979854000006,Betreiber einer technischen Ressource,BTR,665464,MaxSolarControl Kürnach Verwaltung GmbH,57236,61271
 9979857000003,Messstellenbetreiber,MSB,665467,Rosemarie Schneller-Müller,57239,61274
 9979858000002,Einsatzverantwortlicher,EIV,660072,swb Vertrieb Bremen GmbH,144,61275
@@ -6145,7 +6144,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9981221000006,Einsatzverantwortlicher,EIV,663412,ES FOR IN SE,3545,62652
 9981223000004,Betreiber einer technischen Ressource,BTR,666258,Matthias Severin,58030,62654
 9981225000002,Einsatzverantwortlicher,EIV,666258,Matthias Severin,58030,62656
-9981230000005,Betreiber einer technischen Ressource,BTR,660014,Siemens Aktiengesellschaft,69,62661
 9981232000003,Einsatzverantwortlicher,EIV,666264,EnKL GmbH,58036,62663
 9981234000001,Betreiber einer technischen Ressource,BTR,661444,Mainova Aktiengesellschaft,1550,62665
 9981235000000,Betreiber einer technischen Ressource,BTR,666264,EnKL GmbH,58036,62666
@@ -8133,8 +8131,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9984726000000,Betreiber einer technischen Ressource,BTR,664932,Südzucker AG,56704,66247
 9984727000009,Einsatzverantwortlicher,EIV,668873,Brauerei Gebr. Maisel GmbH & Co. KG,60654,66248
 9984728000008,Betreiber einer technischen Ressource,BTR,668873,Brauerei Gebr. Maisel GmbH & Co. KG,60654,66249
-9984729000007,Energieserviceanbieter des Anschlussnutzers,ESA,660014,Siemens Aktiengesellschaft,69,66250
-9984730000004,Netznutzer ohne All-Inklusiv-Vertrag,NN,660014,Siemens Aktiengesellschaft,69,66251
 9984731000003,Bilanzkreisverantwortlicher,BKV,668794,WeShareEnergy GmbH,60575,66252
 9984732000002,Betreiber einer technischen Ressource,BTR,668860,Enel Produzione S.p.A.,60641,66253
 9984733000001,Bilanzkreisverantwortlicher,BKV,664732,Teijin Carbon Europe GmbH,46592,66254
@@ -9015,7 +9011,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985773000001,Einsatzverantwortlicher,EIV,670258,Vogt & Wüstholz GbR,64051,68394
 9985774000000,Messstellenbetreiber,MSB,669588,metergrid GmbH,61369,68395
 9985775000009,Bilanzkreisverantwortlicher,BKV,670263,Return DE München GmbH,64056,68396
-9985776000008,Messstellenbetreiber,MSB,670264,Höhne Breitbandtechnik Consulting,64057,68397
 9985777000007,Lieferant,LF,670263,Return DE München GmbH,64056,68398
 9985778000006,Einsatzverantwortlicher,EIV,670263,Return DE München GmbH,64056,68399
 9985779000005,Netznutzer ohne All-Inklusiv-Vertrag,NN,662650,Westlake Vinnolit GmbH & Co. KG,2764,68400
@@ -9120,5 +9115,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985905000001,Energieserviceanbieter des Anschlussnutzers,ESA,665154,LEW Wasserkraft GmbH,56926,68542
 9985906000000,Energieserviceanbieter des Anschlussnutzers,ESA,670533,iqbi B.V.,64327,68543
 9985907000009,Bilanzkreisverantwortlicher,BKV,670538,Flame Power & Gas SA,64332,68545
+9985911000003,Betreiber einer technischen Ressource,BTR,668772,Rasche & Weßler GmbH,60553,68549
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

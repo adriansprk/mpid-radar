@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-20",
-      "published_at": "2026-11-20T08:33:13+00:00",
-      "content_hash": "7970d78fa16b40e08834086795a3dad81ab9849b92fa850ec3b50ae1c1a7d5a5"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-20T08:29:33.994088+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4368,
-      "market_partners": 9121,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-11-20T08:29:33.994088+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 76,
-        "codes_normalized": 117
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-11-21",
-      "published_at": "2026-11-21T08:14:54.516319+00:00",
+      "published_at": "2026-11-21T08:19:24+00:00",
       "content_hash": "c69bca07c5589c79fca87f79621346cea32d8e1b1065f9681907b5ad2083678a"
     },
     "source": {
@@ -71,41 +35,114 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-11-24",
+      "published_at": "2026-11-24T10:53:03.626302+00:00",
+      "content_hash": "de24fb2e73e81a34ffdf8b5a6e8e0c46297c033c58ae6d0947186bc60244520d"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-11-24T10:53:03.626302+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4368,
+      "market_partners": 9119,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-11-24T10:53:03.626302+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 76,
+        "codes_normalized": 117
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9983806000005",
+      "bdew_code": "9985911000003",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
-      "code_row_id": 65282,
-      "company_id": 59724,
-      "company_uid": 667943,
-      "company_name": "Andreas Krug"
-    },
-    {
-      "bdew_code": "9985594000008",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 68202,
-      "company_id": 62805,
-      "company_uid": 670008,
-      "company_name": "Akkodis Germany Consulting GmbH"
+      "code_row_id": 68549,
+      "company_id": 60553,
+      "company_uid": 668772,
+      "company_name": "Rasche & Weßler GmbH"
     }
   ],
-  "codes_removed": [],
-  "codes_changed": [],
-  "companies_added_ids": [
-    59724,
-    62805
+  "codes_removed": [
+    {
+      "bdew_code": "9979851000009",
+      "market_function": "Einsatzverantwortlicher",
+      "role_code": "EIV",
+      "code_row_id": 61267,
+      "company_id": 69,
+      "company_uid": 660014,
+      "company_name": "Siemens Aktiengesellschaft"
+    },
+    {
+      "bdew_code": "9981230000005",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 62661,
+      "company_id": 69,
+      "company_uid": 660014,
+      "company_name": "Siemens Aktiengesellschaft"
+    },
+    {
+      "bdew_code": "9984729000007",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 66250,
+      "company_id": 69,
+      "company_uid": 660014,
+      "company_name": "Siemens Aktiengesellschaft"
+    },
+    {
+      "bdew_code": "9984730000004",
+      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
+      "role_code": "NN",
+      "code_row_id": 66251,
+      "company_id": 69,
+      "company_uid": 660014,
+      "company_name": "Siemens Aktiengesellschaft"
+    },
+    {
+      "bdew_code": "9985776000008",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 68397,
+      "company_id": 64057,
+      "company_uid": 670264,
+      "company_name": "Höhne Breitbandtechnik Consulting"
+    }
   ],
-  "companies_removed_ids": [],
+  "codes_changed": [],
+  "companies_added_ids": [],
+  "companies_removed_ids": [
+    69,
+    64057
+  ],
   "companies_changed": [],
   "summary": {
-    "codes_added": 2,
-    "codes_removed": 0,
+    "codes_added": 1,
+    "codes_removed": 5,
     "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 2,
-    "companies_removed": 0,
+    "companies_added": 0,
+    "companies_removed": 2,
     "companies_changed": 0
   },
   "old": "../public/data/latest.json",

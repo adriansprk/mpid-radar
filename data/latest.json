@@ -2,23 +2,23 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-21",
-      "published_at": "2026-11-21T08:19:24+00:00",
-      "content_hash": "c69bca07c5589c79fca87f79621346cea32d8e1b1065f9681907b5ad2083678a"
+      "version": "2026-11-24",
+      "published_at": "2026-11-24T10:56:51+00:00",
+      "content_hash": "de24fb2e73e81a34ffdf8b5a6e8e0c46297c033c58ae6d0947186bc60244520d"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-21T08:14:54.516319+00:00",
+      "observed_at": "2026-11-24T10:53:03.626302+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4370,
-      "market_partners": 9123,
+      "companies": 4368,
+      "market_partners": 9119,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-21T08:14:54.516319+00:00",
+      "cleaned_at": "2026-11-24T10:53:03.626302+00:00",
       "dropped_fields": [
         "contact_name"
       ],
@@ -8517,11 +8517,6 @@
       "company_name": "Häberle PV GbR"
     },
     {
-      "company_id": 64057,
-      "company_uid": 670264,
-      "company_name": "Höhne Breitbandtechnik Consulting"
-    },
-    {
       "company_id": 60870,
       "company_uid": 669089,
       "company_name": "Hörburger GmbH"
@@ -14780,11 +14775,6 @@
       "company_id": 58844,
       "company_uid": 667072,
       "company_name": "Siegmund Rieger"
-    },
-    {
-      "company_id": 69,
-      "company_uid": 660014,
-      "company_name": "Siemens Aktiengesellschaft"
     },
     {
       "company_id": 58021,
@@ -69652,15 +69642,6 @@
       "company_name": "BITZER Kühlmaschinenbau Schkeuditz GmbH"
     },
     {
-      "bdew_code": "9979851000009",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 61267,
-      "company_id": 69,
-      "company_uid": 660014,
-      "company_name": "Siemens Aktiengesellschaft"
-    },
-    {
       "bdew_code": "9979854000006",
       "market_function": "Betreiber einer technischen Ressource",
       "role_code": "BTR",
@@ -77201,15 +77182,6 @@
       "company_id": 58030,
       "company_uid": 666258,
       "company_name": "Matthias Severin"
-    },
-    {
-      "bdew_code": "9981230000005",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 62661,
-      "company_id": 69,
-      "company_uid": 660014,
-      "company_name": "Siemens Aktiengesellschaft"
     },
     {
       "bdew_code": "9981232000003",
@@ -95095,24 +95067,6 @@
       "company_name": "Brauerei Gebr. Maisel GmbH & Co. KG"
     },
     {
-      "bdew_code": "9984729000007",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 66250,
-      "company_id": 69,
-      "company_uid": 660014,
-      "company_name": "Siemens Aktiengesellschaft"
-    },
-    {
-      "bdew_code": "9984730000004",
-      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
-      "role_code": "NN",
-      "code_row_id": 66251,
-      "company_id": 69,
-      "company_uid": 660014,
-      "company_name": "Siemens Aktiengesellschaft"
-    },
-    {
       "bdew_code": "9984731000003",
       "market_function": "Bilanzkreisverantwortlicher",
       "role_code": "BKV",
@@ -103033,15 +102987,6 @@
       "company_name": "Return DE München GmbH"
     },
     {
-      "bdew_code": "9985776000008",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 68397,
-      "company_id": 64057,
-      "company_uid": 670264,
-      "company_name": "Höhne Breitbandtechnik Consulting"
-    },
-    {
       "bdew_code": "9985777000007",
       "market_function": "Lieferant",
       "role_code": "LF",
@@ -103976,6 +103921,15 @@
       "company_id": 64332,
       "company_uid": 670538,
       "company_name": "Flame Power & Gas SA"
+    },
+    {
+      "bdew_code": "9985911000003",
+      "market_function": "Betreiber einer technischen Ressource",
+      "role_code": "BTR",
+      "code_row_id": 68549,
+      "company_id": 60553,
+      "company_uid": 668772,
+      "company_name": "Rasche & Weßler GmbH"
     },
     {
       "bdew_code": "9987098000005",
