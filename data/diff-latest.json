@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-21",
-      "published_at": "2026-11-21T08:19:24+00:00",
-      "content_hash": "c69bca07c5589c79fca87f79621346cea32d8e1b1065f9681907b5ad2083678a"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-21T08:14:54.516319+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4370,
-      "market_partners": 9123,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-11-21T08:14:54.516319+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 76,
-        "codes_normalized": 117
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-11-24",
-      "published_at": "2026-11-24T10:53:03.626302+00:00",
+      "published_at": "2026-11-24T10:56:51+00:00",
       "content_hash": "de24fb2e73e81a34ffdf8b5a6e8e0c46297c033c58ae6d0947186bc60244520d"
     },
     "source": {
@@ -71,79 +35,77 @@
       }
     }
   },
-  "codes_added": [
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-11-25",
+      "published_at": "2026-11-25T09:48:10.082839+00:00",
+      "content_hash": "ca59c62e8ad5636c7cad946f938eb95eeb0c8e6d32d52723541ef75cbf6c8ca8"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-11-25T09:48:10.082839+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4368,
+      "market_partners": 9119,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-11-25T09:48:10.082839+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 76,
+        "codes_normalized": 117
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
+  "codes_added": [],
+  "codes_removed": [],
+  "codes_changed": [
     {
-      "bdew_code": "9985911000003",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 68549,
-      "company_id": 60553,
-      "company_uid": 668772,
-      "company_name": "Rasche & Weßler GmbH"
+      "code_row_id": 66633,
+      "bdew_code": "9985073000008",
+      "changes": {
+        "company_name": {
+          "old": "StromNow UG (haftungsbeschränkt)",
+          "new": "StromNow GmbH"
+        }
+      }
     }
   ],
-  "codes_removed": [
-    {
-      "bdew_code": "9979851000009",
-      "market_function": "Einsatzverantwortlicher",
-      "role_code": "EIV",
-      "code_row_id": 61267,
-      "company_id": 69,
-      "company_uid": 660014,
-      "company_name": "Siemens Aktiengesellschaft"
-    },
-    {
-      "bdew_code": "9981230000005",
-      "market_function": "Betreiber einer technischen Ressource",
-      "role_code": "BTR",
-      "code_row_id": 62661,
-      "company_id": 69,
-      "company_uid": 660014,
-      "company_name": "Siemens Aktiengesellschaft"
-    },
-    {
-      "bdew_code": "9984729000007",
-      "market_function": "Energieserviceanbieter des Anschlussnutzers",
-      "role_code": "ESA",
-      "code_row_id": 66250,
-      "company_id": 69,
-      "company_uid": 660014,
-      "company_name": "Siemens Aktiengesellschaft"
-    },
-    {
-      "bdew_code": "9984730000004",
-      "market_function": "Netznutzer ohne All-Inklusiv-Vertrag",
-      "role_code": "NN",
-      "code_row_id": 66251,
-      "company_id": 69,
-      "company_uid": 660014,
-      "company_name": "Siemens Aktiengesellschaft"
-    },
-    {
-      "bdew_code": "9985776000008",
-      "market_function": "Messstellenbetreiber",
-      "role_code": "MSB",
-      "code_row_id": 68397,
-      "company_id": 64057,
-      "company_uid": 670264,
-      "company_name": "Höhne Breitbandtechnik Consulting"
-    }
-  ],
-  "codes_changed": [],
   "companies_added_ids": [],
-  "companies_removed_ids": [
-    69,
-    64057
+  "companies_removed_ids": [],
+  "companies_changed": [
+    {
+      "company_id": 61072,
+      "changes": {
+        "company_name": {
+          "old": "StromNow UG (haftungsbeschränkt)",
+          "new": "StromNow GmbH"
+        }
+      }
+    }
   ],
-  "companies_changed": [],
   "summary": {
-    "codes_added": 1,
-    "codes_removed": 5,
-    "codes_changed": 0,
+    "codes_added": 0,
+    "codes_removed": 0,
+    "codes_changed": 1,
     "codes_recoded": 0,
     "companies_added": 0,
-    "companies_removed": 2,
-    "companies_changed": 0
+    "companies_removed": 0,
+    "companies_changed": 1
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"
