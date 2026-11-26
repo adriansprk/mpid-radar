@@ -2,29 +2,29 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-25",
-      "published_at": "2026-11-25T09:51:57+00:00",
-      "content_hash": "ca59c62e8ad5636c7cad946f938eb95eeb0c8e6d32d52723541ef75cbf6c8ca8"
+      "version": "2026-11-26",
+      "published_at": "2026-11-26T09:33:54+00:00",
+      "content_hash": "d0e430554cf16b155c5e0ac82ae7be24a2e1fd2846c8f4faaac9f600d0c000c5"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-25T09:48:10.082839+00:00",
+      "observed_at": "2026-11-26T09:28:59.804008+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4368,
-      "market_partners": 9119,
+      "companies": 4370,
+      "market_partners": 9121,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-25T09:48:10.082839+00:00",
+      "cleaned_at": "2026-11-26T09:28:59.804008+00:00",
       "dropped_fields": [
         "contact_name"
       ],
       "normalization": {
-        "companies_normalized": 76,
-        "codes_normalized": 117
+        "companies_normalized": 77,
+        "codes_normalized": 118
       },
       "unknown_roles": [],
       "duplicate_company_names": {
@@ -12212,6 +12212,11 @@
       "company_name": "Outlook Energy Ltd"
     },
     {
+      "company_id": 64346,
+      "company_uid": 670552,
+      "company_name": "Outokumpu Holding Germany GmbH"
+    },
+    {
       "company_id": 58691,
       "company_uid": 666919,
       "company_name": "Outokumpu Stainless Nirosta GmbH"
@@ -12305,11 +12310,6 @@
       "company_id": 1789,
       "company_uid": 661681,
       "company_name": "PGNiG SA"
-    },
-    {
-      "company_id": 61545,
-      "company_uid": 669747,
-      "company_name": "PK Trade ApS"
     },
     {
       "company_id": 57266,
@@ -18767,6 +18767,11 @@
       "company_name": "Tesla Manufacturing Brandenburg SE"
     },
     {
+      "company_id": 61545,
+      "company_uid": 669747,
+      "company_name": "Tetranova ApS"
+    },
+    {
       "company_id": 164,
       "company_uid": 660079,
       "company_name": "Teutoburger Energie Netzwerk eG (TEN eG)"
@@ -19160,6 +19165,11 @@
       "company_id": 45575,
       "company_uid": 664712,
       "company_name": "Unigy GmbH"
+    },
+    {
+      "company_id": 64075,
+      "company_uid": 670282,
+      "company_name": "Union GmbH"
     },
     {
       "company_id": 1031,
@@ -50974,6 +50984,15 @@
       "company_id": 64090,
       "company_uid": 670297,
       "company_name": "Netze Chemie- und Pharmapark Bergkamen GmbH"
+    },
+    {
+      "bdew_code": "9907845000008",
+      "market_function": "Netzbetreiber",
+      "role_code": "NB",
+      "code_row_id": 68551,
+      "company_id": 64346,
+      "company_uid": 670552,
+      "company_name": "Outokumpu Holding Germany GmbH"
     },
     {
       "bdew_code": "9910001000001",
@@ -100068,7 +100087,7 @@
       "code_row_id": 67001,
       "company_id": 61545,
       "company_uid": 669747,
-      "company_name": "PK Trade ApS"
+      "company_name": "Tetranova ApS"
     },
     {
       "bdew_code": "9985409000002",
@@ -103147,6 +103166,15 @@
       "company_id": 57802,
       "company_uid": 666030,
       "company_name": "Glencore Energy UK Ltd"
+    },
+    {
+      "bdew_code": "9985798000002",
+      "market_function": "Lieferant",
+      "role_code": "LF",
+      "code_row_id": 68419,
+      "company_id": 64075,
+      "company_uid": 670282,
+      "company_name": "Union GmbH"
     },
     {
       "bdew_code": "9985799000001",
