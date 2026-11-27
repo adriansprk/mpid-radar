@@ -2,44 +2,8 @@
   "old_meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-25",
-      "published_at": "2026-11-25T09:51:57+00:00",
-      "content_hash": "ca59c62e8ad5636c7cad946f938eb95eeb0c8e6d32d52723541ef75cbf6c8ca8"
-    },
-    "source": {
-      "name": "BDEW code directory",
-      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-25T09:48:10.082839+00:00",
-      "filter": ""
-    },
-    "records": {
-      "companies": 4368,
-      "market_partners": 9119,
-      "errors": 0
-    },
-    "processing": {
-      "cleaned_at": "2026-11-25T09:48:10.082839+00:00",
-      "dropped_fields": [
-        "contact_name"
-      ],
-      "normalization": {
-        "companies_normalized": 76,
-        "codes_normalized": 117
-      },
-      "unknown_roles": [],
-      "duplicate_company_names": {
-        "SWE Netz GmbH": [
-          2570,
-          2571
-        ]
-      }
-    }
-  },
-  "new_meta": {
-    "dataset": {
-      "name": "MPID Radar",
       "version": "2026-11-26",
-      "published_at": "2026-11-26T09:28:59.804008+00:00",
+      "published_at": "2026-11-26T09:33:54+00:00",
       "content_hash": "d0e430554cf16b155c5e0ac82ae7be24a2e1fd2846c8f4faaac9f600d0c000c5"
     },
     "source": {
@@ -71,63 +35,86 @@
       }
     }
   },
+  "new_meta": {
+    "dataset": {
+      "name": "MPID Radar",
+      "version": "2026-11-27",
+      "published_at": "2026-11-27T09:38:34.012963+00:00",
+      "content_hash": "6426fd3560f257531395c4d624b7a8d72097cf9a522edd3b53830f277edb5c10"
+    },
+    "source": {
+      "name": "BDEW code directory",
+      "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
+      "observed_at": "2026-11-27T09:38:34.012963+00:00",
+      "filter": ""
+    },
+    "records": {
+      "companies": 4371,
+      "market_partners": 9124,
+      "errors": 0
+    },
+    "processing": {
+      "cleaned_at": "2026-11-27T09:38:34.012963+00:00",
+      "dropped_fields": [
+        "contact_name"
+      ],
+      "normalization": {
+        "companies_normalized": 77,
+        "codes_normalized": 119
+      },
+      "unknown_roles": [],
+      "duplicate_company_names": {
+        "SWE Netz GmbH": [
+          2570,
+          2571
+        ]
+      }
+    }
+  },
   "codes_added": [
     {
-      "bdew_code": "9985798000002",
-      "market_function": "Lieferant",
-      "role_code": "LF",
-      "code_row_id": 68419,
+      "bdew_code": "9985133000005",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 66698,
+      "company_id": 61151,
+      "company_uid": 669370,
+      "company_name": "Smartii GmbH"
+    },
+    {
+      "bdew_code": "9985134000004",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 66699,
+      "company_id": 61151,
+      "company_uid": 669370,
+      "company_name": "Smartii GmbH"
+    },
+    {
+      "bdew_code": "9985915000009",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68554,
       "company_id": 64075,
       "company_uid": 670282,
       "company_name": "Union GmbH"
-    },
-    {
-      "bdew_code": "9907845000008",
-      "market_function": "Netzbetreiber",
-      "role_code": "NB",
-      "code_row_id": 68551,
-      "company_id": 64346,
-      "company_uid": 670552,
-      "company_name": "Outokumpu Holding Germany GmbH"
     }
   ],
   "codes_removed": [],
-  "codes_changed": [
-    {
-      "code_row_id": 67001,
-      "bdew_code": "9985408000003",
-      "changes": {
-        "company_name": {
-          "old": "PK Trade ApS",
-          "new": "Tetranova ApS"
-        }
-      }
-    }
-  ],
+  "codes_changed": [],
   "companies_added_ids": [
-    64075,
-    64346
+    61151
   ],
   "companies_removed_ids": [],
-  "companies_changed": [
-    {
-      "company_id": 61545,
-      "changes": {
-        "company_name": {
-          "old": "PK Trade ApS",
-          "new": "Tetranova ApS"
-        }
-      }
-    }
-  ],
+  "companies_changed": [],
   "summary": {
-    "codes_added": 2,
+    "codes_added": 3,
     "codes_removed": 0,
-    "codes_changed": 1,
+    "codes_changed": 0,
     "codes_recoded": 0,
-    "companies_added": 2,
+    "companies_added": 1,
     "companies_removed": 0,
-    "companies_changed": 1
+    "companies_changed": 0
   },
   "old": "../public/data/latest.json",
   "new": "../data-new/latest.json"

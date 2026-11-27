@@ -8465,6 +8465,8 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985130000008,Messstellenbetreiber,MSB,664066,EINHUNDERT Energie GmbH,19116,66695
 9985131000007,Lieferant,LF,664613,Richtwerk Energie GmbH,39502,66696
 9985132000006,Messstellenbetreiber,MSB,666848,Mako365 GmbH,58620,66697
+9985133000005,Energieserviceanbieter des Anschlussnutzers,ESA,669370,Smartii GmbH,61151,66698
+9985134000004,Messstellenbetreiber,MSB,669370,Smartii GmbH,61151,66699
 9985137000001,Lieferant,LF,669373,HOCHTIEF Solarpartner GmbH,61154,66702
 9985140000006,Messstellenbetreiber,MSB,669376,Jochen Lenz,61157,66705
 9985141000005,Bilanzkreisverantwortlicher,BKV,664356,Stadtwerke Sankt Augustin GmbH,23386,66706
@@ -9118,5 +9120,6 @@ bdew_code,market_function,role_code,company_uid,company_name,company_id,code_row
 9985906000000,Energieserviceanbieter des Anschlussnutzers,ESA,670533,iqbi B.V.,64327,68543
 9985907000009,Bilanzkreisverantwortlicher,BKV,670538,Flame Power & Gas SA,64332,68545
 9985911000003,Betreiber einer technischen Ressource,BTR,668772,Rasche & Weßler GmbH,60553,68549
+9985915000009,Bilanzkreisverantwortlicher,BKV,670282,Union GmbH,64075,68554
 9987098000005,Lieferant,LF,663221,Knauber Erdgas GmbH,3354,7408
 9987099000004,Lieferant,LF,663222,Stadtwerke Rodgau Energie GmbH,3355,7409

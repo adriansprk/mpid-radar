@@ -2,29 +2,29 @@
   "meta": {
     "dataset": {
       "name": "MPID Radar",
-      "version": "2026-11-26",
-      "published_at": "2026-11-26T09:33:54+00:00",
-      "content_hash": "d0e430554cf16b155c5e0ac82ae7be24a2e1fd2846c8f4faaac9f600d0c000c5"
+      "version": "2026-11-27",
+      "published_at": "2026-11-27T09:41:30+00:00",
+      "content_hash": "6426fd3560f257531395c4d624b7a8d72097cf9a522edd3b53830f277edb5c10"
     },
     "source": {
       "name": "BDEW code directory",
       "url": "https://bdew-codes.de/Codenumbers/BDEWCodes/CodeOverview",
-      "observed_at": "2026-11-26T09:28:59.804008+00:00",
+      "observed_at": "2026-11-27T09:38:34.012963+00:00",
       "filter": ""
     },
     "records": {
-      "companies": 4370,
-      "market_partners": 9121,
+      "companies": 4371,
+      "market_partners": 9124,
       "errors": 0
     },
     "processing": {
-      "cleaned_at": "2026-11-26T09:28:59.804008+00:00",
+      "cleaned_at": "2026-11-27T09:38:34.012963+00:00",
       "dropped_fields": [
         "contact_name"
       ],
       "normalization": {
         "companies_normalized": 77,
-        "codes_normalized": 118
+        "codes_normalized": 119
       },
       "unknown_roles": [],
       "duplicate_company_names": {
@@ -14845,6 +14845,11 @@
       "company_id": 60999,
       "company_uid": 669218,
       "company_name": "SmartestEnergy Limited"
+    },
+    {
+      "company_id": 61151,
+      "company_uid": 669370,
+      "company_name": "Smartii GmbH"
     },
     {
       "company_id": 61143,
@@ -98083,6 +98088,24 @@
       "company_name": "Mako365 GmbH"
     },
     {
+      "bdew_code": "9985133000005",
+      "market_function": "Energieserviceanbieter des Anschlussnutzers",
+      "role_code": "ESA",
+      "code_row_id": 66698,
+      "company_id": 61151,
+      "company_uid": 669370,
+      "company_name": "Smartii GmbH"
+    },
+    {
+      "bdew_code": "9985134000004",
+      "market_function": "Messstellenbetreiber",
+      "role_code": "MSB",
+      "code_row_id": 66699,
+      "company_id": 61151,
+      "company_uid": 669370,
+      "company_name": "Smartii GmbH"
+    },
+    {
       "bdew_code": "9985137000001",
       "market_function": "Lieferant",
       "role_code": "LF",
@@ -103958,6 +103981,15 @@
       "company_id": 60553,
       "company_uid": 668772,
       "company_name": "Rasche & Weßler GmbH"
+    },
+    {
+      "bdew_code": "9985915000009",
+      "market_function": "Bilanzkreisverantwortlicher",
+      "role_code": "BKV",
+      "code_row_id": 68554,
+      "company_id": 64075,
+      "company_uid": 670282,
+      "company_name": "Union GmbH"
     },
     {
       "bdew_code": "9987098000005",
